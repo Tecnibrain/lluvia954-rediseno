@@ -1,0 +1,16 @@
+# Caché que genera api/noticias.php en el servidor
+api/cache/
+
+# Sistema operativo
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.pyc

@@ -1,0 +1,45 @@
+name: Actualizar noticias
+
+# GitHub Pages sirve archivos estáticos y no ejecuta api/noticias.php.
+# Este workflow regenera el volcado de noticias cada 6 horas para que la demo
+# publicada muestre titulares frescos. En el servidor real no hace falta:
+# allí responde el PHP en cada visita.
+
+on:
+  schedule:
+    - cron: '17 */6 * * *'   # 04:17, 10:17, 16:17 y 22:17 UTC
+  workflow_dispatch:          # permite lanzarlo a mano desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar-noticias
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Regenerar el volcado de noticias
+        run: python tools/generar-snapshot.py
+
+      - name: Publicar si hubo cambios
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/data/noticias.json
+          if git diff --staged --quiet; then
+            echo "Sin titulares nuevos: no se hace commit."
+          else
+            git commit -m "Actualizar noticias ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          fi

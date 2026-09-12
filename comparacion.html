@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="es-CO">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Comparación: diseño actual → nuevo diseño | Lluvia 95.4 FM</title>
+<meta name="robots" content="noindex, nofollow">
+<link rel="icon" href="assets/img/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Quicksand:wght@500;600;700;800&display=swap">
+<style>
+  :root {
+    --blue-900:#000d33; --blue-800:#001040; --blue-700:#002080; --blue-600:#0b39b3;
+    --blue-50:#f0f5ff; --blue-100:#dbe6ff;
+    --gold-500:#f1c232; --gold-400:#ffd966;
+    --ink:#16204a; --muted:#5a6478; --line:#e3e8f2;
+    --font:"Quicksand","Trebuchet MS","Segoe UI",system-ui,sans-serif;
+    --bar-h: 118px;
+  }
+  *,*::before,*::after{box-sizing:border-box}
+  *{margin:0}
+  html,body{height:100%}
+  body{
+    font-family:var(--font); font-weight:600; color:var(--ink);
+    background:var(--blue-900);
+    display:flex; flex-direction:column; overflow:hidden;
+  }
+  button{font:inherit;color:inherit;cursor:pointer;background:none;border:0}
+  :focus-visible{outline:3px solid var(--gold-500);outline-offset:2px;border-radius:6px}
+
+  /* ---------------- Barra de control ---------------- */
+  .toolbar{
+    flex:none; background:linear-gradient(160deg,var(--blue-800),var(--blue-700));
+    color:#fff; padding:.75rem clamp(.75rem,2vw,1.5rem);
+    display:flex; flex-wrap:wrap; align-items:center; gap:.6rem 1.4rem;
+    border-bottom:1px solid rgba(255,255,255,.14);
+  }
+  .toolbar__brand{display:flex;align-items:center;gap:.65rem;margin-right:auto}
+  .toolbar__brand img{height:34px;width:auto;display:block}
+  .toolbar__brand b{display:block;font-size:.9rem;font-weight:800;line-height:1.2}
+  .toolbar__brand span{display:block;font-size:.72rem;color:rgba(255,255,255,.65)}
+
+  .group{display:flex;align-items:center;gap:.5rem}
+  .group > .label{
+    font-size:.66rem;letter-spacing:.13em;text-transform:uppercase;
+    color:rgba(255,255,255,.55);font-weight:700;
+  }
+  .seg{display:flex;background:rgba(255,255,255,.1);border-radius:999px;padding:3px;gap:2px}
+  .seg button{
+    padding:.42rem .85rem;border-radius:999px;font-size:.82rem;font-weight:700;
+    color:rgba(255,255,255,.8); white-space:nowrap;
+    transition:background-color .25s,color .25s;
+  }
+  .seg button:hover{background:rgba(255,255,255,.12);color:#fff}
+  .seg button[aria-pressed="true"]{background:var(--gold-500);color:var(--blue-800)}
+
+  .toolbar a.ext{
+    font-size:.78rem;color:rgba(255,255,255,.75);text-decoration:none;
+    border:1px solid rgba(255,255,255,.28);padding:.4rem .8rem;border-radius:999px;
+    transition:background-color .25s,color .25s;
+  }
+  .toolbar a.ext:hover{background:rgba(255,255,255,.14);color:#fff}
+
+  /* ---------------- Escenario ---------------- */
+  .stage{
+    flex:1; min-height:0; position:relative;
+    background:
+      radial-gradient(60% 60% at 20% 0%, rgba(20,80,224,.22), transparent 60%),
+      var(--blue-900);
+    padding:clamp(.5rem,1.5vw,1rem);
+    display:flex; gap:clamp(.5rem,1.5vw,1rem);
+  }
+
+  .pane{
+    flex:1 1 0; min-width:0; position:relative;
+    display:flex; flex-direction:column;
+    border-radius:14px; overflow:hidden;
+    background:#fff; box-shadow:0 18px 48px rgba(0,0,0,.4);
+  }
+  .pane__tag{
+    flex:none; display:flex; align-items:center; justify-content:space-between; gap:.75rem;
+    padding:.5rem .9rem; font-size:.74rem; font-weight:800;
+    letter-spacing:.12em; text-transform:uppercase;
+  }
+  .pane--old .pane__tag{background:#37474f;color:#fff}
+  .pane--new .pane__tag{background:var(--blue-700);color:#fff}
+  .pane__tag em{font-style:normal;font-weight:600;letter-spacing:0;text-transform:none;color:rgba(255,255,255,.65);font-size:.72rem}
+
+  .frame-wrap{
+    flex:1; min-height:0; position:relative; overflow:hidden;
+    background:#fff; display:flex; justify-content:center;
+  }
+  .frame-wrap iframe{
+    border:0; background:#fff; display:block;
+    width:100%; height:100%;
+    transform-origin:top center;
+  }
+  /* Anchos de dispositivo emulado */
+  body[data-device="tablet"] .frame-wrap iframe{width:820px}
+  body[data-device="mobile"] .frame-wrap iframe{width:390px}
+  body[data-device="tablet"] .frame-wrap,
+  body[data-device="mobile"] .frame-wrap{
+    background:repeating-linear-gradient(45deg,#f2f4f9,#f2f4f9 10px,#eaeef6 10px,#eaeef6 20px);
+  }
+  body[data-device="mobile"] .frame-wrap iframe,
+  body[data-device="tablet"] .frame-wrap iframe{
+    box-shadow:0 0 0 1px var(--line), 0 10px 30px rgba(0,0,0,.12);
+  }
+
+  /* ---------------- Modo cortina ---------------- */
+  body[data-mode="slider"] .stage{display:block}
+  body[data-mode="slider"] .pane{
+    position:absolute; inset:clamp(.5rem,1.5vw,1rem);
+    border-radius:14px;
+  }
+  body[data-mode="slider"] .pane--new{
+    clip-path:inset(0 0 0 var(--split,50%));
+  }
+  body[data-mode="slider"] .pane__tag{
+    position:absolute; top:0; z-index:3; padding:.45rem .8rem; border-radius:0 0 10px 0;
+  }
+  body[data-mode="slider"] .pane--old .pane__tag{left:0}
+  body[data-mode="slider"] .pane--new .pane__tag{right:0;border-radius:0 0 0 10px}
+  body[data-mode="slider"] .frame-wrap{position:absolute;inset:0}
+
+  .handle{display:none}
+  body[data-mode="slider"] .handle{
+    display:block; position:absolute; inset-block:clamp(.5rem,1.5vw,1rem);
+    left:var(--split,50%); width:4px; margin-left:-2px;
+    background:var(--gold-500); z-index:5; cursor:ew-resize;
+    box-shadow:0 0 0 1px rgba(0,0,0,.25);
+  }
+  .handle::after{
+    content:"⟺"; position:absolute; top:50%; left:50%;
+    transform:translate(-50%,-50%);
+    width:46px; height:46px; border-radius:50%;
+    background:var(--gold-500); color:var(--blue-800);
+    display:grid; place-items:center; font-size:1.1rem; font-weight:800;
+    box-shadow:0 6px 18px rgba(0,0,0,.35);
+  }
+  .pane-vacio{
+    position:absolute;inset:0;display:grid;place-content:center;justify-items:center;gap:.5rem;
+    padding:2rem;text-align:center;background:#f2f4f9;color:var(--muted);
+  }
+  .pane-vacio svg{width:38px;height:38px;color:var(--blue-100)}
+  .pane-vacio strong{color:var(--blue-700);font-size:1rem}
+  .pane-vacio p{max-width:30ch;font-size:.82rem;font-weight:600}
+
+  .drag-shield{position:absolute;inset:0;z-index:4;display:none;cursor:ew-resize}
+  body.is-dragging .drag-shield{display:block}
+
+  /* ---------------- Nota ---------------- */
+  .note{
+    flex:none; background:var(--blue-900); color:rgba(255,255,255,.55);
+    font-size:.72rem; font-weight:600; text-align:center;
+    padding:.5rem 1rem; border-top:1px solid rgba(255,255,255,.08);
+  }
+  .note b{color:var(--gold-400)}
+
+  @media (max-width:820px){
+    body[data-mode="side"] .stage{flex-direction:column}
+    .toolbar__brand span{display:none}
+  }
+</style>
+</head>
+<body data-page="inicio" data-device="desktop" data-mode="side">
+
+<div class="toolbar">
+  <div class="toolbar__brand">
+    <img src="assets/img/LogoHeaderHD2.webp" alt="Lluvia 95.4 FM">
+    <span>
+      <b>Comparación de diseño</b>
+      <span>Actual → Nuevo · vista previa</span>
+    </span>
+  </div>
+
+  <div class="group">
+    <span class="label">Página</span>
+    <div class="seg" role="group" aria-label="Elegir página">
+      <button type="button" data-page-btn="inicio"     aria-pressed="true">Inicio</button>
+      <button type="button" data-page-btn="noticias"   aria-pressed="false">Noticias</button>
+      <button type="button" data-page-btn="nosotros"   aria-pressed="false">Nosotros</button>
+      <button type="button" data-page-btn="contacto"   aria-pressed="false">Contacto</button>
+      <button type="button" data-page-btn="privacidad" aria-pressed="false">Privacidad</button>
+    </div>
+  </div>
+
+  <div class="group">
+    <span class="label">Pantalla</span>
+    <div class="seg" role="group" aria-label="Elegir tamaño de pantalla">
+      <button type="button" data-device-btn="desktop" aria-pressed="true">Escritorio</button>
+      <button type="button" data-device-btn="tablet"  aria-pressed="false">Tablet</button>
+      <button type="button" data-device-btn="mobile"  aria-pressed="false">Móvil</button>
+    </div>
+  </div>
+
+  <div class="group">
+    <span class="label">Vista</span>
+    <div class="seg" role="group" aria-label="Elegir modo de comparación">
+      <button type="button" data-mode-btn="side"   aria-pressed="true">Lado a lado</button>
+      <button type="button" data-mode-btn="slider" aria-pressed="false">Cortina</button>
+    </div>
+  </div>
+
+  <a class="ext" id="open-new" href="index.html" target="_blank" rel="noopener">Abrir nuevo diseño ↗</a>
+</div>
+
+<div class="stage">
+  <section class="pane pane--old">
+    <div class="pane__tag">
+      <span>Diseño actual</span>
+      <em id="old-url">lluvia954.com</em>
+    </div>
+    <div class="frame-wrap">
+      <iframe id="frame-old" title="Sitio actual de Lluvia 95.4 FM" loading="lazy"
+              src="https://lluvia954.com/home.html"></iframe>
+      <div id="pane-vacio" class="pane-vacio" hidden>
+        <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 2a10 10 0 1 0 10 10A10 10 0 0 0 12 2Zm1 15h-2v-2h2Zm0-4h-2V7h2Z"/></svg>
+        <strong>Sección nueva</strong>
+        <p></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="pane pane--new">
+    <div class="pane__tag">
+      <span>Nuevo diseño</span>
+      <em id="new-url">preview</em>
+    </div>
+    <div class="frame-wrap">
+      <iframe id="frame-new" title="Nuevo diseño de Lluvia 95.4 FM" src="index.html"></iframe>
+    </div>
+  </section>
+
+  <div class="handle" id="handle" role="separator" aria-label="Arrastra para comparar"
+       tabindex="0" aria-valuemin="0" aria-valuemax="100" aria-valuenow="50"></div>
+  <div class="drag-shield" id="shield"></div>
+</div>
+
+<p class="note">
+  El panel izquierdo carga <b>el sitio en producción</b> sin modificarlo; el derecho carga la
+  <b>preview local</b>. En modo cortina arrastra la línea dorada (o usa las flechas del teclado).
+</p>
+
+<script>
+(function () {
+  'use strict';
+
+  // old:null = la página no existe en el sitio actual (sección nueva)
+  var PAGES = {
+    inicio:     { old: 'https://lluvia954.com/home.html',      nue: 'index.html'      },
+    nosotros:   { old: 'https://lluvia954.com/acerca-de.html', nue: 'nosotros.html'   },
+    contacto:   { old: 'https://lluvia954.com/contacto.html',  nue: 'contacto.html'   },
+    noticias:   { old: null, nue: 'noticias.html',   nota: 'El sitio actual no tiene sección de noticias.' },
+    privacidad: { old: null, nue: 'privacidad.html', nota: 'El sitio actual solo muestra un aviso de cookies, sin página de política.' }
+  };
+
+  var body    = document.body;
+  var frameO  = document.getElementById('frame-old');
+  var frameN  = document.getElementById('frame-new');
+  var oldUrl  = document.getElementById('old-url');
+  var newUrl  = document.getElementById('new-url');
+  var openNew = document.getElementById('open-new');
+  var stage   = document.querySelector('.stage');
+  var handle  = document.getElementById('handle');
+
+  function press(selector, attr, value) {
+    document.querySelectorAll(selector).forEach(function (b) {
+      b.setAttribute('aria-pressed', b.getAttribute(attr) === value ? 'true' : 'false');
+    });
+  }
+
+  var vacio = document.getElementById('pane-vacio');
+
+  function setPage(key) {
+    var p = PAGES[key];
+    if (!p) return;
+    body.dataset.page = key;
+
+    if (p.old) {
+      frameO.hidden = false;
+      vacio.hidden = true;
+      frameO.src = p.old;
+      oldUrl.textContent = p.old.replace(/^https?:\/\//, '');
+    } else {
+      // Sección nueva: no hay nada que comparar en producción
+      frameO.hidden = true;
+      frameO.removeAttribute('src');
+      vacio.hidden = false;
+      vacio.querySelector('p').textContent = p.nota;
+      oldUrl.textContent = 'no existe';
+    }
+
+    frameN.src = p.nue;
+    newUrl.textContent = p.nue;
+    openNew.href = p.nue;
+    press('[data-page-btn]', 'data-page-btn', key);
+  }
+
+  function setDevice(key) {
+    body.dataset.device = key;
+    press('[data-device-btn]', 'data-device-btn', key);
+  }
+
+  function setMode(key) {
+    body.dataset.mode = key;
+    press('[data-mode-btn]', 'data-mode-btn', key);
+  }
+
+  document.querySelectorAll('[data-page-btn]').forEach(function (b) {
+    b.addEventListener('click', function () { setPage(b.dataset.pageBtn); });
+  });
+  document.querySelectorAll('[data-device-btn]').forEach(function (b) {
+    b.addEventListener('click', function () { setDevice(b.dataset.deviceBtn); });
+  });
+  document.querySelectorAll('[data-mode-btn]').forEach(function (b) {
+    b.addEventListener('click', function () { setMode(b.dataset.modeBtn); });
+  });
+
+  /* ---------- Cortina arrastrable ---------- */
+  var split = 50;
+
+  function apply(pct) {
+    split = Math.min(100, Math.max(0, pct));
+    stage.style.setProperty('--split', split + '%');
+    handle.setAttribute('aria-valuenow', Math.round(split));
+  }
+
+  function fromClientX(x) {
+    var r = stage.getBoundingClientRect();
+    apply(((x - r.left) / r.width) * 100);
+  }
+
+  function onMove(e) {
+    fromClientX(e.touches ? e.touches[0].clientX : e.clientX);
+  }
+  function stop() {
+    body.classList.remove('is-dragging');
+    window.removeEventListener('pointermove', onMove);
+    window.removeEventListener('pointerup', stop);
+    window.removeEventListener('touchmove', onMove);
+    window.removeEventListener('touchend', stop);
+  }
+  function start(e) {
+    if (body.dataset.mode !== 'slider') return;
+    e.preventDefault();
+    body.classList.add('is-dragging');
+    window.addEventListener('pointermove', onMove);
+    window.addEventListener('pointerup', stop);
+    window.addEventListener('touchmove', onMove, { passive: false });
+    window.addEventListener('touchend', stop);
+  }
+
+  handle.addEventListener('pointerdown', start);
+  handle.addEventListener('touchstart', start, { passive: false });
+  handle.addEventListener('keydown', function (e) {
+    var step = e.shiftKey ? 10 : 2;
+    if (e.key === 'ArrowLeft')  { e.preventDefault(); apply(split - step); }
+    if (e.key === 'ArrowRight') { e.preventDefault(); apply(split + step); }
+    if (e.key === 'Home')       { e.preventDefault(); apply(0); }
+    if (e.key === 'End')        { e.preventDefault(); apply(100); }
+  });
+
+  apply(50);
+})();
+</script>
+</body>
+</html>
