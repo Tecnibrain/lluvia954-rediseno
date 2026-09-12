@@ -4,7 +4,16 @@ Vista previa **independiente** del rediseño de <https://lluvia954.com>.
 **No toca producción**: el sitio actual sigue funcionando exactamente igual; nada en el
 servidor fue modificado, sustituido ni eliminado.
 
-**▶ Demo en vivo:** _(enlace de GitHub Pages — se añade al publicar)_
+**▶ Demo en vivo: <https://tecnibrain.github.io/lluvia954-rediseno/>**
+
+| | |
+|---|---|
+| Inicio | <https://tecnibrain.github.io/lluvia954-rediseno/> |
+| **Comparación actual → nuevo** | <https://tecnibrain.github.io/lluvia954-rediseno/comparacion.html> |
+| Noticias | <https://tecnibrain.github.io/lluvia954-rediseno/noticias.html> |
+| Nosotros | <https://tecnibrain.github.io/lluvia954-rediseno/nosotros.html> |
+| Contacto | <https://tecnibrain.github.io/lluvia954-rediseno/contacto.html> |
+| Privacidad | <https://tecnibrain.github.io/lluvia954-rediseno/privacidad.html> |
 
 > **Sobre la demo publicada.** GitHub Pages solo sirve archivos estáticos, así que ahí no
 > se ejecuta `api/noticias.php`: las noticias salen de `assets/data/noticias.json`, que un
