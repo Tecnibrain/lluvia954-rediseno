@@ -1,7 +1,27 @@
 {
- "actualizado": "2026-09-13T04:44:04.291024Z",
- "total": 118,
+ "actualizado": "2026-09-13T11:48:25.505506Z",
+ "total": 122,
  "noticias": [
+  {
+   "titulo": "El misterio de la niña que deambulaba sola en Amagá (Antioquia): ¿escapó de un recinto espiritual?",
+   "extracto": "Entre dientes, habitantes de Amagá comentan y temen por lo que puede estar sucediendo en un recinto o centro espiritual de la vereda La Gualí. En un pueblo minero como este, del…",
+   "enlace": "https://www.elcolombiano.com/antioquia/misterio-nina-deambula-sola-amaga-antioquia-recinto-espiritual-HF41001035",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/416x300/0c0/0d0/center/11101/CNTM/nina-menor-recinto-espiritual-amaga_51599161_20260912184541.png",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-09-13T05:22:54Z"
+  },
+  {
+   "titulo": "El encanto de los malecones que está cambiando la cara de las ciudades de Colombia",
+   "extracto": "Lo que antes eran bordes olvidados se han transformado en espacio público, turismo y comercio. El Chocó espera por el suyo.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/el-encanto-de-los-malecones-que-esta-cambiando-la-cara-de-las-ciudades-de-colombia-3585562",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/17/6a5a9e5529e31.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-13T05:07:01Z"
+  },
   {
    "titulo": "Condenan a 9 años de cárcel a responsables de estafa masiva a 200 familias con proyecto de vivienda en Bello, Antioquia",
    "extracto": "La justicia condenó a 9 años y cinco meses de prisión a Sandra Milena Parra Rivera y Mario Albeiro Montoya Osorio, por el delito de estafa agravada en modalidad masa, luego que la…",
@@ -16,11 +36,21 @@
    "titulo": "Temblor hoy en Colombia | Reportan sismo en Chocó la noche de este sábado 12 de septiembre: epicentro y profundidad",
    "extracto": "El Servicio Geológico Colombiano entregó información oficial sobre el movimiento registrado en el territorio nacional.",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-en-choco-la-noche-de-este-sabado-12-de-septiembre-epicentro-y-profundidad-3585675",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/12/6aa61ae9ccab2.png",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/12/6aa61ae9ccab2.r_d.1128-224-0.png",
    "fuente": "El Tiempo",
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-13T03:58:22Z"
+  },
+  {
+   "titulo": "Crónica desde Facatativá, la ciudad a la que le queda agua para una semana",
+   "extracto": "La población de uno de los municipios “dormitorio” alrededor de Bogotá , no duerme tranquila: no puede bañarse todos los días, se le acumulan los platos sucios y no siempre puede…",
+   "enlace": "https://www.elcolombiano.com/colombia/facatativa-escasez-agua-fenomeno-el-nino-IF41003038",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/479x300/0c0/0d0/center/11101/OACK/milimg-20984-27873727-51592367-20260_51599681_20260912214608.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-13T03:43:21Z"
   },
   {
    "titulo": "Alerta por incendios forestales en Colombia: 18 siguen activos y Tolima concentra casi la mitad, según la UNGRD",
@@ -73,6 +103,36 @@
    "fecha": "2026-09-12T17:52:08Z"
   },
   {
+   "titulo": "Fotos y videos | Así transcurrió el primer día del Festival Cordillera 2026 en el Parque Simón Bolívar de Bogotá",
+   "extracto": "La programación combinó artistas de distintas generaciones con espacios dedicados a la gastronomía, el arte y otras expresiones culturales.",
+   "enlace": "https://www.eltiempo.com/cultura/entretenimiento/fotos-y-videos-asi-transcurrio-el-primer-dia-del-festival-cordillera-2026-en-el-parque-simon-bolivar-de-bogota-3585678",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/13/6aa6330926722.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-13T05:45:28Z"
+  },
+  {
+   "titulo": "Champions: estreno a puro gol... (Último tango, opinión)",
+   "extracto": "Jorge Barraza analiza el arranque del torneo de clubes más importante del mundo.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/champions-estreno-a-puro-gol-opinion-3585605",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/12/30/69548edda47b2.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-13T05:34:47Z"
+  },
+  {
+   "titulo": "James Rodríguez llega a Nacional y prende el debate sobre su vigencia en la Selección Colombia",
+   "extracto": "Tras confirmarse que jugará en la Liga, se abre la discusión acerca de sus opciones de seguir defendiendo la camiseta tricolor. Expertos opinan.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/james-rodriguez-llega-a-nacional-y-prende-el-debate-sobre-su-vigencia-en-la-seleccion-colombia-3585676",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/11/6aa4090e05ac0.r_d.620-629-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-13T05:27:50Z"
+  },
+  {
    "titulo": "‘Estoy aquí, soy Liz’: sobrevivió horas bajo los escombros del terremoto de Pereira, pero perdió su casa, a su mamá, a su hermano y a su pareja",
    "extracto": "Elizabeth rezó y se aferró a un pequeño rayo de luz. Un mes después reconstruye su vida con la certeza de haber recibido una segunda oportunidad.",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/estoy-aqui-soy-liz-sobrevivio-horas-bajo-los-escombros-del-terremoto-de-pereira-pero-perdio-su-casa-a-su-mama-a-su-hermano-y-a-su-pareja-3585527",
@@ -123,16 +183,6 @@
    "fecha": "2026-09-13T03:53:26Z"
   },
   {
-   "titulo": "Champions: estreno a puro gol... (Último tango, opinión)",
-   "extracto": "Jorge Barraza analiza el arranque del torneo de clubes más importante del mundo.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/champions-estreno-a-puro-gol-opinion-3585605",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/12/30/69548edda47b2.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-13T03:52:07Z"
-  },
-  {
    "titulo": "Suspenden el partido entre Alianza Valledupar y Junior por desmanes en la tribuna oriental del estadio Armando Maestre Pavajeau",
    "extracto": "En el momento de la interrupción del encuentro, el bicampeón colombiano perdía 1-0. Se reanudó 20 minutos después.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/suspenden-el-partido-entre-alianza-valledupar-y-junior-por-desmanes-en-la-tribuna-oriental-del-estadio-armando-maestre-pavajeau-3585673",
@@ -156,7 +206,7 @@
    "titulo": "Franco Armani recibe a James Rodríguez en el Atlético Nacional y le manda contundente mensaje: 'Acá tiene un grupo que lo va a apoyar'",
    "extracto": "El arquero argentino le dio la bienvenida al volante colombiano y destacó su trayectoria y el aporte que puede hacer al equipo.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/franco-armani-recibe-a-james-rodriguez-en-el-atletico-nacional-y-le-manda-contundente-mensaje-aca-tiene-un-grupo-que-lo-va-a-apoyar-3585635",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/12/6aa5c43225173.png",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/12/6aa5c43225173.r_d.257-241-0.png",
    "fuente": "El Tiempo",
    "categoria": "deportes",
    "etiqueta": "Deportes",
@@ -183,6 +233,16 @@
    "fecha": "2026-09-13T03:01:00Z"
   },
   {
+   "titulo": "5 grandes apuestas en seguridad de Abelardo en las que se ve su “mano dura”: ¿son viables?",
+   "extracto": "El presidente Abelardo De la Espriella tiene sobre su escritorio varias carpetas que juntas son su principal bandera: recuperar la seguridad. No la tiene fácil, pero el Gobierno…",
+   "enlace": "https://www.elcolombiano.com/colombia/de-la-espriella-asi-son-las-cinco-grandes-apuestas-en-seguridad-del-presidente-IE40999540",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/402x300/0c0/0d0/center/11101/SYBE/seguridad-abelardo_51598706_20260912174450.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-12T22:59:01Z"
+  },
+  {
    "titulo": "Reparación mecánica de una moto desató incendio al interior de una vivienda en Bello y dejó una persona herida",
    "extracto": "Una chispa imprevista en medio de un trabajo de mecánica afectó la tranquilidad al interior de una vivienda en Bello . Lo que inició como una falla durante la reparación de una…",
    "enlace": "https://www.elcolombiano.com/antioquia/reparacion-moto-desata-incendio-vivienda-bello-deja-persona-herida-JE40990548",
@@ -196,7 +256,7 @@
    "titulo": "Video | Turista extranjera es víctima de raponazo en el Centro Histórico de Cartagena: el ladrón le arrancó la cadena del cuello y huyó a pie",
    "extracto": "Aunque varias personas intentaron reaccionar al percatarse de lo sucedido, el ladrón logró perderse entre las calles aledañas del Centro Histórico.",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/video-turista-extranjera-es-victima-de-raponazo-en-el-centro-historico-de-cartagena-el-ladron-le-arranco-la-cadena-del-cuello-y-huyo-a-pie-3585644",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/12/6aa5d6803413d.png",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/12/6aa5d6803413d.r_d.440-195-0.png",
    "fuente": "El Tiempo",
    "categoria": "colombia",
    "etiqueta": "Colombia",
@@ -221,6 +281,16 @@
    "categoria": "deportes",
    "etiqueta": "Deportes",
    "fecha": "2026-09-13T02:14:43Z"
+  },
+  {
+   "titulo": "De cómo Álvaro Uribe viajó del liberalismo de izquierda a la derecha",
+   "extracto": "No había tenido duda de que Álvaro Uribe es un líder político de derecha hasta que reiteró que le parece inútil hablar de izquierda y derecha y precisó que la verdadera dicotomía…",
+   "enlace": "https://www.elcolombiano.com/colombia/alvaro-uribe-velez-asi-fue-su-cambio-politico-de-la-izquierda-liberal-a-la-derecha-OE40998305",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/384x300/0c0/0d0/center/11101/VCNB/uribe-foto_51598145_20260912164146.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-12T21:56:18Z"
   },
   {
    "titulo": "El retorno de mujeres a Mampuján (Bolívar) fue por la no repetición de violencia",
@@ -316,21 +386,11 @@
    "titulo": "¿Qué es el mukbang? El fenómeno de comer sin límites ante la cámara que popularizó una 'influencer' de 24 años que murió tras un paro cardíaco",
    "extracto": "Ganfan Yingying murió a los 24 años tras un paro cardíaco presuntamente relacionado con niveles muy bajos de potasio en la sangre.",
    "enlace": "https://www.eltiempo.com/cultura/gente/que-es-el-mukbang-el-fenomeno-de-comer-sin-limites-ante-la-camara-que-popularizo-una-influencer-de-24-anos-que-murio-tras-un-paro-cardiaco-3585650",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/12/6aa5debd4bd71.png",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/12/6aa5debd4bd71.r_d.1243-474-0.png",
    "fuente": "El Tiempo",
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-12T23:33:55Z"
-  },
-  {
-   "titulo": "Video | Bomberos de Medellín subieron tres veces las escaleras del edificio Coltejer para rendir homenaje a los rescatistas fallecidos durante el 11S",
-   "extracto": "Liderados por el director del Departamento Administrativo de Gestión del Riesgo de Desastres de la ciudad, subieron tres veces los 37 pisos.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/video-bomberos-de-medellin-subieron-tres-veces-las-escaleras-del-edificio-coltejer-para-rendir-homenaje-a-los-rescatistas-fallecidos-durante-el-11s-3585606",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/12/6aa5a46bd661d.r_d.328-586-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-12T19:23:57Z"
   },
   {
    "titulo": "La Selección Colombia, sin jugar, ya clasificó a los octavos de final del Mundial Femenino Sub-20 de Polonia",
@@ -383,14 +443,14 @@
    "fecha": "2026-09-12T22:11:19Z"
   },
   {
-   "titulo": "Santiago Buitrago contó las razones por las que Wout van Aert casi le quita el liderato de la montaña en la Vuelta a España",
-   "extracto": "El colombiano no se quedó con nada.",
-   "enlace": "https://www.eltiempo.com/deportes/ciclismo/santiago-buitrago-conto-las-razones-por-las-que-wout-van-aert-casi-le-quita-el-liderato-de-la-montana-en-la-vuelta-a-espana-3585618",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/08/6aa02750d72ff.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-12T21:41:00Z"
+   "titulo": "El valle del olvido: historia de Francisco Lopera y la mutación paisa",
+   "extracto": "Durante varios años la periodista estadounidense Jennie Erin Smith siguió de cerca el trabajo del doctor Francisco Lopera y los investigadores del Grupo de Neurociencias de…",
+   "enlace": "https://www.elcolombiano.com/cultura/el-valle-del-olvido-historia-de-francisco-lopera-y-la-mutacion-paisa-NE40998603",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/UTIE/proyecto-nuevo-24_51598135_20260912163421.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-12T21:47:17Z"
   },
   {
    "titulo": "Ed Maverick no se presentará hoy en el Festival Cordillera por una infección aguda",
@@ -471,16 +531,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-12T14:38:14Z"
-  },
-  {
-   "titulo": "¿Por qué recomiendan lavar las toallas, la ropa de cama y los platos nuevos antes de usarlos?",
-   "extracto": "Es algo que muchos pasan por alto al comprar algo nuevo: no lavarlo. Así lo recomiendan el CDC y la OMS para varios productos del hogar.",
-   "enlace": "https://www.eltiempo.com/cultura/por-que-recomiendan-lavar-las-toallas-la-ropa-de-cama-y-los-platos-nuevos-antes-de-usarlos-3585604",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/12/6aa5936146560.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-12T18:15:43Z"
   },
   {
    "titulo": "¿Hasta qué punto los jueces pueden “gobernar”? Esto le han tumbado al Gobierno",
@@ -961,16 +1011,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-11T12:07:43Z"
-  },
-  {
-   "titulo": "Atentados con explosivos del ELN destruyeron estación de Policía en el Catatumbo",
-   "extracto": "El ELN destruyó una subestación de Policía en Norte de Santander a punta de dinamita. Se trata de la del corregimiento de Guamalito en el municipio de El Carmen , región del…",
-   "enlace": "https://www.elcolombiano.com/colombia/eln-ataque-terrorista-estacion-policia-catatumbo-el-carmen-norte-de-santander-EJ40941252",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/QOGT/subestacion-policia-guamalito_51586004_20260911064733.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-11T12:06:27Z"
   },
   {
    "titulo": "La Banda del Aventurero ya tiene nuevo cantante: conozca al vocalista de la agrupación de Yeison Jiménez",
