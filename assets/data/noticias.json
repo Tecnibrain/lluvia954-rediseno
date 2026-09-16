@@ -1,7 +1,27 @@
 {
- "actualizado": "2026-09-16T04:46:38.145501Z",
- "total": 166,
+ "actualizado": "2026-09-16T11:28:58.879798Z",
+ "total": 169,
  "noticias": [
+  {
+   "titulo": "Temblor hoy en Colombia | Reportan seguidilla de sismos en Chocó durante la madrugada de este 16 de septiembre; el mayor fue de magnitud 4,5: detalles",
+   "extracto": "El Servicio Geológico Colombiano entregó información sobre los movimientos telúricos.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-seguidilla-de-sismos-en-choco-durante-la-madrugada-de-este-16-de-septiembre-el-mayor-fue-de-magnitud-4-5-detalles-3586399",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2021/12/10/61b3cc62d6e5b.r_d.1167-642-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-16T09:49:03Z"
+  },
+  {
+   "titulo": "Fuerza Aérea insertó equipo especial de rescate para ubicar a pasajeros de la avioneta desaparecida cuando cubría la ruta Condoto-Guaymaral",
+   "extracto": "La aeronave, tipo Cessna T-206, llevaba cinco personas a bordo.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/fuerza-aerea-inserto-equipo-especial-de-rescate-en-inmediaciones-del-parque-tatama-para-ubicar-a-pasajeros-del-avion-accidentado-en-la-selva-del-choco-3586398",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/16/6aaa48fa5a8ea.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-16T09:34:09Z"
+  },
   {
    "titulo": "Cornare investiga “llenada” de lago en Marinilla en pleno verano, ¿por qué?",
    "extracto": "La Corporación Autónoma Regional de las Cuencas de los Ríos Negro y Nare, Cornare, anunció que puso bajo la lupa una obra que se adelanta en el municipio de Marinilla tras…",
@@ -43,6 +63,26 @@
    "fecha": "2026-09-15T21:42:06Z"
   },
   {
+   "titulo": "Adriana, esposa de piloto de avioneta perdida, no quiere que su historia de amor termine: “no desistan”",
+   "extracto": "El cielo solía ser su lugar seguro. Pero nada en la vida está escrito y una mañana, como muchas otras en las que el capitán Mehmet Cankaya pilotaba su avioneta, no se volvió a…",
+   "enlace": "https://www.elcolombiano.com/colombia/adriana-esposa-piloto-avioneta-perdida-historia-amor-termine-DH41130751",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/526x300/0c0/0d0/center/11101/URRN/piloto-y-esposa_51619591_20260915213354.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-16T05:01:00Z"
+  },
+  {
+   "titulo": "La plata “no alcanzaría” para las elecciones de 2027: presidente del CNE",
+   "extracto": "Juan Felipe Lemos pasó de ser congresista a ocupar una de las nueve sillas del Consejo Nacional Electoral (CNE), entidad que se encarga de vigilar las elecciones y el…",
+   "enlace": "https://www.elcolombiano.com/colombia/la-plata-no-alcanzaria-elecciones-2027-presidente-cne-GH41131052",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/425x300/0c0/0d0/center/11101/WRTU/colp-339322_51622009_20260915215824.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-16T05:01:00Z"
+  },
+  {
    "titulo": "130 kilos de explosivos del frente 36 de las disidencias fueron destruidos por el Ejército Nacional en Antioquia: había bombas para drones",
    "extracto": "La Séptima División del Ejército localizó los explosivos en zona rural del municipio de Briceño, en el Norte del departamento.",
    "enlace": "https://www.eltiempo.com/colombia/medellin/130-kilos-de-explosivos-del-frente-36-de-las-disidencias-fueron-destruidos-por-el-ejercito-nacional-en-antioquia-habia-bombas-para-drones-3586394",
@@ -61,6 +101,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-09-15T20:05:56Z"
+  },
+  {
+   "titulo": "Reunión de embajadora Araújo con Trump en la Casa Blanca ratifica giro de la relación entre Colombia y EE. UU.",
+   "extracto": "Son varios los hechos que, en conjunto, marcan el nuevo tono de la relación entre Colombia y Estados Unidos. Mientras el Gobierno está a la expectativa de si será certificado en…",
+   "enlace": "https://www.elcolombiano.com/colombia/reunion-de-embajadora-araujo-con-trump-en-la-casa-blanca-ratifica-giro-de-la-relacion-entre-colombia-y-ee-uu-HH41131655",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/PMHU/maria-consuelo-araujo_51626820_20260915231614.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-16T03:58:52Z"
   },
   {
    "titulo": "Fiscalía inspeccionó sede del Pacto Histórico por financiación de consulta interna",
@@ -216,7 +266,7 @@
    "titulo": "Alianza Valledupar logró un triunfo clave y hundió aún más a Boyacá Chicó en la zona de descenso",
    "extracto": "El equipo de Flabio Torres logró su segunda victoria consecutiva en la Liga BetPlay 2026-II.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/alianza-valledupar-logro-un-triunfo-clave-y-hundio-aun-mas-a-boyaca-chico-en-la-zona-de-descenso-3586393",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/15/6aaa10ba8a324.jpeg",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/15/6aaa10ba8a324.r_d.538-256-0.jpeg",
    "fuente": "El Tiempo",
    "categoria": "deportes",
    "etiqueta": "Deportes",
@@ -273,16 +323,6 @@
    "fecha": "2026-09-15T23:00:09Z"
   },
   {
-   "titulo": "Un maestro, dos ayudantes y una familia: la fórmula de autoconstrucción con la que Buenaventura le apuesta a levantarse tras el terremoto",
-   "extracto": "Gobernación y Alcaldía implementaron un plan integral que incluye 1.260 kits de materiales, viviendas nuevas y subsidios para las familias afectadas.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/un-maestro-dos-ayudantes-y-una-familia-la-formula-de-autoconstruccion-con-la-que-buenaventura-le-apuesta-a-levantarse-tras-el-terremoto-3586330",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/15/6aa9cad9aaaca.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-15T22:56:41Z"
-  },
-  {
    "titulo": "“Las personas que se sometan no van a tener voz”: MinJusticia Cancino dio detalles de la política de sometimiento del gobierno",
    "extracto": "Desde que quedó electo como presidente, Abelardo de la Espriella ha repetido una y otra vez que durante su gobierno no habrá diálogos de paz con las estructuras armadas y…",
    "enlace": "https://www.elcolombiano.com/colombia/ministro-justicia-detalla-propuesta-sometimiento-gobierno-abelardo-de-la-espriella-EF41116662",
@@ -301,16 +341,6 @@
    "categoria": "deportes",
    "etiqueta": "Deportes",
    "fecha": "2026-09-16T02:47:35Z"
-  },
-  {
-   "titulo": "Siete quinceañeras de Antioquia cumplieron el sueño de tener una fiesta gracias a una iniciativa del Ejército y la Policía",
-   "extracto": "Las adolescentes asistieron a una solemne ceremonia litúrgica. Luego, continuó la fiesta, que estuvo llena de música y artistas.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/siete-quinceaneras-de-antioquia-cumplieron-el-sueno-de-tener-una-fiesta-gracias-a-una-iniciativa-del-ejercito-y-la-policia-3586314",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/15/6aa9c5f95c41b.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-15T22:37:56Z"
   },
   {
    "titulo": "Abelardo de la Espriella figura en el podio de los presidentes con mayor aprobación de toda Latinoamérica, según encuesta CB Global Data",
