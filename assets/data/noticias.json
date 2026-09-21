@@ -1,7 +1,77 @@
 {
- "actualizado": "2026-09-20T20:46:48.567315Z",
- "total": 88,
+ "actualizado": "2026-09-21T04:52:20.531084Z",
+ "total": 79,
  "noticias": [
+  {
+   "titulo": "Cerrada Vía Las Palmas por muerte de joven que practicaba ‘gravity’",
+   "extracto": "Un ciclista muerto y su pasajera lesionada dejó el accidente de dos jóvenes que practicaban gravity bike en la vía Las Palmas, en Envigado, luego de que se golpearan contra un…",
+   "enlace": "https://www.elcolombiano.com/antioquia/joven-murio-en-la-via-las-palmas-por-choque-gravity-bike-LG41301758",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/459x300/0c0/0d0/center/11101/LJLX/gravity_51664518_20260920150155.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-09-20T20:30:50Z"
+  },
+  {
+   "titulo": "Stephany Echevarría, la madre que sacrificó sus piernas para salvar a su hija tras el terremoto de 7.4 en Cali: le ofreció su vida a Dios",
+   "extracto": "​Durante el sismo, la estructura del edificio cedió, provocando la caída de los cinco pisos que la componían.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/stephany-echevarria-la-madre-que-sacrifico-sus-piernas-para-salvar-a-su-hija-tras-el-terremoto-de-7-4-en-cali-le-ofrecio-su-vida-a-dios-3587554",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab0a8cc96e37.r_d.370-787-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-21T03:50:52Z"
+  },
+  {
+   "titulo": "Voraz incendio ha consumido ya cerca de 180 hectáreas de vegetación en Villa de Leyva y tiene en alerta a todo el municipio",
+   "extracto": "Desde las 2:00 de la tarde de este sábado, las llamas que empezaron en una zona desértica de Villa de Leyva han prendido ya las alarmas nacionales.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/voraz-incendio-ha-consumido-ya-cerca-de-180-hectareas-de-vegetacion-en-villa-de-leyva-y-tiene-en-alerta-a-todo-el-municipio-3587545",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab07d98a8be7.r_d.525-245-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-21T03:35:00Z"
+  },
+  {
+   "titulo": "Hotel 'Suites arcoiris' se pronuncia tras solicitar ayuda para evacuar en medio de incendio en Villa de Leyva: 'Horas críticas'",
+   "extracto": "La administración expresó su agradecimiento a la comunidad por la colaboración brindada.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/hotel-suites-arcoiris-se-pronuncia-tras-solicitar-ayuda-para-evacuar-en-medio-de-incendio-en-villa-de-leyva-horas-criticas-3587546",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab0618867371.r_d.788-457-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-21T03:05:33Z"
+  },
+  {
+   "titulo": "¿Pausa o punto de quiebre?: el dilema de las bandas criminales en Buenaventura tras el terremoto y la apuesta del nuevo Gobierno",
+   "extracto": "Principales grupos delincuenciales se la juegan entre jugársela por la paz o someterse a la justicia.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pausa-o-punto-de-quiebre-el-dilema-de-las-bandas-criminales-en-buenaventura-tras-el-terremoto-y-la-apuesta-del-nuevo-gobierno-3587506",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/01/03/67781c74ac0d3.r_d.802-449-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-21T03:01:00Z"
+  },
+  {
+   "titulo": "La Gobernación de Boyacá ofrece recompensa de 45 millones para dar con los responsables del incendio en Villa de Leyva",
+   "extracto": "Autoridades investigan si las llamas que han arrasado cerca de 200 hectáreas de vegetación fueron originadas por alguien.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/la-gobernacion-de-boyaca-ofrece-recompensa-de-45-millones-para-dar-con-los-responsables-del-incendio-en-villa-de-leyva-3587542",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab07d98a8be7.r_d.525-245-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-21T02:30:01Z"
+  },
+  {
+   "titulo": "Grave incendio en el cerro de San Marcos en Villa de Leyva: declaran calamidad pública y suspenden las clases",
+   "extracto": "El gobernador Carlos Amaya pidió ayuda de los municipios aledaños para controlar las llamas.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/grave-incendio-en-el-cerro-de-san-marcos-en-villa-de-leyva-declaran-calamidad-publica-suspenden-las-clases-3587523",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab07d98a8be7.r_d.525-245-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-21T02:24:43Z"
+  },
   {
    "titulo": "A bala asesinaron a Manguito, reconocido vendedor de mangos de Andes",
    "extracto": "",
@@ -11,6 +81,116 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-09-20T18:06:48Z"
+  },
+  {
+   "titulo": "‘Realmente esto da miedo, es el incendio más fuerte que se ha visto en nuestro municipio’: exalcalde de Villa de Leyva",
+   "extracto": "Más de 200 hectáreas de vegetación habrían sido arrasadas ya por las llamas de hasta 40 metros de alto en diferentes sectores de Villa de Leyva.",
+   "enlace": "https://www.eltiempo.com/colombia/realmente-esto-da-miedo-es-el-incendio-mas-fuerte-que-se-ha-visto-en-nuestro-municipio-exalcalde-de-villa-de-leyva-3587528",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab07d98a8be7.r_d.525-245-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-21T02:01:00Z"
+  },
+  {
+   "titulo": "En el asiento del medio y en clase económica: así viajó el vicepresidente a la Asamblea de la ONU",
+   "extracto": "Lejos de ser ostentoso para sus viajes gubernamentales, el vicepresidente José Manuel Restrepo tomó un vuelo comercial para cumplir su agenda dentro de la Asamblea de la ONU, que…",
+   "enlace": "https://www.elcolombiano.com/colombia/en-el-asiento-del-medio-y-en-clase-economica-asi-viajo-el-vicepresidente-a-la-asamblea-de-la-onu-HG41305424",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/459x300/0c0/0d0/center/11101/RKNO/vice_51666428_20260920185135.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-21T00:57:08Z"
+  },
+  {
+   "titulo": "Incendio en cerro San Marcos en Villa de Leyva consume 290 hectáreas y amenaza la reserva natural Iguaque, aseguró el gobernador Carlos Amaya",
+   "extracto": "El mandatario solicitó un aumentar la ayuda y organismos de rescate para mitigar un incendio de grandes proporciones.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/incendio-en-cerro-san-marcos-en-villa-de-leyva-consume-290-hectareas-y-amenaza-la-reserva-natural-iguaque-aseguro-el-gobernador-carlos-amaya-3587519",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab07d9a4ae42.r_d.540-865-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-21T00:56:32Z"
+  },
+  {
+   "titulo": "Claves de la Selección Colombia semifinalista del Mundial femenino: rebeldía, corazón y fe",
+   "extracto": "La Selección femenina sub-20 compensó sus falencias con sacrificio y compromiso.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/claves-de-la-seleccion-colombia-semifinalista-del-mundial-femenino-rebeldia-corazon-y-fe-3587555",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6aaff62a16de7.r_d.899-473-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-21T03:55:33Z"
+  },
+  {
+   "titulo": "Refundar o no refundar: ¿qué, por qué y para qué?... (Opinión)",
+   "extracto": "Lo de la Selección Colombia no tiene que ser una refundación, después de un Mundial 2026, pero sí un laboratorio con altas dosis de riesgo.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/refundar-o-no-refundar-que-por-que-y-para-que-opinion-3587538",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/12/6a545dde47d40.r_d.1776-206-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-21T03:46:08Z"
+  },
+  {
+   "titulo": "Día clave en la Dimayor: asamblea determinante para perfilar el futuro de los derechos de la TV",
+   "extracto": "Máxima expectativa en medio de la puja para quedarse con el contrato.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/dia-clave-en-la-dimayor-asamblea-determinante-para-perfilar-el-futuro-de-los-derechos-de-la-tv-3587543",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/28/6a692a4932783.r_d.2142-150-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-21T03:41:57Z"
+  },
+  {
+   "titulo": "Colombia tendrá una difícil jornada en el Mundial de ciclismo: se alistan los voladores de la Sub-23",
+   "extracto": "Gran expectativa con Juan Diego Quintero.",
+   "enlace": "https://www.eltiempo.com/deportes/ciclismo/colombia-tendra-una-dificil-jornada-en-el-mundial-de-ciclismo-se-alistan-los-voladores-de-la-sub-3587511",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/21/6a88366bdfb1c.r_d.467-204-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-21T03:35:00Z"
+  },
+  {
+   "titulo": "Nacional y James sufren inesperada derrota en la Liga: Llaneros dio la sorpresa",
+   "extracto": "El equipo verdolaga tropezó en la jornada 11 del campeonato.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/nacional-y-james-sufren-inesperada-derrota-en-la-liga-llaneros-dio-la-sorpresa-3587553",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aade5897109c.r_d.884-589-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-21T03:29:17Z"
+  },
+  {
+   "titulo": "A alias Firu, cabecilla de las disidencias, ya lo mandaron a una cárcel donde no llegaría “ni la señal de la Santa Cruz”",
+   "extracto": "",
+   "enlace": "https://www.elcolombiano.com/colombia/traslado-a-alias-firu-cabecilla-de-las-disidencias-carcel-de-giron-santander-donde-no-llegaria-ni-la-senal-de-la-santa-cruz-MG41304877",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/459x300/0c0/0d0/center/11101/WTNO/firu_51665491_20260920175159.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-20T23:20:06Z"
+  },
+  {
+   "titulo": "Expodrinks regresa a Barranquilla en noviembre: fechas, precios, conciertos y experiencias de la nueva edición en Puerta de Oro durante 2026",
+   "extracto": "La feria será del 12 al 15 de noviembre en Puerta de Oro, con catas, gastronomía, música en vivo y preventa con 15 % de descuento para todos este año.",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/expodrinks-regresa-a-barranquilla-en-noviembre-fechas-precios-conciertos-y-experiencias-de-la-nueva-edicion-en-puerta-de-oro-durante-3587463",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6ab01d93b4ab3.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-20T23:01:00Z"
+  },
+  {
+   "titulo": "Colombia superó las 100 medallas en los Juegos Suramericanos tras otra jornada dorada",
+   "extracto": "El ciclismo de pista se pasó. Brasil sigue al frente de la tabla de medallas.",
+   "enlace": "https://www.eltiempo.com/deportes/ciclo-olimpico/colombia-supero-las-100-medallas-en-los-juegos-suramericanos-tras-otra-jornada-dorada-3587544",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6ab094e00a2b0.png",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-21T02:40:13Z"
   },
   {
    "titulo": "Cobro de valorización para construir seis vías en Antioquia: “la pagará quien realmente puede”",
@@ -23,44 +203,84 @@
    "fecha": "2026-09-20T14:37:20Z"
   },
   {
-   "titulo": "Colombia se retira de la Coalición por la Igualdad de Derechos LGBTIQ+ que copresidía con España: ONG del Caribe cuestionan decisión",
-   "extracto": "La salida fue efectiva el 17 septiembre, antes de terminar el mandato 2025-2027; Caribe Afirmativo cuestionó la decisión y pidió claridad al Gobierno.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/colombia-se-retira-de-la-coalicion-por-la-igualdad-de-derechos-lgbtiq-que-copresidia-con-espana-ong-del-caribe-cuestionan-decision-3587459",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/07/07/668aa90ae106f.r_d.571-192-0.jpeg",
-   "fuente": "El Tiempo",
+   "titulo": "Aumenta la alerta por incendio en Villa de Leyva: ordenan evacuar y reportan personas atrapadas en hoteles",
+   "extracto": "La situación en Villa de Leyva, Boyacá, cada vez es más crítica por cuenta del incendio forestal que se registra en el cerro San Marcos desde la tarde del sábado. Sobre las 3:00…",
+   "enlace": "https://www.elcolombiano.com/colombia/ncendio-de-villa-de-leyva-pone-en-riesgo-a-viviendas-del-sector-EG41304022",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/459x300/0c0/0d0/center/11101/DGTU/villa-de-leyva-1_51665186_20260920163633.jpg",
+   "fuente": "El Colombiano",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-09-20T20:01:00Z"
+   "fecha": "2026-09-20T22:25:40Z"
   },
   {
-   "titulo": "Dinero, vigilancia y muerte: así operaba alias Sarria, el cerebro financiero del Frente 57 neutralizado en Buga",
-   "extracto": "Un operativo conjunto en la zona rural de Buga desmanteló el núcleo económico de la estructura criminal 'Yair Bermúdez'.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/dinero-vigilancia-y-muerte-asi-operaba-alias-sarria-el-cerebro-financiero-del-frente-57-neutralizado-en-buga-3587484",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2023/12/29/658ef519cfc6b.r_d.546-502-0.jpeg",
+   "titulo": "Independiente Santa Fe y Deportivo Cali repiten la final de la Liga Femenina: el título está en juego",
+   "extracto": "Eliminaron a Millonarios y Nacional, respectivamente.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/independiente-santa-fe-y-deportivo-cali-repiten-la-final-de-la-liga-femenina-el-titulo-esta-en-juego-3587527",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab085ba7232e.r_d.695-148-0.png",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-20T20:00:16Z"
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-21T01:41:09Z"
   },
   {
-   "titulo": "Medellín entra al top 35 de ciudades para recorrer a pie en 2026: GuruWalk destaca su arte e innovación, y transformación urbana en el mundo",
-   "extracto": "La capital antioqueña ocupó el puesto 32 entre 100 destinos; Cartagena quedó 48 y Bogotá, 85. National Geographic también incluyó a Medellín, en 2026.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/medellin-entra-al-top-35-de-ciudades-para-recorrer-a-pie-en-2026-guruwalk-destaca-su-arte-e-innovacion-y-transformacion-urbana-en-el-mundo-3587483",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/06/17/6a32e059e0d3a.jpeg",
+   "titulo": "Santa Fe rugió en la Liga femenina: le ganó el duelo a Millonarios y se clasificó una vez más a la final",
+   "extracto": "Las Leonas sacaron diferencia en el juego de vuelta de la semifinal.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/santa-fe-rugio-en-la-liga-femenina-le-gano-el-duelo-a-millonarios-y-se-clasifico-una-vez-mas-a-la-final-3587526",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab086eecec5e.r_d.866-701-0.jpeg",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-20T19:58:20Z"
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-21T01:29:51Z"
   },
   {
-   "titulo": "Investigan fuerte explosión en bodega del Comando de Policía Antioquia: no se registran heridos",
-   "extracto": "Autoridades señalaron que el incidente se reportó en la zona donde realiza actividades el Grupo Antiexplosivos.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/investigan-fuerte-explosion-en-bodega-del-comando-de-policia-antioquia-no-se-registran-heridos-3587465",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6ab01d72773b1.jpeg",
+   "titulo": "Llaneros vs. Atlético Nacional, en vivo el minuto a minuto en Villavicencio: James arranca de suplente",
+   "extracto": "El equipo verdolaga tiene al experimentado volante como emergente.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/llaneros-vs-atletico-nacional-en-vivo-el-minuto-a-minuto-en-villavicencio-james-arranca-de-suplente-3587521",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aade5897109c.r_d.884-589-0.jpeg",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-20T19:32:07Z"
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-21T00:42:05Z"
+  },
+  {
+   "titulo": "J Balvin envió mensaje durante su concierto en México tras su reciente separación con Valentina Ferrer: 'A veces tropezamos'",
+   "extracto": "El cantante colombiano se presentó en el Estadio Akron, donde compartió algunas palabras con el público.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/j-balvin-envio-mensaje-durante-su-concierto-en-mexico-tras-su-reciente-separacion-con-valentina-ferrer-a-veces-tropezamos-3587516",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/04/07/69d59b81bc272.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-21T00:03:27Z"
+  },
+  {
+   "titulo": "Video | Así fue la violenta pelea en la zona de boxes, que se desató entre dos pilotos de la serie Nascar",
+   "extracto": "Ocurrió tras la competencia en el Bristol Motor Speedway.",
+   "enlace": "https://www.eltiempo.com/deportes/automovilismo/video-asi-fue-la-violenta-pelea-en-la-zona-de-boxes-que-se-desato-entre-dos-pilotos-de-la-serie-nascar-3587500",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6ab05ae1913a6.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-20T23:27:14Z"
+  },
+  {
+   "titulo": "Jamiroquai regresó a Colombia después de 16 años: así se vivió su concierto en el MedPlus",
+   "extracto": "Sombreros, plumas, atuendos disco y canciones como ‘Cosmic Girl’ y ‘Love Foolosophy’ marcaron el regreso de Jamiroquai a Colombia.",
+   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/jamiroquai-regreso-a-colombia-despues-de-16-anos-asi-se-vivio-su-concierto-en-el-medplus-3587508",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6ab069cf01de0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-20T23:24:27Z"
+  },
+  {
+   "titulo": "Medellín39: regresa el proyecto literario que busca a los escritores jóvenes más interesantes del momento",
+   "extracto": "Cristina Fuentes La Roche, directora del Hay Festival, cuenta cómo será esta versión en coincidencia con Medellín como Capital Mundial del Libro 2027.",
+   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/medellin39-regresa-el-proyecto-literario-que-busca-a-los-escritores-jovenes-mas-interesantes-del-momento-3586871",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2019/10/22/5daf833760d01.r_d.475-237-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-20T22:31:31Z"
   },
   {
    "titulo": "“No es asfixia ni venganza”: De la Espriella responde a la JEP por recorte presupuestal",
@@ -83,26 +303,6 @@
    "fecha": "2026-09-20T18:09:10Z"
   },
   {
-   "titulo": "Atlántico estrecha relación con Estados Unidos para atraer inversión, tecnología, comercio y cooperación: gobernador pide consulado en Barranquilla",
-   "extracto": "Gobernación gestiona un acuerdo con la USTDA para estudios sobre un hub tecnológico y retoma ante EE. UU. la propuesta de consulado en Barranquilla.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/atlantico-estrecha-relacion-con-estados-unidos-para-atraer-inversion-tecnologia-comercio-y-cooperacion-gobernador-pide-consulado-en-barranquilla-3587458",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6ab018cfb64bb.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-20T18:01:00Z"
-  },
-  {
-   "titulo": "Eje Cafetero lanza un SOS por falta de turistas en la región",
-   "extracto": "La reducción en las cifras de visitantes en Caldas, Quindío y Risaralda superaría el 50 por ciento.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/eje-cafetero-lanza-un-sos-por-falta-de-turistas-en-la-region-3587461",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/07/15/6876ac2008bec.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-20T17:42:33Z"
-  },
-  {
    "titulo": "Volcamiento de bus en la vía Panamericana dejó cuatro muertos y al menos 20 heridos",
    "extracto": "Un accidente en la vía Panamericana dejó cuatro muertos, entre ellos dos menores de edad, y alrededor de 20 heridos luego de que un bus de la empresa Turismo Andino se volcara…",
    "enlace": "https://www.elcolombiano.com/colombia/accidente-bus-via-panamericana-deja-muertos-heridos-OO41298565",
@@ -123,64 +323,14 @@
    "fecha": "2026-09-20T17:24:25Z"
   },
   {
-   "titulo": "A la cárcel, hombre señalado de abusar de cuatro mujeres en un taxi en Medellín y robarles 12 millones de pesos",
-   "extracto": "Una fiscal le imputó los delitos de acceso carnal violento y hurto calificado y agravado tras ser capturado en flagrancia en el barrio Laureles.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/a-la-carcel-hombre-senalado-de-abusar-de-cuatro-mujeres-en-un-taxi-en-medellin-y-robarles-12-millones-de-pesos-3587437",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6ab006436dd1f.jpeg",
+   "titulo": "La española 'La bola negra' y la india 'Angh' fueron las grandes ganadoras del Festival de cine de Toronto 2026",
+   "extracto": "Se conoció el palmarés de la 51 edición del certamen, que finalizó este domingo 20 de septiembre.",
+   "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/la-espanola-la-bola-negra-y-la-india-angh-fueron-las-grandes-ganadoras-del-festival-de-cine-de-toronto-3587492",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/05/24/6a135069461e4.jpeg",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-20T17:15:04Z"
-  },
-  {
-   "titulo": "Erasmo Zuleta, gobernador de Córdoba, debe devolver tierras de una ciénaga que es bien de uso público en el departamento",
-   "extracto": "Una resolución de la ANT devolvió al Estado buena parte de tres predios del gobernador en la Ciénaga El Vidrial. Él asegura que compró de buena fe.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/erasmo-zuleta-gobernador-de-cordoba-debe-devolver-tierras-de-una-cienaga-que-es-bien-de-uso-publico-en-el-departamento-3587435",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6aafffe035989.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-20T16:58:04Z"
-  },
-  {
-   "titulo": "Ministro de Ambiente reveló que grave incendio en cerro de San Marcos en Villa de Leyva 'habría sido provocado': lo que se sabe de las causas",
-   "extracto": "La emergencia en Villa de Leyva ha movilizado a organismos de socorro, autoridades departamentales y equipos aéreos.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/ministro-de-ambiente-revelo-que-grave-incendio-en-cerro-de-san-marcos-en-villa-de-leyva-habria-sido-provocado-lo-que-se-sabe-de-las-causas-3587447",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6aafe74a841c0.r_d.572-743-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-20T16:37:45Z"
-  },
-  {
-   "titulo": "Tatiana Calderón hizo un carrerón y triunfó en la Nascar Brasil: se convirtió en la primera mujer en ganar una prueba en su categoría",
-   "extracto": "La bogotana protagonizó una gran remontada tras salir de la posición 15.",
-   "enlace": "https://www.eltiempo.com/deportes/automovilismo/tatiana-calderon-hizo-un-carreron-y-triunfo-en-la-nascar-brasil-se-convirtio-en-la-primera-mujer-en-ganar-una-prueba-en-su-categoria-3587489",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab042e0b427c.r_d.625-407-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-20T20:35:00Z"
-  },
-  {
-   "titulo": "Colombia sigue ganando medallas en los Juegos Suramericanos, cerca de Argentina",
-   "extracto": "Brasil es líder con 69 oros.",
-   "enlace": "https://www.eltiempo.com/deportes/ciclo-olimpico/colombia-sigue-ganando-medallas-en-los-juegos-suramericanos-cerca-de-argentina-3587485",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6ab03fe6225a0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-20T20:27:19Z"
-  },
-  {
-   "titulo": "Fiscalía judicializa a madre y su pareja por presunta tortura a niño de 7 años en Barranquilla, quien habría sufrido graves lesiones",
-   "extracto": "Las dos mujeres fueron capturadas por hechos ocurridos entre 2024 y 2026; Fiscalía pidió cárcel y audiencia para decidir medida fue aplazada.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/fiscalia-judicializa-a-dos-mujeres-por-presunta-tortura-a-nino-de-7-anos-en-barranquilla-habria-sufrido-lesiones-graves-y-deformidad-permanente-3587442",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab006688cf28.r_d.348-166-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-20T16:22:01Z"
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-20T21:23:31Z"
   },
   {
    "titulo": "“Si hubiera sido paramilitar, lo habría sido de frente”: Uribe pide definir su situación por masacres en Antioquia",
@@ -193,26 +343,6 @@
    "fecha": "2026-09-20T16:13:19Z"
   },
   {
-   "titulo": "Se confirmó el rival de Selección Colombia en semifinal del Mundial Sub-20: ¡hora de la revancha!",
-   "extracto": "Tras los cuartos de final se conoció que el rival del elenco nacional será Corea del Sur, verdugo en la primera fase.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/se-confirmo-el-rival-de-seleccion-colombia-en-semifinal-del-mundial-sub-20-hora-de-la-revancha-3587482",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6aaff625da98b.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-20T19:53:42Z"
-  },
-  {
-   "titulo": "Kevin Mier comete error con Cruz Azul y le llueven críticas, justo antes de unirse a la Selección Colombia",
-   "extracto": "Acción desafortunada del portero en el partido contra Monterrey.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/kevin-mier-comete-error-con-cruz-azul-y-le-llueven-criticas-justo-antes-de-unirse-a-la-seleccion-colombia-3587479",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab034a10e883.r_d.838-280-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-20T19:48:56Z"
-  },
-  {
    "titulo": "\"Volver a donde todo empezó es algo muy simbólico\": Aczino habla de su llegada a FMS Colombia, sus rivales y el futuro de su carrera como freestyler",
    "extracto": "El MC mexicano, tricampeón mundial de Red Bull Batalla, regresa a Colombia para competir en la quinta temporada de FMS.",
    "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/volver-a-donde-todo-empezo-es-algo-muy-simbolico-aczino-habla-de-su-llegada-a-fms-colombia-sus-rivales-y-el-futuro-de-su-carrera-como-freestyler-3587477",
@@ -223,26 +353,6 @@
    "fecha": "2026-09-20T19:40:14Z"
   },
   {
-   "titulo": "Remco Evenepoel 'rompió el cronómetro': impresionante tras ganar el cuarto título mundial; Walter Vargas, el mejor colombiano",
-   "extracto": "El belga revalidó los últimos tres títulos que había conseguido.",
-   "enlace": "https://www.eltiempo.com/deportes/ciclismo/remco-evenepoel-rompio-el-cronometro-impresionante-tras-ganar-el-cuarto-titulo-mundial-walter-vargas-el-mejor-colombiano-3587473",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/09/21/68d0155615089.r_d.2447-654-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-20T19:29:40Z"
-  },
-  {
-   "titulo": "Juan Camilo 'Cucho' Hernández, fuera de Selección pero inspirado: vea gol en Real Betis",
-   "extracto": "El delantero abrió la cuenta en el empate contra Deportivo La Coruña, que logró el empate sobre la hora.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/juan-camilo-cucho-hernandez-fuera-de-seleccion-pero-inspirado-vea-gol-en-real-betis-3587475",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/05/12/6a03a6d248363.r_d.380-366-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-20T19:28:13Z"
-  },
-  {
    "titulo": "“Se creía intocable”: por orden de Abelardo, trasladan a Juan Carlos Abadía a cárcel sin ‘comodidades’",
    "extracto": "El presidente Abelardo de la Espriella pidió revisar los casos de políticos procesados por la justicia que permanecen en instalaciones policiales o guarniciones militares. Su…",
    "enlace": "https://www.elcolombiano.com/colombia/traslado-juan-carlos-abadia-carcel-exgobernador-valle-del-cauca-LO41295385",
@@ -251,16 +361,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-20T15:12:51Z"
-  },
-  {
-   "titulo": "Real Madrid lanzó un salvaje ataque contra el árbitro Miguel Ángel Ortiz y lo liquidó con duras acusaciones: 'Un pésimo arbitraje decidió el derbi'",
-   "extracto": "El club emitió un comunicado contra el juez central por las jugadas polémicas.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/real-madrid-lanzo-un-salvaje-ataque-contra-el-arbitro-miguel-angel-ortiz-y-lo-liquido-con-duras-acusaciones-un-pesimo-arbitraje-decidio-el-derbi-3587468",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab01892b9caa.r_d.546-282-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-20T18:31:36Z"
   },
   {
    "titulo": "Ordenan evacuar hoteles en Villa de Leyva ante avance del incendio forestal",
@@ -283,16 +383,6 @@
    "fecha": "2026-09-20T18:25:05Z"
   },
   {
-   "titulo": "Luis Díaz alivia las preocupaciones en Bayern con cerveza: así vivió el Oktoberfest",
-   "extracto": "El colombiano no ha tenido el mismo nivel de su primera temporada en Bundesliga y pasará la fecha Fifa trabajando en posibles soluciones.",
-   "enlace": "https://www.eltiempo.com/deportes/luis-diaz-alivia-las-preocupaciones-en-bayern-con-cerveza-asi-vivio-el-oktoberfest-3587467",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6ab021f7b6640.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-20T18:20:18Z"
-  },
-  {
    "titulo": "Reaparece extrabajadora de Zara, la de los zapatos de dotación, en procedimiento de desalojo por no pagar su arriendo",
    "extracto": "La joven que se volvió viral reapareció en redes sociales en una discusión con la Policía y la propietaria del inmueble donde vivía.",
    "enlace": "https://www.eltiempo.com/cultura/gente/reaparece-extrabajadora-de-zara-la-de-los-zapatos-de-dotacion-en-procedimiento-de-desalojo-por-no-pagar-su-arriendo-3587455",
@@ -311,16 +401,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-20T17:51:06Z"
-  },
-  {
-   "titulo": "José Mourinho rajó a diestra y siniestra del arbitraje en España tras la derrota del Real Madrid contra el Atlético de Madrid: 'Es todo muy extraño'",
-   "extracto": "El DT portugués ahora se expone a una sanción por sus palabras contra los árbitros. El Real Madrid perdió el derbi por 2-1.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/jose-mourinho-rajo-a-diestra-y-siniestra-del-arbitraje-en-espana-tras-la-derrota-del-real-madrid-contra-el-atletico-de-madrid-es-todo-muy-extrano-3587454",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab0181f0d5a2.r_d.706-117-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-20T17:46:39Z"
   },
   {
    "titulo": "Hallazgo histórico: compró una pintura por $95 mil pesos en una venta de garaje y resultó ser una obra surrealista de $788 millones",
@@ -343,46 +423,6 @@
    "fecha": "2026-09-20T17:28:21Z"
   },
   {
-   "titulo": "El Tour Colombia, la carrera más importante del país, volverá a realizarse en la última semana de enero de 2027",
-   "extracto": "Así lo confirmó la Federación Colombiana de Ciclismo.",
-   "enlace": "https://www.eltiempo.com/deportes/ciclismo/el-tour-colombia-la-carrera-mas-importante-del-pais-volvera-a-realizarse-en-la-ultima-semana-de-enero-de-3587449",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/02/09/65c67a10e7811.r_d.953-247-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-20T16:58:31Z"
-  },
-  {
-   "titulo": "Por primera vez en la historia de los premios Óscar, una producción hecha en el Vaticano aspira a ser nominada",
-   "extracto": "Se trata del corto documental 'Green Lava', un proyecto de 39 minutos sobre un joven italiano que vive con distrofia muscular de Duchenne.",
-   "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/por-primera-vez-en-la-historia-de-los-premios-oscar-una-produccion-hecha-en-el-vaticano-aspira-a-ser-nominada-3587448",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/20/6ab00ff8d81c0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-20T16:56:19Z"
-  },
-  {
-   "titulo": "Johnny Depp conquista China con sus pinturas: 'Terminaba un lienzo y simplemente lo guardaba en mi garaje'",
-   "extracto": "El actor acaba de inaugurar la exposición 'Figures of the Fringe', en Shanghái. La serie forma parte de 'A Bunch of Stuff', que ya pasó por Tokio.",
-   "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/johnny-depp-conquista-china-con-sus-pinturas-terminaba-un-lienzo-y-simplemente-lo-guardaba-en-mi-garaje-3587438",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/11/27/69287c2b11920.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-20T16:18:52Z"
-  },
-  {
-   "titulo": "'Bienvenido, amor de mi vida': Lina Tejeiro ya es mamá: así fue su embarazo y la llegada de Gael",
-   "extracto": "A través de su cuenta de Instagram, la actriz y creadora de contenido informó que su bebé había nacido días atrás.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/bienvenido-amor-de-mi-vida-lina-tejeiro-ya-es-mama-asi-fue-su-embarazo-y-la-llegada-de-gael-3587431",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6ab002ac2b918.r_d.616-130-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-20T16:04:15Z"
-  },
-  {
    "titulo": "Los tres hermanos coreanos que mantienen vivas en Medellín las recetas tradicionales coreanas",
    "extracto": "Sentados en una de las mesas redondas de 678 Korean BBQ, Daun, Sara y Jung Un Chung Park cuentan que en los días finales de su enfermedad su madre, Sae Ok Park, escribió en…",
    "enlace": "https://www.elcolombiano.com/cultura/comida-coreana-restaurante-medellin-historia-BA41272407",
@@ -391,16 +431,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-20T15:46:13Z"
-  },
-  {
-   "titulo": "Chile aprueba la categoría 'vino bajo alcohol': ¿qué hay detrás? / Una copa",
-   "extracto": "Las nuevas tendencias de consumo, especialmente en las nuevas generaciones, y la caída de las ventas de vino en el mundo, dos de las razones.",
-   "enlace": "https://www.eltiempo.com/cultura/gastronomia/chile-aprueba-la-categoria-vino-bajo-alcohol-que-hay-detras-una-copa-3587425",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/11/22/6740a1fcdd75a.r_d.474-908-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-20T15:38:42Z"
   },
   {
    "titulo": "Ordenan traslado de alias Firu tras videollamada con ‘Primo Gay’, revelada por el gobernador de Antioquia",
@@ -593,46 +623,6 @@
    "fecha": "2026-09-19T14:21:34Z"
   },
   {
-   "titulo": "Amor y Amistad 2026 en Colombia: cuándo es y qué hacer en Medellín y Antioquia",
-   "extracto": "Mañana se celebra el Día del Amor y la Amistad en Colombia. La fecha es una oportunidad para compartir en pareja o con amigos, con planes que van desde conciertos y actividades…",
-   "enlace": "https://www.elcolombiano.com/antioquia/amor-amistad-2026-colombia-cuando-es-que-hacer-medellin-antioquia-EA41273403",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/NPST/amor-y-amistad-2026-en-colombia-cuan_51657590_20260918201740.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-09-19T01:30:30Z"
-  },
-  {
-   "titulo": "Alcalde de Amagá, Antioquia, le regaló una cartilla ‘Nacho Lee’ a concejal en pleno debate: “por descontextualizado”",
-   "extracto": "El debate sobre el proyecto de adquisición de un predio para la construcción de una terminal de transporte de Amagá suscitó una particular molestia en el recito del Concejo de ese…",
-   "enlace": "https://www.elcolombiano.com/antioquia/tension-en-el-concejo-de-amaga-alcalde-le-entrego-un-libro-nacho-lee-al-concejal-leon-fabio-gaviria-BA41274126",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/535x300/0c0/0d0/center/11101/HNLX/amaga_51657764_20260918200448.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-09-19T01:21:35Z"
-  },
-  {
-   "titulo": "Denuncian la desaparición de un comunicador y defensor de derechos humanos en Anorí, Antioquia",
-   "extracto": "La desaparición de Julián Hincapié, comunicador comunitario y defensor de derechos humanos de Anorí, mantiene en alerta a sus familiares, amigos y a distintas organizaciones…",
-   "enlace": "https://www.elcolombiano.com/antioquia/julian-hincapie-denuncian-desaparicion-comunicador-anori-antioquia-FA41271316",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/416x300/0c0/0d0/center/11101/VXXB/julian-hincapie-desaparecido-anori_51656527_20260918182949.png",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-09-18T23:35:29Z"
-  },
-  {
-   "titulo": "Rionegro (Antioquia) tiene ruta del café en su centro histórico: estos son los establecimientos incluidos",
-   "extracto": "Rionegro no es el municipio más cafetero de Antioquia, pero huele a café. Su clima y la tradición paisa hacen que esta sea la bebida predilecta allí, y todo un motor del comercio…",
-   "enlace": "https://www.elcolombiano.com/antioquia/ruta-rionegro-cafe-con-historia-descubre-la-nueva-oferta-turistica-en-el-oriente-de-antioquia-IA41270019",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/JRLA/foto5_51655239_20260918184445.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-09-18T22:57:35Z"
-  },
-  {
    "titulo": "¿Por qué la JEP se tomó 9 años para sancionar a “Timochenko”, “Catatumbo” y otros jefes de las Farc?",
    "extracto": "Luego de nueve años de haber sido instalada, la Jurisdicción Especial de Paz (JEP) por fin inició las sanciones contra el antiguo secretariado de las Farc, por la toma de rehenes…",
    "enlace": "https://www.elcolombiano.com/colombia/jep-por-que-tardo-9-anos-sancion-jefes-secretariado-farc-timochenko-sandra-ramirez-CA41276466",
@@ -643,26 +633,6 @@
    "fecha": "2026-09-19T05:11:33Z"
   },
   {
-   "titulo": "¿Qué es la violencia vicaria? Uno de los elementos clave detrás del feminicidio de Ana Lucía González en Bogotá",
-   "extracto": "Otro caso de violencia vicaria estremece a Colombia. Para quien le sea ajeno o desconocido esa palabra, se trata de un tipo de violencia de género en el que un agresor o…",
-   "enlace": "https://www.elcolombiano.com/colombia/que-es-la-violencia-vicaria-uno-de-los-elementos-clave-detras-del-feminicidio-de-ana-lucia-gonzalez-en-bogota-PA41275208",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/FDNE/maltrato-infantil_51658349_20260918210449.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-19T02:25:58Z"
-  },
-  {
-   "titulo": "Amor y Amistad 2026 en Colombia: cuándo es y qué hacer en Medellín y Antioquia",
-   "extracto": "Mañana se celebra el Día del Amor y la Amistad en Colombia. La fecha es una oportunidad para compartir en pareja o con amigos, con planes que van desde conciertos y actividades…",
-   "enlace": "https://www.elcolombiano.com/colombia/amor-amistad-2026-colombia-cuando-es-que-hacer-medellin-antioquia-EA41273403",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/NPST/amor-y-amistad-2026-en-colombia-cuan_51657590_20260918201740.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-19T01:30:30Z"
-  },
-  {
    "titulo": "Dos técnicas culinarias perfectas para mejorar su sazón",
    "extracto": "Por Álvaro Molina @molinacocinero La cocina tiene su ciencia. Hoy volvemos a la clase de culinaria con dos técnicas muy útiles para la sazón del diario y cualquier emprendimiento…",
    "enlace": "https://www.elcolombiano.com/cultura/alvaro-molina-consejos-olla-a-presion-cocina-al-vapor-DA41276371",
@@ -671,46 +641,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-19T04:41:00Z"
-  },
-  {
-   "titulo": "¿Cuáles son las propuestas en el Congreso para cambiar la JEP? Van de recortarle plata a “dar garantías a militares”",
-   "extracto": "Eliminar la Jurisdicción Especial para la Paz (JEP) fue una de las propuestas de la campaña de Abelardo de la Espriella, quien calificó al tribunal de paz como uno de impunidad…",
-   "enlace": "https://www.elcolombiano.com/colombia/propuestas-congreso-para-cambiar-jep-recortarle-plata-garantias-militares-PA41270078",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/RILU/congreso-jep_51655580_20260918192112.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-19T00:30:33Z"
-  },
-  {
-   "titulo": "Este es el paquete de medidas que Minsalud tomó para atención de personas afectadas por el terremoto",
-   "extracto": "El Ministerio de Salud expidió el Decreto 1415 de 2026, mediante el cual estableció un conjunto de medidas para garantizar la continuidad de los servicios de salud en los…",
-   "enlace": "https://www.elcolombiano.com/colombia/paquete-medidas-minsalud-atencion-personas-afectadas-terremoto-FA41270948",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/PSCK/terremoto-colombia-getty_51650846_20260918184443.webp",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-19T00:02:32Z"
-  },
-  {
-   "titulo": "“Quería darse un chapuzón”: vaca embarazada cayó a una piscina en Bucaramanga y su rescate quedó en video",
-   "extracto": "Con un trípode especializado, un diferencial de tres toneladas y el trabajo de cinco bomberos, fue rescatada una vaca embarazada de aproximadamente 500 kilos que cayó…",
-   "enlace": "https://www.elcolombiano.com/colombia/vaca-embarazada-cayo-piscina-bucaramanga-video-GB41265553",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/WMBD/queria-darse-su-chapuzon-vaca-emba_51654263_20260918170748.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-18T22:22:55Z"
-  },
-  {
-   "titulo": "¿Desmontarán el programa de estímulos? Experta explica la situación del Ministerio de Cultura",
-   "extracto": "Durante esta semana, el programa de Estímulos del Ministerio de Cultura de Colombia está en la mitad de una discusión pública. Aunque las diferencias entre Yannai Kadamani, cabeza…",
-   "enlace": "https://www.elcolombiano.com/colombia/estimulo-y-ministerio-de-cultura-MB41266486",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/WKVM/diseno-sin-titulo-2026-09-18t170258-497_51652800_20260918170925.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-18T22:17:05Z"
   },
   {
    "titulo": "¿Su mascota merece protagonizar una historia? Parque Explora abrió concurso de cuentos",
@@ -771,26 +701,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-18T15:50:33Z"
-  },
-  {
-   "titulo": "Con ‘Agua’, Shakira y Maluma encendieron las redes al ritmo de un merengue sensual",
-   "extracto": "No hay dudas de que Shakira y Maluma se entienden a las mil maravillas dentro y fuera del escenario. De eso dan fe las canciones Chantaje , Trap y Clandestino y el rémix de La…",
-   "enlace": "https://www.elcolombiano.com/cultura/agua-cancion-de-shakira-y-maluma-HE41231035",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/LCVM/diseno-sin-titulo-2026-09-17t194223-478_51646806_20260917200418.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-18T01:11:18Z"
-  },
-  {
-   "titulo": "“La Cuadra es un antes y después en mi vida”: Gilmer Mesa celebra 10 años de su primera novela",
-   "extracto": "La Cuadra está cumpliendo 10 años, y Gilmer Mesa, su autor tiene todo por celebrar. El libro, que cuenta el día más triste de su vida, hizo posible el día más feliz de su vida…",
-   "enlace": "https://www.elcolombiano.com/cultura/la-cuadra-gilmer-mesa-10-anos-nueva-edicion-novela-medellin-FF41225462",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/BVHO/lacuadragilmermesaaniversario10anos_51643515_20260917180351.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-17T23:10:01Z"
   },
   {
    "titulo": "La uruguaya Fernanda Trías en la Fiesta del Libro y los cuentos que nacen de las ausencias que duelen",
