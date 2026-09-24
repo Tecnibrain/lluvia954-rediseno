@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-09-24T04:46:28.674008Z",
- "total": 134,
+ "actualizado": "2026-09-24T11:42:21.192302Z",
+ "total": 135,
  "noticias": [
   {
    "titulo": "Un contrato de acueducto inconcluso enreda al alcalde Anorí, en Antioquia, y a otros tres exfuncionarios",
@@ -11,6 +11,66 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-09-24T03:31:34Z"
+  },
+  {
+   "titulo": "Grupo criminal 'Los Pachenca' anunció fin del paro armado en Magdalena y La Guajira este viernes 25 de septiembre tras la muerte de alias Cholo",
+   "extracto": "La ofensiva de esta organización delincuencial comenzó tras conocerse la muerte de alias Cholo.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/grupo-criminal-los-pachenca-anuncio-fin-del-paro-armado-en-magdalena-y-la-guajira-este-viernes-25-de-septiembre-tras-la-muerte-de-alias-cholo-3588496",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/05/6a4aed0d061d5.r_d.915-285-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T11:01:53Z"
+  },
+  {
+   "titulo": "Joven que fue víctima de un hecho de intolerancia en inmediaciones de Soacha contó lo ocurrido: 'Me golpearon y me robaron el celular'",
+   "extracto": "El hombre señaló que lo agredieron con 'cascos, puños, patadas' y además le robaron 900.000 pesos en efectivo.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/joven-que-fue-victima-de-un-hecho-de-intolerancia-en-inmediaciones-de-soacha-conto-lo-ocurrido-me-golpearon-y-me-robaron-el-celular-3588362",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/23/6ab43c05033b7.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T11:01:41Z"
+  },
+  {
+   "titulo": "¿Hay relación entre el enjambre sísmico de Chocó y el registrado en Chaparral, Tolima? SGC explicó las seguidillas de temblores que se han presentado",
+   "extracto": "El director de la entidad, Amat Zuluaga Guerra, amplió la información sobre la evolución de las denominadas secuencias sísmicas que se han registrado.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/hay-relacion-entre-el-enjambre-sismico-de-choco-y-el-registrado-en-chaparral-tolima-sgc-explico-las-seguidillas-de-temblores-que-se-han-presentado-3588459",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/23/6ab4926908e1f.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T10:55:52Z"
+  },
+  {
+   "titulo": "Arde la Costa: Abelardo, con pistola al cinto, enfrenta crisis de seguridad en Santa Marta",
+   "extracto": "“Se los notifico con absoluta claridad”, la frase que suena a epitafio hace parte del discurso del presidente Abelardo de la Espriella para referirse a los grupos criminales: un…",
+   "enlace": "https://www.elcolombiano.com/colombia/arde-la-costa-abelardo-con-pistola-al-cinto-enfrenta-crisis-de-seguridad-en-santa-marta-IE41458415",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/GTEC/santa-marta-militarizada_51713205_20260923215248.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T10:47:21Z"
+  },
+  {
+   "titulo": "Grave incendio en Villa de Leyva hoy, 24 de septiembre: 12 cuerpos de bomberos, Policía Nacional, Cruz Roja, BRIAD y DCC atienden la emergencia",
+   "extracto": "Siga aquí el minuto a minuto con las últimas noticias sobre esta crisis, que se presenta desde el pasado sábado 19 de septiembre.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/grave-incendio-en-villa-de-leyva-hoy-24-de-septiembre-12-cuerpos-de-bomberos-policia-nacional-cruz-roja-briad-y-dcc-atienden-la-emergencia-3588502",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/22/6ab2ec976258c.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T10:26:11Z"
+  },
+  {
+   "titulo": "Temblor en Colombia | Reportan seguidilla de sismos durante la madrugada del 24 de septiembre; el mayor fue de magnitud 3,6: profundidad y detalles",
+   "extracto": "El Servicio Geológico Colombiano entregó el informe de los movimientos telúricos.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-seguidilla-de-sismos-durante-la-madrugada-del-24-de-septiembre-el-mayor-fue-de-magnitud-3-6-profundidad-y-detalles-3588497",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab4e3f869284.r_d.188-225-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T10:20:00Z"
   },
   {
    "titulo": "Las bacterias de los árboles de mango podrían ayudar a limpiar el aire contaminado de Medellín",
@@ -33,6 +93,56 @@
    "fecha": "2026-09-24T00:18:15Z"
   },
   {
+   "titulo": "Atención conductores en Bucaramanga: así funciona el pico y placa este jueves 24 de septiembre de 2026",
+   "extracto": "La capital santandereana mantiene este jueves la rotación vigente para el tercer trimestre del año.",
+   "enlace": "https://www.eltiempo.com/colombia/santander/atencion-conductores-en-bucaramanga-asi-funciona-el-pico-y-placa-este-jueves-24-de-septiembre-de-3588372",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/11/02/6543c2769e8de.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T07:30:00Z"
+  },
+  {
+   "titulo": "Pico y placa en Pereira: así aplica la restricción este jueves 24 de septiembre de 2026 para particulares, híbridos y eléctricos",
+   "extracto": "​Los conductores deben tener en cuenta que la restricción aplica desde las 8:00 a. m. hasta las 6:00 p. m.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pico-y-placa-en-pereira-asi-aplica-la-restriccion-este-jueves-24-de-septiembre-de-2026-para-particulares-hibridos-y-electricos-3588368",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/03/11/65ef047f8186e.r_d.475-237-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T07:30:00Z"
+  },
+  {
+   "titulo": "Así opera el pico y placa en Cali para este jueves 24 de septiembre de 2026: horarios y vehículos con restricción",
+   "extracto": "La restricción para vehículos particulares funciona desde las 6:00 a. m. hasta las 7:00 p. m.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/asi-opera-el-pico-y-placa-en-cali-para-este-jueves-24-de-septiembre-de-2026-horarios-y-vehiculos-con-restriccion-3588342",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/05/23/664f397ec683d.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T07:30:00Z"
+  },
+  {
+   "titulo": "¡Ojo, conductor! Pico y placa en Medellín para este jueves 24 de septiembre de 2026: así aplica la restricción",
+   "extracto": "La medida funciona entre las 5:00 a. m. y las 8:00 p. m., de acuerdo con la rotación vigente para el segundo semestre del año.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/ojo-conductor-pico-y-placa-en-medellin-para-este-jueves-24-de-septiembre-de-2026-asi-aplica-la-restriccion-3588340",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/04/04/642c0de77e955.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T07:30:00Z"
+  },
+  {
+   "titulo": "América se aleja en el liderato de la Liga: derrotó a Águilas Doradas en el Pascual Guerrero",
+   "extracto": "El equipo escarlata es puntero sólido y en solitario.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/america-se-aleja-en-el-liderato-de-la-liga-derroto-a-aguilas-doradas-en-el-pascual-guerrero-3588489",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/23/6ab48f30bd97f.r_d.673-256-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-24T11:00:34Z"
+  },
+  {
    "titulo": "Fueron 29 los lesionados en el accidente de bus en la vía Medellín-Puerto Berrío que se fue a un abismo",
    "extracto": "Un grave accidente de un bus, el segundo en dos días, ocurrió en la mañana de este miércoles en la vía Medellín-Puerto Berrío, luego de que el vehículo que cubría la ruta entre…",
    "enlace": "https://www.elcolombiano.com/antioquia/accidente-bus-via-medellin-puerto-berrio-septiembre-2026-que-paso-LA41415097",
@@ -41,26 +151,6 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-09-23T21:12:15Z"
-  },
-  {
-   "titulo": "Joven que fue víctima de un hecho de intolerancia en inmediaciones de Soacha contó lo ocurrido: 'Me golpearon y me robaron el celular'",
-   "extracto": "El hombre señaló que lo agredieron con 'cascos, puños, patadas' y además le robaron 900.000 pesos en efectivo.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/joven-que-fue-victima-de-un-hecho-de-intolerancia-en-inmediaciones-de-soacha-conto-lo-ocurrido-me-golpearon-y-me-robaron-el-celular-3588362",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/23/6ab43c05033b7.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T04:14:08Z"
-  },
-  {
-   "titulo": "Fuerte temblor en Colombia | SGC reporta nuevo sismo de magnitud mayor a 4 en Tolima durante la noche de este 23 de septiembre: se sintió en Pereira",
-   "extracto": "En los últimos días se ha registrado una seguidilla de movimientos telúricos en Chaparral. Esto dice el boletín oficial.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-sgc-reporta-nuevo-sismo-de-magnitud-mayor-a-4-en-tolima-este-23-de-septiembre-se-sintio-en-pereira-y-otras-ciudades-3588484",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/10/6a79ebd1c1b57.r_d.301-165-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T04:09:59Z"
   },
   {
    "titulo": "Alcalde de Dosquebradas denuncia que fue víctima de estafa tras falsas promesas de ayudas por el terremoto: se hicieron pasar por un senador",
@@ -93,6 +183,16 @@
    "fecha": "2026-09-23T18:56:58Z"
   },
   {
+   "titulo": "¿Por qué menos jóvenes se inscriben para entrar a la Universidad Nacional?",
+   "extracto": "Expectativas distintas y carreras más largas de lo que las familias quieren: esas son algunas de las razones que expertos señalan para explicar por qué cada vez menos jóvenes…",
+   "enlace": "https://www.elcolombiano.com/colombia/por-que-menos-jovenes-se-inscriben-para-entrar-a-la-universidad-nacional-HE41458528",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/YDAE/aspirantes-unal-1_51713276_20260923220845.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-24T02:55:15Z"
+  },
+  {
    "titulo": "Comisiones económicas aprueban el Presupuesto de 2027: esto sigue en el Congreso",
    "extracto": "Las comisiones económicas del Congreso de la República aprobaron en la noche de este miércoles, en primer debate, el proyecto de ley del presupuesto general de la nación…",
    "enlace": "https://www.elcolombiano.com/colombia/comisiones-economicas-aprueban-presupuesto-2027-congreso-ME41458163",
@@ -123,16 +223,6 @@
    "fecha": "2026-09-24T02:19:12Z"
   },
   {
-   "titulo": "Los casos de presunta corrupción durante la Alcaldía de Daniel Quintero en Medellín bajo la lupa del grupo especializado designado por la Fiscalía",
-   "extracto": "El ente acusador hizo el anuncio durante la audiencia de solicitud de medida de aseguramiento contra Miguel Quintero y Sebastián Ortega.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/los-casos-de-presunta-corrupcion-durante-la-alcaldia-de-daniel-quintero-en-medellin-bajo-la-lupa-del-grupo-especializado-designado-por-la-fiscalia-3588045",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/22/6ab2db5ac5893.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T02:01:00Z"
-  },
-  {
    "titulo": "Corte Constitucional elimina la excepción que permitía la tracción animal para actividades turísticas: ¿cuándo empieza a regir?",
    "extracto": "La Corte Constitucional declaró este miércoles, 23 de septiembre de 2026, la inexequibilidad de la expresión “actividades turísticas” contenida en el parágrafo del artículo 2 de…",
    "enlace": "https://www.elcolombiano.com/colombia/corte-constitucional-prohibe-traccion-animal-actividades-turisticas-DE41457141",
@@ -141,16 +231,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-24T01:30:46Z"
-  },
-  {
-   "titulo": "Persecución en contravía y cargamento abandonado: así cayó un envío de marihuana avaluado en $ 574 millones en vía del Valle del Cauca",
-   "extracto": "El estupefaciente fue hallado en un vehículo abandonado por su conductor tras una persecución policial en la vía Villarrica-Palmira.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/persecucion-en-contravia-y-cargamento-abandonado-asi-cayo-un-envio-de-marihuana-avaluado-en-574-millones-en-via-del-valle-del-cauca-3588466",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/23/6ab476e43755e.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T01:17:45Z"
   },
   {
    "titulo": "José Manuel Restrepo se reunió con el secretario general de la ONU, António Guterres; ¿de qué hablaron?",
@@ -193,26 +273,6 @@
    "fecha": "2026-09-23T23:38:43Z"
   },
   {
-   "titulo": "América se aleja en el liderato de la Liga: derrotó a Águilas Doradas en el Pascual Guerrero",
-   "extracto": "El equipo escarlata es puntero sólido y en solitario.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/america-se-aleja-en-el-liderato-de-la-liga-derroto-a-aguilas-doradas-en-el-pascual-guerrero-3588489",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/23/6ab48f30bd97f.r_d.673-256-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-24T03:26:56Z"
-  },
-  {
-   "titulo": "Santa Marta busca recuperar la normalidad tras dos días de tensión: alcalde defiende refuerzo militar y pide al comercio reabrir sus puertas",
-   "extracto": "En entrevista exclusiva con EL TIEMPO, el alcalde de Santa Marta, Carlos Pinedo, le dijo a los ciudadanos que no están solos y tendrán apoyo.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/santa-marta-busca-recuperar-la-normalidad-tras-dos-dias-de-tension-alcalde-defiende-refuerzo-militar-y-pide-al-comercio-reabrir-sus-puertas-3588438",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/23/6ab3da561da05.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-23T23:20:00Z"
-  },
-  {
    "titulo": "Nacional vs. Millonarios: un nuevo capítulo del duelo de la máxima rivalidad en la Liga",
    "extracto": "Se enfrentan este jueves en el Atanasio Girardot, en la fecha 12.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/nacional-vs-millonarios-un-nuevo-capitulo-del-duelo-de-la-maxima-rivalidad-en-la-liga-3588485",
@@ -223,16 +283,6 @@
    "fecha": "2026-09-24T03:19:45Z"
   },
   {
-   "titulo": "Procuraduría investiga a 20 docentes de planta de Unisucre por presuntas irregularidades en sueldos millonarios: esto es todo lo que se sabe",
-   "extracto": "Habrían pasado de ganar entre $12 y $13 millones a recibir hasta $90 millones mensuales por concepto de puntos de productividad académica.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/procuraduria-investiga-a-20-docentes-de-planta-de-unisucre-por-presuntas-irregularidades-en-sueldos-millonarios-el-rector-tambien-esta-salpicado-3588429",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/04/27/69efc8f6e0b1f.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-23T22:55:00Z"
-  },
-  {
    "titulo": "Deportivo Cali toma ventaja en la final de la Liga Femenina: sorprendió a Santa Fe y le ganó en la ida en Tunja",
    "extracto": "Las Leonas pagaron caro su mal primer tiempo y pierden el primer duelo. El sábado, la final en Palmaseca.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/deportivo-cali-toma-ventaja-en-la-final-de-la-liga-femenina-sorprendio-a-santa-fe-y-le-gano-en-la-ida-en-tunja-3588478",
@@ -241,16 +291,6 @@
    "categoria": "deportes",
    "etiqueta": "Deportes",
    "fecha": "2026-09-24T02:54:57Z"
-  },
-  {
-   "titulo": "Incendio en Villa de Leyva no da tregua, habitantes piden ayuda para contener el fuego: ‘Necesitamos más apoyo helicoportado en esta zona’",
-   "extracto": "Persisten focos activos en zonas de difícil acceso, mientras organismos de socorro mantienen las labores por tierra y aire.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/incendio-en-villa-de-leyva-no-da-tregua-habitantes-piden-ayuda-para-contener-el-fuego-necesitamos-mas-apoyo-helicoportado-en-esta-zona-3588422",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/23/6ab4553da4836.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-23T22:48:10Z"
   },
   {
    "titulo": "MinDefensa dice que “la amenaza en Santa Marta ya está controlada” y que van a “impedir que esto vuelva a suceder”",
@@ -283,16 +323,6 @@
    "fecha": "2026-09-24T02:05:41Z"
   },
   {
-   "titulo": "'Más se demoran en buscar repartirse el botín que en estar capturados': alcalde de Pasto defiende la gestión de seguridad en la ciudad",
-   "extracto": "Nicolás Toro resaltó que en lo corrido del año han desarticulado 14 bandas y capturado a más de 3.000 personas.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/mas-se-demoran-en-buscar-repartirse-el-botin-que-en-estar-capturados-alcalde-de-pasto-defiende-la-gestion-de-seguridad-en-la-ciudad-3588414",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/23/6ab449d0370a4.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-23T22:00:50Z"
-  },
-  {
    "titulo": "¿Es migrante en Colombia? Sena abre 400 cupos para certificar experiencia laboral; requisitos y cómo inscribirse",
    "extracto": "El Servicio Nacional de Aprendizaje (Sena) abrió 400 cupos para que personas migrantes de cualquier nacionalidad que viven en Colombia puedan certificar sus conocimientos…",
    "enlace": "https://www.elcolombiano.com/colombia/migrante-colombia-sena-cupos-certificar-experiencia-laboral-requisitos-inscribirse-DF41449875",
@@ -301,16 +331,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-23T21:52:26Z"
-  },
-  {
-   "titulo": "Tragedia en Aguachica (Cesar): un bus de Copetran cayó a una quebrada tras salirse de la vía dejando tres muertos y doce heridos",
-   "extracto": "El bus, con número interno 12450 y placas NTN-754, terminó al fondo de una quebrada después de precipitarse desde la estructura del puente.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/tragedia-en-aguachica-cesar-un-bus-de-copetran-cayo-a-una-quebrada-tras-salirse-de-la-via-dejando-tres-muertos-y-doce-heridos-3588413",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/23/6ab44cf704ed5.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-23T21:50:00Z"
   },
   {
    "titulo": "Hay 925 proyectos de agua potable y saneamiento básico de $14,8 billones desfinanciados: MinVivienda",
@@ -373,6 +393,16 @@
    "fecha": "2026-09-23T20:57:54Z"
   },
   {
+   "titulo": "Escenarios solidarios: un fin de semana de eventos para apoyar a las comunidades artísticas afectadas por el terremoto",
+   "extracto": "Este fin de semana, el Ministerio de las Culturas, a través del Centro Nacional de las Artes y su Red Nacional de Teatros y Escenarios Públicos y Patrimoniales, pondrá en marcha…",
+   "enlace": "https://www.elcolombiano.com/cultura/escenario-solidario-iniciativa-para-gestores-culturales-y-artistas-afectados-por-terremoto-CE41454798",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/532x300/0c0/0d0/center/11101/VQRJ/escenariossolidariosminculturaterremoto_51712680_20260923194259.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-24T00:52:13Z"
+  },
+  {
    "titulo": "América recibe a Águilas Doradas y busca afianzarse en el primer lugar de la Liga BetPlay: minuto a minuto",
    "extracto": "El partido corresponde a la fecha 12 del torneo y se juega en el estadio Pascual Guerrero.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/america-recibe-a-aguilas-doradas-y-busca-afianzarse-en-el-primer-lugar-de-la-liga-betplay-minuto-a-minuto-3588461",
@@ -391,6 +421,26 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-23T20:39:53Z"
+  },
+  {
+   "titulo": "Elías Roldán, el paisa en el Ballet del Teatro Nacional Serbio",
+   "extracto": "Elías Roldán empezó a practicar ballet a los cinco años. Lo hizo simplemente porque tenía amigos en la clase, que la daban en el colegio Jorge Robledo, pero no pensó en la…",
+   "enlace": "https://www.elcolombiano.com/cultura/elias-roldan-bailarin-colombiano-ballet-teatro-nacional-serbio-KE41453977",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/NHVV/eliasroldanbailarinballetpaisaenserbia_51712668_20260923185044.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-24T00:20:11Z"
+  },
+  {
+   "titulo": "Cirirí : así fue como el archivo de Fabiola Lalinde dio origen a un libro-objeto",
+   "extracto": "4.428 días pasaron desde que Luis Fernando Lalinde salió de su casa en Medellín hasta que su madre, Fabiola Lalinde, recibiera en cajas lo que había quedado de él. Esa búsqueda…",
+   "enlace": "https://www.elcolombiano.com/cultura/ciriri-libro-objeto-archivo-fabiola-lalinde-editorial-unal-AE41452233",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/IAXU/fabiola-lalinde-libro_51711574_20260923175430.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-24T00:12:03Z"
   },
   {
    "titulo": "Juez ordenó al MinAgricultura, Indalecio Dangond, ofrecer disculpas a campesinos; ¿por qué?",
@@ -681,6 +731,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-23T13:12:19Z"
+  },
+  {
+   "titulo": "Taylor Swift anuncia cuatro nuevas canciones de su álbum The Life of a Showgirl",
+   "extracto": "El ícono del pop Taylor Swift regresa con una sorpresa que sacudió por completo a sus fans. Swift anunció este miércoles, por medio de Instagram, que sacará cuatro nuevas…",
+   "enlace": "https://www.elcolombiano.com/cultura/taylor-swift-the-life-of-a-showgirl-cuatro-nuevas-canciones-cuales-son-IA41416592",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/NVLU/taylor-swift_51699220_20260923115056.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-23T16:52:23Z"
   },
   {
    "titulo": "Déficit fiscal de Colombia llegó a $76 billones a julio y ya suma 3,9% del PIB",
@@ -1103,26 +1163,6 @@
    "fecha": "2026-09-22T14:09:41Z"
   },
   {
-   "titulo": "Arranca la Asamblea de la ONU: las reuniones clave de Restrepo y su posible encuentro con Trump",
-   "extracto": "Empieza en Nueva York la sesión 81 de la Asamblea General de Naciones Unidas (ONU) . Se trata del evento más importante de la diplomacia mundial, que contará este año con la…",
-   "enlace": "https://www.elcolombiano.com/colombia/jose-manuel-restrepo-asamblea-general-naciones-unidas-onu-reuniones-LA41366962",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/NPKT/jose-manuel-restrepo-asamblea-genera_51678304_20260922082849.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-22T13:29:44Z"
-  },
-  {
-   "titulo": "UNP retira los esquema de seguridad a los integrantes del denominado “gabinete” de la oposición",
-   "extracto": "La Unidad Nacional de Protección (UNP), bajo la dirección de Didier Blanco, notificó la suspensión y retiro de los esquemas de seguridad a un nutrido grupo de antiguos altos…",
-   "enlace": "https://www.elcolombiano.com/colombia/unp-retira-esquema-de-seguridad-altos-funcionarios-gabinete-petro-por-que-CA41367115",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/GEQO/unp-gabinete-de-la-vida-esquemas-de_51678321_20260922080815.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-22T12:43:11Z"
-  },
-  {
    "titulo": "“No más animales bomba”: proyecto de ley busca castigar su uso como armas de guerra en Colombia",
    "extracto": "Los animales utilizados para transportar explosivos o sometidos a la violencia del conflicto armado podrían tener un reconocimiento jurídico específico en Colombia. Un proyecto de…",
    "enlace": "https://www.elcolombiano.com/colombia/proyecto-ley-busca-castigar-uso-animales-bomba-armas-guerra-colombia-LA41367149",
@@ -1221,36 +1261,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-21T20:00:29Z"
-  },
-  {
-   "titulo": "Robbie Williams y su primera vez en Colombia: euforia colectiva para el gran “showman” que prometió volver",
-   "extracto": "Para definir carisma sobre el escenario hay un nombre que resuena y trasciende fronteras: Robbie Williams . Lo de “farmear aura” lo tiene el británico en las venas desde que pisó…",
-   "enlace": "https://www.elcolombiano.com/cultura/robbie-williams-primer-concierto-en-colombia-gira-america-latina-cronica-CG41308183",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/MSPT/robbie-williams-bogota-foto-claudia-arango_51666999_20260921010151.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-21T05:17:14Z"
-  },
-  {
-   "titulo": "Fiesta del Libro y la Cultura: 560.000 asistentes y las novedades que traerá la edición de 2027",
-   "extracto": "La Fiesta del Libro y la Cultura llegó a su fin. La edición número veinte del evento literario reunió a 560.000 asistentes, 60.000 más que en 2025, y registró ventas por más de…",
-   "enlace": "https://www.elcolombiano.com/cultura/fiesta-libro-medellin-asistentes-2026-LG41306049",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/478x300/0c0/0d0/center/11101/VYSW/imagen-feria-del-libro-c-1_51666603_20260920193903.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-21T00:38:51Z"
-  },
-  {
-   "titulo": "Seis vagones del Metro de Medellín rinden homenaje a León de Greiff",
-   "extracto": "No se entiende por qué, entre tantos heterónimos –identidades literarias ficticias creadas por un autor–, fue el nombre de León de Greiff el que tuvo mayor recordación, fuerza y…",
-   "enlace": "https://www.elcolombiano.com/cultura/leon-de-greiff-metro-de-medellin-LO41299147",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/PBDT/homenaje-a-leon-de-greiff-m-1_51663600_20260920184551.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-20T23:45:42Z"
   },
   {
    "titulo": "80 obras de Goya llegaron a Colombia para mostrar la cara más cruel de la guerra",
