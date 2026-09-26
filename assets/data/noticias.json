@@ -1,7 +1,17 @@
 {
- "actualizado": "2026-09-26T16:21:29.820381Z",
- "total": 122,
+ "actualizado": "2026-09-26T21:07:23.184969Z",
+ "total": 118,
  "noticias": [
+  {
+   "titulo": "¡Ojo! Por emergencia evacuaron alrededores del Parque de Sabaneta: esto se sabe",
+   "extracto": "Tremendo susto se llevaron esta mañana los habitantes del centro de Sabaneta luego de que, por una emergencia, los organismos de socorro ordenaran la evacuación de la zona aledaña…",
+   "enlace": "https://www.elcolombiano.com/antioquia/evacuan-parque-de-sabaneta-antioquia-emergencia-gas-KG41567278",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SDME/parque-1_51734585_20260926134226.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-09-26T17:47:17Z"
+  },
   {
    "titulo": "¡Atención! Aparatoso choque de tres vehículos dejó un camión volcado en vía de Caldas",
    "extracto": "Las autoridades viales de Caldas, al sur del Aburrá , dieron detalles del aparatoso accidente ocurrido esta mañana en la vía que lleva de Caldas al Alto de Minas. Según…",
@@ -13,24 +23,164 @@
    "fecha": "2026-09-26T14:47:29Z"
   },
   {
-   "titulo": "Asesinaron a subcomandante de la Policía de Bolívar, Cauca: habría sido obligado a bajar de un bus",
-   "extracto": "El teniente Álvaro José Medina Peña, comandante de la Estación de Policía de Bolívar, Cauca, fue asesinado mientras se movilizaba de civil en un bus de servicio público. De…",
-   "enlace": "https://www.elcolombiano.com/colombia/asesinaron-subcomandante-policia-bolivar-cauca-alvaro-jose-medina-bus-DG41564654",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/600x300/0c0/0d0/center/11101/OMKD/alvaro-medina_51734373_20260926111005.jpg",
+   "titulo": "'Reconstruir no es solo levantar paredes': el llamado a no invisibilizar el trabajo de cuidado en los hogares tras el devastador terremoto en Cali",
+   "extracto": "La Fundación WWB Colombia enfatiza en que el colapso y los daños obligan a las mujeres a duplicar jornadas domésticas.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/reconstruir-no-es-solo-levantar-paredes-el-llamado-a-no-invisibilizar-el-trabajo-de-cuidado-en-los-hogares-tras-el-devastador-terremoto-en-cali-3589210",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/26/6ab826de0910e.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T20:22:38Z"
+  },
+  {
+   "titulo": "De la Espriella designa a Beatriz Vélez como nueva presidenta de Colpensiones",
+   "extracto": "El presidente Abelardo de la Espriella anunció este sábado, 26 de septiembre, la designación de Beatriz Eugenia Vélez Vengoechea como nueva presidenta de Colpensiones. La…",
+   "enlace": "https://www.elcolombiano.com/colombia/beatriz-velez-vengoechea-nueva-presidenta-colpensiones-FH41570656",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/MSLH/beatriz_51735084_20260926150547.jpg",
    "fuente": "El Colombiano",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-09-26T16:14:26Z"
+   "fecha": "2026-09-26T20:06:18Z"
+  },
+  {
+   "titulo": "Asesinan al subcomandante de la Policía de Bolívar, Cauca: habría sido obligado a bajar de un bus de transporte público mientras viajaba de civil",
+   "extracto": "Viajaba hacia el corregimiento de El Bordo, en el municipio de Patía.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/asesinan-al-subcomandante-de-la-policia-de-bolivar-cauca-habria-sido-obligado-a-bajar-de-un-bus-de-transporte-publico-mientras-viajaba-de-civil-3589206",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab820b2c0b53.r_d.611-297-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T19:55:45Z"
+  },
+  {
+   "titulo": "Videos | El operativo para encontrar sano y salvo a un menor que estuvo desaparecido en Medellín, permitiendo el conmovedor reencuentro con la mamá",
+   "extracto": "La madre habló luego de que su hijo fue localizado ileso por las autoridades de la capital antioqueña.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/videos-el-operativo-para-encontrar-sano-y-salvo-a-un-menor-que-estuvo-desaparecido-en-medellin-permitiendo-el-conmovedor-reencuentro-con-la-mama-3589201",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/26/6ab81de71a864.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T19:42:15Z"
+  },
+  {
+   "titulo": "¿Descargas eléctricas y golpes de la policía causaron la muerte de Donovan Balanta en Soacha? Las piezas para esclarecer qué pasó",
+   "extracto": "La escena que ahora intentan reconstruir las autoridades comienza con una riña en Caracolí, en la zona limítrofe entre Bogotá y Soacha, y termina horas después con Donovan Balanta…",
+   "enlace": "https://www.elcolombiano.com/colombia/muerte-donovan-balanta-soacha-policia-pelea-CG41569812",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/QEFD/blob-https-web-whatsapp-com-061b83_51734893_20260926141316.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T19:13:11Z"
+  },
+  {
+   "titulo": "Asesinaron a un hombre en el sur de Cali y ya fue identificado: quedó muerto en su camioneta y la comunidad casi lincha a uno de los dos sicarios",
+   "extracto": "El presunto delincuente fue capturado, luego de que la población por poco lo lincha tras el crimen en la autopista Simón Bolívar con carrera 86.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/asesinaron-a-un-hombre-en-el-sur-de-cali-y-ya-fue-identificado-quedo-muerto-en-su-camioneta-y-la-comunidad-casi-lincha-a-uno-de-los-dos-sicarios-3589195",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2021/11/25/619fb8823359d.r_d.641-439-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T18:40:25Z"
+  },
+  {
+   "titulo": "Murió el menor que ingresó armado a un colegio de Medellín y realizó varios disparos: estuvo dos semanas hospitalizado",
+   "extracto": "La víctima fue trasladada de urgencia a la clínica Sagrado Corazón y luego remitida a un centro hospitalario de alta complejidad.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/murio-el-menor-que-ingreso-armado-a-un-colegio-de-medellin-y-realizo-varios-disparos-estuvo-dos-semanas-hospitalizado-3589190",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/06/11/666873a165ade.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T18:19:59Z"
+  },
+  {
+   "titulo": "Presidente Abelardo De La Espriella ordena 'vigilar de inmediato' la Universidad de Pamplona: 'Hay denuncias sobre manejos contractuales'",
+   "extracto": "La Ministra de Educación, Ilva Miryam Hoyos, deberá ejercer labores de inspección y vigilancia sobre la institución.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/presidente-abelardo-de-la-espriella-ordena-vigilar-de-inmediato-la-universidad-de-pamplona-hay-denuncias-sobre-manejos-contractuales-3589192",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab8055873dd7.r_d.508-294-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T18:08:30Z"
+  },
+  {
+   "titulo": "Video: En lujosa vivienda capturan a alias ‘El Mexicano’, señalado enlace del cartel de Jalisco Nueva Generación y ‘la mexican mafia en Colombia",
+   "extracto": "Es requerido por la DEA que lo vincula desde el 2015 como un integrante activo de la 'Mexican Mafia' (La Eme).",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/video-en-lujosa-vivienda-capturan-a-alias-el-mexicano-senalado-enlace-del-cartel-de-jalisco-nueva-generacion-y-la-mexican-mafia-en-colombia-3589186",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab8002ab4f4c.r_d.416-114-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T17:49:13Z"
+  },
+  {
+   "titulo": "Diagnóstico de la criminalidad en las comunas de Cali donde se puso en marcha la Operación Iron, el primer bloque de seguridad urbana del país",
+   "extracto": "Análisis de Cali Cómo Vamos de las seis comunas y 15 barrios donde el presidente Abelardo De La Espriella ordenó intervención con autoridades locales.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/diagnostico-de-la-criminalidad-en-las-comunas-de-cali-donde-se-puso-en-marcha-la-operacion-iron-el-primer-bloque-de-seguridad-urbana-del-pais-3589179",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab5650d852f6.r_d.897-826-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T17:22:01Z"
+  },
+  {
+   "titulo": "Van 330 capturas por extorsión y más de $3.000 millones en pagos frustrados en Barranquilla",
+   "extracto": "La extorsión es uno de los delitos priorizados por las autoridades en Barranquilla y los municipios cercanos. En lo que va de 2026, los operativos del Gaula han dejado 330…",
+   "enlace": "https://www.elcolombiano.com/colombia/barranquilla-capturas-extorsion-pagos-frustrados-delincuentes-cifras-MG41564549",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/LYJT/van-330-capturas-por-extorsion-y-mas_51734367_20260926115734.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T17:08:24Z"
+  },
+  {
+   "titulo": "Más de $28 mil millones en pérdidas deja el segundo paro armado en lo que va del año en el sector empresarial de La Guajira",
+   "extracto": "La Cámara de Comercio de La Guajira estima que 21.226 negocios resultaron afectados durante las jornadas del 22 y 23 de septiembre.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/mas-de-28-mil-millones-en-perdidas-deja-el-segundo-paro-armado-en-lo-que-va-del-ano-en-el-sector-empresarial-de-la-guajira-3589182",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/26/6ab7f68997629.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T17:01:15Z"
+  },
+  {
+   "titulo": "España arranca con paso firme en la Liga de Naciones, con victoria clave de visita a Inglaterra",
+   "extracto": "Se enfrentaron este sábado en la primera jornada.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/espana-arranca-con-paso-firme-en-la-liga-de-naciones-con-victoria-clave-de-visita-a-inglaterra-3589221",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/26/6ab82d9df377c.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-26T20:49:21Z"
+  },
+  {
+   "titulo": "Asesinaron a subcomandante de la Policía de Bolívar, Cauca: habría sido obligado a bajar de un bus",
+   "extracto": "El teniente Álvaro José Medina Peña, comandante de la Estación de Policía de Bolívar, Cauca, fue asesinado mientras se movilizaba de civil en un bus de servicio público. De…",
+   "enlace": "https://www.elcolombiano.com/colombia/asesinaron-subcomandante-policia-bolivar-cauca-alvaro-jose-medina-bus-DG41564654",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/600x300/0c0/0d0/center/11101/IMKD/alvaro-medina_51734373_20260926115205.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-26T16:30:44Z"
+  },
+  {
+   "titulo": "Demi Vollering se proclamó campeona de la prueba de ruta femenina en el Mundial de ciclismo: así le fue a la colombiana Paula Patiño",
+   "extracto": "La neerlandesa coronó un año soñado ganando en Montreal. Patiño, la única colombiana que culminó la prueba llena de dramatismo por una caída.",
+   "enlace": "https://www.eltiempo.com/deportes/ciclismo/demi-vollering-se-proclamo-campeona-de-la-prueba-de-ruta-femenina-en-el-mundial-de-ciclismo-asi-le-fue-a-la-colombiana-paula-patino-3589215",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab829e4e986c.r_d.899-280-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-26T20:27:29Z"
   },
   {
    "titulo": "ICE arrestó a 7.157 colombianos en siete meses, uno cada 43 minutos en EE. UU.",
    "extracto": "Un colombiano fue detenido por agentes del Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE) cada 43 minutos, en promedio, durante los primeros siete meses de…",
    "enlace": "https://www.elcolombiano.com/colombia/ice-cifra-detenciones-colombianos-gobierno-trump-LG41562382",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/DULT/immigration-and-customs-enforcement_51734176_20260926103214.webp",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/WULT/immigration-and-customs-enforcement_51734176_20260926114711.webp",
    "fuente": "El Colombiano",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-09-26T15:42:12Z"
+   "fecha": "2026-09-26T15:48:30Z"
   },
   {
    "titulo": "Incendio en páramo de Las Hermosas, en Valle, cumple 50 días y destruye 2.000 hectáreas: 'Si dejamos avanzar el fuego, se afectará suministro de agua'",
@@ -43,14 +193,54 @@
    "fecha": "2026-09-26T15:33:14Z"
   },
   {
-   "titulo": "El misterio que rodea el asesinato del teniente Álvaro José Medina, subcomandante de la estación de la Policía de Bolívar, en el sur del Cauca",
-   "extracto": "El oficial viajaba vestido de civil en un bus de servicio público hacia El Bordo cuando, presuntamente, fue interceptado por hombres armados.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/el-misterio-que-rodea-el-asesinato-del-teniente-alvaro-jose-medina-subcomandante-de-la-estacion-de-la-policia-de-bolivar-en-el-sur-del-cauca-3589168",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab7dd47e760d.r_d.928-258-0.jpeg",
+   "titulo": "Periodista peruano explotó contra camarógrafo en vivo; reaccionó con burlas a la crítica: 'Qué pena que contraten cualquier cosa'",
+   "extracto": "Tras interrumpir la transmisión y pedirle a la reportera que cambie de camarógrafo, Augusto Thorndike respondió con ironía a las críticas.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/periodista-peruano-exploto-contra-camarografo-en-vivo-reacciono-con-burlas-a-la-critica-que-pena-que-contraten-cualquier-cosa-3589202",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab816979aaeb.r_d.730-129-1.png",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T15:00:44Z"
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-26T19:04:34Z"
+  },
+  {
+   "titulo": "¡Colombia fue tercera en el Mundial Sub-20! Penaltis de infarto y Agudelo, heroína nacional",
+   "extracto": "El equipo nacional aguantó, repuntó, soñó y batalló de principio a fin para lograr histórica posición en la categoría.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/colombia-tercera-del-mundo-en-el-mundial-sub-20-penaltis-de-infarto-y-agudelo-heroina-nacional-3589184",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab807342bfcd.r_d.1752-356-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-26T19:02:52Z"
+  },
+  {
+   "titulo": "La Selección Colombia venció a Italia en los penaltis y se quedó con el tercer lugar del Mundial Femenino Sub-20: reviva el minuto a minuto",
+   "extracto": "Luisa Agudelo se hizo gigante en la definición y le permitió a la Selección terminar en el podio.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/colombia-vs-italia-la-seleccion-se-juega-el-tercer-lugar-en-el-podio-del-mundial-femenino-sub-20-siga-aca-el-minuto-a-minuto-3589176",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa2edd42b5e0.r_d.547-240-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-26T18:54:53Z"
+  },
+  {
+   "titulo": "Kylian Mbappé vuelve al Real Madrid lesionado: revelan el parte médico de la estrella de Francia y el tiempo de baja",
+   "extracto": "El galo marcó en la victoria de Francia contra Turquía. Tras anotar, sintió un dolor en la rodilla y fue reemplazado.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/kylian-mbappe-vuelve-al-real-madrid-lesionado-revelan-el-parte-medico-de-la-estrella-de-francia-y-el-tiempo-de-baja-3589193",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab80cef3cc95.r_d.702-119-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-26T18:23:30Z"
+  },
+  {
+   "titulo": "Cabezas alegró a Colombia vs. Italia, en duelo por tercer lugar del Mundial Femenino Sub-20: vea los goles",
+   "extracto": "El inicio de las colombianas en el partido por el tercer lugar fue difícil, pero poco a poco se desequilibró.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/cabezas-alegro-a-colombia-vs-italia-en-duelo-por-tercer-lugar-del-mundial-femenino-sub-20-vea-los-goles-3589194",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/20/6aaff62a16de7.r_d.899-473-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-26T18:20:17Z"
   },
   {
    "titulo": "Secuencia de sismos sacudió a Chaparral, Tolima, este sábado: el mayor fue de magnitud 4,5",
@@ -63,44 +253,44 @@
    "fecha": "2026-09-26T14:18:18Z"
   },
   {
-   "titulo": "Fuerte balacera deja tres heridos tras ataque a la Policía en Andes, Antioquia: entre las víctimas se encuentran un adolescente y un adulto mayor",
-   "extracto": "El hecho violento comenzó en la zona urbana del municipio y se trasladó al área rural, donde los delincuentes hirieron a civiles durante su huida.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/fuerte-balacera-deja-tres-heridos-tras-ataque-a-la-policia-en-andes-antioquia-dos-de-ellos-son-un-adolescente-y-un-adulto-mayor-3589151",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/10/28/690130ab14235.r_d.1513-532-0.png",
+   "titulo": "Lando Norris explota contra Franco Colapinto con salvaje rajada tras el choque en el GP de Azerbaiyán: 'No merece estar en la Fórmula 1'",
+   "extracto": "El actual campeón de Fórmula 1 atacó de frente al argentino. El británico pidió un drástico castigo.",
+   "enlace": "https://www.eltiempo.com/deportes/automovilismo/lando-norris-explota-contra-franco-colapinto-con-salvaje-rajada-tras-el-choque-en-el-gp-de-azerbaiyan-no-merece-estar-en-la-formula-3589188",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab807ff659f8.r_d.809-179-0.jpeg",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T14:03:58Z"
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-26T18:02:39Z"
   },
   {
-   "titulo": "Así fue el golpe contra banda en Medellín con nueve capturados, entre ellos cinco policías: 'No toleramos a los bandidos y tampoco a los corruptos'",
-   "extracto": "El alcalde de Medellín, Federico Gutiérrez, confirmó la captura de alias Gordo, coordinador de la estructura 'Cotranal', y de cinco uniformados.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/asi-fue-el-golpe-contra-banda-en-medellin-con-nueve-capturados-entre-ellos-cinco-policias-no-toleramos-a-los-bandidos-y-tampoco-a-los-corruptos-3589145",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab7c2987efd1.r_d.314-227-0.jpeg",
+   "titulo": "Bicarbonato con orégano: para qué sirve, cómo usarlo y qué recomiendan expertos en limpieza",
+   "extracto": "La mezcla de bicarbonato y orégano ayuda a neutralizar malos olores y perfumar clósets, alacenas y espacios poco ventilados.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/bicarbonato-con-oregano-para-que-sirve-como-usarlo-y-que-recomiendan-expertos-en-limpieza-3589189",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/26/6ab8024aafb7d.jpeg",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T13:21:39Z"
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-26T17:48:42Z"
   },
   {
-   "titulo": "Cartagena de Indias conmemora los 10 años de la firma de la paz: la tarde en que unos aviones Kfir surcaron el cielo cartagenero con fines pacifistas",
-   "extracto": "Cartagena de Indias conmemora los 10 años de la firma de la paz: así fue la tarde en que unos aviones Kfir surcaron el cielo cartagenero",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-de-indias-conmemora-los-10-anos-de-la-firma-de-la-paz-la-tarde-en-que-unos-aviones-kfir-surcaron-el-cielo-cartagenero-con-fines-pacifistas-3589143",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/26/6ab7be81397d8.jpeg",
+   "titulo": "Real Madrid de Linda Caicedo protagonizó una goleada ante Real Sociedad y se mantiene segundo en la Liga F de España",
+   "extracto": "Las madridistas se impusieron 5-3 en San Sebastián, llegaron a 12 puntos y siguen en el segundo puesto tras cinco fechas.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/real-madrid-de-linda-caicedo-protagonizo-una-goleada-ante-real-sociedad-y-se-mantiene-segundo-en-la-liga-f-de-espana-3589185",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/04/26/69ee8283bf527.r_d.451-511-0.jpeg",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T13:14:44Z"
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-26T17:13:51Z"
   },
   {
-   "titulo": "Frustran atentado en Jamundí, Valle: lo que se sabe del ataque de disidentes de Farc con explosivos en el sector de Las Piñas contra la Fuerza Pública",
-   "extracto": "Hombres en moto lanzaron artefactos contra los uniformados. Una de las cargas detonó y la otra no.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/frustran-atentado-en-jamundi-valle-lo-que-se-sabe-del-ataque-de-disidentes-de-farc-con-explosivos-en-el-sector-de-las-pinas-contra-la-fuerza-publica-3589141",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/11/09/672f5598b3e22.r_d.1321-295-0.jpeg",
+   "titulo": "Video | Brutal accidente en la prueba de ruta del Mundial de ciclismo en Montreal: 15 ciclistas se cayeron y una fue trasladada al hospital",
+   "extracto": "La prueba se llenó de nerviosismo tras la salvaje caída. La colombiana Paula Patiño salió ilesa.",
+   "enlace": "https://www.eltiempo.com/deportes/ciclismo/video-brutal-accidente-en-la-prueba-de-ruta-del-mundial-de-ciclismo-en-montreal-15-ciclistas-se-cayeron-y-una-fue-trasladada-al-hospital-3589181",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab7f405c5992.r_d.222-591-0.jpeg",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T12:40:48Z"
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-26T16:37:01Z"
   },
   {
    "titulo": "Cameron Diaz, la actriz que hizo de la naturalidad su mayor éxito en Hollywood",
@@ -113,16 +303,6 @@
    "fecha": "2026-09-26T16:01:00Z"
   },
   {
-   "titulo": "¿Dónde lloverá este fin de semana en Colombia? Ideam revela el pronóstico para el sábado 26 y domingo 27 de septiembre del 2026",
-   "extracto": "Las condiciones lluviosas se concentrarán especialmente en sectores de las regiones Caribe, Andina, Pacífica, Orinoquia y Amazonia.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/donde-llovera-este-fin-de-semana-en-colombia-ideam-revela-el-pronostico-para-el-sabado-26-y-domingo-27-de-septiembre-del-3589140",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab7ae840702c.r_d.775-158-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T11:56:10Z"
-  },
-  {
    "titulo": "¿Qué revela la 'teoría del carrito' sobre una persona? Esto plantea la psicología sobre un gesto común en los supermercados",
    "extracto": "María Escaplez señala que las personas pueden reconocerla como la conducta adecuada, a pesar de que no haya una sanción directa por no hacerlo.",
    "enlace": "https://www.eltiempo.com/cultura/gente/que-revela-la-teoria-del-carrito-sobre-una-persona-esto-plantea-la-psicologia-sobre-un-gesto-comun-en-los-supermercados-3589178",
@@ -131,26 +311,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-26T15:49:49Z"
-  },
-  {
-   "titulo": "Temblor en Colombia | Reportan sismo de magnitud 4,5 durante la madrugada de este sábado 26 de septiembre en Chaparral, Tolima: profundidad y detalles",
-   "extracto": "El Servicio Geológico Colombiano entregó el informe del movimiento telúrico.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-en-colombia-reportan-sismo-de-magnitud-4-5-durante-la-madrugada-de-este-sabado-26-de-septiembre-en-chaparral-tolima-profundidad-y-detalles-3589135",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab76c2fdd7bc.r_d.111-255-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T11:47:42Z"
-  },
-  {
-   "titulo": "Colombia vs. Italia: la Selección se juega el tercer lugar en el podio del Mundial Femenino Sub-20, siga acá el minuto a minuto",
-   "extracto": "La Selección Colombia busca un triunfo para firmar su mejor participación histórica en la cita orbital.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/colombia-vs-italia-la-seleccion-se-juega-el-tercer-lugar-en-el-podio-del-mundial-femenino-sub-20-siga-aca-el-minuto-a-minuto-3589176",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/10/6aa2edd42b5e0.r_d.547-240-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-26T15:42:55Z"
   },
   {
    "titulo": "Manchester City mantiene su pulso con la Premier League: respondió a las acusaciones en Inglaterra con un contundente mensaje",
@@ -163,16 +323,6 @@
    "fecha": "2026-09-26T15:22:40Z"
   },
   {
-   "titulo": "Primer examen en la era post James: Selección Colombia enfrenta a México con varias novedades y ensayos",
-   "extracto": "El técnico Néstor Lorenzo llamó a 15 nuevos jugadores a su proceso, buscando opciones en varias posiciones.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/primer-examen-en-la-era-post-james-seleccion-colombia-enfrenta-a-mexico-con-varias-novedades-y-ensayos-3589174",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/23/6a629cc73f3d0.r_d.1978-840-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-26T15:13:19Z"
-  },
-  {
    "titulo": "'A las personas les gustan los personajes profundamente humanos y con muchísimos defectos': Helen Mirren y Pierce Brosnan",
    "extracto": "Los actores hablaron de su regreso como Maeve y Conrad Harrigan en la segunda temporada de ‘MobLand’, en Paramount+.",
    "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/a-las-personas-les-gustan-los-personajes-profundamente-humanos-y-con-muchisimos-defectos-helen-mirren-y-pierce-brosnan-3588925",
@@ -181,16 +331,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-26T15:01:00Z"
-  },
-  {
-   "titulo": "George Russell conquistó el GP de Azerbaiyán en medio del caos total: le puso presión a Kimi Antonelli en la lucha por el Mundial de Fórmula 1",
-   "extracto": "El británico dominó de principio a fin en Bakú. Kimi Antonelli minimizó los daños y terminó de quinto.",
-   "enlace": "https://www.eltiempo.com/deportes/automovilismo/george-russell-conquisto-el-gp-de-azerbaiyan-en-medio-del-caos-total-le-puso-presion-a-kimi-antonelli-en-la-lucha-por-el-mundial-de-formula-3589154",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab7cde65aa54.r_d.498-72-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-26T13:53:23Z"
   },
   {
    "titulo": "Cinco concejales de Támesis denuncian amenazas de muerte tras votar en contra de un polémico crédito de la Alcaldía",
@@ -243,16 +383,6 @@
    "fecha": "2026-09-26T11:20:00Z"
   },
   {
-   "titulo": "Canalón de Timbiquí y Nueva Ola unen sus voces en concierto en Cali en el concierto ‘Arrullo Solidario’",
-   "extracto": "Con la voz maestra de Nidia Góngora y la frescura de Nueva Ola c ‘Arrullo Solidario’ se toma el Curador Club Social.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/canalon-de-timbiqui-y-nueva-ola-unen-sus-voces-en-concierto-en-cali-en-el-concierto-arrullo-solidario-3589134",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab763773f714.r_d.800-533-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T06:26:29Z"
-  },
-  {
    "titulo": "“¿Quién tiene interés en hacerle daño a Comfama?”: David Escobar",
    "extracto": "En 1954, cuando Colombia sufría la Violencia, un puñado de sindicalistas y empresarios se sentaron a conversar en Medellín. Y de esa charla entre la Unión de Trabajadores de…",
    "enlace": "https://www.elcolombiano.com/antioquia/david-escobar-habla-sobre-ataques-redes-contra-el-caja-de-compensacion-que-paso-AC41523434",
@@ -283,16 +413,6 @@
    "fecha": "2026-09-25T20:39:13Z"
   },
   {
-   "titulo": "Capturan a alias La Zenaida en Pereira: se conocen detalles de cómo actuaba la mujer para robar las viviendas de sus víctimas",
-   "extracto": "La detenida es señalada de pertenecer a una estructura delincuencial dedicada al hurto a residencias y deberá responder por el delito de hurto.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/capturan-a-alias-la-zenaida-en-pereira-se-conocen-detalles-de-como-actuaba-la-mujer-para-robar-las-viviendas-de-sus-victimas-3588988",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/25/6ab6dde710641.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T04:04:48Z"
-  },
-  {
    "titulo": "Embarazo adolescente cayó 9,4% en Antioquia: estas fueron las acciones para lograrlo",
    "extracto": "A las acciones de educación en salud sexual atribuyen las autoridades en Antioquia la reducción del 9,4% en los embarazos en personas de 10 a 19 años de edad, en 2025. El…",
    "enlace": "https://www.elcolombiano.com/antioquia/antioquia-reducen-embarazos-adolescentes-uraba-dane-HD41530160",
@@ -311,16 +431,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-26T01:30:00Z"
-  },
-  {
-   "titulo": "Maturana se rinde en elogios a James Rodríguez: 'ayudará a muchos acá en Nacional'",
-   "extracto": "El equipo verdolaga ha tenido minutos de la calidad de su flamante incorporación, que aún sigue en proceso de adaptación.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/maturana-se-rinde-en-elogios-a-james-rodriguez-ayudara-a-muchos-aca-en-nacional-3589133",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/25/6ab6543244f6c.r_d.660-223-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-26T05:19:25Z"
   },
   {
    "titulo": "Abelardo de la Espriella anuncia Bloque de Seguridad Urbana para Santa Marta: habrá más patrullajes y vigilancia aérea",
@@ -373,16 +483,6 @@
    "fecha": "2026-09-25T16:18:23Z"
   },
   {
-   "titulo": "Tabla de posiciones de la Liga BetPlay: Boyacá Chicó salió del descenso y Bucaramanga se trepó a los primeros lugares",
-   "extracto": "Once Caldas quedó en crisis tras la derrota de este viernes en Palogrande.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/tabla-de-posiciones-de-la-liga-betplay-boyaca-chico-salio-del-descenso-y-bucaramanga-se-trepo-a-los-primeros-lugares-3589130",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/25/6ab744a5d65a7.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-26T04:08:58Z"
-  },
-  {
    "titulo": "Luz recibió en Ciudad Bolívar una de las 1.000 casas reconstruidas tras el terremoto",
    "extracto": "Uno entre mil puede parecer una cifra menor, pero en esta ocasión representa un nuevo comienzo, alegría y la prueba de que la solidaridad organizada transforma vidas. Se trata de…",
    "enlace": "https://www.elcolombiano.com/antioquia/primera-casa-reconstruida-terremoto-colombia-ciudad-bolivar-adopta-un-hogar-PB41518502",
@@ -391,16 +491,6 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-09-25T16:06:23Z"
-  },
-  {
-   "titulo": "Carlos Alcaraz propone una revolución en el tenis mundial: habló de frente sobre la duración de los partidos",
-   "extracto": "El español es figura de la Laver Cup.",
-   "enlace": "https://www.eltiempo.com/deportes/tenis/carlos-alcaraz-propone-una-revolucion-en-el-tenis-mundial-hablo-de-frente-sobre-la-duracion-de-los-partidos-3589120",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/09/6aa147fd66756.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-26T03:45:00Z"
   },
   {
    "titulo": "Con diques y barreras innovadoras luchan en Urabá para que el mar no se trague las costas",
@@ -413,16 +503,6 @@
    "fecha": "2026-09-25T15:42:53Z"
   },
   {
-   "titulo": "Final de la Liga Femenina: Deportivo Cali sueña con el tricampeonato y Santa Fe, con la remontada y el título",
-   "extracto": "El equipo de Jhon Albert Ortiz llega con la ventaja de 2-3 conseguida el miércoles en Tunja, la improvisada casa de las Leonas.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/final-de-la-liga-femenina-deportivo-cali-suena-con-el-tricampeonato-y-santa-fe-con-la-remontada-y-el-titulo-3589126",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/25/6ab73b5ac1bdd.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-26T03:31:15Z"
-  },
-  {
    "titulo": "RTVC dice que está “sin un peso”: gobierno Petro habría comprometido plata en conciertos y otros eventos",
    "extracto": "La situación financiera de RTVC encendió las alertas. El Sistema de Medios Públicos denunció que la administración anterior dejó “la olla raspada”; en concreto, señaló que hay…",
    "enlace": "https://www.elcolombiano.com/colombia/rtvc-dice-esta-sin-recursos-gobierno-petro-habria-comprometido-plata-en-conciertos-y-otros-eventos-HF41554416",
@@ -433,16 +513,6 @@
    "fecha": "2026-09-25T23:27:25Z"
   },
   {
-   "titulo": "Rafael Márquez destacó retiro de James Rodríguez, se refirió al nuevo diez y a la dificultad de Selección Colombia",
-   "extracto": "El entrenador del seleccionado mexicano analizó el partido ante los de Néstor Lorenzo en amistoso internacional.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/rafael-marquez-destaco-retiro-de-james-rodriguez-se-refirio-al-nuevo-diez-y-dificultad-de-seleccion-colombia-3589119",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/09/04/68ba35eda7af9.r_d.689-429-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-26T03:21:12Z"
-  },
-  {
    "titulo": "Consejo de Estado declara la muerte política de Iván Name por caso de corrupción en la UNGRD",
    "extracto": "El Consejo de Estado declaró, en primera instancia, la pérdida de investidura de Iván Leónidas Name Vásquez, quien fue elegido senador dentro de la coalición Alianza Verde–Centro…",
    "enlace": "https://www.elcolombiano.com/colombia/muerte-politica-ivan-name-decreto-consejo-estado-ungrd-GF41553401",
@@ -451,16 +521,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-25T23:11:44Z"
-  },
-  {
-   "titulo": "Hay tiempo para otra gesta: Colombia Sub-20 va por Italia en el Mundial",
-   "extracto": "El equipo nacional jugará este sábado por el tercer lugar del campeonato de Polonia.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/hay-tiempo-para-otra-gesta-colombia-sub-20-va-por-italia-en-el-mundial-3589122",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/23/6ab415d9d7598.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-26T03:09:42Z"
   },
   {
    "titulo": "¿Qué pasará con las clases de los niños en Santa Marta? MinEducación se pronuncia tras el paro armado",
@@ -521,16 +581,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-25T20:52:17Z"
-  },
-  {
-   "titulo": "RTVC denuncia que el Gobierno Petro dejó 'sin un peso al Sistema de Medios Públicos': alerta por continuidad de la radio",
-   "extracto": "La entidad aseguró que hoy 'no existe caja suficiente' y que se comprometieron recursos que no estaban disponibles.",
-   "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/rtvc-denuncia-que-el-gobierno-anterior-dejo-presuntamente-sin-un-peso-el-sistema-de-medios-publicos-alertan-por-continuidad-de-la-radio-3589045",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/01/10/659f01db0408b.r_d.593-387-1.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-26T00:35:00Z"
   },
   {
    "titulo": "Dos policías fueron asesinados en ataque contra una patrulla en Ábrego: ofrecen $50 millones por los responsables",
@@ -611,16 +661,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-25T22:12:30Z"
-  },
-  {
-   "titulo": "Magnesio para dormir: ¿realmente ayuda a mejorar el sueño? Esto encontró un nuevo estudio",
-   "extracto": "Un ensayo con 155 adultos encontró una mejora pequeña frente al placebo tras cuatro semanas de suplementación.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/magnesio-para-dormir-realmente-ayuda-a-mejorar-el-sueno-esto-encontro-un-nuevo-estudio-3589037",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/03/27/67e584e51089c.r_d.958-87-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-25T22:11:37Z"
   },
   {
    "titulo": "Shakira invita al mundo a su Macondo: así han sido sus primeros conciertos en Madrid",
@@ -913,16 +953,6 @@
    "fecha": "2026-09-24T23:52:59Z"
   },
   {
-   "titulo": "Cuando el presidente visita tu casa, pero para capturarte: De la Espriella sorprendió a hombre con un “Bienvenido a la Patria Milagro”",
-   "extracto": "El presidente Abelardo de la Espriella se ha mostrado activo recorriendo algunos puntos del país en los que se han registrado operativos en compañía de la Fuerza Pública. Hace…",
-   "enlace": "https://www.elcolombiano.com/colombia/de-la-espriella-captura-operacion-iron-cali-bienvenido-patria-milagro-BI41490753",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/BXDD/diseno-sin-titulo-2026-09-24t16190_51720778_20260924161948.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T23:33:45Z"
-  },
-  {
    "titulo": "Capturan a pareja de alias Pinocho en ofensiva contra las ACSN: autoridades refuerzan búsqueda del cabecilla",
    "extracto": "La Policía capturó este jueves 24 de septiembre a Yolima Johana Murgas Guzmán, pareja sentimental de Fredy Castillo Carrillo, alias Pinocho , señalado como principal cabecilla de…",
    "enlace": "https://www.elcolombiano.com/colombia/capturan-pareja-de-alias-pinocho-ofensiva-acsn-autoridades-refuerzan-busqueda-JI41499176",
@@ -953,46 +983,6 @@
    "fecha": "2026-09-24T22:07:52Z"
   },
   {
-   "titulo": "Aunque Colombia redujo su jornada laboral a 42 horas, aún está entre los países que más trabajan en Latinoamérica",
-   "extracto": "Colombia completó en julio de 2026 la reducción gradual de la jornada laboral establecida por la Ley 2101 de 2021, con lo que pasó de un máximo de 47 a 42 horas semanales sin…",
-   "enlace": "https://www.elcolombiano.com/colombia/colombia-jornada-laboral-a-42-horas-paises-mas-trabajan-latinoamerica-MI41492097",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/DGHP/recorrido-fabrica-bosi-ce-2-51133722_51720512_20260924154136.webp",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T21:05:52Z"
-  },
-  {
-   "titulo": "Corte Suprema envía a Fiscalía caso de Armando Benedetti por presuntas recomendaciones en la Dian; ¿qué sigue ahora?",
-   "extracto": "La Sala Especial de Instrucción de la Corte Suprema de Justicia remitió a la Fiscalía General de la Nación el expediente relacionado con Armando Benedetti por las presuntas…",
-   "enlace": "https://www.elcolombiano.com/colombia/corte-suprema-fiscalia-caso-armando-benedetti-dian-AJ41487474",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/OITT/colp-322333-48397433-20250724071519_51719005_20260924145146.webp",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T20:47:16Z"
-  },
-  {
-   "titulo": "Ministerio de Defensa aclara identidad de joven abatido en operativo contra Los Pachenca",
-   "extracto": "Esta semana el presidente informó de un operativo en el que se habría “dado de baja al narcoterrorista alias Cholo”. Según información revelada por las autoridades, un total de…",
-   "enlace": "https://www.elcolombiano.com/colombia/ricardo-andres-rodriguez-martinez-joven-muerto-operativo-pachenca-PJ41487877",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/UPRD/ministerio-de-defensa-muerte-joven_51719421_20260924151049.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T20:22:47Z"
-  },
-  {
-   "titulo": "Más de 440 sismos en cuatro días: ¿por qué tiembla tanto en Chaparral?",
-   "extracto": "Chaparral, en el sur del Tolima , lleva varios días sintiendo cómo la tierra se mueve una y otra vez. Desde la madrugada del 20 de septiembre, una sucesión de sismos mantiene en…",
-   "enlace": "https://www.elcolombiano.com/colombia/por-que-tiembla-tanto-chaparral-tolima-placas-fallas-geologicas-IJ41486790",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/419x300/0c0/0d0/center/11101/AOCQ/chaparral-tolimaa_51718732_20260924153904.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T19:57:56Z"
-  },
-  {
    "titulo": "Perros & Gatos , una exposición en el Parque Explora para jugar y aprender a querer mejor",
    "extracto": "El Parque Explora abrió este jueves Perros & Gatos , una exposición que incluye más de 45 experiencias de ciencia interactivas para aprender sobre estas especies que tanto nos…",
    "enlace": "https://www.elcolombiano.com/cultura/exposicion-perros-gatos-parque-explora-medellin-septiembre-2027-PA41503369",
@@ -1001,26 +991,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-24T23:57:42Z"
-  },
-  {
-   "titulo": "Video | José Manuel Restrepo en la ONU: “La protección de DD. HH. pierde credibilidad cuando es sometido a cálculos políticos”",
-   "extracto": "El vicepresidente José Manuel Restrepo pronunció su primer discurso ante la Asamblea General de las Naciones Unidas, en representación de Colombia, tal como se lo ordenó el…",
-   "enlace": "https://www.elcolombiano.com/colombia/discurso-jose-manuel-restrepo-asamblea-general-onu-MJ41481850",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/EHBN/whatsapp-image-2026-09-24-at-1-34_51718140_20260924133542.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T18:57:02Z"
-  },
-  {
-   "titulo": "Video | Así pillaron a dos operarios de El Dorado tratando de meter cocaína en un vuelo internacional",
-   "extracto": "Dos operarios que intentaban introducir 7 kilos de cocaína en un vuelo internacional fueron descubiertos a través de un operativo de control en el aeropuerto El Dorado de Bogotá…",
-   "enlace": "https://www.elcolombiano.com/colombia/operarios-el-dorado-intentaron-ingresar-cocaina-vuelo-internacional-captura-BJ41481303",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/WNWT/capturados-cocaina-vuelo-internacion_51717962_20260924142324.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-24T18:43:01Z"
   },
   {
    "titulo": "¿Por qué el documental sobre Elizabeth Holmes, la empresaria de Theranos, se volvió viral antes de estrenarse?",
@@ -1111,16 +1081,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-24T00:12:03Z"
-  },
-  {
-   "titulo": "Taylor Swift anuncia cuatro nuevas canciones de su álbum The Life of a Showgirl",
-   "extracto": "El ícono del pop Taylor Swift regresa con una sorpresa que sacudió por completo a sus fans. Swift anunció este miércoles, por medio de Instagram, que sacará cuatro nuevas…",
-   "enlace": "https://www.elcolombiano.com/cultura/taylor-swift-the-life-of-a-showgirl-cuatro-nuevas-canciones-cuales-son-IA41416592",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/NVLU/taylor-swift_51699220_20260923115056.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-23T16:52:23Z"
   },
   {
    "titulo": "Estas son las ciudades donde una ducha de 10 minutos le puede salir más cara y más barata",
