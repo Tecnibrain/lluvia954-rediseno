@@ -1,7 +1,17 @@
 {
- "actualizado": "2026-09-27T05:15:50.802080Z",
- "total": 110,
+ "actualizado": "2026-09-27T11:59:05.501262Z",
+ "total": 108,
  "noticias": [
+  {
+   "titulo": "Líderes de medios y gremios envían mensajes a EL TIEMPO por el rediseño de su periódico impreso: ‘Un paso en la dirección correcta’",
+   "extracto": "Desde este domingo 27 de septiembre circula un nuevo formato del diario en todo el país.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/lideres-de-medios-y-gremios-envian-mensajes-a-el-tiempo-por-el-rediseno-de-su-periodico-impreso-un-paso-en-la-direccion-correcta-3589239",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab84f6458aea.r_d.1458-851-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-27T11:21:10Z"
+  },
   {
    "titulo": "¿Por qué la Procuraduría investigará al Gerente del Hospital de Caldas, en el sur del Valle de Aburrá?",
    "extracto": "La Procuraduría General de la Nación abrió una indagación previa contra Juan Carlos Sánchez Fernández, gerente del Hospital San Vicente de Paúl de Caldas (sur del Valle de…",
@@ -31,6 +41,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-09-27T00:43:22Z"
+  },
+  {
+   "titulo": "Ministerio de Salud prioriza 1.462 pacientes críticos en San Andrés y Providencia con plan de choque para agilizar tratamientos y procedimientos",
+   "extracto": "La agenda territorial incluyó recorridos por hospitales, una audiencia pública y reuniones con autoridades, trabajadores, veedores y comunidad.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/ministerio-de-salud-prioriza-1-462-pacientes-criticos-en-san-andres-y-providencia-con-plan-de-choque-para-agilizar-tratamientos-y-procedimientos-3589289",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/27/6ab8d22286a78.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-27T08:43:05Z"
   },
   {
    "titulo": "Explosión de artefacto en vía férrea del Magdalena causó daños materiales en Aracataca; autoridades convocaron PMU permanente y no reportaron heridos",
@@ -283,16 +303,6 @@
    "fecha": "2026-09-27T02:10:18Z"
   },
   {
-   "titulo": "Revelan detalles del crimen del subcomandante de Policía de Bolívar, Cauca: habría sido obligado a bajar de un bus mientras viajaba de civil",
-   "extracto": "Viajaba hacia el corregimiento de El Bordo, en el municipio de Patía.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/asesinan-al-subcomandante-de-la-policia-de-bolivar-cauca-habria-sido-obligado-a-bajar-de-un-bus-de-transporte-publico-mientras-viajaba-de-civil-3589206",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab820b2c0b53.r_d.611-297-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T21:55:00Z"
-  },
-  {
    "titulo": "Duelo de lujo para Nicolás Echavarría en la Presidents Cup: jugará contra Scottie Scheffler, el número uno del mundo",
    "extracto": "El colombiano espera ayudar a que el equipo internacional mantenga la ventaja de cinco puntos contra Estados Unidos en la última jornada.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/duelo-de-lujo-para-nicolas-echavarria-en-la-presidents-cup-jugara-contra-scottie-scheffler-el-numero-uno-del-mundo-3589255",
@@ -341,16 +351,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-26T20:25:06Z"
-  },
-  {
-   "titulo": "'Reconstruir no es solo levantar paredes': el llamado a no invisibilizar el trabajo de cuidado en los hogares tras el devastador terremoto en Cali",
-   "extracto": "La Fundación WWB Colombia enfatiza en que el colapso y los daños obligan a las mujeres a duplicar jornadas domésticas.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/reconstruir-no-es-solo-levantar-paredes-el-llamado-a-no-invisibilizar-el-trabajo-de-cuidado-en-los-hogares-tras-el-devastador-terremoto-en-cali-3589210",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/26/6ab826de0910e.r_d.1060-373-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-26T20:22:38Z"
   },
   {
    "titulo": "De la Espriella designa a Beatriz Vélez como nueva presidenta de Colpensiones",
@@ -903,16 +903,6 @@
    "fecha": "2026-09-25T17:11:43Z"
   },
   {
-   "titulo": "Alias Araña, cabecilla de Comandos de Frontera, será extraditado: así pasó de “gestor de paz” con Petro a preso en EE. UU.",
-   "extracto": "Alias Araña se va para Estados Unidos y no precisamente de vacaciones a Disney World . El cabecilla de los Comandos de Frontera fue trasladado a la base CATAM en Bogotá en la…",
-   "enlace": "https://www.elcolombiano.com/colombia/alias-arana-extraditado-estados-unidos-abelardo-de-la-espriella-PA41509666",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/QBTW/alias-arana_51724242_20260925063311.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-25T13:04:41Z"
-  },
-  {
    "titulo": "Taylor Swift lanzó Patient Zero este viernes y sus fans descifran anagramas que apuntan a relanzamiento de su primer álbum",
    "extracto": "Taylor Swift anunció que su nueva canción, Patient Zero , verá la luz este viernes 25 de septiembre. La artista parecía poner fin así a la especulación por parte de sus fans que…",
    "enlace": "https://www.elcolombiano.com/cultura/taylor-swift-patient-zero-nuevo-sencillo-fecha-lanzamiento-swifties-pistas-taylors-version-CC41521553",
@@ -921,16 +911,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-09-25T16:42:48Z"
-  },
-  {
-   "titulo": "Cuatro mineros murieron tras explosión en mina de carbón en Santander; ya fueron identificados",
-   "extracto": "El jueves 24 de septiembre se presentó una emergencia en una mina subterránea de carbón de la vereda El Carmen, en Landázuri, Santander. Una explosión dejó atrapados a cuatro…",
-   "enlace": "https://www.elcolombiano.com/colombia/cuatro-mineros-murieron-explosion-mina-carbon-santander-landazuri-FA41509792",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/ONMP/mineria-en-buritica-e-15249700-49024_51724305_20260925071900.webp",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-25T12:35:58Z"
   },
   {
    "titulo": "Jesse & Joy: mánager revela por qué Jesse se alejó y confirma que “pidió un tiempo”",
