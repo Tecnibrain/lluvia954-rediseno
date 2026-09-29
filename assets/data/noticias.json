@@ -1,7 +1,77 @@
 {
- "actualizado": "2026-09-29T05:41:17.213929Z",
- "total": 107,
+ "actualizado": "2026-09-29T12:49:10.937535Z",
+ "total": 111,
  "noticias": [
+  {
+   "titulo": "Liquidador de MinIgualdad suprimió más de 400 cargos y espera un ahorro anual superior a $62.000 millones",
+   "extracto": "El liquidador del Ministerio de la Igualdad, John Milton Rodríguez, anunció la eliminación de 407 cargos de la entidad , siendo este un recorte de más de la mitad del personal…",
+   "enlace": "https://www.elcolombiano.com/colombia/liquidador-minigualdad-suprime-407-cargos-AH41644985",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/UBTT/ministerio-de-la-igualdad-liquidacio_51752844_20260929071618.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T12:29:32Z"
+  },
+  {
+   "titulo": "Alias Araña negociará con la justicia de EE. UU. tras su extradición desde Colombia por narcotráfico",
+   "extracto": "Geovany Andrés Rojas, mejor conocido bajo el alias de Araña, llegó a Estados Unidos el pasado 25 de septiembre para enfrentar el proceso judicial que ese país adelanta en su…",
+   "enlace": "https://www.elcolombiano.com/colombia/alias-arana-negociara-justicia-ee-uu-extradicion-narcotrafico-GH41645322",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/NGFT/alias-arana-negociara-con-la-justici_51752860_20260929070146.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T12:25:57Z"
+  },
+  {
+   "titulo": "Resultados hoy 29 de septiembre de operaciones militares ordenadas por presidente De La Espriella: ofensiva del Ejército al narcotráfico y sicariato",
+   "extracto": "Siga el minuto a minuto con las últimas noticias sobre los golpes de las autoridades contra los grupos criminales en Colombia.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/operaciones-de-la-fuerza-publica-contra-los-grupos-criminales-hoy-29-de-septiembre-el-presidente-de-la-espriella-confirmo-captura-de-alias-el-pollo-3589721",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/22/6ab2e79e07743.r_d.646-528-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T12:04:22Z"
+  },
+  {
+   "titulo": "Contraloría alerta por posibles pagos sin debido respaldo por $88.0000 millones del MinIgualdad",
+   "extracto": "Tras varias denuncias por el manejo de recursos, la Contraloría puso la lupa sobre el Ministerio de Igualdad, actualmente en liquidación. El organismo de control adelanta…",
+   "enlace": "https://www.elcolombiano.com/colombia/contraloria-alerta-pagos-millones-sin-respaldo-minigualdad-IH41644048",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/ENLP/fotos-el-colombiano-2026-02-16t13045_51752826_20260929063112.webp",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T12:01:02Z"
+  },
+  {
+   "titulo": "Infraestructura y proyectos estratégicos como vehículo de la reactivación económica del Chocó: los objetivos de la gobernadora Nubia Córdoba",
+   "extracto": "Durante la inauguración de la nueva terminal aérea de Bahía Solano, EL TIEMPO entrevistó a la popular mandataria de cara al fin de su mandato.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/infraestructura-y-proyectos-estrategicos-como-vehiculo-de-la-reactivacion-economica-del-choco-los-objetivos-de-la-gobernadora-nubia-cordoba-3589705",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/28/6abb3b5ec5214.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T12:01:00Z"
+  },
+  {
+   "titulo": "Pico y placa en Pereira este martes 29 de septiembre de 2026: así funciona el esquema",
+   "extracto": "La medida también incluye a híbridos y eléctricos, mientras que las motocicletas están exentas.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pico-y-placa-en-pereira-este-martes-29-de-septiembre-de-2026-asi-funciona-el-esquema-3589586",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/02/13/67ae9f4e6cbec.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T11:03:52Z"
+  },
+  {
+   "titulo": "Barranquilla vive sus semanas menos violentas de 2026: qué hay detrás de la caída de los homicidios y por qué la calma todavía es frágil",
+   "extracto": "Traslado de cabecillas, inversión y apoyo de la Nación explican la baja, pero el crimen \"no ha tocado techo\".",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-vive-sus-semanas-menos-violentas-de-2026-que-hay-detras-de-la-caida-de-los-homicidios-y-por-que-la-calma-todavia-es-fragil-3589692",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/28/6abb23b81ab72.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T11:01:00Z"
+  },
   {
    "titulo": "Don Hernando, a sus 79 años, conquistó la meta de la Media Maratón de Guatapé",
    "extracto": "Lo vivido este domingo en la III Media Maratón de Guatapé dejó ver que algunas victorias no se miden en récords, sino por el tesón que se les pone. Ese día, el dorsal 839 le fue…",
@@ -11,6 +81,86 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-09-29T01:35:38Z"
+  },
+  {
+   "titulo": "Con solo 11 años, Bodhana Sivanandan rompe un récord histórico en el ajedrez: es la gran maestra más joven de todos los tiempos",
+   "extracto": "La ajedrecista inglesa consiguió su tercera y última norma de WGM durante la 46.ª Olimpiada de Ajedrez disputada en Uzbekistán.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/con-solo-11-anos-bodhana-sivanandan-rompe-un-record-historico-en-el-ajedrez-es-la-gran-maestra-mas-joven-de-todos-los-tiempos-3589734",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/29/6abbac402f917.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-29T12:23:10Z"
+  },
+  {
+   "titulo": "¿Cuántas horas de sueño necesita para ganar masa muscular? Esto dicen los expertos",
+   "extracto": "Después de los 40 años, el cuerpo comienza a perder músculo, por lo que tener buenos hábitos es esencial para evitar problemas a futuro.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/cuantas-horas-de-sueno-necesita-para-ganar-masa-muscular-esto-dicen-los-expertos-3589723",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/29/6abbaa6bf2e36.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-29T12:19:00Z"
+  },
+  {
+   "titulo": "Juan Guillermo Cuadrado vuelve a donde todo empezó: el ambiente que encontrará en su debut con Millonarios contra el DIM: hora y dónde ver el juego",
+   "extracto": "El ‘Panita’ está listo para tener sus primeros minutos en su regreso a la Liga después de 17 años.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/juan-guillermo-cuadrado-vuelve-a-donde-todo-empezo-el-ambiente-que-encontrara-en-su-debut-con-millonarios-contra-el-dim-3589704",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/28/6abb3a0fa147c.r_d.905-227-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-29T12:16:25Z"
+  },
+  {
+   "titulo": "Tadej Pogacar no se resigna a terminar la temporada sin correr: revelan el ‘plan’ para regresar a las competencias",
+   "extracto": "El esloveno dice estar listo.",
+   "enlace": "https://www.eltiempo.com/deportes/ciclismo/tadej-pogacar-no-se-resigna-a-terminar-la-temporada-sin-correr-revelan-el-plan-para-regresar-a-las-competencias-3589725",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/29/6a92ffc2bdd6c.r_d.844-173-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-09-29T11:45:07Z"
+  },
+  {
+   "titulo": "¡Siga la medida! Pico y placa en Bucaramanga para el martes 29 de septiembre de 2026: consulte placas y horarios",
+   "extracto": "La medida cobija a carros particulares y motocicletas, según el último dígito numérico de su placa",
+   "enlace": "https://www.eltiempo.com/colombia/santander/siga-la-medida-pico-y-placa-en-bucaramanga-para-el-martes-29-de-septiembre-de-2026-consulte-placas-y-horarios-3589591",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/01/23/6792483921e87.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T07:30:00Z"
+  },
+  {
+   "titulo": "¡Evite multas! Pico y placa en Cali para este martes 29 de septiembre: placas restringidas y horario",
+   "extracto": "Los carros particulares tendrán restricción de 6:00 a. m. a 7:00 p. m. Las motos y los taxis están exentos.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-este-martes-29-de-septiembre-placas-restringidas-y-horario-3589582",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/08/16/64dce91658576.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T07:30:00Z"
+  },
+  {
+   "titulo": "Pico y placa en Medellín para el martes 29 de septiembre: restricciones para carros, motos y taxis",
+   "extracto": "La medida regirá entre las 5:00 a. m. y las 8:00 p. m. y aplicará a los vehículos cuyas placas cumplan con la rotación establecida para ese día.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-martes-29-de-septiembre-restricciones-para-carros-motos-y-taxis-3589581",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/04/05/6610232fa2c20.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T07:30:00Z"
+  },
+  {
+   "titulo": "José Luis, experto en frutas: 'Para que los plátanos no se pongan negros enseguida, no uses el frutero; mejor un tupper en la nevera'",
+   "extracto": "El experto comparte una técnica sencilla para prolongar la conservación de esta fruta y controlar su proceso de maduración.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/jose-luis-experto-en-frutas-para-que-los-platanos-no-se-pongan-negros-enseguida-no-uses-el-frutero-mejor-un-tupper-en-la-nevera-3589700",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/28/6abb3287bbd96.r_d.1101-58-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-09-29T11:06:35Z"
   },
   {
    "titulo": "Joven de 20 años murió en una carrera en Alejandría, Antioquia. ¿Qué pasó?",
@@ -103,6 +253,16 @@
    "fecha": "2026-09-29T03:31:32Z"
   },
   {
+   "titulo": "Con estos chats, Gustavo Petro vuelve al radar del escándalo de la UNGRD",
+   "extracto": "Por dos años, el caso del desfalco a la Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) ha puesto en la mira de la justicia a exfuncionarios del Gobierno de…",
+   "enlace": "https://www.elcolombiano.com/colombia/chats-vladimir-fernandez-olmedo-lopez-ungrd-petro-PH41640168",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/545x300/0c0/0d0/center/11101/KOTQ/milimg-34402-27934814-51747000-20260_51752729_20260928215037.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-09-29T02:57:26Z"
+  },
+  {
    "titulo": "Los bienes ocultos del ‘Clan Herrera’: Fiscalía ocupó propiedades por más de $44.900 millones",
    "extracto": "La Fiscalía General de la Nación anunció la ocupación de 42 bienes que estarían vinculados a una estructura de presuntos testaferros que habría estado al servicio del…",
    "enlace": "https://www.elcolombiano.com/colombia/fiscalia-ocupa-42-bienes-testaferros-pacho-herrera-AA41637135",
@@ -143,36 +303,6 @@
    "fecha": "2026-09-29T00:55:42Z"
   },
   {
-   "titulo": "Concejo aprueba cupo de endeudamiento por $1 billón para Barranquilla: obligaciones se extenderían hasta 2038",
-   "extracto": "Los recursos financiarían programas de vivienda, apoyo a emprendedores, recuperación de caños, vías y escenarios deportivos.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/concejo-aprueba-cupo-de-endeudamiento-por-1-billon-para-barranquilla-obligaciones-se-extenderian-hasta-3589656",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2021/03/09/6047e7443d23e.r_d.619-40-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-29T00:18:33Z"
-  },
-  {
-   "titulo": "Juan Guillermo Cuadrado vuelve a donde todo empezó: el ambiente que encontrará en su debut con Millonarios contra el DIM",
-   "extracto": "El ‘Panita’ está listo para tener sus primeros minutos en su regreso a la Liga después de 17 años.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/juan-guillermo-cuadrado-vuelve-a-donde-todo-empezo-el-ambiente-que-encontrara-en-su-debut-con-millonarios-contra-el-dim-3589704",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/28/6abb3a0fa147c.r_d.905-227-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-29T04:17:03Z"
-  },
-  {
-   "titulo": "'Mamita, no la voy a dejar': desgarrador despertar en UCI de una damnificada, tras el terremoto que le arrebató a su madre y su hogar; clama por ayuda",
-   "extracto": "Constanza Bahamón sufrió trauma en la cabeza y tuvo fracturas en rostro y espalda. No camina y enfrenta barreras burocráticas para acceder a ayudas.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/mamita-no-la-voy-a-dejar-desgarrador-despertar-en-uci-de-una-damnificada-tras-el-terremoto-que-le-arrebato-a-su-madre-y-su-hogar-clama-por-ayuda-3589642",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/28/6abaf8894d0cb.r_d.714-237-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-29T00:01:26Z"
-  },
-  {
    "titulo": "Murió a los 75 años Dennis Haskins, actor estadounidense reconocido por su papel del director Richard Belding en la serie 'Salvados por la campana'",
    "extracto": "El sitio web de noticias de entretenimiento TMZ confirmó el deceso con su mánager.",
    "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/murio-dennis-haskins-a-los-75-anos-reconocido-actor-estadounidense-por-su-papel-del-director-richard-belding-en-salvados-por-la-campana-3589696",
@@ -203,56 +333,6 @@
    "fecha": "2026-09-29T03:48:56Z"
   },
   {
-   "titulo": "'Fito', capo ecuatoriano, buscó protección para su familia en Colombia: revelaron que grupos ilegales estarían a cargo de su seguridad en Santander",
-   "extracto": "La hija y la esposa vivían desde hace cuatro meses en Sabana de Torres. Pasearon por Medellín y Bucaramanga.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/fito-capo-ecuatoriano-busco-proteccion-para-su-familia-en-colombia-revelaron-que-grupos-ilegales-estarian-a-cargo-de-su-seguridad-en-santander-3589655",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/28/6abaf80bef2dd.r_d.449-234-1.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-28T23:40:50Z"
-  },
-  {
-   "titulo": "Atención: Aguas de Cartagena iniciará este martes parada técnica de 40 horas que afectará al 40 % de la ciudad debido a obras de optimización",
-   "extracto": "El corte se extenderá hasta las 11:00 p.m. del miércoles 30 de septiembre e incluye el tiempo de normalización del sistema.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/atencion-aguas-de-cartagena-iniciara-este-martes-parada-tecnica-de-40-horas-que-afectara-al-40-de-la-ciudad-debido-a-obras-de-optimizacion-3589652",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/05/11/6a022dd1db460.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-28T23:33:53Z"
-  },
-  {
-   "titulo": "Tribunal Superior de Cali ratificó el feminicidio de Luz Mery Tristán cometido por Andrés Ricci, pero le bajó la condena al excluir el porte de armas",
-   "extracto": "Según la decisión, al revocarle el porte de armas su pena bajó de 45 a 41 años de prisión.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/tribunal-superior-de-cali-ratifico-el-feminicidio-de-luz-mery-tristan-por-parte-de-andres-ricci-pero-le-bajo-la-condena-al-excluir-el-porte-de-armas-3589648",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/07/23/669fe91da7ddf.r_d.600-300-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-28T23:25:54Z"
-  },
-  {
-   "titulo": "Por qué la desfinanciación de la JEP pondría en riesgo los avances de paz y justicia en todo el territorio: víctimas convocan veeduría internacional",
-   "extracto": "Organizaciones afrodescendientes, campesinas e indígenas alertan sobre el impacto de la desfinanciación de la JEP para la región Caribe.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/por-que-la-desfinanciacion-de-la-jep-pondria-en-riesgo-los-avances-de-paz-y-justicia-en-todo-el-territorio-victimas-convocan-veeduria-internacional-3589645",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/09/27/68d7e97161487.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-28T23:11:24Z"
-  },
-  {
-   "titulo": "Hombre murió tras caer del cuarto piso de un hotel en El Rodadero, en Santa Marta, junto a su esposa: pareja estaba de vacaciones con su hija",
-   "extracto": "El turista fallecido fue identificado como Carlos Jahibeth Sánchez. Testigo describió cómo ocurrió el accidente.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/hombre-murio-tras-caer-de-un-cuarto-piso-de-un-hotel-en-el-rodadero-en-santa-marta-cayo-por-una-ventana-junto-con-su-esposa-3589608",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/28/6abaef53cb89e.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-09-28T22:59:03Z"
-  },
-  {
    "titulo": "Poca paciencia en Costa Rica: despiden a Fernando Batista tras un arranque de terror en la Liga de Naciones",
    "extracto": "El técnico argentino, que fracasó con Venezuela en la eliminatoria al Mundial 2026, apenas duró seis meses en la selección tica.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/poca-paciencia-en-costa-rica-despiden-a-fernando-batista-tras-un-arranque-de-terror-en-la-liga-de-naciones-3589694",
@@ -281,6 +361,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-28T22:30:54Z"
+  },
+  {
+   "titulo": "El lote con el que estafaron a 200 familias con proyecto VIS en Bello",
+   "extracto": "En un lote donde apenas cabría un angosto edificio se pretendía construir un gran conjunto residencial –con piscina y todo– en el barrio Pachelly, de Bello. Así quedó probado en…",
+   "enlace": "https://www.elcolombiano.com/antioquia/lote-con-el-que-estafaron-a-200-familias-queda-en-barrio-de-bello-antioquia-BJ41590504",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/501x300/0c0/0d0/center/11101/EMMY/pachelly_51741330_20260927204915.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-09-28T14:24:28Z"
   },
   {
    "titulo": "¿Qué hay detrás de la cena de Guardiola con jefes del Bayern Munich? Luis Díaz, atento",
@@ -351,16 +441,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-28T21:09:00Z"
-  },
-  {
-   "titulo": "El lote con el que estafaron a 200 familias con proyecto VIS en Bello",
-   "extracto": "En un lote donde apenas cabría un angosto edificio se pretendía construir un gran conjunto residencial –con piscina y todo– en el barrio Pachelly, de Bello. Así quedó probado en…",
-   "enlace": "https://www.elcolombiano.com/antioquia/lote-con-el-que-estafaron-a-200-familias-queda-en-barrio-de-bello-antioquia-BJ41590504",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/501x300/0c0/0d0/center/11101/EMMY/pachelly_51741330_20260927204915.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-09-28T13:06:28Z"
   },
   {
    "titulo": "Golpe a la minería ilegal en El Bagre, Antioquia: destruyen maquinaria que extraía $11.130 millones en oro al mes",
@@ -446,7 +526,7 @@
    "titulo": "Confirman las fechas para el Festival Estéreo Picnic 2027: conozca qué días será y los precios de preventa en la etapa 'Creyentes'",
    "extracto": "El Parque Simón Bolívar de Bogotá volverá a ser el escenario durante tres días del festival de música más grande del país y del continente.",
    "enlace": "https://www.eltiempo.com/cultura/gente/confirman-las-fechas-para-el-festival-estereo-picnic-2027-conozca-que-dias-sera-y-los-precios-de-preventa-en-la-etapa-creyentes-3589650",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/28/6abaf8ed4176c.png",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/28/6abaf8ed4176c.r_d.960-540-0.png",
    "fuente": "El Tiempo",
    "categoria": "cultura",
    "etiqueta": "Cultura",
@@ -483,16 +563,6 @@
    "fecha": "2026-09-28T19:45:28Z"
   },
   {
-   "titulo": "'¡Espere, espere! Mi novio...' El tierno momento en que la gobernadora del Chocó se encuentra con su pareja mientras grababa un video en Bahía Solano",
-   "extracto": "Nubia Carolina Córdoba se volvió viral tras protagonizar una escena romántica que muchos calificaron como “prioridades”.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/espere-espere-mi-novio-el-tierno-momento-en-que-la-gobernadora-del-choco-se-encuentra-con-su-pareja-mientras-grababa-un-video-en-bahia-solano-3589629",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/28/6abaed8356208.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-28T23:34:31Z"
-  },
-  {
    "titulo": "La historia detrás del “coqueteo” entre Creemos y los partidos más cercanos al presidente",
    "extracto": "Hay una invitación, pero no hay afán. Salvación Nacional, Defensores de la Patria y Creemos tienen sobre la mesa una eventual fusión que, según varios integrantes de las tres…",
    "enlace": "https://www.elcolombiano.com/colombia/posible-fusion-creemos-salvacion-nacional-defensores-de-la-patria-detalles-que-paso-PD41607019",
@@ -523,16 +593,6 @@
    "fecha": "2026-09-28T23:01:39Z"
   },
   {
-   "titulo": "Johnny Depp, el actor que brilla como artista plástico: 'He sido el único culpable de ocultar las cosas que hago'",
-   "extracto": "Por años, el nominado a tres Óscar 'encerró' sus pinturas en un sótano. Ahora las está exhibiendo en ferias y museos: ya pasó por China y Japón.",
-   "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/johnny-depp-el-actor-que-brilla-como-artista-plastico-he-sido-el-unico-culpable-de-ocultar-las-cosas-que-hago-3589524",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/28/6abaec50ace00.r_d.313-400-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-28T22:49:35Z"
-  },
-  {
    "titulo": "Tribunal deja en firme condena contra exsubdirector del DAS por el secuestro de Piedad Córdoba",
    "extracto": "El Tribunal Superior de Medellín habría dejado en firme la condena de 28 años de cárcel contra el exsubdirector del extinto DAS , José Miguel Narváez , por el secuestro de la…",
    "enlace": "https://www.elcolombiano.com/colombia/secuestro-piedad-cordoba-condena-exdirector-das-jose-miguel-narvaez-justicia-medellin-DC41613563",
@@ -541,16 +601,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-28T18:42:24Z"
-  },
-  {
-   "titulo": "Queso cottage: el superalimento clave para conservar la masa muscular y promover la longevidad",
-   "extracto": "El queso cottage aporta proteínas y nutrientes esenciales que ayudan a cuidar los músculos y huesos con la edad",
-   "enlace": "https://www.eltiempo.com/cultura/gente/queso-cottage-el-superalimento-clave-para-conservar-la-masa-muscular-y-promover-la-longevidad-3589640",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/28/6abae91a6f08e.r_d.663-286-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-09-28T22:40:47Z"
   },
   {
    "titulo": "Colombia vuelve a tocar las puertas del FMI ante la crisis fiscal: ¿qué busca el Gobierno de De la Espriella?",
@@ -681,16 +731,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-09-28T15:23:18Z"
-  },
-  {
-   "titulo": "12 fechas y la Liga 2026-II dejó a siete técnicos sin trabajo tras salida de Hubert Bodhert de Jaguares",
-   "extracto": "El club de Montería confirmó la desvinculación del entrenador tras malos resultados y alerta por descenso a segunda división.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/12-fechas-y-la-liga-2026-ii-dejo-a-siete-tecnicos-sin-trabajo-tras-salida-de-hubert-bodhert-de-jaguares-3589563",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/05/24/683238d40c275.r_d.689-632-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-09-28T19:21:33Z"
   },
   {
    "titulo": "Gobierno ofrece $3.000 millones por alias Pinocho, líder de Los Pachenca: “le estamos respirando en la nuca”",
