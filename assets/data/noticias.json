@@ -1,7 +1,107 @@
 {
- "actualizado": "2026-10-07T05:55:54.911196Z",
- "total": 139,
+ "actualizado": "2026-10-07T13:18:42.494036Z",
+ "total": 140,
  "noticias": [
+  {
+   "titulo": "Concejo y Alcaldía de Támesis, en Antioquia, le cerraron las puertas a la mina Quebradona",
+   "extracto": "No hubo respuesta, o mejor, rechazaron en el Concejo de Támesis los intentos de acercamiento y diálogo de la empresa AngloGold Ashanti para socializar la exploración y los…",
+   "enlace": "https://www.elcolombiano.com/antioquia/mineria-oro-quebradona-tamesis-oposiciion-antioquia-KH42010479",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/400x300/0c0/0d0/center/11101/ONKF/marchatamesis_51822302_20261007062915.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-07T11:43:55Z"
+  },
+  {
+   "titulo": "Golpe a las finanzas del crimen en el Valle del Cauca: aplican extinción de dominio a bienes por más de 5.300 millones de pesos",
+   "extracto": "La operación militar permitió materializar medidas cautelares sobre ocho inmuebles en Cali y municipios del departamento.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/golpe-a-las-finanzas-del-crimen-en-el-valle-del-cauca-aplican-extincion-de-dominio-a-bienes-por-mas-de-5-300-millones-de-pesos-3591829",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac63daf3b751.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-07T12:55:51Z"
+  },
+  {
+   "titulo": "10 capturados y más de 200 armas blancas incautadas en un nuevo megaoperativo en sectores críticos del centro de Medellín",
+   "extracto": "Más de 150 uniformados de diferentes dependencias de las autoridades de la capital de Antioquia participaron del operativo.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/10-capturados-y-mas-de-200-armas-blancas-incautadas-en-un-nuevo-megaoperativo-en-sectores-criticos-del-centro-de-medellin-3591840",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac6401bf2e88.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-07T12:55:30Z"
+  },
+  {
+   "titulo": "Bus se salió de la vía y rodó a un abismo en jurisdicción del municipio de Moniquirá, en Boyacá: reportan cinco heridos de gravedad",
+   "extracto": "La comandante de Bomberos Moniquirá aseguró que, al parecer, el accidente ocurrió porque durante gran parte de la madrugada llovió fuerte.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/bus-se-salio-de-la-via-y-rodo-a-un-abismo-en-jurisdiccion-del-municipio-de-moniquira-en-boyaca-reportan-cinco-heridos-de-gravedad-3591844",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac63d25ead6c.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-07T12:47:09Z"
+  },
+  {
+   "titulo": "Así funcionará el Fondo Milagro: detalles del contrato para la reconstrucción dos meses después del terremoto",
+   "extracto": "El Gobierno empezó a poner en marcha el Fondo Milagro, se trata de un patrimonio autónomo que, en términos simples, es un mecanismo creado para centralizar y ejecutar los recursos…",
+   "enlace": "https://www.elcolombiano.com/colombia/asi-funcionara-el-fondo-milagro-detalles-del-contrato-para-la-reconstruccion-dos-meses-despues-del-terremoto-JH42010988",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/KEGT/fondo-milagro-abelardo-de-la-espriel_51822432_20261007072553.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-07T12:36:39Z"
+  },
+  {
+   "titulo": "Cartagena espera un 65,6 % de ocupación hotelera y más de 102 mil viajeros aéreos para Semana de Receso Escolar: ¿qué planes esperan a las familias?",
+   "extracto": "El Distrito impulsa el Gran Fondo Nairo Quintana Fest, el Festival Internacional de Guitarra y la reactivación del flujo marítimo y de cruceros.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-espera-un-65-6-de-ocupacion-hotelera-y-mas-de-102-mil-viajeros-aereos-para-semana-de-receso-escolar-que-planes-esperan-a-las-familias-3591839",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/01/13/678503b91553e.r_d.237-925-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-07T12:32:32Z"
+  },
+  {
+   "titulo": "Alertan por reventa no autorizada de entradas para el festival de electrónica EDC Medellín: así puede reclamar las manillas y evitar fraudes",
+   "extracto": "Ticketmaster explicó cómo se entregan los accesos al festival y advirtió sobre los riesgos de comprar entradas mediante canales no autorizados.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/alertan-por-reventa-no-autorizada-de-entradas-para-el-festival-de-electronica-edc-medellin-asi-puede-reclamar-las-manillas-y-evitar-fraudes-3591823",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac62e5309391.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-07T11:35:15Z"
+  },
+  {
+   "titulo": "Este es el millonario imperio de Lionel Messi: participación en cuatro equipos, propiedades y un contrato vitalicio",
+   "extracto": "El argentino se retiró de la Selección de su país.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/este-es-el-millonario-imperio-de-lionel-messi-participacion-en-cuatro-equipos-propiedades-y-un-contrato-vitalicio-3591837",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/31/6a95b2d00851b.r_d.645-282-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-07T12:59:21Z"
+  },
+  {
+   "titulo": "¿Qué signos en su salud indican que está consumiendo demasiada sal? Esto dice la OMS",
+   "extracto": "La OMS recomienda limitar el sodio a 2.000 miligramos diarios, equivalentes a 5 gramos de sal. Estas son algunas señales asociadas con su exceso.",
+   "enlace": "https://www.eltiempo.com/salud/que-signos-en-su-salud-indican-que-esta-consumiendo-demasiada-sal-esto-dice-la-oms-3591845",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac63d7e583f7.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-07T12:48:11Z"
+  },
+  {
+   "titulo": "¿Qué pasa con las pilas usadas en Colombia? Así es el proceso que permite recuperar sus materiales",
+   "extracto": "Cerca de 300 millones de pilas han sido recolectadas en el país durante 15 años mediante sistemas de gestión posconsumo.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/que-pasa-con-las-pilas-usadas-en-colombia-asi-es-el-proceso-que-permite-recuperar-sus-materiales-3591596",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/06/6ac511d3a5266.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-07T12:47:33Z"
+  },
   {
    "titulo": "Grietas y muros desplomados obligaron a evacuar la sede histórica de la Alcaldía de Urrao, en Antioquia",
    "extracto": "La alcaldía de Urrao (Suroeste antioqueño) tuvo que evacuar la sede tradicional que ocupaba desde la década de 1990 debido a las secuelas que sufrió la edificación patrimonial con…",
@@ -21,6 +121,46 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-07T00:21:42Z"
+  },
+  {
+   "titulo": "¿Cuál es la polémica de Camilo Cifuentes? El influencer se pronunció tras los rumores de infidelidad: 'Toca aceptar que una etapa terminó'",
+   "extracto": "La polémica creció tras las declaraciones de su expareja y 'La Mijita' sobre el final de la relación.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/cual-es-la-polemica-de-camilo-cifuentes-el-influencer-se-pronuncio-tras-los-rumores-de-infidelidad-toca-aceptar-que-una-etapa-termino-3591815",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac63368cd70a.r_d.613-274-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-07T12:14:07Z"
+  },
+  {
+   "titulo": "Gloria y Emilio Estefan recuerdan cómo ayudaron a Shakira a cantar en inglés y dar el salto al mercado internacional: 'Una gran mujer'",
+   "extracto": "La pareja recordó el proceso que acompañó a la colombiana en sus primeras grabaciones en inglés y destacó la relación que mantienen con ella.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/gloria-y-emilio-estefan-recuerdan-como-ayudaron-a-shakira-a-cantar-en-ingles-y-dar-el-salto-al-mercado-internacional-una-gran-mujer-3591832",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac63566ba0e8.r_d.1118-343-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-07T12:12:49Z"
+  },
+  {
+   "titulo": "Arturo Vidal y Gary Medel despiden a Lionel Messi con emotivos mensajes antes de su último partido con Argentina",
+   "extracto": "El astro argentino lloró en su despedida.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/arturo-vidal-y-gary-medel-despiden-a-lionel-messi-con-emotivos-mensajes-antes-de-su-ultimo-partido-con-argentina-3591825",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac5a32fca32c.r_d.544-86-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-07T11:44:40Z"
+  },
+  {
+   "titulo": "Pedro Sos, cocinero, y la receta perfecta para un almuerzo rápido: 'Los garbanzos más sabrosos se hacen con chorizo, espinacas y huevo'",
+   "extracto": "La receta utiliza garbanzos cocidos y combina bacalao, chorizo, espinacas y huevo para preparar un almuerzo sin largas horas de cocción.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/pedro-sos-cocinero-y-la-receta-perfecta-para-un-almuerzo-rapido-los-garbanzos-mas-sabrosos-se-hacen-con-chorizo-espinacas-y-huevo-3591779",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac5a357f2a05.r_d.1075-202-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-07T11:17:40Z"
   },
   {
    "titulo": "La historia de la mujer que construyó el operador de internet de Google y ahora trabaja para la paisa Somos Internet",
@@ -43,6 +183,36 @@
    "fecha": "2026-10-06T22:53:53Z"
   },
   {
+   "titulo": "Emotivas declaraciones de Lionel Messi tras su despedida en Argentina y su retiro de la Selección: 'El no venir más va a ser un dolor muy grande'",
+   "extracto": "El portador de la '10' por más de dos décadas les habló a los hinchas después del partido que terminó su proceso con el seleccionado nacional.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/emotivas-declaraciones-de-lionel-messi-tras-su-despedida-en-argentina-y-su-retiro-de-la-seleccion-el-no-venir-mas-va-a-ser-un-dolor-muy-grande-3591788",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/06/6ac5ad40e660a.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-07T10:52:09Z"
+  },
+  {
+   "titulo": "Amir Anwary, veterinario: 'Tratar a los cachorros como a niños' es uno de los tres consejos que todo dueño debería saber",
+   "extracto": "Un veterinario explica por qué esta raza exige tanto esfuerzo diario y para qué tipo de dueño es realmente adecuada.",
+   "enlace": "https://www.eltiempo.com/cultura/amir-anwary-veterinario-tratar-a-los-cachorros-como-a-ninos-es-uno-de-los-tres-consejos-que-todo-dueno-deberia-saber-3591794",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac5bda09b3cd.r_d.633-279-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-07T10:30:00Z"
+  },
+  {
+   "titulo": "La otra técnica para que la nieve sobreviva al verano en los Alpes: así la 'cultivan' las estaciones de esquí",
+   "extracto": "Cubrir la nieve con aserrín o mantas aislantes permite conservarla todo el verano. Así funciona esta técnica nacida en los Alpes.",
+   "enlace": "https://www.eltiempo.com/cultura/la-otra-tecnica-para-que-la-nieve-sobreviva-al-verano-en-los-alpes-asi-la-cultivan-las-estaciones-de-esqui-3591793",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/06/6ac5bcd35a292.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-07T10:30:00Z"
+  },
+  {
    "titulo": "Aguacero en Antioquia: Bombero de Copacabana pasó de atender la emergencia a ser una de las víctimas",
    "extracto": "Al bombero Wilson Yepes le está sucediendo algo que ningún integrante de un cuerpo de socorro quiere vivir: este martes ha estado atendiendo la emergencia originada por un árbol…",
    "enlace": "https://www.elcolombiano.com/antioquia/bombero-wilson-yepes-victima-arbol-caido-copacabana-FF41999783",
@@ -51,6 +221,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-06T21:42:23Z"
+  },
+  {
+   "titulo": "Juan Pablo Raba y su dura experiencia como protagonista de 'Pacífico': 'Me costó mucho filmar esta película'",
+   "extracto": "El actor habló con EL TIEMPO sobre el filme que se rodó en Malpelo y a mar abierto. Trata sobre un grupo de buzos que queda a la deriva.",
+   "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/juan-pablo-raba-y-su-dura-experiencia-como-protagonista-de-pacifico-me-costo-mucho-filmar-esta-pelicula-3591681",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/06/6ac5c5cc73c35.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-07T09:15:00Z"
   },
   {
    "titulo": "Arrancó el pulso: Asamblea discute este martes la suerte de vías por valorización en Antioquia",
@@ -63,10 +243,10 @@
    "fecha": "2026-10-06T20:48:38Z"
   },
   {
-   "titulo": "Investigan caso de mujer de 72 años que murió tras ser hallada en potrero con signos de violencia y abuso sexual en Pasto: el duro relato de su hija",
+   "titulo": "Investigan caso de mujer de 72 años que murió tras ser hallada en potrero en Nariño con signos de violencia y abuso sexual: el duro relato de su hija",
    "extracto": "La víctima fue encontrada con hipotermia y múltiples heridas de gravedad en una finca. Familia clama por justicia tras más de un mes del crimen.",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/investigan-caso-de-mujer-de-72-anos-que-murio-tras-ser-hallada-en-potrero-con-signos-de-violencia-y-abuso-sexual-en-pasto-el-duro-relato-de-su-hija-3591799",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac5c7092304f.r_d.346-208-0.jpeg",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac5ed2fb95dd.png",
    "fuente": "El Tiempo",
    "categoria": "colombia",
    "etiqueta": "Colombia",
@@ -93,6 +273,16 @@
    "fecha": "2026-10-06T19:54:41Z"
   },
   {
+   "titulo": "María Fernanda Cabal casó pelea con José Obdulio: así pujan por el liderato en la derecha",
+   "extracto": "Empiezan a calar en el mundo político los nuevos movimientos de figuras de derecha. María Fernanda Cabal no lleva ni una semana con su propio partido político y ya se conocen…",
+   "enlace": "https://www.elcolombiano.com/colombia/partido-republicano-maria-fernanda-cabal-alianzas-derecha-2027-KG42009571",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/XEPH/tamanos-el-colombiano-2026-10-06t2_51822084_20261006215119.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-07T03:02:55Z"
+  },
+  {
    "titulo": "Cárcel para presuntos terroristas por el camión-bomba que dejó más de 80 víctimas en Cali",
    "extracto": "Dos presuntos terroristas de las disidencias de las Farc fueron enviados a la cárcel por su supuesta participación en el atentado con camión-bomba que dejó seis muertos y cerca de…",
    "enlace": "https://www.elcolombiano.com/colombia/atentado-camion-bomba-cali-dos-enviados-a-carcel-farc-terrorismo-DF41999974",
@@ -101,6 +291,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-07T03:01:17Z"
+  },
+  {
+   "titulo": "¿Hackers tienen datos de 11,2 millones de afiliados de Nueva EPS? Esto es lo que se sabe",
+   "extracto": "Los datos de 11,5 millones de afiliados a la Nueva EPS —la aseguradora más grande de Colombia— habrían quedado expuestos a posibles hackers. Un actor anónimo en la web asegura que…",
+   "enlace": "https://www.elcolombiano.com/colombia/hackers-tienen-datos-de-112-millones-de-afiliados-de-nueva-eps-esto-es-lo-que-se-sabe-KG42009120",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/RBLE/salud_51822054_20261006213117.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-07T02:53:18Z"
   },
   {
    "titulo": "causa-muerte-jennifer-garcia-fentanilo-tatuaje-bogota",
@@ -171,16 +371,6 @@
    "categoria": "deportes",
    "etiqueta": "Deportes",
    "fecha": "2026-10-07T04:52:23Z"
-  },
-  {
-   "titulo": "Cali se fortalece para atender a más de un millón de habitantes en el oriente de la ciudad: el hospital Isaías Duarte Cancino abre nuevos servicios",
-   "extracto": "La incorporación de modernos equipos de imagenología diagnóstica permitirá realizar estudios de alta precisión al interior de la institución.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/cali-se-fortalece-para-atender-a-mas-de-un-millon-de-habitantes-en-el-oriente-de-la-ciudad-el-hospital-isaias-duarte-cancino-abre-nuevos-servicios-3591753",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac5870a18a06.r_d.675-552-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-07T00:43:32Z"
   },
   {
    "titulo": "Daniel Arcila, emocionado por su primer gol con la Selección Colombia: ‘Representar al país siempre te da esas cosquillitas’",
@@ -273,16 +463,6 @@
    "fecha": "2026-10-06T23:29:00Z"
   },
   {
-   "titulo": "Así cayó el cargamento de 400 kilos de explosivos desde el Cauca hacia Cali: el proceso judicial que afrontará el conductor del vehículo bomba",
-   "extracto": "El arsenal fue descubierto en un puesto de control en norte del Cauca, camuflado en un vehículo de carga liviana. La Personería de Cali se pronunció.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/asi-cayo-el-cargamento-de-400-kilos-de-explosivos-desde-el-cauca-hacia-cali-el-proceso-judicial-que-afrontara-el-conductor-del-vehiculo-bomba-3591744",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac580240529b.r_d.443-219-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-06T23:21:39Z"
-  },
-  {
    "titulo": "Néstor Lorenzo fue autocrítico e hizo su balance tras los amistosos de la Selección Colombia: 'Me hubiese gustado que el fútbol fluyera más'",
    "extracto": "El estratega argentino habló de las caras nuevas de la Selección.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/nestor-lorenzo-fue-autocritico-e-hizo-su-balance-tras-los-amistosos-de-la-seleccion-colombia-me-hubiese-gustado-que-el-futbol-fluyera-mas-3591796",
@@ -301,26 +481,6 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-06T15:05:18Z"
-  },
-  {
-   "titulo": "Emotivas declaraciones de Lionel Messi tras su despedida en Argentina y su retiro de la Selección: 'El no venir más va a ser un dolor muy grande'",
-   "extracto": "El portador de la '10' por más de dos décadas les habló a los hinchas después del partido que terminó su proceso con el seleccionado nacional.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/emotivas-declaraciones-de-lionel-messi-tras-su-despedida-en-argentina-y-su-retiro-de-la-seleccion-el-no-venir-mas-va-a-ser-un-dolor-muy-grande-3591788",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/06/6ac5ad40e660a.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-07T02:43:53Z"
-  },
-  {
-   "titulo": "Sangre joven de Colombia venció a Perú y dejó mensaje a Lorenzo: ¡recambio sí hay!",
-   "extracto": "El último compromiso de la fecha Fifa permitió ver a Solís, Rengifo, Durán y varias de las caras nuevas que esperaban una oportunidad.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/sangre-joven-de-colombia-vencio-a-peru-y-dejo-mensaje-a-lorenzo-recambio-si-hay-3591772",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac59bc735738.r_d.501-251-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-07T02:42:53Z"
   },
   {
    "titulo": "Video | Nevado del Ruiz pasó del gris de los incendios forestales a vestirse de blanco con el regreso de la nieve",
@@ -363,36 +523,6 @@
    "fecha": "2026-10-07T02:13:00Z"
   },
   {
-   "titulo": "En Santander ofrecen recompensa de hasta 50 millones de pesos para frenar acciones intimidatorias en el Magdalena Medio",
-   "extracto": "La idea es poder capturar a personas involucradas en hechos de intimidación contra la comunidad, luego de que fuera instalada una bandera del ELN.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/en-santander-ofrecen-recompensa-de-hasta-50-millones-de-pesos-para-frenar-acciones-intimidatorias-en-el-magdalena-medio-3591724",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/08/09/66b6a522d0bcb.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-06T22:11:47Z"
-  },
-  {
-   "titulo": "¿Cuáles son las nuevas medidas extraordinarias sobre arrendamientos y bienes inmuebles que se aplicarán en Cali tras el terremoto?",
-   "extracto": "El decreto 1423 de 2026 suspende desalojos de forma temporal, entre las decisiones del Gobierno que acoge la Administración distrital.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/cuales-son-las-nuevas-medidas-extraordinarias-sobre-arrendamientos-y-bienes-inmuebles-que-se-aplicaran-en-cali-tras-el-terremoto-3591721",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/10/6a7a6dce77337.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-06T22:08:31Z"
-  },
-  {
-   "titulo": "Magdalena | Megacárcel de Sabanas de San Ángel tiene fecha para empezar a operar, pero aún hay $100.000 millones y obras pendientes ¿Qué falta?",
-   "extracto": "Tendrá más de 2.000 cupos y funcionará por etapas; faltan recursos, acceso vial y medidas para reforzar la seguridad.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/magdalena-megacarcel-de-sabanas-de-san-angel-tiene-fecha-para-empezar-a-operar-pero-aun-hay-100-000-millones-y-obras-pendientes-que-falta-3591725",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/29/6abc1e726c3cc.r_d.1430-271-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-06T22:01:27Z"
-  },
-  {
    "titulo": "¡Adiós Lionel! Argentina goleó a Benín en la monumental despedida para Messi, que completó la fiesta con dos asistencias y un gol (video)",
    "extracto": "La era de Lionel Messi se cerró con Argentina. El '10' jugó su último partido con la Albiceleste tras 21 años defendiendo su camiseta.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/adios-lionel-argentina-goleo-a-benin-en-la-monumental-despedida-para-messi-que-completo-la-fiesta-con-dos-asistencias-y-un-gol-video-3591778",
@@ -421,16 +551,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-06T21:27:07Z"
-  },
-  {
-   "titulo": "Lionel Messi se despide por lo alto con Argentina: vea el video de su gol contra Benín en su último partido con la selección",
-   "extracto": "El astro argentino dijo adiós en medio de una monumental despedida de su público.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/lionel-messi-se-despide-por-lo-alto-con-argentina-vea-el-video-de-su-gol-contra-benin-en-su-ultimo-partido-con-la-seleccion-3591776",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac59f69ce8ff.r_d.533-267-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-07T01:27:06Z"
   },
   {
    "titulo": "Fondo Milagro ya está listo: De la Espriella confirma su puesta en marcha",
@@ -493,16 +613,6 @@
    "fecha": "2026-10-06T19:38:44Z"
   },
   {
-   "titulo": "Así se vive el nuevo omakase de Salvaje en Bogotá, un recorrido en el que el chef decide qué llega a la mesa",
-   "extracto": "Trece tiempos, pescados frescos, ingredientes que llegan de Japón y Baja California y una interacción constante con el itamae.",
-   "enlace": "https://www.eltiempo.com/cultura/gastronomia/asi-se-vive-el-nuevo-omakase-de-salvaje-en-bogota-un-recorrido-en-el-que-el-chef-decide-que-llega-a-la-mesa-3591743",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/07/15/6876cefbdddf8.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-06T23:13:00Z"
-  },
-  {
    "titulo": "Partido de Cabal no baja de “comunista” a ficha del Centro Democrático, ¿otra pelea en la derecha?",
    "extracto": "María Fernanda Cabal no lleva ni una semana con su propio partido político y ya se conocen reacciones que vienen de diferentes sectores. La exsenadora del Centro Democrático…",
    "enlace": "https://www.elcolombiano.com/colombia/maria-fernanda-cabal-partido-republicano-centro-democratico-comunista-JE41985972",
@@ -513,26 +623,6 @@
    "fecha": "2026-10-06T18:45:43Z"
   },
   {
-   "titulo": "¿Por qué en Colombia cae granizo, pero no nieve? Estas son las diferencias entre ambos fenómenos",
-   "extracto": "Aunque pueden parecer similares, se originan de maneras diferentes y requieren condiciones específicas para aparecer.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/por-que-en-colombia-cae-granizo-pero-no-nieve-estas-son-las-diferencias-entre-ambos-fenomenos-3591719",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/06/6ac5729364ac3.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-06T22:21:03Z"
-  },
-  {
-   "titulo": "Vuelos baratos para viajar a ciudades como Cali, Medellín, Bogotá y Barranquilla, desde los 70.000 pesos",
-   "extracto": "Se han lanzado diferentes promociones para que las personas puedan organizar sus vacaciones de final de año.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/vuelos-baratos-para-viajar-a-ciudades-como-cali-medellin-bogota-y-barranquilla-desde-los-70-000-pesos-3591716",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/06/6ac569273de03.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-06T22:04:07Z"
-  },
-  {
    "titulo": "122 suicidios de niños y jóvenes en el Pacífico en cinco años, alerta la Defensoría: ¿qué está pasando?",
    "extracto": "En el Pacífico colombiano, hablar de salud mental entre niñas, niños, adolescentes y jóvenes implica mirar mucho más allá de una consulta psicológica. La Defensoría del Pueblo…",
    "enlace": "https://www.elcolombiano.com/colombia/cifra-suicidios-menores-edad-ninos-pacifico-2021-2026-que-pasa-salud-mental-BL41978687",
@@ -541,26 +631,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-06T17:55:02Z"
-  },
-  {
-   "titulo": "¿Cuál es el pueblo cerca a Bogotá que vende tamal de calabaza y que se caracteriza por sus termales?",
-   "extracto": "El municipio combina gastronomía tradicional, paisajes de montaña, espacios naturales y sitios de interés cultural para una escapada desde la capital.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/cual-es-el-pueblo-cerca-a-bogota-que-vende-tamal-de-calabaza-y-que-se-caracteriza-por-sus-termales-3591704",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/06/6ac56b715d6e9.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-06T21:50:42Z"
-  },
-  {
-   "titulo": "La Muchacha celebra 10 años de música con un concierto especial en Bogotá",
-   "extracto": "La Muchacha celebrará 10 años de música el 9 de octubre en Bogotá, con un concierto que reunirá distintas etapas de su trayectoria.",
-   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/la-muchacha-celebra-10-anos-de-musica-con-un-concierto-especial-en-bogota-3591705",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/06/6ac5646d82038.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-06T21:31:57Z"
   },
   {
    "titulo": "“Eran los escoltas del presidente”: Gobierno responde por hombres armados tras episodio con Yahir Acuña",
@@ -593,16 +663,6 @@
    "fecha": "2026-10-06T16:39:03Z"
   },
   {
-   "titulo": "UwuAfterDark Evolution llega a Bogotá con una fiesta para la comunidad geek",
-   "extracto": "UwuAfterDark Evolution se realizará el 10 de octubre en Gate Club, Bogotá, con cuatro DJs, dos ambientes y el show del mexicano César Franco.",
-   "enlace": "https://www.eltiempo.com/cultura/entretenimiento/uwuafterdark-evolution-llega-a-bogota-con-una-fiesta-para-la-comunidad-geek-3591689",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac5572fb38d3.r_d.553-353-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-06T20:27:28Z"
-  },
-  {
    "titulo": "Esta es la historia del Partido Republicano, que liderará la exsenadora María Fernanda Cabal",
    "extracto": "Sosteniendo una medalla con una cabeza de águila orientada hacia la derecha, que evoca a la que está en los escudos de las entidades gubernamentales gringas, María Fernanda Cabal…",
    "enlace": "https://www.elcolombiano.com/colombia/maria-fernanda-cabal-historia-partido-republicano-rodolfo-hernandez-politica-AL41970303",
@@ -613,16 +673,6 @@
    "fecha": "2026-10-06T16:26:18Z"
   },
   {
-   "titulo": "Expertos en plagas revelan por dónde entran las cucarachas a la cocina y cómo evitar su presencia",
-   "extracto": "La zona del lavaplatos concentra humedad y accesos ocultos que facilitan la aparición de cucarachas en casa.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/expertos-en-plagas-revelan-por-donde-entran-las-cucarachas-a-la-cocina-y-como-evitar-su-presencia-3591684",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/06/6ac555ab8879a.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-06T20:25:10Z"
-  },
-  {
    "titulo": "Treinta capitales del país tienen “riesgo crítico” de acceso a servicios, dice informe sobre estado del sistema de salud",
    "extracto": "Las capitales de Colombia atendieron el llamado de la Unión de Instituciones Prestadoras de Servicios de Colombia (Unips) y de la Asociación Colombiana de Ciudades Capitales…",
    "enlace": "https://www.elcolombiano.com/colombia/riesgo-sistema-salud-colombia-30-capitales-acceso-servicios-HL41974164",
@@ -631,16 +681,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-06T16:22:17Z"
-  },
-  {
-   "titulo": "La poderosa Oración a Nuestra Señora del Santo Rosario: para pedir su protección, ayuda y bendición",
-   "extracto": "La Iglesia católica celebra la fiesta de Nuestra Señora del Rosario cada 7 de octubre.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/la-poderosa-oracion-a-nuestra-senora-del-santo-rosario-para-pedir-su-proteccion-ayuda-y-bendicion-3591548",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/10/03/68dff211aa994.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-06T19:49:31Z"
   },
   {
    "titulo": "Video | Periodista se encadenó en hospital de Cali para exigir cirugía de su esposo: “Llevo siete meses esperando”",
@@ -1263,16 +1303,6 @@
    "fecha": "2026-10-05T14:47:00Z"
   },
   {
-   "titulo": "La versión del papá de De la Espriella sobre encuentro con Yahir Acuña en campaña: “Abelardo no quería su apoyo y desautorizó reunión”",
-   "extracto": "La disputa entre el presidente Abelardo de la Espriella y el alcalde de Sincelejo, Yahir Acuña, sumó un nuevo capítulo este fin de semana. Esta vez fue Abelardo de la Espriella…",
-   "enlace": "https://www.elcolombiano.com/colombia/padre-abelardo-de-la-espriella-revela-reunion-yahir-acuna-campana-IN41910932",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/VFPH/tamanos-el-colombiano-2026-10-05t0_51801033_20261005065132.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-05T14:33:01Z"
-  },
-  {
    "titulo": "Gobierno reactivó la alianza con Colfuturo que había cerrado Petro, ¿desde cuándo podrá acceder?",
    "extracto": "Buenas noticias para los colombianos que quieren estudiar en el exterior. El Gobierno Nacional reactivó la alianza con Colfuturo , una fundación que ayuda a los profesionales del…",
    "enlace": "https://www.elcolombiano.com/colombia/colfuturo-credito-beca-2027-convocatoria-requisitos-posgrado-exterior-DN41914205",
@@ -1291,26 +1321,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-05T17:42:36Z"
-  },
-  {
-   "titulo": "Piden a Vladimir Fernández renunciar a la Corte Constitucional tras publicación de chats que lo ligan al caso UNGRD",
-   "extracto": "La Fundación para el Estado de Derecho (Fede) solicitó que el magistrado de la Corte Constitucional Vladimir Fernández se separe temporalmente de sus funciones mientras avanzan…",
-   "enlace": "https://www.elcolombiano.com/colombia/corte-constitucional-presuncion-inocencia-investigacion-vladimir-fernandez-AN41913425",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/BFPH/tamanos-el-colombiano-2026-10-05t0_51801266_20261005081623.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-05T13:35:15Z"
-  },
-  {
-   "titulo": "Ejército encontró 2 explosivos en escuela de Cajibío, Cauca; así los destruyó de manera controlada",
-   "extracto": "Un operativo del Ejército Nacional permitió localizar y neutralizar dos artefactos explosivos improvisados que habían sido instalados en una institución educativa de la vereda La…",
-   "enlace": "https://www.elcolombiano.com/colombia/ejercito-encontro-explosivos-escuela-cajibio-cauca-los-destruyo-controladamente-DN41910704",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/457x300/0c0/0d0/center/11101/YLBF/explosivos-cauca-ejercito_51801157_20261005064006.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-05T12:10:32Z"
   },
   {
    "titulo": "La Sinfonía de los Bichos Raros , ahora también será una película",
