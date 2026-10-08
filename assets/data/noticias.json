@@ -1,7 +1,77 @@
 {
- "actualizado": "2026-10-08T05:59:47.173228Z",
- "total": 133,
+ "actualizado": "2026-10-08T13:25:11.337959Z",
+ "total": 137,
  "noticias": [
+  {
+   "titulo": "Macabro hallazgo del cuerpo sin vida de un hombre extranjero en un apartamento en Envigado: comunidad alertó sobre 'fuerte olor'; esta es su identidad",
+   "extracto": "El cuerpo sin vida del ciudadano se encontraba en el suelo, al costado de la cama. Autoridades continúan con la investigación del caso.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/macabro-hallazgo-del-cuerpo-sin-vida-de-un-hombre-extranjero-en-un-apartamento-en-envigado-comunidad-alerto-sobre-fuerte-olor-esta-es-su-identidad-3592136",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/02/10/698b3f3177096.r_d.204-131-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T12:57:20Z"
+  },
+  {
+   "titulo": "Atención | Reportan ataque con explosivos cerca de una base militar en Miranda, Cauca: habrían empleado una volqueta con cilindros",
+   "extracto": "De manera preliminar, no se han reportado personas afectadas por las detonaciones.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/atencion-reportan-ataque-con-explosivos-cerca-de-una-base-militar-en-miranda-cauca-habrian-empleado-una-volqueta-con-cilindros-3592128",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac783a4bdeb9.r_d.386-558-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T12:49:57Z"
+  },
+  {
+   "titulo": "¿Quién es el hombre capturado por presunto abuso sexual de una adulta mayor de 70 años en San Vicente de Chucurí? Comunidad lo linchó tras su captura",
+   "extracto": "Se trata de un sujeto de 28 años de edad que, cuando fue capturado, le pidió a la gente que no le hiciera nada.",
+   "enlace": "https://www.eltiempo.com/colombia/santander/quien-es-el-hombre-capturado-por-presunto-abuso-sexual-de-una-adulta-mayor-de-70-anos-en-san-vicente-de-chucuri-comunidad-lo-lincho-tras-su-captura-3592137",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/08/6ac78f3b8cf5e.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T12:46:45Z"
+  },
+  {
+   "titulo": "Tuvo el mejor Icfes de su colegio y fue becado para estudiar medicina; tomó una moto para ir a la universidad y murió en un accidente de tránsito",
+   "extracto": "El joven de 17 años habría sufrido un fuerte golpe en el cráneo. Esto se sabe.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/tuvo-el-mejor-icfes-de-su-colegio-y-fue-becado-para-estudiar-medicina-tomo-una-moto-para-ir-a-la-universidad-y-murio-en-un-accidente-de-transito-3592134",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac78d24ae95a.r_d.486-290-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T12:36:43Z"
+  },
+  {
+   "titulo": "Pidió un mototaxi en Ibagué, intentó irse sin pagar $5.000 y terminó en coma tras ser atropellado",
+   "extracto": "El hombre permanece en una UCI de Ibagué, mientras la clínica y las autoridades buscan ubicar a sus familiares.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pidio-un-mototaxi-en-ibague-intento-irse-sin-pagar-y-termino-en-coma-tras-ser-atropellado-3592118",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac7827faa381.r_d.147-231-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T12:22:02Z"
+  },
+  {
+   "titulo": "Barranquilla: Policía descarta explosivos en cilindro alusivo al ELN hallado junto a bandera en puente de Murillo con Circunvalar",
+   "extracto": "Las autoridades revisan cámaras de seguridad para establecer quién dejó los elementos.",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-policia-descarta-explosivos-en-cilindro-alusivo-al-eln-hallado-junto-a-bandera-en-puente-de-murillo-con-circunvalar-3592132",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/08/6ac788e7c627f.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T12:21:43Z"
+  },
+  {
+   "titulo": "Alerta en Barranquilla por bandera del ELN en puente sobre la Murillo: autoridades descartan explosivos",
+   "extracto": "Hubo cierre de manera preventiva en el lugar, una zona de alto tráfico en la ciudad.",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/alerta-en-barranquilla-por-bandera-del-eln-en-puente-sobre-la-murillo-autoridades-descartan-explosivos-3592117",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/08/6ac7798eeae1d.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T11:20:01Z"
+  },
   {
    "titulo": "Atención viajeros: desde el 14 de octubre habrá cierres intermitentes por obras en la vía 4G al Suroeste antioqueño",
    "extracto": "Los conductores que pasen por Las Areneras, en el municipio de Amagá, Suroeste antioqueño, tendrán que ajustar sus tiempos de viaje desde el miércoles 14 de octubre. Covipacífico…",
@@ -23,6 +93,126 @@
    "fecha": "2026-10-08T11:00:00Z"
   },
   {
+   "titulo": "El estadio Pascual Guerrero reabre todas sus tribunas por primera vez tras el terremoto del 10 de agosto en Cali",
+   "extracto": "Tras una inspección de seguridad que descartó riesgos en las estructuras aledañas, el escenario deportivo reabre al 100 % de su capacidad.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/el-estadio-pascual-guerrero-reabre-todas-sus-tribunas-por-primera-vez-tras-el-terremoto-del-10-de-agosto-en-cali-3592105",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2022/10/05/633d89ddac4ee.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T09:31:00Z"
+  },
+  {
+   "titulo": "Menudo regresa a los escenarios para celebrar sus 50 años con una gira que reúne a exintegrantes: estas son las fechas de los conciertos",
+   "extracto": "Integrantes de distintas generaciones se reúnen para celebrar su trayectoria con conciertos en Estados Unidos y Puerto Rico.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/menudo-regresa-a-los-escenarios-para-celebrar-sus-50-anos-con-una-gira-que-reune-a-exintegrantes-estas-son-las-fechas-de-los-conciertos-3592151",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/08/6ac7931e4ea1c.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-08T13:04:24Z"
+  },
+  {
+   "titulo": "Premio Nobel de Literatura 2026: la ganadora es la canadiense Anne Carson",
+   "extracto": "El máximo galardón de las letras mundiales reconoce una de las trayectorias más influyentes de la literatura contemporánea en habla inglesa.",
+   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/premio-nobel-de-literatura-2026-la-ganadora-es-la-canadiense-anne-carson-3592119",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/08/6ac77a3dd85d4.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-08T12:50:20Z"
+  },
+  {
+   "titulo": "Abel de González, decorador y estilista de espacios: 'Para reparar una pared afectada por la humedad, lo primero que debemos hacer es sanearla'",
+   "extracto": "Un procedimiento de reparación explica cómo retirar las zonas dañadas, sellar la superficie y prepararla antes de pintar.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/abel-de-gonzalez-decorador-y-estilista-de-espacios-para-reparar-una-pared-afectada-por-la-humedad-lo-primero-que-debemos-hacer-es-sanearla-3592142",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/08/6ac78ec2bf39a.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-08T12:48:00Z"
+  },
+  {
+   "titulo": "Jackson Martínez aún no debuta con Independiente Medellín y su fichaje recibe críticas: 'Va en detrimento del fútbol colombiano'",
+   "extracto": "El delantero, de 39 años, volvió del retiro tras seis temporadas sin actividad profesional.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/jackson-martinez-aun-no-debuta-con-independiente-medellin-y-su-fichaje-recibe-criticas-va-en-detrimento-del-futbol-colombiano-3592140",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/28/6abb117228e2c.r_d.322-197-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-08T12:39:46Z"
+  },
+  {
+   "titulo": "Así quedó ubicada la Selección Colombia en el ranking Fifa después de sus partidos amistosos contra México, Paraguay y Perú",
+   "extracto": "El elenco nacional tuvo un balance de un triunfo, un empate y una derrota. Portugal, el equipo que salió más reforzado.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/asi-quedo-ubicada-la-seleccion-colombia-en-el-ranking-de-la-fifa-despues-de-sus-partidos-amistosos-contra-mexico-paraguay-y-peru-3592127",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/02/6ac063baa4993.r_d.986-242-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-08T12:22:55Z"
+  },
+  {
+   "titulo": "Alimentos que antes toleraba ahora le causan molestias intestinales: un nuevo estudio de la Universidad McMaster sigue el rastro de la microbiota",
+   "extracto": "Una investigación identificó cómo la inflamación altera las bacterias intestinales y favorece reacciones adversas a determinados alimentos.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/alimentos-que-antes-toleraba-ahora-le-causan-molestias-intestinales-un-nuevo-estudio-de-la-universidad-mcmaster-sigue-el-rastro-de-la-microbiota-3592129",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac7848fe2564.r_d.612-383-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-08T12:09:58Z"
+  },
+  {
+   "titulo": "¡Evite multas! Pico y placa en Cali para el jueves 8 de octubre de 2026: estas placas tendrán restricción",
+   "extracto": "La medida para vehículos particulares estará vigente entre las 6:00 a. m. y las 7:00 p. m. Consulte las terminaciones restringidas.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-jueves-8-de-octubre-de-2026-estas-placas-tendran-restriccion-3591784",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/01/17/678a695834681.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T07:38:00Z"
+  },
+  {
+   "titulo": "Nairo Quintana se confesó tras su retiro del ciclismo y reveló cuál fue uno de los momentos más difíciles de su carrera tras arriesgar su vida",
+   "extracto": "El pedalista boyacense le bajó la persiana a su trayectoria tras más de una década al más alto nivel.",
+   "enlace": "https://www.eltiempo.com/deportes/ciclismo/nairo-quintana-se-confeso-tras-su-retiro-del-ciclismo-y-revelo-cual-fue-uno-de-los-momentos-mas-dificiles-de-su-carrera-tras-arriesgar-su-vida-3592091",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/04/24/69eb8fc416af8.r_d.749-498-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-08T11:36:53Z"
+  },
+  {
+   "titulo": "¡Ojo, conductor! Pico y placa en Medellín para el jueves 8 de octubre de 2026: estas placas tendrán restricción",
+   "extracto": "La medida estará vigente entre las 5:00 a. m. y las 8:00 p. m. para carros particulares y motocicletas.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/ojo-conductor-pico-y-placa-en-medellin-para-el-jueves-8-de-octubre-de-2026-estas-placas-tendran-restriccion-3591782",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/07/19/64b825efb02d4.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T07:35:00Z"
+  },
+  {
+   "titulo": "Premio Nobel de Literatura 2026 para la poeta canadiense Anne Carson",
+   "extracto": "Anne Carson, poeta canadiense, ensayista, traductora y profesora de literatura clásica y comparada en la Universidad de Míchigan , fue seleccionada este jueves por la Academia…",
+   "enlace": "https://www.elcolombiano.com/cultura/anne-carson-nobel-literatura-2026-poeta-canadiense-academia-sueca-ND42056128",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/421x300/0c0/0d0/center/11101/CVTC/ane-carson-nobel_51832911_20261008061420.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-08T11:14:18Z"
+  },
+  {
+   "titulo": "Los cocineros y abuelas de España coinciden: los garbanzos guisados con espinacas ganan sabor y cuerpo con harina o pan para espesar el caldo",
+   "extracto": "Sofrito, majado o harina: los trucos de cocineros y abuelas para que este guiso de cuchara quede con más cuerpo y sabor.",
+   "enlace": "https://www.eltiempo.com/cultura/recetas/los-cocineros-y-abuelas-de-espana-coinciden-los-garbanzos-guisados-con-espinacas-ganan-sabor-y-cuerpo-con-harina-o-pan-para-espesar-el-caldo-3592101",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac70aaf873c2.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-08T10:30:00Z"
+  },
+  {
    "titulo": "Estudiante de 17 años murió ahogado en una laguna de Santa Rosa de Osos",
    "extracto": "Una jornada de trabajo entre padre e hijo en una finca pequeña de la vereda La Chorrera, en Santa Rosa de Osos, terminó en una lamentable tragedia que enluta al municipio por la…",
    "enlace": "https://www.elcolombiano.com/antioquia/estudiante-murio-ahogado-en-una-laguna-de-santa-rosa-de-osos-MC42043690",
@@ -31,6 +221,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-07T22:07:46Z"
+  },
+  {
+   "titulo": "Hermanos Torres, cocineros: 'El secreto de un arroz con leche especial está en la nata, la canela y la sal'",
+   "extracto": "El arroz con leche de los hermanos Torres no se hace como el tradicional. La nata, la canela y la sal marcan la diferencia.",
+   "enlace": "https://www.eltiempo.com/cultura/recetas/hermanos-torres-cocineros-el-secreto-de-un-arroz-con-leche-especial-esta-en-la-nata-la-canela-y-la-sal-3592082",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac6f3ba1fd96.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-08T10:01:00Z"
   },
   {
    "titulo": "Acudientes de las dos estudiantes que protagonizaron pelea en Copacabana fueron citadas a conciliación",
@@ -43,26 +243,6 @@
    "fecha": "2026-10-07T20:23:46Z"
   },
   {
-   "titulo": "Rescatan a menor de 16 años tras 20 días secuestrado en el Cauca: exigían $ 15.000 millones por su libertad",
-   "extracto": "Las autoridades están tras la pista de un joven de 18 años desaparecido en el Valle. Ofrecen hasta $ 30 millones de recompensa.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/rescatan-a-menor-de-16-anos-tras-20-dias-secuestrado-en-el-cauca-exigian-15-000-millones-por-su-libertad-3592102",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac716d056fa1.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T04:18:28Z"
-  },
-  {
-   "titulo": "Última llamada que tuvo Blanca Pardo, adulta mayor que murió tras ser hallada en Nariño con signos de violencia y abuso sexual: 'El celular sonó'",
-   "extracto": "Los allegados de la víctima la encontraron desorientada y con hipotermia grave tras permanecer varias horas a la intemperie.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/ultima-llamada-que-tuvo-blanca-pardo-adulta-mayor-que-murio-tras-ser-hallada-en-narino-con-signos-de-violencia-y-abuso-sexual-el-celular-sono-3592093",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/06/6ac5c76e9e382.r_d.558-425-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T04:16:23Z"
-  },
-  {
    "titulo": "Cuatro muertos y siete heridos dejó un accidente vial de un microbús en Urabá",
    "extracto": "Un hecho catastrófico se presentó alrededor de la 1:00 p.m. de este miércoles 7 de octubre en una vía rural de la subregión agroindustrial de Urabá, cuando al parecer un vehículo…",
    "enlace": "https://www.elcolombiano.com/antioquia/accidente-vial-sector-de-uraba-hoy-octubre-7-saldo-heridos-muertos-OF42032963",
@@ -73,14 +253,34 @@
    "fecha": "2026-10-07T20:13:24Z"
   },
   {
-   "titulo": "Video del momento del atentado con explosivos contra la Policía en Popayán, Cauca: en el ataque terminaron heridos dos agentes y tres civiles",
-   "extracto": "Las autoridades ofrecieron una recompensa de 20 millones de pesos por los responsables de la agresión contra una patrulla en la Comuna 4.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/video-del-momento-del-atentado-con-explosivos-contra-la-policia-en-popayan-cauca-en-el-ataque-terminaron-heridos-dos-agentes-y-tres-civiles-3592096",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/08/6ac726131d6b3.png",
-   "fuente": "El Tiempo",
+   "titulo": "Fondo Milagro: listo el contrato, pero siguen sin definirse las reglas para reconstruir",
+   "extracto": "La reconstrucción tras el terremoto del 10 de agosto tiene lista una bolsa para captar recursos. El Fondo Milagro, mecanismo mediante el cual el Gobierno recogerá el dinero para…",
+   "enlace": "https://www.elcolombiano.com/colombia/fondo-milagro-contrato-reglas-para-reconstruir-ND42054696",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/DFPH/tamanos-el-colombiano-2026-10-07t2_51832556_20261007221528.jpg",
+   "fuente": "El Colombiano",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-10-08T03:09:43Z"
+   "fecha": "2026-10-08T03:20:12Z"
+  },
+  {
+   "titulo": "Mientras capos salen de la Ofac, Petro y sus cercanos se quedan",
+   "extracto": "‘Gordo Lindo’, ‘El Arquitecto’, ‘Flechas’ y otros antiguos pesos pesados del narcotráfico colombiano fueron sacados de la Lista Clinton de Estados Unidos. También salieron decenas…",
+   "enlace": "https://www.elcolombiano.com/colombia/ofac-esta-es-la-lista-de-los-capos-salieron-de-la-lista-ofac-excepto-petro-y-compania-CD42054035",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/550x300/0c0/0d0/center/11101/WRNW/ofac_51832511_20261007214730.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T02:58:28Z"
+  },
+  {
+   "titulo": "Así llegaron dos activistas digitales del abelardismo a RTVC",
+   "extracto": "Dos influenciadoras digitales fueron contratadas por el Gobierno nacional en Inravisión, el Sistema de Medios Públicos del país RTVC. Se trata de Stefany Forero y Alejandra…",
+   "enlace": "https://www.elcolombiano.com/colombia/rtvc-asi-llegaron-activistas-de-abelardo-a-ese-canal-publico-JD42053183",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/RXVY/defensores-de-la-patriaaaa_51832456_20261007213209.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-08T02:56:43Z"
   },
   {
    "titulo": "¿Plata perdida en movilidad? La Procuraduría exige cuentas por multas de tránsito vencidas en el Valle de Aburrá",
@@ -163,16 +363,6 @@
    "fecha": "2026-10-08T01:15:55Z"
   },
   {
-   "titulo": "Capturan a señalado de abuso sexual contra una adulta mayor de 70 años en Santander: es un hombre de 28 años; la habría interceptado en una caminata",
-   "extracto": "La investigación incluyó revisión de cámaras, labores de vecindario y un allanamiento en el que fueron incautadas prendas de vestir.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/capturan-a-senalado-de-abuso-sexual-contra-una-adulta-mayor-de-70-anos-en-santander-es-un-hombre-de-28-anos-la-habria-interceptado-en-una-caminata-3592083",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac6e9419ed08.r_d.196-151-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T01:13:26Z"
-  },
-  {
    "titulo": "Cae en Tunja el conductor del homicidio de ‘Jhon Calzones’: así se habría tejido el crimen del exalcalde de Yopal",
    "extracto": "En un operativo coordinado entre el CTI de la Fiscalía General de la Nación y la Policía Nacional, las autoridades hicieron efectiva en Tunja, la captura del segundo presunto…",
    "enlace": "https://www.elcolombiano.com/colombia/homicidio-jhon-calzones-capturado-tunja-conductor-crimen-exalcalde-yopal-BD42051022",
@@ -181,26 +371,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-08T01:04:07Z"
-  },
-  {
-   "titulo": "Una mujer de 70 años murió en Medellín tras ser arrollada por dos menores de edad a bordo de una motocicleta: la comunidad incineró el vehículo",
-   "extracto": "Gloria Elena Agudelo Osorio salía de una clase de gimnasia a la que asistió con su mejor amiga cuando fue atropellada. Era una líder en su comunidad.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/una-mujer-de-70-anos-murio-en-medellin-tras-ser-arrollada-por-dos-menores-de-edad-a-bordo-de-una-motocicleta-la-comunidad-incinero-el-vehiculo-3592069",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac6e80759394.r_d.1441-187-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T00:54:13Z"
-  },
-  {
-   "titulo": "Denuncian abuso sexual en Santander contra una adulta mayor de 70 años: buscan a los responsables y hacen consejo de seguridad",
-   "extracto": "Los hechos se reportan en el municipio de San Vicente de Chucurí. Ya hay orden de captura.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/denuncian-brutal-abuso-sexual-en-santander-contra-una-adulta-mayor-de-70-anos-buscan-a-los-responsables-y-hacen-consejo-de-seguridad-3592047",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/04/17/69e289d8e2871.r_d.413-129-1.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T00:43:43Z"
   },
   {
    "titulo": "“La idea es volverlos a presentar”: Gobernación hará ajustes en vías por $4 billones que sacó del proyecto de valorización",
@@ -253,16 +423,6 @@
    "fecha": "2026-10-07T23:42:21Z"
   },
   {
-   "titulo": "La educación superior en Santander rompe barreras y crece desmedidamente: ocupa el segundo lugar con mayores programas acreditados; su estrategia",
-   "extracto": "De 20 universidades en la región nueve ya cuentan con acreditaciones. La educación también deja una dinámica de más de 12 mil empleos.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/la-educacion-superior-en-santander-rompe-barreras-y-crece-desmedidamente-ocupa-el-segundo-lugar-con-mayores-programas-acreditados-su-estrategia-3592057",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac6d72cc9ac4.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-07T23:41:29Z"
-  },
-  {
    "titulo": "Cristian 'Chicho' Arango reapareció tras la grave lesión que sufrió y habló del difícil momento que atraviesa: 'No han sido días fáciles'",
    "extracto": "El delantero de Nacional se lesionó en el partido contra Millonarios. Fue operado tras romperse el ligamento cruzado de la rodilla derecha.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/cristian-chicho-arango-reaparecio-tras-la-grave-lesion-que-sufrio-y-hablo-del-dificil-momento-que-atraviesa-no-han-sido-dias-faciles-3592100",
@@ -293,26 +453,6 @@
    "fecha": "2026-10-08T02:20:38Z"
   },
   {
-   "titulo": "La Guajira | Tío del fiscal Rafael Rojas lo acusa de usar su cargo para vincular con el narcotráfico disputa por predio de Uniguajira",
-   "extracto": "La disputa familiar por el predio “San Ramón”, ubicado a la salida de Riohacha, que enfrenta un complejo entramado jurídico, suma un nuevo capítulo.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/tio-del-fiscal-rafael-rojas-lo-senala-por-usar-su-cargo-para-relacionar-con-el-narcotrafico-la-disputa-por-el-predio-que-involucra-a-la-uniguajira-3592031",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac6bf92a84aa.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-07T22:06:45Z"
-  },
-  {
-   "titulo": "Video | Denuncian maltrato animal a una iguana en el campus de la Fundación Universitaria San Martín, en el Atlántico: 'Se retirará al trabajador'",
-   "extracto": "La institución se pronunció y aseguraron que 'no van a tolerar ni a promover prácticas que causen daño a los animales'.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/video-denuncia-de-maltrato-animal-a-una-iguana-en-el-campus-de-la-fundacion-universitaria-san-martin-en-el-atlantico-se-retirara-al-trabajador-3591949",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac678ce06f82.r_d.1128-302-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-07T22:04:10Z"
-  },
-  {
    "titulo": "Exigen dar con responsables del crimen de doña Blanca, una campesina de 72 años que murió tras ser hallada con signos de violencia sexual en Nariño",
    "extracto": "La historia que hoy estremece a Nariño y duele en todo el país inició el viernes 29 de agosto. Doña Blanca Emeria Pardo Rosero salió muy temprano de su casa en la vereda…",
    "enlace": "https://www.elcolombiano.com/colombia/muerte-blanca-campesina-72-anos-hallada-desnuda-violencia-sexual-narino-GC42040723",
@@ -323,16 +463,6 @@
    "fecha": "2026-10-07T22:02:16Z"
   },
   {
-   "titulo": "Nairo Quintana se confesó tras su retiro del ciclismo y reveló cuál fue uno de los momentos más difíciles de su carrera tras arriesgar su vida",
-   "extracto": "El pedalista boyacense le bajó la persiana a su trayectoria tras más de una década al más alto nivel.",
-   "enlace": "https://www.eltiempo.com/deportes/ciclismo/nairo-quintana-se-confeso-tras-su-retiro-del-ciclismo-y-revelo-cual-fue-uno-de-los-momentos-mas-dificiles-de-su-carrera-tras-arriesgar-su-vida-3592091",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/04/24/69eb8fc416af8.r_d.749-498-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-08T01:51:59Z"
-  },
-  {
    "titulo": "Matoneo, telequinésis y crueldad juvenil reviven en la miniserie 'Carrie', inspirada en un clásico del terror.",
    "extracto": "La producción ya sepuede ver en Prime Video. Tiene ocho capítulos.",
    "enlace": "https://www.eltiempo.com/cultura/matoneo-telequinesis-y-crueldad-juvenil-reviven-en-la-miniserie-carrie-inspirada-en-un-clasico-del-terror-3592076",
@@ -341,26 +471,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-08T01:50:32Z"
-  },
-  {
-   "titulo": "Capturaron al segundo implicado en el asesinato del exalcalde de Yopal 'Jhon Calzones': lo encontraron en Tunja; este habría sido su papel",
-   "extracto": "Al hombre le fueron incautados un teléfono celular y dos tarjetas SIM Card. Esto se sabe.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/capturaron-al-segundo-implicado-en-el-asesinato-del-exalcalde-de-yopal-jhon-calzones-lo-encontraron-en-tunja-este-habria-sido-su-papel-3592029",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/29/6abc778a676db.r_d.175-392-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-07T21:40:25Z"
-  },
-  {
-   "titulo": "¡Adiós a Piero! El cantautor que le cantó a su viejo y fue adoptado por Colombia",
-   "extracto": "A sus 81 años, murió quien fuera una de las voces más representativas de la canción social latinoamericana, célebre por ‘Mi viejo’.",
-   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/adios-a-piero-el-cantautor-que-le-canto-a-su-viejo-y-fue-adoptado-por-colombia-3592039",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2022/06/27/62ba670fe3b2f.r_d.1500-2250-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-08T01:35:52Z"
   },
   {
    "titulo": "Concejo y Alcaldía de Támesis, en Antioquia, le cerraron las puertas a la mina Quebradona",
@@ -503,26 +613,6 @@
    "fecha": "2026-10-07T23:45:08Z"
   },
   {
-   "titulo": "Juan José Córdoba y el camino que lo llevó a ganar un campeonato de baristas en Latinoamérica y el Caribe",
-   "extracto": "El colombiano convirtió su conocimiento, la técnica y las historias alrededor de cada preparación en las herramientas para conseguir el primer lugar.",
-   "enlace": "https://www.eltiempo.com/cultura/gastronomia/juan-jose-cordoba-y-el-camino-que-lo-llevo-a-ganar-un-campeonato-de-baristas-en-latinoamerica-y-el-caribe-3592060",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac6d696e8944.r_d.650-578-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-07T23:40:20Z"
-  },
-  {
-   "titulo": "'Entre hermanas' el documental ganador de Smartfilms 2026 que inmortaliza el amor y el cuidado familiar en Bogotá",
-   "extracto": "​Un cortometraje grabado con un teléfono retrata la relación de dos hermanas y rinde homenaje al rol del cuidado y la memoria familiar.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/entre-hermanas-el-documental-ganador-de-smartfilms-2026-que-inmortaliza-el-amor-y-el-cuidado-familiar-en-bogota-3592048",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/07/6ac6d394d1bd2.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-07T23:23:02Z"
-  },
-  {
    "titulo": "Santiago Uribe perdió tutela y queda en firme su condena de 28 años por ‘12 Apóstoles’",
    "extracto": "La Corte Suprema de Justicia negó la tutela presentada por Santiago Uribe Vélez, con la que buscaba tumbar la decisión que cerró la puerta a un nuevo recurso de casación contra la…",
    "enlace": "https://www.elcolombiano.com/colombia/santiago-uribe-firme-condena-28-anos-prision-alvaro-uribe-corte-suprema-DE42021367",
@@ -573,26 +663,6 @@
    "fecha": "2026-10-07T18:15:41Z"
   },
   {
-   "titulo": "El ‘estafador de Tinder’ lanzó su propia app de citas: así funcionará para evitar perfiles falsos",
-   "extracto": "La plataforma Safe Love promete verificar la identidad de sus usuarios y activar herramientas de seguridad durante las citas presenciales.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/estafador-de-tinder-lanzo-su-propia-app-de-citas-asi-funcionara-para-evitar-perfiles-falsos-3592032",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac6c3d8c2781.r_d.110-95-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-07T22:13:22Z"
-  },
-  {
-   "titulo": "Murió Piero Antonio De Benedictis, el intérprete de ‘Mi viejo’, a los 81 años en Buenos Aires, Argentina: ¿cuáles eran sus otros éxitos en la música?",
-   "extracto": "El cantautor nacido en Italia abandonó el seminario en 1963 para volcarse en una carrera musical marcada por el compromiso de protesta.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/murio-piero-antonio-de-benedictis-el-interprete-de-mi-viejo-a-los-81-anos-en-buenos-aires-argentina-cuales-eran-sus-otros-exitos-en-la-musica-3592012",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2022/06/27/62ba650c0f72b.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-07T22:12:08Z"
-  },
-  {
    "titulo": "Reacciones tras la muerte de Piero: así lo despiden en América Latina",
    "extracto": "Este miércoles 7 de octubre falleció el cantautor Piero, así lo confirmó su cuenta oficial que aunque no detalló la causa de su muerte se sabía, según medios argentinos, que…",
    "enlace": "https://www.elcolombiano.com/cultura/muerte-piero-reacciones-despedida-america-latina-OF42038688",
@@ -618,8 +688,8 @@
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/quien-es-juan-manuel-rengifo-el-jugador-de-21-anos-que-debuto-con-la-seleccion-colombia-en-el-partido-vs-peru-3591987",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac6af9347c09.r_d.111-146-0.png",
    "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
    "fecha": "2026-10-07T21:29:27Z"
   },
   {
@@ -641,26 +711,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-07T21:09:01Z"
-  },
-  {
-   "titulo": "Cada vez se debilita más el LIV: otro grande del golf anuncia que no jugará en 2027",
-   "extracto": "Los problemas financieros del circuito son delicados.",
-   "enlace": "https://www.eltiempo.com/deportes/otros-deportes/cada-vez-se-debilita-mas-el-liv-otro-grande-del-golf-anuncia-que-no-jugara-en-3592017",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/08/17/68a23e3f5dc7f.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-07T21:02:29Z"
-  },
-  {
-   "titulo": "Valtteri Bottas logró una increíble hazaña: recorrió más de 400 kilómetros en bicicleta para llegar al GP de Singapur de Fórmula 1",
-   "extracto": "El piloto finlandés terminó la carrera en Malasia y empezó su travesía para llegar a Singapur. Llegó a tiempo y se salvó de una penalización.",
-   "enlace": "https://www.eltiempo.com/deportes/automovilismo/valtteri-bottas-logro-una-increible-hazana-recorrio-mas-de-400-kilometros-en-bicicleta-para-llegar-al-gp-de-singapur-de-formula-3592010",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/07/6ac6b0b8af35c.r_d.550-148-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-07T20:55:57Z"
   },
   {
    "titulo": "Ataque con explosivo contra puesto de control de la Policía en Popayán deja varios heridos: esto se sabe",
@@ -1111,16 +1161,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-06T14:26:06Z"
-  },
-  {
-   "titulo": "Estas son las áreas agrícolas protegidas que el Gobierno de De la Espriella ya empezó a desmontar: ¿dónde y por qué?",
-   "extracto": "El gobierno de Abelardo de la Espriella comenzó a desmontar las Áreas de Protección para la Producción de Alimentos (APPA) que habían sido declaradas durante la administración de…",
-   "enlace": "https://www.elcolombiano.com/colombia/estas-son-las-areas-agricolas-protegidas-que-el-gobierno-de-de-la-espriella-ya-empezo-a-desmontar-donde-y-por-que-OK41965308",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/WTBO/abelardo-de-la-espriella-zonas-appa_51812826_20261006065248.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-06T14:01:15Z"
   },
   {
    "titulo": "Por primera vez llega a Medellín un Foro Gastronómico con Álvaro Clavijo, Jaime Rodríguez y reconocidos chefs",
