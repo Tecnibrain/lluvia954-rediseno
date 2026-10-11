@@ -1,7 +1,67 @@
 {
- "actualizado": "2026-10-10T21:41:27.614465Z",
- "total": 121,
+ "actualizado": "2026-10-11T05:42:53.672493Z",
+ "total": 100,
  "noticias": [
+  {
+   "titulo": "Reanudan operaciones en el aeropuerto José María Córdova tras situación con un dron",
+   "extracto": "La Aeronáutica Civil ordenó durante la noche de este sábado suspender las operaciones en el Aeropuerto José María Córdova por la presencia de un dron. La decisión fue informada…",
+   "enlace": "https://www.elcolombiano.com/antioquia/suspenden-operaciones-aeropuerto-jose-maria-cordova-medellin-dron-BB42161572",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/489x300/0c0/0d0/center/11101/YIGG/aeropuerto-de-rionegrom-2_51856234_20261010225203.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-11T03:57:47Z"
+  },
+  {
+   "titulo": "Capturan en Antioquia a alias ‘El Descuartizador’, solicitado por circular roja del Interpol",
+   "extracto": "La Policía Nacional capturó en el municipio de La Pintada, en el Suroeste de Antioquia, a Antonio Márquez Gómez, conocido como ‘El Descuartizador’, a quien las autoridades…",
+   "enlace": "https://www.elcolombiano.com/antioquia/captura-en-antioquia-de-alias-el-descuartizador-francia-NC42159477",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/320x300/0c0/0d0/center/11101/UKVE/el-descuartizador_51855944_20261010182118.png",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-11T00:13:09Z"
+  },
+  {
+   "titulo": "'Pensé que hasta ahí había llegado, sentí que caía en picada': el angustiante relato de una de las pasajeras del vuelo entre Medellín y Nueva York",
+   "extracto": "EL TIEMPO entrevistó en exclusiva a una de las pasajeras del vuelo AV042 que tuvo que aterrizar de emergencia en Miami por fuertes turbulencias.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pense-que-hasta-aqui-habia-llegado-sentimos-que-caia-en-picada-el-angustiante-relato-de-una-de-las-pasajeras-del-vuelo-entre-medellin-y-nueva-york-3592812",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acaebfb9ff77.r_d.857-603-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-11T04:45:10Z"
+  },
+  {
+   "titulo": "Suspenden temporalmente las operaciones en el aeropuerto José María Córdova de Rionegro, Antioquia, por presencia de un dron",
+   "extracto": "La Aerocivil informó sobre la situación a través de sus redes sociales. La contingencia se encuentra actualmente controlada y opera con normalidad.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/suspenden-temporalmente-las-operaciones-en-el-aeropuerto-jose-maria-cordova-de-rionegro-antioquia-por-presencia-de-un-dron-3592843",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/01/10/67811d52c869f.r_d.494-314-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-11T04:27:23Z"
+  },
+  {
+   "titulo": "De ciénaga contaminada a joya del turismo de naturaleza: Mallorquín, el tesoro que Barranquilla recuperó y hoy atrae a miles de visitantes",
+   "extracto": "Con un millón de visitantes y el Premio Nacional de Arquitectura 2026, el Ecoparque se consolida como nuevo atractivo turístico del Caribe.",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/de-cienaga-contaminada-a-joya-del-turismo-de-naturaleza-mallorquin-el-tesoro-que-barranquilla-recupero-y-hoy-atrae-a-miles-de-visitantes-3592808",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acac6e1dd9bc.r_d.1547-1119-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-11T03:01:00Z"
+  },
+  {
+   "titulo": "Le pasan tijera a MinIgualdad: recortan 471 empleos en la liquidación del ministerio",
+   "extracto": "La liquidación del Ministerio de Igualdad y Equidad ya ha suprimido 471 empleos, según el balance más reciente que la entidad divulgó este 10 de octubre desde su cuenta de X. El…",
+   "enlace": "https://www.elcolombiano.com/colombia/liquidacion-minigualdad-recorte-empleo-ministerio-de-trabajo-AB42160671",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/XPTW/colp-339856_51856128_20261010205103.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-11T02:17:46Z"
+  },
   {
    "titulo": "A Leidys le salieron en el camino y la mataron cuando iba a trabajar",
    "extracto": "",
@@ -13,14 +73,184 @@
    "fecha": "2026-10-10T17:18:16Z"
   },
   {
-   "titulo": "Las cifras del proceso de demolición de estructuras afectadas y gestión especializada de escombros que inició en Cali a dos meses del terremoto",
-   "extracto": "El pasado 6 de octubre comenzó la etapa de estabilización, que incluye la demolición de estructuras y el inicio de la reconstrucción.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/las-cifras-del-proceso-de-demolicion-de-estructuras-afectadas-y-gestion-especializada-de-escombros-que-inicio-en-cali-a-dos-meses-del-terremoto-3592743",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/10/6aca6509c730f.png",
+   "titulo": "Rock al Parque 2026: minuto a minuto del festival, horarios, artistas y recomendaciones para el ingreso",
+   "extracto": "El festival, que se extenderá hasta el lunes festivo 12 de octubre, espera convocar a miles de asistentes durante sus tres jornadas.",
+   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/rock-al-parque-2026-en-vivo-minuto-a-minuto-del-festival-horarios-artistas-y-recomendaciones-para-el-ingreso-3592730",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/06/23/68596287e8f31.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T05:13:41Z"
+  },
+  {
+   "titulo": "El capricho, la millonaria multa y la falsa reunión que habrían antecedido el homicidio del mejor montador de mulas de Colombia en Antioquia",
+   "extracto": "15 integrantes del grupo delincuencial 'La Miel' fueron capturados. Varios de ellos estuvieron involucrados en una masacre en Titiribí.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/el-capricho-operativo-la-millonaria-multa-y-la-falsa-reunion-que-habrian-antecedido-el-homicidio-del-mejor-montador-de-mulas-de-colombia-en-antioquia-3592790",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/10/6acab63b1d067.png",
    "fuente": "El Tiempo",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-10-10T21:27:51Z"
+   "fecha": "2026-10-10T23:12:22Z"
+  },
+  {
+   "titulo": "‘Al este del Edén’ de Netflix revive el clásico de la literatura",
+   "extracto": "La historia, basada en la novela del Nobel John Steinbeck, se estrenó el 1.º de octubre en la plataforma.",
+   "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/al-este-del-eden-de-netflix-revive-el-clasico-de-la-literatura-3592446",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/09/6ac8e0a76577b.r_d.624-191-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T03:01:00Z"
+  },
+  {
+   "titulo": "Las múltiples facetas de Bella Hadid",
+   "extracto": "Amante de los caballos, estrella de pasarelas, empresaria y actriz, la modelo ha escrito su historia moviéndose entre distintos ámbitos.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/las-multiples-facetas-de-bella-hadid-3592390",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac8555d97150.r_d.1501-970-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T03:01:00Z"
+  },
+  {
+   "titulo": "‘No me gustan las películas industriales ni las que no quieren correr riesgos’: Alejandro González Iñárritu",
+   "extracto": "El director y guionista mexicano habla de su nueva película ‘Digger’, protagonizada por Tom Cruise, que combina sátira, absurdo y tragedia.",
+   "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/no-me-gustan-las-peliculas-industriales-ni-las-que-no-quieren-correr-riesgos-alejandro-gonzalez-inarritu-3592387",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2022/09/26/63321fee5bcdc.r_d.1109-813-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T03:01:00Z"
+  },
+  {
+   "titulo": "De La Espriella ordena investigar vuelos de Verónica Alcocer para llevar presuntamente droga a Venezuela",
+   "extracto": "El presidente Abelardo De La Espriella ordenó al comandante de la Fuerza Aérea Colombiana (FAC) una “investigación exhaustiva” sobre “los graves hechos denunciados por la revista…",
+   "enlace": "https://www.elcolombiano.com/colombia/de-la-espriella-investigacion-veronica-alcocer-drogas-venezuela-JC42158504",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/416x300/0c0/0d0/center/11101/RWSR/abelardo-de-la-espriella-veronica-al_51855757_20261010175358.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-10T22:59:53Z"
+  },
+  {
+   "titulo": "‘Winnie Pooh’ se metió al pogo de Rock al Parque 2026 en Bogotá y desató una ola de bromas: se ganó el apodo de ‘Winnie Poohtazos’",
+   "extracto": "El personaje sorprendió al público durante la primera jornada del festival, que celebra tres décadas de historia en el Parque Simón Bolívar.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/winnie-pooh-se-metio-al-pogo-de-rock-al-parque-2026-en-bogota-y-desato-una-ola-de-bromas-se-gano-el-apodo-de-winnie-poohtazos-3592825",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/10/6acaee07a8d36.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T02:55:46Z"
+  },
+  {
+   "titulo": "Barajar y dar de nuevo (Último tango, opinión)",
+   "extracto": "El balance de la fecha Fifa para los rivales de Colombia en las eliminatorias de Conmebol.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/barajar-y-dar-de-nuevo-ultimo-tango-opinion-3592785",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/02/6ac063bbef232.r_d.711-432-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-11T02:46:16Z"
+  },
+  {
+   "titulo": "Santa Fe se enfoca en la Copa BetPlay: busca cupo en los octavos de final contra Fortaleza | Hora y TV",
+   "extracto": "El León será local en el estadio Municipal de Mosquera por causa de los conciertos en El Campín.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/santa-fe-se-enfoca-en-la-copa-betplay-busca-cupo-en-los-octavos-de-final-contra-fortaleza-hora-y-tv-3592786",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/02/07/6987e573acd57.r_d.575-765-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-11T02:45:10Z"
+  },
+  {
+   "titulo": "‘Tadej Pogacar dominará el ciclismo hasta los Juegos Olímpicos del 2028’: Fabio Aru",
+   "extracto": "Tras ganar la Vuelta y ser podio en el Giro, excorredor analiza la temporada del ciclismo que está cerca de terminar y lo que pasa con Colombia.",
+   "enlace": "https://www.eltiempo.com/deportes/ciclismo/tadej-pogacar-dominara-el-ciclismo-hasta-los-juegos-olimpicos-del-2028-fabio-aru-3592794",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/24/6a638ad3a5172.r_d.896-228-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-11T02:44:23Z"
+  },
+  {
+   "titulo": "Lionel Messi volvió a la MLS afilado tras su despedida de la selección de Argentina: video de su doblete en el triunfo del Inter Miami",
+   "extracto": "El astro argentino selló la goleada contra el DC United. Luis Suárez completó la faena con otro doblete para el 4-0 final.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/lionel-messi-volvio-a-la-mls-afilado-tras-su-despedida-de-la-seleccion-de-argentina-video-de-su-doblete-en-el-triunfo-del-inter-miami-3592841",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acaf66f898ec.r_d.361-367-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-11T02:42:51Z"
+  },
+  {
+   "titulo": "Más de 300 taxistas del aeropuerto de Barranquilla serán capacitados para convertirse en promotores turísticos",
+   "extracto": "El Sena y la Alcaldía iniciaron la formación de los primeros 50 conductores del Ernesto Cortissoz.",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/mas-de-300-taxistas-del-aeropuerto-de-barranquilla-seran-capacitados-para-convertirse-en-promotores-turisticos-3592803",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acab6630c0b7.r_d.662-405-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-10T22:36:52Z"
+  },
+  {
+   "titulo": "Carlos Gutiérrez, veterinario: 'Cuando se acercan con la cola levantada, eso es un signo inequívoco de que vienen en son de paz'",
+   "extracto": "El veterinario explica cómo interpretar los gestos de los gatos y por qué sus rutinas puede dar pistas sobre su bienestar.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/carlos-gutierrez-veterinario-cuando-se-acercan-con-la-cola-levantada-eso-es-un-signo-inequivoco-de-que-vienen-en-son-de-paz-3592826",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acaf1cf2e921.r_d.260-202-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T02:20:07Z"
+  },
+  {
+   "titulo": "Tabla de posiciones de la Liga BetPlay: Junior empató en casa y no levanta cabeza, mientras que Deportivo Cali salvó un empate con 10 hombres",
+   "extracto": "Los empates marcaron la jornada del sábado en el fútbol colombiano.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/tabla-de-posiciones-de-la-liga-betplay-junior-empato-en-casa-y-no-levanta-cabeza-mientras-que-deportivo-cali-salvo-un-empate-con-10-hombres-3592823",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/05/6a9ce7e69c9cb.r_d.989-580-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-11T01:52:59Z"
+  },
+  {
+   "titulo": "Entrevista con Steve Harris: Iron Maiden completa cinco conciertos en Bogotá en 18 años",
+   "extracto": "La banda británica, que este domingo se presenta en el Vive Claro, goza de una relación fiel con sus fanáticos colombianos. Así se ha gestado.",
+   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/entrevista-con-steve-harris-iron-maiden-completa-cinco-conciertos-en-bogota-en-18-anos-3592787",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/10/6acaa0f1b591e.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T01:40:00Z"
+  },
+  {
+   "titulo": "Barranquilla: un cielo de 756 piezas tejidas a mano transforma las calles de Barrio Abajo; 61 mujeres están detrás de la obra",
+   "extracto": "La instalación de 130 metros cuadrados, elaborada en crochet con los colores de la bandera de Barranquilla, se suma a los atractivos del sector.",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-un-cielo-de-756-piezas-tejidas-a-mano-transforma-las-calles-de-barrio-abajo-61-mujeres-estan-detras-de-la-obra-3592798",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acaae104c869.r_d.625-261-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-10T21:39:05Z"
+  },
+  {
+   "titulo": "Angelina Jolie protege 39 hectáreas en Camboya: así contribuyó a conservar una zona afectada por la caza furtiva",
+   "extracto": "La actriz transformó su vínculo con Camboya en una iniciativa que va más allá del cine y su vida familiar.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/angelina-jolie-protege-39-hectareas-en-camboya-asi-contribuyo-a-conservar-una-zona-afectada-por-la-caza-furtiva-3592821",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/08/31/66d365c78a6a9.r_d.2025-506-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T01:36:39Z"
+  },
+  {
+   "titulo": "Capturaron a alias María José, presunta encargada de reclutar menores para las disidencias de las Farc en Guaviare",
+   "extracto": "Un teléfono celular y una cuenta en diferentes redes sociales o plataformas digitales eran las herramientas con las que alias María José seducía y engañaba a adolescentes en el…",
+   "enlace": "https://www.elcolombiano.com/colombia/capturaron-alias-maria-jose-encargada-reclutar-menores-disidencias-farc-guaviare-BC42155114",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SUMD/foto-capturaron-a-alias-maria-jose_51855151_20261010161741.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-10T21:29:08Z"
   },
   {
    "titulo": "Saqueos y zozobra | La otra tragedia que dejó el terremoto en Colombia del pasado 10 de agosto: esto es lo que ha sucedido en dos meses",
@@ -33,14 +263,24 @@
    "fecha": "2026-10-10T21:27:14Z"
   },
   {
-   "titulo": "Miss Universo Colombia 2026: hora de la elección y coronación, dónde ver la gala en vivo y quiénes son las candidatas",
-   "extracto": "Veinte candidatas competirán este sábado en Barranquilla por la corona nacional y la oportunidad de representar a Colombia en Puerto Rico.",
-   "enlace": "https://www.eltiempo.com/colombia/miss-universo-colombia-2026-hora-de-la-eleccion-y-coronacion-donde-ver-la-gala-en-vivo-y-quienes-son-las-candidatas-3592779",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6aca821168e7b.r_d.295-302-0.png",
-   "fuente": "El Tiempo",
+   "titulo": "Yamid Amat regresa a su hogar en Bogotá: Fundación Santa Fe le dio el alta",
+   "extracto": "El periodista Yamid Amat, de 84 años, ya está en su casa. Julio Sánchez Cristo, director de 6AM W, de Caracol Radio, confirmó que el comunicador salió de la Fundación Santa Fe de…",
+   "enlace": "https://www.elcolombiano.com/colombia/periodista-yamid-amat-sale-de-hospitalizacion-IC42156295",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/428x300/0c0/0d0/center/11101/EVNC/yamid-amat_51855373_20261010160430.png",
+   "fuente": "El Colombiano",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-10-10T21:15:12Z"
+   "fecha": "2026-10-10T21:16:32Z"
+  },
+  {
+   "titulo": "Junior quedó al borde del nocaut en la Liga BetPlay: empató contra Inter de Bogotá en Barranquilla y la clasificación se aleja",
+   "extracto": "El Tiburón igualó en el Romelio Martínez por 2-2. Quedó a 10 puntos del octavo lugar en la tabla.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/junior-quedo-al-borde-del-nocaut-en-la-liga-betplay-empato-contra-inter-de-bogota-en-barranquilla-y-la-clasificacion-se-aleja-3592817",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/01/6abf29055e8fe.r_d.763-366-1.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-11T01:13:10Z"
   },
   {
    "titulo": "Más de 250.000 vehículos circularían por las vías del Atlántico durante el puente festivo: estas son las recomendaciones para viajar",
@@ -53,6 +293,16 @@
    "fecha": "2026-10-10T20:44:38Z"
   },
   {
+   "titulo": "Periodista de TVN dejó caer un celular al agua durante una transmisión en vivo por las lluvias en Chile: así reaccionó",
+   "extracto": "Ignacia Mir logró recuperar el dispositivo, pero este dejó de funcionar. Al regresar a la oficina, sus compañeros la recibieron con aplausos.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/periodista-de-tvn-dejo-caer-un-celular-al-agua-durante-una-transmision-en-vivo-por-las-lluvias-en-chile-asi-reacciono-3592815",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acadb4bbf816.r_d.933-198-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T00:44:23Z"
+  },
+  {
    "titulo": "Sincelejo reduce los homicidios y reporta caídas de hasta el 33 % en los principales delitos durante 2026",
    "extracto": "La capital de Sucre reporta una reducción del 17 % en homicidios y caídas en hurtos a personas, comercios y vehículos.",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/sincelejo-reduce-los-homicidios-y-reporta-caidas-de-hasta-el-33-en-los-principales-delitos-durante-3592788",
@@ -63,14 +313,34 @@
    "fecha": "2026-10-10T20:25:43Z"
   },
   {
+   "titulo": "Chris Froome se deshace en elogios para Nairo Quintana, su exrival en el Tour de Francia: 'Tiene un lugar en la historia del ciclismo mundial'",
+   "extracto": "Froome acompaña a Nairo Quintana en su Gran Fondo en Cartagena.",
+   "enlace": "https://www.eltiempo.com/deportes/ciclismo/chris-froome-se-deshace-en-elogios-para-nairo-quintana-su-exrival-en-el-tour-de-francia-tiene-un-lugar-en-la-historia-del-ciclismo-mundial-3592814",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/12/20/6765bfa0a7e53.r_d.960-540-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-11T00:16:33Z"
+  },
+  {
    "titulo": "Confirman aprehensión de alias 'Rambo', presunto implicado en la muerte de una cuidadora del ICBF en Barrancabermeja: la mujer evitó una violación",
    "extracto": "Tres de los jóvenes aceptaron cargos y fueron judicializados. Ocho días antes de su muerte, la mujer tenía pensado renunciar por amenazas.",
    "enlace": "https://www.eltiempo.com/colombia/santander/confirman-aprehension-de-alias-rambo-presunto-implicado-en-la-muerte-de-una-cuidadora-del-icbf-en-barrancabermeja-la-mujer-evito-una-violacion-3592781",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/04/16/69e0f9aeb4c05.jpeg",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/04/16/69e0f9aeb4c05.r_d.801-495-0.jpeg",
    "fuente": "El Tiempo",
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-10T19:58:54Z"
+  },
+  {
+   "titulo": "La Selección Colombia Femenina superó su primer examen y venció a Venezuela en apretado partido amistoso: video del gol",
+   "extracto": "Ingrid Guerra anotó el único gol de la tarde, pero la figura fue la arquera colombiana Katherine Tapia.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/la-seleccion-colombia-femenina-supero-su-primer-examen-y-vencio-a-venezuela-en-apretado-partido-amistoso-video-del-gol-3592810",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/06/10/6a2a28eec98d6.r_d.1533-828-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-10T23:16:31Z"
   },
   {
    "titulo": "Radiografía a dos meses del terremoto en Colombia: $30 billones en pérdidas, 498 municipios golpeados y un fondo por definir",
@@ -83,6 +353,16 @@
    "fecha": "2026-10-10T19:11:20Z"
   },
   {
+   "titulo": "Árbitro alemán calificó de craso error haber anulado el gol de tijera de Luis Díaz en el empate del Bayern Múnich: 'Debió ser validado'",
+   "extracto": "El árbitro alemán Patrick Ittrich explicó la polémica acción que pudo cambiar el rumbo del partido contra el Augsburgo.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/arbitro-aleman-califico-de-craso-error-haber-anulado-el-gol-de-tijera-de-luis-diaz-en-el-empate-del-bayern-munich-debio-ser-validado-3592806",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acabd4766997.r_d.487-233-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-10T22:37:53Z"
+  },
+  {
    "titulo": "Las 7 denuncias más graves que hizo Eva Ferrer sobre Alcocer: desde presunto tráfico de drogas hasta una supuesta conspiración política",
    "extracto": "Eva Ferrer, exasesora presidencial, hizo fuertes señalamientos en contra de Verónica Alcocer, exprimera dama de la Nación . La española acusó a la expareja de Gustavo Petro de al…",
    "enlace": "https://www.elcolombiano.com/colombia/eva-ferrer-cuales-son-las-denuncias-mas-graves-sobre-veronica-alcocer-IC42152280",
@@ -91,16 +371,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-10T18:34:13Z"
-  },
-  {
-   "titulo": "El día después de la emergencia en Medellín: 228 familias de cinco comunas resultaron afectadas por las lluvias; hubo 32 incidentes en la ciudad",
-   "extracto": "La Iguaná, Blanquizal y El Pesebre son los sectores donde se concentraron las mayores afectaciones tras las lluvias y desbordamientos de anoche.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/el-dia-despues-de-la-emergencia-en-medellin-228-familias-de-cinco-comunas-resultaron-afectadas-por-las-lluvias-hubo-32-incidentes-en-la-ciudad-3592768",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/10/6aca7f8860b41.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-10T18:14:22Z"
   },
   {
    "titulo": "Explosivas declaraciones de Eva Ferrer: dijo que Verónica Alcocer lideraba banda de tráfico de armas, drogas y lavado de activos",
@@ -113,44 +383,24 @@
    "fecha": "2026-10-10T17:48:14Z"
   },
   {
-   "titulo": "El sentido homenaje póstumo a Fredy Leal, policía que frustró millonario robo en joyería de Bucaramanga en reconocido centro comercial",
-   "extracto": "Este hecho se hizo viral en redes tras la balacera que se originó al interior del establecimiento comercial.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/el-sentido-homenaje-postumo-a-fredy-leal-policia-que-frustro-millonario-robo-en-joyeria-de-bucaramanga-en-reconocido-centro-comercial-3592755",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/10/6aca7567b3955.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-10T17:34:30Z"
-  },
-  {
-   "titulo": "Federación Portuguesa de Fútbol le abrió proceso disciplinario a Cristiano Ronaldo",
-   "extracto": "El delantero de 41 años abandonó la concentración del equipo nacional el pasado 30 de septiembre por diferencias con el seleccionador Jorge Jesus.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/federacion-portuguesa-de-futbol-le-abrio-proceso-disciplinario-a-cristiano-ronaldo-3592782",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6aca824d57b75.r_d.1854-564-0.jpeg",
+   "titulo": "Real Madrid venció a Villarreal en LaLiga tras la fecha Fifa, pero sigue sin convencer: Vinícius, expulsado por jalarle el cabello a un rival (video)",
+   "extracto": "Yan Diomandé fue el héroe en una noche pálida de los blancos en el Bernabéu. Vini perdió los papeles tras ver la roja.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/real-madrid-vencio-a-villarreal-en-laliga-tras-la-fecha-fifa-pero-sigue-sin-convencer-vinicius-expulsado-por-jalarle-el-cabello-a-un-rival-video-3592801",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acab0b95f8c9.r_d.561-120-0.jpeg",
    "fuente": "El Tiempo",
    "categoria": "deportes",
    "etiqueta": "Deportes",
-   "fecha": "2026-10-10T21:26:00Z"
+   "fecha": "2026-10-10T21:44:12Z"
   },
   {
-   "titulo": "Cierres viales, cambio en los horarios del Metro y extensión de la operación de los establecimientos nocturnos por el EDC en Medellín",
-   "extracto": "El Electric Daisy Carnival se realizará por primera vez en Suramérica y la capital de Antioquia implementó medidas para adaptarse al evento.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/cierres-viales-cambio-en-los-horarios-del-metro-y-extension-de-la-operacion-de-los-establecimientos-nocturnos-por-el-edc-en-medellin-3592756",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6aca7315c7efd.r_d.1456-584-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-10T17:21:07Z"
-  },
-  {
-   "titulo": "Colombia vs. Venezuela: siga acá el minuto a minuto del amistoso de la Selección Femenina como preparación para el Mundial",
-   "extracto": "El equipo de Ángelo Marsiglia afronta el primero de los dos juegos de fogueo contra la Vinotinto.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/colombia-vs-venezuela-siga-aca-el-minuto-a-minuto-del-amistoso-de-la-seleccion-femenina-como-preparacion-para-el-mundial-3592791",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/04/17/69e2d6202da4e.r_d.1395-1174-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-10T21:04:16Z"
+   "titulo": "Fin de semana de Altavoz: esto es lo que no se puede llevar y lo que sí se permitirá ingresar",
+   "extracto": "En el estadio Cincuentenario y en el Parque Norte se llevará a cabo el Festival Internacional Altavoz, que es el evento donde se reúnen artistas de rock, metal y hip hop durante…",
+   "enlace": "https://www.elcolombiano.com/cultura/esto-es-lo-que-no-se-puede-llevar-al-festival-altavoz-MC42154866",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/478x300/0c0/0d0/center/11101/WTKM/festival-altavoz-2024-ce-23_51854962_20261010150646.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-10T21:11:32Z"
   },
   {
    "titulo": "“Nunca habíamos sentido algo así”: estos son los testimonios de afectados por el terremoto en Panamá",
@@ -173,36 +423,6 @@
    "fecha": "2026-10-10T16:55:24Z"
   },
   {
-   "titulo": "La balacera en Medellín para frustrar un robo de más de 25 millones de pesos y que terminó con dos muertos: agentes del CTI evitaron el hurto",
-   "extracto": "Los ladrones fueron abatidos por los agentes que estaban en la zona. La víctima del intento de robo recibió un disparo en el pecho.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/la-balacera-en-medellin-para-frustrar-un-robo-de-mas-de-25-millones-de-pesos-y-que-termino-con-dos-muertos-agentes-del-cti-evitaron-el-hurto-3592749",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2022/09/30/6336ec7fc3ae3.r_d.454-267-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-10T16:29:14Z"
-  },
-  {
-   "titulo": "Día redondo para Max Verstappen: logró la ‘pole’ para el Gran Premio de Singapur de Fórmula 1",
-   "extracto": "El neerlandés ya había ganado la carrera esprint este mismo sábado.",
-   "enlace": "https://www.eltiempo.com/deportes/automovilismo/dia-redondo-para-max-verstappen-logro-la-pole-para-el-gran-premio-de-singapur-de-formula-3592789",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6aca4c241a4c3.r_d.1182-1613-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-10T20:06:52Z"
-  },
-  {
-   "titulo": "Rock al Parque 2026: minuto a minuto del festival, horarios, artistas y recomendaciones para el ingreso",
-   "extracto": "El festival, que se extenderá hasta el lunes festivo 12 de octubre, espera convocar a miles de asistentes durante sus tres jornadas.",
-   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/rock-al-parque-2026-en-vivo-minuto-a-minuto-del-festival-horarios-artistas-y-recomendaciones-para-el-ingreso-3592730",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/06/23/68596287e8f31.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-10T19:39:54Z"
-  },
-  {
    "titulo": "Defensoría pide reabrir registro para damnificados a dos meses del terremoto",
    "extracto": "La Defensoría del Pueblo pidió reabrir el registro de damnificados y ampliar la atención institucional a las comunidades afectadas por el terremoto del 10 de agosto , que dejó 335…",
    "enlace": "https://www.elcolombiano.com/colombia/defensoria-pide-reabrir-registro-para-damnificados-a-dos-meses-del-terremoto-AD42148899",
@@ -211,16 +431,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-10T15:01:12Z"
-  },
-  {
-   "titulo": "Escándalo en España: suspendido el duelo Rayo Vallecano vs. Athletic por insólita protesta contra el presidente | Video",
-   "extracto": "Los aficionados lanzaron pelotas de goma y aviones de papel en medio de su inconformismo.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/escandalo-en-espana-suspendido-el-duelo-rayo-vallecano-vs-athletic-por-insolita-protesta-contra-el-presidente-video-3592780",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/10/6aca84ab70fda.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-10T18:35:46Z"
   },
   {
    "titulo": "Mamba Negra, de Medellín, entra al ranking de los 50 mejores bares del mundo 2026",
@@ -243,66 +453,6 @@
    "fecha": "2026-10-10T18:04:55Z"
   },
   {
-   "titulo": "Paul Seixas ganó el primer Monumento de su carrera: se impuso en el Giro de Lombardía y rompió una marca de 82 años",
-   "extracto": "La gran esperanza francesa del ciclismo mundial sigue marcando hitos.",
-   "enlace": "https://www.eltiempo.com/deportes/ciclismo/paul-seixas-gano-el-primer-monumento-de-su-carrera-se-impuso-en-el-giro-de-lombardia-y-rompio-una-marca-de-82-anos-3592772",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6aca7a3b4a702.r_d.1066-551-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-10T18:01:03Z"
-  },
-  {
-   "titulo": "Tulio Gómez, muy molesto, desmiente rumores sobre la venta del América de Cali",
-   "extracto": "El máximo accionista de la institución descalificó las informaciones sobre una negociación finalizada pero admitió diálogos con fondos de inversión.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/tulio-gomez-muy-molesto-desmiente-rumores-sobre-la-venta-del-america-de-cali-3592765",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/11/28/69297a2ddce7c.r_d.567-534-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-10T17:19:36Z"
-  },
-  {
-   "titulo": "La Selección Colombia Femenina juega este sábado su primer amistoso contra Venezuela: así lo podrá ver por TV",
-   "extracto": "El equipo de Ángelo Marsiglia, con las bajas de sus referentes de ataque, se alista para el Mundial 2027 y los Olímpicos 2028.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/la-seleccion-colombia-femenina-juega-este-sabado-su-primer-amistoso-contra-venezuela-asi-lo-podra-ver-por-tv-3592758",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/07/17/6878efd6491a9.r_d.935-923-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-10T16:58:21Z"
-  },
-  {
-   "titulo": "F1: Max Verstappen ganó la carrera sprint en Singapur, mientras Lando Norris volvió a quedar señalado por un incidente con Oscar Piastri",
-   "extracto": "La prueba tuvo múltiples abandonos, entre los que se destaca el de George Russell.",
-   "enlace": "https://www.eltiempo.com/deportes/automovilismo/f1-max-verstappen-gano-la-carrera-esprint-en-singapur-mientras-lando-norris-volvio-a-quedar-senalado-por-un-incidente-con-oscar-piastri-3592733",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/10/6aca4c2f9b3a7.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-10T16:31:06Z"
-  },
-  {
-   "titulo": "Video | Jhon Vásquez, jugador de Llaneros, acusado de agredir a personal de logística del Once Caldas en Manizales",
-   "extracto": "El mediocampista había sido expulsado en el partido que su equipo perdió 1-0 en el estadio Palogrande.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/video-jhon-vasquez-jugador-de-llaneros-acusado-de-agredir-a-personal-de-logistica-del-once-caldas-en-manizales-3592745",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/10/6aca6224c2068.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-10T16:14:41Z"
-  },
-  {
-   "titulo": "Bayern Múnich empató ante Augsburgo y Luis Díaz acabó frustrado: dos goles anulados",
-   "extracto": "El extremo colombiano disputó 85 minutos en un duelo marcado por los errores defensivos y el protagonismo del VAR que anuló dos jugadas de gol.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/bayern-munich-empato-ante-augsburgo-y-luis-diaz-acabo-frustrado-dos-goles-anulados-3592741",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad91b40c705.r_d.2297-503-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-10T15:30:32Z"
-  },
-  {
    "titulo": "Informe revela que cada 20 horas hay un ataque con drones en Colombia; estas son las zonas más afectadas",
    "extracto": "Samuel Pinzón Barliza Ipuana era soldado del Ejército hasta que un ataque con dron lo mató la semana pasada. Su caso es uno de los 716 que se han presentado en Colombia desde…",
    "enlace": "https://www.elcolombiano.com/colombia/informe-revela-20-ataques-hora-drones-colombia-zonas-afectadas-GD42146347",
@@ -311,26 +461,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-10T11:00:00Z"
-  },
-  {
-   "titulo": "BogotaEats reunirá a más de 30 chefs y restaurantes en una edición que busca apoyar la gastronomía de las zonas afectadas por el terremoto",
-   "extracto": "El festival se realizará del 16 al 18 de octubre en el Parque Museo El Chicó.",
-   "enlace": "https://www.eltiempo.com/cultura/gastronomia/bogotaeats-reunira-a-mas-de-30-chefs-y-restaurantes-en-una-edicion-que-busca-apoyar-la-gastronomia-de-las-zonas-afectadas-por-el-terremoto-3592728",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/10/6aca43538f8b9.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-10T13:56:23Z"
-  },
-  {
-   "titulo": "Estos son los cierres viales por Rock al Parque 2026 este fin de semana en Bogotá",
-   "extracto": "Las restricciones se aplicarán entre el 10 y el 12 de octubre en un tramo de la calle 63, cerca del Parque Simón Bolívar.",
-   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/estos-son-los-cierres-viales-por-rock-al-parque-2026-este-fin-de-semana-en-bogota-3592722",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/09/6ac99826d3d7e.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-10T13:24:56Z"
   },
   {
    "titulo": "Las dos estudiantes involucradas en la riña de Copacabana no volverían todavía a las aulas",
@@ -443,16 +573,6 @@
    "fecha": "2026-10-10T00:29:58Z"
   },
   {
-   "titulo": "Cali recibirá a Nicky Jam para su concierto en el Pascual Guerrero: detalles y boletería del evento",
-   "extracto": "El ícono del género urbano ofrecerá un espectáculo de alto nivel que contará con una sorpresa para las personas afectadas por el terremoto.",
-   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/cali-recibira-a-nicky-jam-para-su-concierto-en-el-pascual-guerrero-detalles-y-boleteria-del-evento-3592706",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/09/6ac9bbb43327c.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-10T04:16:52Z"
-  },
-  {
    "titulo": "Gobierno estrena decreto para abordar la protesta social justo antes de marchas de la oposición",
    "extracto": "El ministro del Interior, Rodrigo Lara , anunció que el presidente Abelardo de la Espriella firmaría este viernes el decreto de protesta social . Es decir, la norma entraría en…",
    "enlace": "https://www.elcolombiano.com/colombia/protesta-decreto-gobierno-abelardo-de-la-espriella-rodrigo-lara-gustavo-petro-marchas-14-de-octubre-HG42111350",
@@ -523,16 +643,6 @@
    "fecha": "2026-10-10T00:35:46Z"
   },
   {
-   "titulo": "Alfredo de la Fe: el violinista que nunca ha dejado de explorar la salsa, se presentará en Bogotá",
-   "extracto": "El 15 de octubre, en Andrés D.C., recordará su camino y las historias de sus canciones más emblemáticas, como 'Periódico de Ayer'.",
-   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/alfredo-de-la-fe-el-violinista-que-nunca-ha-dejado-de-explorar-la-salsa-se-presentara-en-bogota-3592664",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2019/08/23/5d6090865d55d.r_d.1039-571-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-10T00:16:58Z"
-  },
-  {
    "titulo": "Terremoto en Panamá sacudió a Colombia y varios países de Centroamérica en la tarde de este viernes, ¿lo sintió?",
    "extracto": "Un fuerte temblor de magnitud 7.7 con epicentro en Panamá sacudió a Colombia y varios países de Centroamérica en la tarde de este viernes 9 de octubre. Según los reportes, el…",
    "enlace": "https://www.elcolombiano.com/colombia/temblor-hoy-panama-octubre-9-donde-se-sintio-magnitud-IG42117249",
@@ -563,16 +673,6 @@
    "fecha": "2026-10-09T19:16:33Z"
   },
   {
-   "titulo": "El hombre que puso a Shakespeare a hablar colombiano: así será el homenaje a Joe Broderick",
-   "extracto": "Durante más de 20 años, Broderick ha traducido para los actores. El 14 de octubre, varias de sus versiones volverán a escena en un homenaje en vida.",
-   "enlace": "https://www.eltiempo.com/cultura/arte-y-teatro/el-hombre-que-puso-a-shakespeare-a-hablar-colombiano-asi-sera-el-homenaje-a-joe-broderick-3592654",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/09/6ac96c6618410.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-09T22:51:28Z"
-  },
-  {
    "titulo": "¿Qué pasará con los $21.567 millones de anticipos que recibieron 5 candidatos presidenciales?",
    "extracto": "Durante la última semana de la campaña presidencial, el Consejo Nacional Electoral (CNE) giró $21.567 millones en anticipos a cinco candidatos. Era plata pública para que…",
    "enlace": "https://www.elcolombiano.com/colombia/que-pasara-anticipos-millonarios-5-candidatos-presidenciales-FG42117147",
@@ -583,16 +683,6 @@
    "fecha": "2026-10-09T18:39:18Z"
   },
   {
-   "titulo": "Puente festivo en casa: 10 planes para descansar, compartir en familia y aprovechar el tiempo libre",
-   "extracto": "Las actividades creativas, los juegos y las pequeñas pausas pueden convertir los días de descanso en una oportunidad para salir de la rutina.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/puente-festivo-en-casa-10-planes-para-descansar-compartir-en-familia-y-aprovechar-el-tiempo-libre-3592646",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/09/6ac9655fc60e9.r_d.151-169-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-09T22:06:30Z"
-  },
-  {
    "titulo": "Frustraron atentado terrorista con ‘taxi bomba’ en la vía Panamericana, Cauca: Ejército verifica si hay más explosivos",
    "extracto": "Un vehículo tipo taxi cargado con material explosivo fue interceptado en la mañana de este viernes 9 de octubre por tropas del Ejército Nacional en la vía Panamericana…",
    "enlace": "https://www.elcolombiano.com/colombia/ejercito-frustra-atentado-terrorista-taxi-bomba-via-panamericana-cauca-NG42114393",
@@ -601,26 +691,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-09T17:43:09Z"
-  },
-  {
-   "titulo": "Cómo conservar los tomates frescos fuera de la nevera: el truco casero de la bolsa de papel y la cebolla",
-   "extracto": "Los tomates pueden conservar su frescura y sabor por más tiempo fuera de la nevera con una bolsa de papel y media cebolla.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/como-conservar-los-tomates-frescos-fuera-de-la-nevera-el-truco-casero-de-la-bolsa-de-papel-y-la-cebolla-3592639",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/09/6ac95b6489add.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-09T21:38:28Z"
-  },
-  {
-   "titulo": "Mujer de 61 años rompe su propio récord mundial de plancha abdominal tras aguantar cinco horas consecutivas",
-   "extracto": "La canadiense se preparó durante meses para superar su marca anterior en una competencia deportiva celebrada en Estados Unidos.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/mujer-de-61-anos-rompe-su-propio-record-mundial-de-plancha-abdominal-tras-aguantar-cinco-horas-consecutivas-3592632",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/09/6ac95d4adf6b4.r_d.81-134-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-09T21:32:10Z"
   },
   {
    "titulo": "“Paseo, existo”: a 50 años de su muerte, Gonzalo Arango vuelve a recorrer la ciudad que amó y odió",
@@ -713,16 +783,6 @@
    "fecha": "2026-10-09T13:34:37Z"
   },
   {
-   "titulo": "Fábrica de Licores de Antioquia rompe paradigmas y lanza un ron para “disfrutarlo de nuevas maneras”",
-   "extracto": "El ron es uno de esos tragos tradicionales y exquisitos, de paladares finos. Si bien las tendencias de consumo de las personas más jóvenes han variado, la Fábrica de Licores de…",
-   "enlace": "https://www.elcolombiano.com/antioquia/fla-lanza-bufon-del-zacatin-nuevo-licor-de-ron-antioquia-OP42099531",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/UHRU/gerente-fla-con-bufon_51842094_20261008220652.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-10-09T03:16:54Z"
-  },
-  {
    "titulo": "¿Qué tan fácil es ganarse el Nobel de Literatura escribiendo poemas? Esto dice la historia",
    "extracto": "Uno de los lugares comunes más citados en la industria del libro tiene que ver con el escaso atractivo de la poesía para los grandes públicos y su enorme magnetismo para los…",
    "enlace": "https://www.elcolombiano.com/cultura/nobel-literatura-poetas-anne-carson-historia-ganadores-GB42076770",
@@ -743,46 +803,6 @@
    "fecha": "2026-10-09T14:06:33Z"
   },
   {
-   "titulo": "Una adulta mayor de 83 años habría sido abusada sexualmente en La Unión, Antioquia",
-   "extracto": "Las autoridades de la Unión, Oriente de Antioquia, reportaron que investigan un presunto abuso sexual contra una persona mayor. Los hechos que expuso la Alcaldía, en un comunicado…",
-   "enlace": "https://www.elcolombiano.com/antioquia/investigan-presunto-abuso-sexual-adulta-mayor-la-union-antioquia-EP42097704",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/422x300/0c0/0d0/center/11101/IHKT/hunion_51841257_20261008210526.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-10-09T02:05:54Z"
-  },
-  {
-   "titulo": "Así es la megaclínica que construirán en El Retiro, Antioquia: las obras comienzan este mes",
-   "extracto": "En un predio de 28.500 metros cuadrados, una zona verde de alta valorización en el municipio de El Retiro, oriente cercano de Antioquia, se construirá una nueva clínica, con altos…",
-   "enlace": "https://www.elcolombiano.com/antioquia/comfama-construira-nueva-clinica-mediana-complejidad-el-retiro-HP42096375",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/MCLL/clinica_51841186_20261008200015.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-10-09T01:20:00Z"
-  },
-  {
-   "titulo": "¿Por qué, si estamos en El Niño, hay ‘súper aguaceros’, vendavales y hasta remolinos en el cielo?",
-   "extracto": "Esta semana circularon en redes sociales varias grabaciones del cielo de San Félix, en Bello, en las que se observan torbellinos de aire que atemorizaron a la comunidad ante la…",
-   "enlace": "https://www.elcolombiano.com/antioquia/ventarrones-aguaceros-y-remolinos-por-que-pleno-nino-IP42093597",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/416x300/0c0/0d0/center/11101/YEPP/por-que-llueve-fenomeno-del-nino_51845940_20261009133358.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-10-09T01:16:15Z"
-  },
-  {
-   "titulo": "Ofensiva en Bello, Antioquia, contra construcciones ilegales: 10 fueron selladas e investigan si hay relación con delincuentes",
-   "extracto": "Las autoridades de Bello buscan frenar la construcción ilegal en ese municipio que, en algunos casos, y de acuerdo a denuncias, viene siendo controlada por bandas delincuenciales…",
-   "enlace": "https://www.elcolombiano.com/antioquia/sellan-construcciones-ilegales-niquia-bello-operativo-seguridad-JP42091899",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/400x300/0c0/0d0/center/11101/WRNS/lote_51840273_20261008181949.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-10-08T23:41:16Z"
-  },
-  {
    "titulo": "La historia de la nueva Nobel de Paz Navi Pillay, defensora de Nelson Mandela y exjueza de la CPI",
    "extracto": "La sudafricana Navi Pillay, defensora de Nelson Mandela y exjueza de la CPI, ganó este viernes el Nobel de la Paz por sus esfuerzos a favor del derecho internacional cuando, según…",
    "enlace": "https://www.elcolombiano.com/cultura/navi-pillay-nobel-paz-2026-derecho-internacional-cpi-HH42100766",
@@ -791,136 +811,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-09T11:26:56Z"
-  },
-  {
-   "titulo": "Atención: cierre total en variante Las Palmas, sector Sajonia, por un camión que se volcó en la vía",
-   "extracto": "El volcamiento de un camión, cerca al Mall Sajonia, en jurisdicción de Rionegro, Oriente de Antioquia, obligó al cierre total de la variante La Palmas, este jueves en la tarde…",
-   "enlace": "https://www.elcolombiano.com/antioquia/cierre-variante-las-palmas-accidente-camion-mall-sajonia-rionegro-IO42088918",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/444x300/0c0/0d0/center/11101/NXGQ/cierre-total-variante-las-palmas-sec_51840662_20261008183948.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-10-08T22:31:47Z"
-  },
-  {
-   "titulo": "Desnuda, golpeada y con hipotermia: así encontraron a Blanco Pardo en un potrero en San Bernardo, Nariño",
-   "extracto": "“Terminaré de recoger tres nidos de huevos para enviártelos en la chiva”. Ese fue uno de los últimos planes que Blanca Emery Pardo Rosero le contó a su hija Jenny durante una…",
-   "enlace": "https://www.elcolombiano.com/colombia/blanca-pardo-examenes-por-posible-abuso-sexual-crecieron-en-colombia-JP42099154",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/JULQ/blanca-pardo_51842075_20261008220715.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-09T03:40:09Z"
-  },
-  {
-   "titulo": "Más austeridad: Abelardo pide viajes “económicos” y Lara reduce contratistas",
-   "extracto": "La política de austeridad del Gobierno de Abelardo De La Espriella empezó a traducirse en medidas concretas. Mientras la Casa de Nariño ordenó limitar los viajes oficiales…",
-   "enlace": "https://www.elcolombiano.com/colombia/medidas-politica-austeridad-gobierno-de-la-espriella-GP42099249",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/RKPH/tamanos-el-colombiano-2026-10-08t2_51842068_20261008215151.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-09T02:58:46Z"
-  },
-  {
-   "titulo": "En medio del debate por la JEP, informe de la Misión de Verificación de la ONU revela cómo va el Acuerdo de Paz con las Farc",
-   "extracto": "La Misión de Verificación de las Naciones Unidas en Colombia advirtió que el Gobierno de Abelardo de la Espriella todavía no ha expuesto cuál es su enfoque general para…",
-   "enlace": "https://www.elcolombiano.com/colombia/acuerdo-paz-colombia-claves-informe-mision-verificacion-onu-IP42098000",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/YKPH/tamanos-el-colombiano-2026-10-08t2_51841203_20261008211455.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-09T02:22:45Z"
-  },
-  {
-   "titulo": "¿Traslados de Sneyder Pinilla y Olmedo López afectarán su ayuda en caso UNGRD?",
-   "extracto": "El traslado de Olmedo López y Sneyder Pinilla a la cárcel La Picota en Bogotá abrió un nuevo frente de discusión en medio de la investigación judicial del escándalo de corrupción…",
-   "enlace": "https://www.elcolombiano.com/colombia/sneyder-pinilla-y-olmedo-lopez-por-que-fueron-trasladados-de-prision-AP42097601",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/XMNG/mix-ungrd_51841474_20261008204512.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-09T02:16:11Z"
-  },
-  {
-   "titulo": "Sigue choque por exministro de Salud: senador Germán Rodríguez mantuvo sus críticas y Petro dijo que era “extrema grosería”",
-   "extracto": "“Debió hacerse en el lugar de los invitados, no en el atril”. Con esa frase, el senador de Salvación Nacional Germán Rodríguez respondió este jueves a las críticas que recibió por…",
-   "enlace": "https://www.elcolombiano.com/colombia/german-rodriguez-senador-mantuvo-sus-criticas-contra-exministro-guillermo-jaramillo-BP42096465",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/ILRJ/pelea-jaramillo_51841173_20261008203034.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-09T01:40:42Z"
-  },
-  {
-   "titulo": "Ministra de Salud responde a Jennifer Pedraza por dudas sobre su título y publica certificado",
-   "extracto": "La ministra de Salud, Ana María Vesga, respondió a los cuestionamientos de la senadora Jennifer Pedraza sobre la acreditación de sus estudios de posgrado en la Universitat Pompeu…",
-   "enlace": "https://www.elcolombiano.com/colombia/ministra-salud-polemica-titulos-academicos-vesga-responde-jennifer-pedraza-DP42093365",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/FJPH/tamanos-el-colombiano-2026-10-08t1_51840178_20261008185741.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-09T00:08:54Z"
-  },
-  {
-   "titulo": "Con banderas y desmanes, así fue la marcha desde la Embajada de Israel hasta la de Palestina en Bogotá: denunciaron vandalismo",
-   "extracto": "Desde las puertas de la Embajada de Israel hasta la sede de la Embajada de Palestina, las banderas tricolores con el triángulo rojo avanzaron recientemente en una marcha sin…",
-   "enlace": "https://www.elcolombiano.com/colombia/marcha-embajada-israel-palestina-bogota-vandalismo-desmanes-FP42091958",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/HVUT/foto-asi-fue-la-marcha-desde-la-emba_51840266_20261008185225.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-09T00:06:53Z"
-  },
-  {
-   "titulo": "Corte abre indagación contra integrantes de la Comisión de Acusación por caso que involucra a Uribe",
-   "extracto": "La Corte Suprema de Justicia abrió una indagación previa contra integrantes de la Comisión de Investigación y Acusación de la Cámara de Representantes por el presunto delito de…",
-   "enlace": "https://www.elcolombiano.com/colombia/corte-suprema-abre-indagacion-contra-integrantes-de-la-comision-de-acusacion-por-caso-uribe-EO42089782",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/JKLE/uribe_51839938_20261008190108.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T23:20:18Z"
-  },
-  {
-   "titulo": "Así fue supuesta reunión de Maduro con “Iván Márquez”, “Timochenko” y “Santrich” en 2013, según Fiscalía de Nueva York",
-   "extracto": "Nicolás Maduro habría negociado una entrega de explosivos de las reservas del Ejército venezolano para entregárselas a las Farc . Esta operación habría buscado saldar deudas…",
-   "enlace": "https://www.elcolombiano.com/colombia/ivan-marquez-timochenko-reunion-nicolas-maduro-jesus-santrich-estados-unidos-JO42083684",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/WVNB/reunion-farc-maduro_51839292_20261008181602.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T22:44:29Z"
-  },
-  {
-   "titulo": "Así es el proyecto que busca restringir el acceso a redes sociales a menores de 14 años y que avanza en el Congreso",
-   "extracto": "Así como ya lo hizo Australia y se busca hacer en varios países europeos como Francia, Reino Unido y España, Colombia busca crear un marco normativo para restringir el ingreso de…",
-   "enlace": "https://www.elcolombiano.com/colombia/asi-va-proyecto-ley-restringir-redes-sociales-menores-de-edad-AO42082002",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/IFHT/prohibicion-redes-sociales-menores-d_51838885_20261008172114.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T22:30:59Z"
-  },
-  {
-   "titulo": "Ya hay fecha de imputación contra Ricardo Orrego por presunto acoso y acto sexual violento; la audiencia será pública",
-   "extracto": "En medio del escándalo por los presuntos actos de acoso sexual en los medios de comunicación en Colombia, este jueves 8 de octubre se conoció que las autoridades fijaron la fecha…",
-   "enlace": "https://www.elcolombiano.com/colombia/ricardo-orrego-cuando-es-imputacion-cargos-acoso-sexual-cinco-victimas-IO42082864",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/OXWT/foto-definida-la-fecha-de-imputacion_51839185_20261008173902.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T22:29:40Z"
-  },
-  {
-   "titulo": "Molesta, Ingrid Betancourt llamó “descarado” a ‘Timochenko’ por decir que les daban carne a los secuestrados",
-   "extracto": "La guerra en Colombia sigue siendo un relato de historias crueles, unas contadas por quienes las sufrieron y sobrevivieron, y otras por quienes hicieron parte de ella. El problema…",
-   "enlace": "https://www.elcolombiano.com/colombia/ingrid-betancourt-rechazo-timochenko-diciendo-daban-carne-secuestrados-JO42082759",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/IHFT/ante-del-secretariado-de-las-antigua_51839176_20261008170046.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T22:25:25Z"
   },
   {
    "titulo": "El Mamm será la sede central de la bienal de arte 2027",
@@ -1021,106 +911,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-08T09:04:40Z"
-  },
-  {
-   "titulo": "Mientras capos salen de la Ofac, Petro y sus cercanos se quedan",
-   "extracto": "‘Gordo Lindo’, ‘El Arquitecto’, ‘Flechas’ y otros antiguos pesos pesados del narcotráfico colombiano fueron sacados de la Lista Clinton de Estados Unidos. También salieron decenas…",
-   "enlace": "https://www.elcolombiano.com/colombia/ofac-esta-es-la-lista-de-los-capos-salieron-de-la-lista-ofac-excepto-petro-y-compania-CD42054035",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/550x300/0c0/0d0/center/11101/WRNW/ofac_51832511_20261007214730.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T02:58:28Z"
-  },
-  {
-   "titulo": "Así llegaron dos activistas digitales del abelardismo a RTVC",
-   "extracto": "Dos influenciadoras digitales fueron contratadas por el Gobierno nacional en Inravisión, el Sistema de Medios Públicos del país RTVC. Se trata de Stefany Forero y Alejandra…",
-   "enlace": "https://www.elcolombiano.com/colombia/rtvc-asi-llegaron-activistas-de-abelardo-a-ese-canal-publico-JD42053183",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/RXVY/defensores-de-la-patriaaaa_51832456_20261007213209.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-08T02:56:43Z"
-  },
-  {
-   "titulo": "Bizarrap, nuevo invitado al concierto de despedida de Shakira en Madrid",
-   "extracto": "Bizarrap se suma a la lista de artistas que acompañarán a Shakira en su último show en Madrid, el número 13 de su residencia europea, Las mujeres ya no lloran , en el estadio que…",
-   "enlace": "https://www.elcolombiano.com/cultura/bizarrap-nuevo-invitado-al-concierto-de-despedida-de-shakira-en-madrid-FD42051260",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/DFXL/shakira-y-bizarrap_51831882_20261007200321.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-08T00:43:06Z"
-  },
-  {
-   "titulo": "¿Por qué el argentino Piero tenía nacionalidad colombiana? Así fue la relación del cantante de Mi Viejo con Colombia",
-   "extracto": "Piero Antonio Franco De Benedictis, conocido artísticamente solo por su primer nombre , falleció este miércoles, 7 de octubre, en un hospital de Italia. El intérprete de éxitos…",
-   "enlace": "https://www.elcolombiano.com/cultura/por-que-cantante-piero-tiene-nacionalidad-colombiana-DC42042203",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/JDKU/piero-colombia_51830190_20261007175242.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-08T00:40:43Z"
-  },
-  {
-   "titulo": "Sara Torres y la dulzura como principio",
-   "extracto": "Sara Torres nunca se imaginó que una vida dedicada a la escritura se iba a parecer a lo que ha estado viviendo, a tanta exposición pública. Pensaba que se trataba, sobre todo, de…",
-   "enlace": "https://www.elcolombiano.com/cultura/sara-torres-ensayo-pensamiento-erotico-diccionario-dulzura-OC42046844",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/NBQT/milimg-30762-27969989-51830933-20261_51831817_20261007192918.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-07T23:07:40Z"
-  },
-  {
-   "titulo": "“El fin del mundo es un horizonte histórico”: Laura Quintana, finalista del Premio Biblioteca de Narrativa Colombiana",
-   "extracto": "En El tiempo que queda , libro finalista del Premio Biblioteca de Narrativa Colombiana de Eafit, la profesora Laura Quintana sostiene la idea de que el trato que le damos a…",
-   "enlace": "https://www.elcolombiano.com/cultura/laura-quintana-fin-del-mundo-EC42044660",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/TEVM/diseno-sin-titulo-2026-10-07t171643-119_51829401_20261007172035.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-07T22:26:20Z"
-  },
-  {
-   "titulo": "Medellín pone dos bares entre los 50 mejores del mundo, ¿los conoce?",
-   "extracto": "La coctelería colombiana vivió una noche histórica este miércoles 7 de octubre en Milán (Italia), donde se reveló la lista The World’s 50 Best Bars 2026. Alquímico, de Cartagena…",
-   "enlace": "https://www.elcolombiano.com/cultura/50-mejores-bares-del-mundo-medellin-carmen-mamba-negra-JF42039617",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/INIT/mamba-negra-y-carmen-mejores-bares-m_51829811_20261007172732.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-07T22:16:51Z"
-  },
-  {
-   "titulo": "Reacciones tras la muerte de Piero: así lo despiden en América Latina",
-   "extracto": "Este miércoles 7 de octubre falleció el cantautor Piero, así lo confirmó su cuenta oficial que aunque no detalló la causa de su muerte se sabía, según medios argentinos, que…",
-   "enlace": "https://www.elcolombiano.com/cultura/muerte-piero-reacciones-despedida-america-latina-OF42038688",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SUMK/piero-reacciones-muerte_51831010_20261007174317.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-07T21:41:21Z"
-  },
-  {
-   "titulo": "Falleció el cantante argentino Piero a los 81 años",
-   "extracto": "“Con profundo dolor, comunicamos el fallecimiento de nuestro querido Piero, a sus 81 años ”, así comenzó el mensaje que confirmó la muerte del cantautor argentino en su cuenta de…",
-   "enlace": "https://www.elcolombiano.com/cultura/piero-artista-argentino-murio-81-anos-mi-viejo-CF42033881",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/FCAD/a20190301t060653-m-10-30-31-113-18_51828356_20261007144527.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-07T21:22:13Z"
-  },
-  {
-   "titulo": "Más allá de Mi viejo : canciones para recordar a Piero",
-   "extracto": "Nacido en Italia, educado en Argentina y con nacionalidad colombiana, Piero (Piero Antonio Franco De Benedictis) tuvo la fortuna de pasar a la memoria de varias generaciones de…",
-   "enlace": "https://www.elcolombiano.com/cultura/canciones-piero-mi-viejo-llegando-llegaste-cancion-social-OF42037944",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/PLLE/piero_51829390_20261007155445.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-07T21:09:01Z"
   },
   {
    "titulo": "Por primera vez llega a Medellín un Foro Gastronómico con Álvaro Clavijo, Jaime Rodríguez y reconocidos chefs",
