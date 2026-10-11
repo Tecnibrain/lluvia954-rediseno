@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-11T05:42:53.672493Z",
- "total": 100,
+ "actualizado": "2026-10-11T12:45:36.124482Z",
+ "total": 102,
  "noticias": [
   {
    "titulo": "Reanudan operaciones en el aeropuerto José María Córdova tras situación con un dron",
@@ -13,6 +13,96 @@
    "fecha": "2026-10-11T03:57:47Z"
   },
   {
+   "titulo": "'Pensé que hasta ahí había llegado, sentí que caía en picada': el angustiante relato de una de las pasajeras del vuelo entre Medellín y Nueva York",
+   "extracto": "EL TIEMPO entrevistó en exclusiva a una de las pasajeras del vuelo AV042 que tuvo que aterrizar de emergencia en Miami por fuertes turbulencias.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pense-que-hasta-aqui-habia-llegado-sentimos-que-caia-en-picada-el-angustiante-relato-de-una-de-las-pasajeras-del-vuelo-entre-medellin-y-nueva-york-3592812",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acaebfb9ff77.r_d.857-603-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-11T11:01:00Z"
+  },
+  {
+   "titulo": "“Los colombianos estamos pagando lo que les toca a las Farc”: María Clara Posada",
+   "extracto": "Cuando la Comisión Primera del Senado revisó el presupuesto de la Jurisdicción Especial para la Paz (JEP), la senadora del Centro Democrático María Clara Posada empezó a preguntar…",
+   "enlace": "https://www.elcolombiano.com/colombia/maria-clara-posada-colombianos-pagando-toca-farc-jep-NC42158050",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/IRLN/maria-clara-posada-redes-sociales-maclaposada_51855656_20261010172040.webp",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-11T11:00:00Z"
+  },
+  {
+   "titulo": "Carolina Restrepo y su forma de mandar en el ICBF",
+   "extracto": "En los pasillos del Instituto Colombiano de Bienestar Familiar (ICBF) nadie habla de la llegada de Carolina Restrepo como un simple cambio de directora. Desde que se sentó en la…",
+   "enlace": "https://www.elcolombiano.com/colombia/carolina-restrepo-forma-mandar-bienestar-familiar-GC42158187",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/425x300/0c0/0d0/center/11101/SRRD/maria-carolina-icbf_51836835_20261010172651.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-11T11:00:00Z"
+  },
+  {
+   "titulo": "La llamada de Abelardo a Uribe que pondría paños fríos a la relación entre sus partidos y otros secretos en De Buena Fuente",
+   "extracto": "El director de la UNP, Didier Blanco, reveló una lista de personas que no habrían entregado sus esquemas de seguridad. Según fuentes, entre ellas estarían los exministros Antonio…",
+   "enlace": "https://www.elcolombiano.com/colombia/llamada-abelardo-uribe-pondria-panos-frios-relacion-partidos-de-buena-fuente-LC42158232",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/VJCK/abelardo-uribe-archivo_51855671_20261010173720.webp",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-11T11:00:00Z"
+  },
+  {
+   "titulo": "Exconsejera del Gobierno Petro señaló a Alcocer de lavado y tráfico de drogas",
+   "extracto": "Verónica Alcocer habría hecho hasta pa’ vender en el tiempo que su exesposo, el expresidente Gustavo Petro, estuvo en la Casa de Nariño. Al menos esa es la conclusión que queda…",
+   "enlace": "https://www.elcolombiano.com/colombia/eva-ferrer-exconsejera-gobierno-petro-veronica-alcocer-lavado-trafico-drogas-JC42158256",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/434x300/0c0/0d0/center/11101/VHCT/eva-ferrer-veronica-alcocer-colprensa_51855682_20261010174502.webp",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-11T11:00:00Z"
+  },
+  {
+   "titulo": "A dos meses del terremoto, los sobrevivientes levantan el Eje Cafetero con su propio bolsillo y sudor",
+   "extracto": "Si una casa es la prolongación del espíritu de una persona, de sus recuerdos y anhelos, ¿qué puede sentir Isabel Estrada al contemplar dos retroexcavadoras despedazando los únicos…",
+   "enlace": "https://www.elcolombiano.com/colombia/a-dos-meses-del-terremoto-los-sobrevivientes-levantan-el-eje-cafetero-con-su-propio-bolsillo-y-sudor-MB42162482",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/PFQA/pereira-terremoto-52_51846874_20261010233951.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-11T10:00:00Z"
+  },
+  {
+   "titulo": "Así fue la insólita llegada de la reliquia de un santo francés a la iglesia de Cisneros, Antioquia",
+   "extracto": "Diocidencia: esta palabra es un neologismo (palabra nueva) que combina los términos Dios y coincidencia. Esta sirve para describir una situación que, a vuelo de pájaro, parece una…",
+   "enlace": "https://www.elcolombiano.com/antioquia/fiesta-por-reliquia-cruz-santo-cura-de-ars-llega-a-cisneros-antioquia-OC42159979",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/reliquia-del-santo-cura-de-ars_51856067_20261010193305.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-11T00:35:27Z"
+  },
+  {
+   "titulo": "Tres décadas de rock en Bogotá: así se vivió el primer día de Rock al Parque 2026",
+   "extracto": "El primer día de Rock al Parque reunió metal europeo, hardcore estadounidense y punk colombiano en cuatro escenarios del Simón Bolívar.",
+   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/tres-decadas-de-rock-en-bogota-asi-se-vivio-el-primer-dia-de-rock-al-parque-3592850",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/11/6acb23f9bea14.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T12:33:58Z"
+  },
+  {
+   "titulo": "Rock al Parque 2026 este domingo 11 de octubre: minuto a minuto del festival, horarios, artistas y recomendaciones para el ingreso",
+   "extracto": "El festival, que se extenderá hasta el lunes festivo 12 de octubre, espera convocar a miles de asistentes durante sus tres jornadas.",
+   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/rock-al-parque-2026-este-domingo-11-de-octubre-minuto-a-minuto-del-festival-horarios-artistas-y-recomendaciones-para-el-ingreso-3592853",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/11/6acb263c12276.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-11T12:28:56Z"
+  },
+  {
    "titulo": "Capturan en Antioquia a alias ‘El Descuartizador’, solicitado por circular roja del Interpol",
    "extracto": "La Policía Nacional capturó en el municipio de La Pintada, en el Suroeste de Antioquia, a Antonio Márquez Gómez, conocido como ‘El Descuartizador’, a quien las autoridades…",
    "enlace": "https://www.elcolombiano.com/antioquia/captura-en-antioquia-de-alias-el-descuartizador-francia-NC42159477",
@@ -23,14 +113,14 @@
    "fecha": "2026-10-11T00:13:09Z"
   },
   {
-   "titulo": "'Pensé que hasta ahí había llegado, sentí que caía en picada': el angustiante relato de una de las pasajeras del vuelo entre Medellín y Nueva York",
-   "extracto": "EL TIEMPO entrevistó en exclusiva a una de las pasajeras del vuelo AV042 que tuvo que aterrizar de emergencia en Miami por fuertes turbulencias.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/pense-que-hasta-aqui-habia-llegado-sentimos-que-caia-en-picada-el-angustiante-relato-de-una-de-las-pasajeras-del-vuelo-entre-medellin-y-nueva-york-3592812",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acaebfb9ff77.r_d.857-603-0.png",
+   "titulo": "Fydriszewski tuvo el triunfo de Junior en sus pies, pero falló con el arco vacío y protagonizó una jugada viral",
+   "extracto": "Bryan Castrillón le dejó el balón servido al atacante argentino, que no logró convertir en los minutos finales del empate 2-2 ante Inter.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/fydriszewski-tuvo-el-triunfo-de-junior-en-sus-pies-pero-fallo-con-el-arco-vacio-y-protagonizo-una-jugada-viral-3592858",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/11/6acb7a353f033.jpeg",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-11T04:45:10Z"
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-11T12:03:41Z"
   },
   {
    "titulo": "Suspenden temporalmente las operaciones en el aeropuerto José María Córdova de Rionegro, Antioquia, por presencia de un dron",
@@ -71,16 +161,6 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-10T17:18:16Z"
-  },
-  {
-   "titulo": "Rock al Parque 2026: minuto a minuto del festival, horarios, artistas y recomendaciones para el ingreso",
-   "extracto": "El festival, que se extenderá hasta el lunes festivo 12 de octubre, espera convocar a miles de asistentes durante sus tres jornadas.",
-   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/rock-al-parque-2026-en-vivo-minuto-a-minuto-del-festival-horarios-artistas-y-recomendaciones-para-el-ingreso-3592730",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/06/23/68596287e8f31.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-11T05:13:41Z"
   },
   {
    "titulo": "El capricho, la millonaria multa y la falsa reunión que habrían antecedido el homicidio del mejor montador de mulas de Colombia en Antioquia",
@@ -383,14 +463,14 @@
    "fecha": "2026-10-10T17:48:14Z"
   },
   {
-   "titulo": "Real Madrid venció a Villarreal en LaLiga tras la fecha Fifa, pero sigue sin convencer: Vinícius, expulsado por jalarle el cabello a un rival (video)",
-   "extracto": "Yan Diomandé fue el héroe en una noche pálida de los blancos en el Bernabéu. Vini perdió los papeles tras ver la roja.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/real-madrid-vencio-a-villarreal-en-laliga-tras-la-fecha-fifa-pero-sigue-sin-convencer-vinicius-expulsado-por-jalarle-el-cabello-a-un-rival-video-3592801",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6acab0b95f8c9.r_d.561-120-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-10T21:44:12Z"
+   "titulo": "La pelea por llamarse Ekhymosis: ¿por qué dos bandas de rock reclaman hoy su nombre?",
+   "extracto": "El pasado 29 de septiembre, la banda X-mosis, el origen (integrada por tres integrantes de Ekhymosis de los noventa : Andrés García “Andy”, José Lopera y Fernando “Toby” Tobón…",
+   "enlace": "https://www.elcolombiano.com/cultura/ekhymosis-nombre-polemica-bandas-rock-colombia-GC42156154",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/BIEK/ekhymosis-nombre-polemica_51855350_20261010162601.png",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-10T21:41:39Z"
   },
   {
    "titulo": "Fin de semana de Altavoz: esto es lo que no se puede llevar y lo que sí se permitirá ingresar",
@@ -441,16 +521,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-10T18:10:38Z"
-  },
-  {
-   "titulo": "Los objetos que debe evitar en el comedor para atraer la abundancia, según el Feng Shui",
-   "extracto": "La disciplina oriental asocia la organización y el estado de los elementos decorativos con la prosperidad y la convivencia familiar.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/los-objetos-que-debe-evitar-en-el-comedor-para-atraer-la-abundancia-segun-el-feng-shui-3592773",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/10/6aca7bea13ff2.r_d.695-501-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-10T18:04:55Z"
   },
   {
    "titulo": "Informe revela que cada 20 horas hay un ataque con drones en Colombia; estas son las zonas más afectadas",
@@ -753,36 +823,6 @@
    "fecha": "2026-10-09T15:29:29Z"
   },
   {
-   "titulo": "“No se dejen meter cuentos”: ministro Lara defiende el estatuto antiterrorista, ¿qué le critican?",
-   "extracto": "El proyecto de Estatuto Antiterrorista que el gobierno de Abelardo de la Espriella prepara para presentar ante el Congreso ya abrió un debate por sus posibles alcances. Mientras…",
-   "enlace": "https://www.elcolombiano.com/colombia/ministro-rodrigo-lara-defiende-estatuto-antiterrorista-que-le-critican-OH42101179",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/NBLT/el-colombiano-no-se-dejen-meter-cuen_51842400_20261009091929.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-09T14:18:47Z"
-  },
-  {
-   "titulo": "VIDEO | Diputado chavista encaró a Petro en plena conferencia y lo tildó de “mentiroso”: así fue el incómodo momento",
-   "extracto": "El expresidente Gustavo Petro publicó en su cuenta de X un video bastante orgulloso de cómo lo recibieron en México durante el Seminario Internacional “Los Partidos y una Nueva…",
-   "enlace": "https://www.elcolombiano.com/colombia/jesus-faria-llama-mentiroso-petro-foro-politico-mexico-KH42102495",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/YMCK/gustavo-petro-jesus-faria_51842571_20261009081035.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-09T14:03:48Z"
-  },
-  {
-   "titulo": "Enviaron a la cárcel a hombre señalado de abusar sexualmente de una mujer de 70 años en Santander",
-   "extracto": "Un hombre de 28 años fue enviado a un establecimiento carcelario luego de ser señalado de cometer el delito de acceso carnal violento contra una mujer de 70 años en zona rural de…",
-   "enlace": "https://www.elcolombiano.com/colombia/enviaron-a-la-carcel-a-hombre-senalado-de-abusar-sexualmente-de-una-mujer-de-70-anos-en-santander-MH42101481",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/YORT/los-hechos-ocurrieron-el-pasado-5-de_51842486_20261009064507.webp",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-09T13:34:37Z"
-  },
-  {
    "titulo": "¿Qué tan fácil es ganarse el Nobel de Literatura escribiendo poemas? Esto dice la historia",
    "extracto": "Uno de los lugares comunes más citados en la industria del libro tiene que ver con el escaso atractivo de la poesía para los grandes públicos y su enorme magnetismo para los…",
    "enlace": "https://www.elcolombiano.com/cultura/nobel-literatura-poetas-anne-carson-historia-ganadores-GB42076770",
@@ -891,26 +931,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-08T15:03:20Z"
-  },
-  {
-   "titulo": "Premio Nobel de Literatura 2026 para la poeta canadiense Anne Carson",
-   "extracto": "Anne Carson, poeta canadiense, ensayista, traductora y profesora de literatura clásica y comparada en la Universidad de Míchigan , fue seleccionada este jueves por la Academia…",
-   "enlace": "https://www.elcolombiano.com/cultura/anne-carson-nobel-literatura-2026-poeta-canadiense-academia-sueca-ND42056128",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/421x300/0c0/0d0/center/11101/CVTC/ane-carson-nobel_51832911_20261008061420.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-08T12:57:36Z"
-  },
-  {
-   "titulo": "¿Cómo creció el Grupo Éxito? El libro que cuenta los secretos detrás del salto de 5 a 470 almacenes",
-   "extracto": "Hubo un tiempo en que los ejecutivos del Éxito se enteraban de lo que pasaba en el comercio mundial por las revistas que su presidente leía el fin de semana y ponía a circular el…",
-   "enlace": "https://www.elcolombiano.com/cultura/libro-almacenes-exito-medellin-crecimiento-empresa-lecciones-DD42055723",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/SLUT/grupo-exito-almacenes_51832847_20261008040115.webp",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-08T09:04:40Z"
   },
   {
    "titulo": "Por primera vez llega a Medellín un Foro Gastronómico con Álvaro Clavijo, Jaime Rodríguez y reconocidos chefs",
