@@ -1,7 +1,97 @@
 {
- "actualizado": "2026-10-14T04:49:51.648991Z",
- "total": 109,
+ "actualizado": "2026-10-14T11:48:15.611891Z",
+ "total": 113,
  "noticias": [
+  {
+   "titulo": "Puerto Antioquia estrena ruta marítima directa con Asia: barcos de hasta 16.000 contenedores llegarán cada semana",
+   "extracto": "Puerto Antioquia incorporó una nueva conexión semanal con Asia que amplía las alternativas de transporte para las empresas colombianas dedicadas a la importación y exportación de…",
+   "enlace": "https://www.elcolombiano.com/antioquia/pueto-antioquia-estrena-ruta-maritima-con-asia-GH42236752",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/437x300/0c0/0d0/center/11101/AMNN/puerrrrrto_51876361_20261013221819.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-14T03:20:32Z"
+  },
+  {
+   "titulo": "Fuertes lluvias provocaron inundaciones en varios sectores de Madrid, Cundinamarca: 'Cada vez que llueve se nos inunda la casa'",
+   "extracto": "El agua cubrió calles y entró a viviendas, afectando la movilidad y obligando a varias familias a levantar sus pertenencias para evitar daños.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/fuertes-lluvias-provocaron-inundaciones-en-varios-sectores-de-madrid-cundinamarca-cada-vez-que-llueve-se-nos-inunda-la-casa-3593223",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6acec11aaa518.r_d.139-177-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T11:03:41Z"
+  },
+  {
+   "titulo": "Procurador Gregorio Eljach se pronunció sobre las marchas convocadas para este miércoles 14 de octubre en Colombia: 'La protesta tiene límites'",
+   "extracto": "El mensaje institucional busca evitar altercados en las calles y asegurar el respeto a los derechos de todos los ciudadanos durante la jornada.",
+   "enlace": "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/procurador-gregorio-eljach-advierte-que-la-protesta-social-tiene-limites-y-pide-tranquilidad-para-las-marchas-de-este-miercoles-14-de-octubre-3593359",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab573ed4a286.r_d.898-510-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T08:31:23Z"
+  },
+  {
+   "titulo": "Pico y placa en Pereira para el miércoles 14 de octubre de 2026: estos son los vehículos con restricción",
+   "extracto": "La medida estará vigente entre las 6:00 a. m. y las 8:00 p. m. para carros particulares, motocicletas y vehículos similares.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pico-y-placa-en-pereira-para-el-miercoles-14-de-octubre-de-2026-estos-son-los-vehiculos-con-restriccion-3593236",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/02/13/67ae9f4e6cbec.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T07:30:00Z"
+  },
+  {
+   "titulo": "Así opera el pico y placa en Bucaramanga para el miércoles 14 de octubre de 2026: estas placas no podrán circular",
+   "extracto": "La restricción estará vigente durante 14 horas para los vehículos incluidos en la nueva rotación. Consulte los números y horarios.",
+   "enlace": "https://www.eltiempo.com/colombia/santander/asi-opera-el-pico-y-placa-en-bucaramanga-para-el-miercoles-14-de-octubre-de-2026-estas-placas-no-podran-circular-3593222",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/03/15/65f4a86d8afd5.r_d.602-225-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T07:30:00Z"
+  },
+  {
+   "titulo": "¡Evite multas! Pico y placa en Cali para el miércoles 14 de octubre de 2026: estas placas tendrán restricción",
+   "extracto": "La medida estará vigente entre las 6:00 a. m. y las 7:00 p. m. para vehículos particulares. Conozca los números restringidos.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-miercoles-14-de-octubre-de-2026-estas-placas-tendran-restriccion-3593212",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/10/16/670fca0ecd253.r_d.475-237-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T07:30:00Z"
+  },
+  {
+   "titulo": "¡Ojo, conductor! Pico y placa en Medellín para el miércoles 14 de octubre de 2026: estas placas tendrán restricción",
+   "extracto": "La medida aplicará para carros particulares y motos entre las 5:00 a. m. y las 8:00 p. m. Los taxis tendrán un horario diferente.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/ojo-conductor-pico-y-placa-en-medellin-para-el-miercoles-14-de-octubre-de-2026-estas-placas-tendran-restriccion-3593197",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/09/18/650898a9a935b.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T07:30:00Z"
+  },
+  {
+   "titulo": "Palmira cierra con éxito la 32 edición del Festival Ricardo Nieto y estrena el Complejo Go Park como nuevo epicentro cultural",
+   "extracto": "Durante tres días, la Villa de las Palmas se consolidó como escenario de artes vivas, cultura y deporte.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/palmira-cierra-con-exito-la-32-edicion-del-festival-ricardo-nieto-y-estrena-el-complejo-go-park-como-nuevo-epicentro-cultural-3593378",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/14/6acf1ff356a30.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T06:37:37Z"
+  },
+  {
+   "titulo": "Shakira agradeció a su expareja Antonio de la Rúa en el cierre de su residencia en Madrid, España: 'Amigo del alma'",
+   "extracto": "El tour 'Las Mujeres Ya No Lloran' lideró la lista LIVE75 de Pollstar tras vender más de 450.000 entradas en sus primeros conciertos.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/shakira-agradecio-a-su-expareja-en-el-cierre-de-su-residencia-en-madrid-amigo-del-alma-3593382",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/12/6acd6fc139033.r_d.644-461-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-14T09:56:41Z"
+  },
   {
    "titulo": "Hallan cachorros amarrados y entre heces en criadero de Guatapé: rescataron perros y gallos",
    "extracto": "Gracias a un operativo en el municipio de Guatapé, Oriente antioqueño , fueron rescatados varios perros y gallos que se encontraban en un criadero, quienes, según videos…",
@@ -13,24 +103,24 @@
    "fecha": "2026-10-13T21:07:12Z"
   },
   {
+   "titulo": "Las cifras de seguridad de De la Espriella: qué dicen realmente los datos oficiales",
+   "extracto": "La “mano dura” del presidente Abelardo de la Espriella tuvo su espacio para ser resaltada en su última alocución. En esta, nuevamente, salió a defender la estrategia de seguridad…",
+   "enlace": "https://www.elcolombiano.com/colombia/cifras-seguridad-abelardo-espriella-no-muestran-record-ni-grandes-resultados-MH42237029",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/405x300/0c0/0d0/center/11101/SXOC/55571461136-33f19d32b1-o_51868993_20261013223612.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T05:01:00Z"
+  },
+  {
    "titulo": "Reportan cierre en la vía Sibaté-Fusagasugá por deslizamiento tras fuertes lluvias este martes 13 de octubre: no hay vehículos atrapados ni heridos",
    "extracto": "El Cuerpo de Bomberos adelanta labores a 400 metros del peaje San Miguel, en Sibaté, Cundinamarca. Maquinaria llegaría a primera hora del miércoles.",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/reportan-cierre-en-la-via-sibate-fusagasuga-por-deslizamiento-tras-fuertes-lluvias-este-martes-13-de-octubre-no-se-reportan-vehiculos-atrapados-3593367",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/13/6aceef314b875.png",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6aceef314b875.r_d.1138-664-0.png",
    "fuente": "El Tiempo",
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-14T04:29:26Z"
-  },
-  {
-   "titulo": "El procurador Gregorio Eljach se pronunció sobre las marchas del miércoles 14 de octubre en Colombia: 'La protesta tiene límites'",
-   "extracto": "El mensaje institucional busca evitar altercados en las calles y asegurar el respeto a los derechos de todos los ciudadanos durante la jornada.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/procurador-gregorio-eljach-advierte-que-la-protesta-social-tiene-limites-y-pide-tranquilidad-para-las-marchas-de-este-miercoles-14-de-octubre-3593359",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab573ed4a286.r_d.898-510-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-14T04:28:58Z"
   },
   {
    "titulo": "Apareció una tayra en Belmira: ¿por qué es importante este mamífero para los bosques de Antioquia?",
@@ -61,6 +151,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-13T19:09:09Z"
+  },
+  {
+   "titulo": "En Colombia, más de 6.000 niñas están atrapadas en matrimonios y uniones: ¿por qué nadie responde?",
+   "extracto": "Cuando Lucía se dio cuenta de que su hija se había volado, ya no alcanzaba a atajarla. Se fue a vivir con un señor de 52 años que le prometió no pasar hambre. Tenía 14 años y…",
+   "enlace": "https://www.elcolombiano.com/colombia/en-colombia-mas-de-6000-ninas-estan-atrapadas-en-matrimonios-y-uniones-por-que-nadie-responde-CH42234574",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/LNYT/des-deben-estar-sometidas-a-la-const_51876190_20261013204934.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T02:59:34Z"
   },
   {
    "titulo": "Militares confundieron a sus colegas con el Clan del Golfo y se armó balacera que dejó dos heridos",
@@ -103,6 +203,26 @@
    "fecha": "2026-10-14T02:36:03Z"
   },
   {
+   "titulo": "La caja de Pandora de Ferrer sobre Alcocer puso a correr a la Fiscalía y la Procuraduría",
+   "extracto": "Las acusaciones de Eva Ferrer contra Verónica Alcocer dejaron de ser únicamente una confrontación de declaraciones entre antiguas integrantes del círculo más cercano al Gobierno…",
+   "enlace": "https://www.elcolombiano.com/colombia/la-caja-de-pandora-de-ferrer-sobre-alcocer-puso-a-correr-a-la-fiscalia-y-la-procuraduria-BH42233893",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/JNYT/des-deben-estar-sometidas-a-la-const_51876037_20261013203614.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T02:24:30Z"
+  },
+  {
+   "titulo": "Dian avaló las donaciones a la fundación de la primera dama, pero no se sabe cuánto ha recibido",
+   "extracto": "La Fundación Colombia Luz y Sonrisas, creada por la primera dama, Ana Lucía Pineda, sí está autorizada para recibir donaciones, según confirmó la Dirección de Impuestos y Aduanas…",
+   "enlace": "https://www.elcolombiano.com/colombia/dian-avala-fundacion-primera-dama-recibir-donaciones-no-se-sabe-cuanto-recibido-OH42235083",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/RNYT/des-deben-estar-sometidas-a-la-const_51876213_20261013210850.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-14T02:19:56Z"
+  },
+  {
    "titulo": "Disturbios en Bogotá calientan la jornada de marchas del petrismo; vea los recorridos y evite trancones",
    "extracto": "A las 9 de la mañana de este miércoles, 14 de octubre, arrancan las marchas del petrismo a nivel nacional. Pero desde ya comenzaron algunos focos de alteraciones al orden público…",
    "enlace": "https://www.elcolombiano.com/colombia/disturbios-marchas-petrismo-bogota-recorridos-14-octubre-LH42232292",
@@ -133,24 +253,14 @@
    "fecha": "2026-10-14T00:52:32Z"
   },
   {
-   "titulo": "Inició demolición en El Poblado de una casa que pertenecía a la familia de Pablo Escobar y que era usada para rituales satánicos y consumo de drogas",
-   "extracto": "La propiedad fue adquirida por la viuda del capo en 1979. En 2018 pasó a manos de la SAE y ha estado abandonada por décadas.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/inicio-demolicion-en-el-poblado-de-una-casa-que-pertenecia-a-la-familia-de-pablo-escobar-y-que-era-usada-para-rituales-satanicos-y-consumo-de-drogas-3593307",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/13/6aceaec25f974.png",
+   "titulo": "Zenio ofrecerá una experiencia de bienestar energético en la feria 'Ángeles para Todos' en Corferias",
+   "extracto": "La séptima edición de la feria reunirá a más de 100 emprendedores en Bogotá.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/zenio-ofrecera-una-experiencia-de-bienestar-energetico-en-la-feria-angeles-para-todos-en-corferias-3593376",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/04/21/69e7a8dd7d23e.png",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-14T00:38:29Z"
-  },
-  {
-   "titulo": "Ataque con drones de las disidencias deja cinco civiles heridos en El Queremal, Valle: se suma al atentado con explosivos en zona rural de Jamundí",
-   "extracto": "El ataque afectó la subestación del corregimiento de El Queremal. La Policía atribuyó el atentado a los disidentes del frente 'Jaime Martínez'.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/ataque-con-drones-de-las-disidencias-de-las-farc-deja-cinco-civiles-heridos-en-el-queremal-valle-se-suma-al-ataque-con-explosivos-en-zona-de-jamundi-3593329",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/16/6a58bf9d1e4df.r_d.378-230-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-14T00:34:56Z"
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-14T04:48:30Z"
   },
   {
    "titulo": "La red de bienes que ronda a los poderosos dueños de la U. San José",
@@ -203,16 +313,6 @@
    "fecha": "2026-10-13T23:47:29Z"
   },
   {
-   "titulo": "Conmoción por el asesinato de Isabella Prado en Florida, Valle: estas son las hipótesis del caso en el suroriente del departamento",
-   "extracto": "Ataque a balazos tras el cierre de locales en la calle 10 de Florida también dejó un saldo de cuatro personas heridas.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/conmocion-por-el-asesinato-de-isabella-prado-en-florida-valle-hipotesis-y-senalamientos-de-un-politico-que-califico-el-hecho-como-feminicidio-3593308",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/13/6aceb19934f94.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-13T23:42:20Z"
-  },
-  {
    "titulo": "Selección Colombia Femenina: este es el balance de la fecha Fifa tras sus victorias contra Venezuela en su preparación para el Mundial 2027",
    "extracto": "El equipo dirigido por Ángelo Marsiglia logró dos triunfos contra la Vinotinto en este parón internacional.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/seleccion-colombia-femenina-este-es-el-balance-de-la-fecha-fifa-tras-sus-victorias-contra-venezuela-en-su-preparacion-para-el-mundial-3593373",
@@ -263,16 +363,6 @@
    "fecha": "2026-10-14T02:46:37Z"
   },
   {
-   "titulo": "Fuerte temblor en Colombia este 13 de octubre: reportan sismo de magnitud 5,0 e internautas aseguran haberlo sentido en Bucaramanga y otras ciudades",
-   "extracto": "El hecho ocurrió a las 4:24 de la tarde de este martes. Estos son los detalles.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/temblor-en-colombia-este-13-de-octubre-sgc-reporto-un-sismo-de-magnitud-5-0-e-internautas-aseguran-haberlo-sentido-en-varias-ciudades-3593294",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/05/26/66531d1042a82.r_d.293-88-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-13T22:32:56Z"
-  },
-  {
    "titulo": "El partido entre Millonarios y Once Caldas fue cancelado a minutos del arranque: Dimayor explicó el motivo de la decisión",
    "extracto": "El juego estaba programado para este martes a las 8:30 de la noche. La entidad no habló de la fecha de realización.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/el-partido-entre-millonarios-y-once-caldas-fue-cancelado-a-minutos-del-arranque-dimayor-explico-el-motivo-de-la-decision-3593350",
@@ -301,26 +391,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-13T21:44:57Z"
-  },
-  {
-   "titulo": "Cartagena Cómo Vamos en movilidad: bajan los lesionados en las vías, pero se disparan las muertes jóvenes en lo que va del 2026",
-   "extracto": "Además, Transcaribe pierde pasajeros: de 30,6 millones de usuarios en 2024 bajó a 28,6 millones en 2025.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-como-vamos-en-movilidad-bajan-los-lesionados-en-las-vias-pero-se-disparan-las-muertes-jovenes-en-lo-que-va-del-3593289",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/04/10/64347012ba059.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-13T21:42:16Z"
-  },
-  {
-   "titulo": "Un fuerte sismo se sintió en el departamento de Santander con una magnitud de 5.0: esto se sabe",
-   "extracto": "Autoridades de gestión de riesgo hacen un barrido mientras que la comunidad reportó que el movimiento telúrico se sintió muy fuerte.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/un-fuerte-sismo-se-sintio-en-el-departamento-de-santander-con-una-magnitud-de-5-0-esto-se-sabe-3593293",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/08/6ac8126169d82.r_d.340-490-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-13T21:37:49Z"
   },
   {
    "titulo": "“Si aparecen pruebas, estoy fuera del Pacto Histórico”: Gustavo Bolívar tras declaraciones de Eva Ferrer y Angie Rodríguez",
@@ -543,16 +613,6 @@
    "fecha": "2026-10-13T22:41:08Z"
   },
   {
-   "titulo": "Héctor Xpinoza, el mexicano que busca conquistar Colombia con 'Me dueles'",
-   "extracto": "Su última ruptura inspiró su más reciente lanzamiento, una canción sobre el dolor de una traición con la que muchos se sentirán identificados.",
-   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/hector-xpinoza-el-mexicano-que-busca-conquistar-colombia-con-me-dueles-3593305",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6aceaed6e5c55.r_d.790-427-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-13T22:35:00Z"
-  },
-  {
    "titulo": "El ‘chef’ del Ejército que es viral por cocinar en la selva",
    "extracto": "“Monto una estufita, pongo gasolina y ya se empieza a trabajar”. La respuesta obvia del soldado Jhan Carlos Mosquera es apenas el resumen de su día a día, no como cocinero, sino…",
    "enlace": "https://www.elcolombiano.com/colombia/chef-ejercito-nacional-viral-redes-sociales-cocinar-selva-KP42184806",
@@ -561,16 +621,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-13T18:15:18Z"
-  },
-  {
-   "titulo": "\"Lo primero que preguntan es quién viene de afuera\": las tensiones de Rock al Parque a sus 30 años",
-   "extracto": "Héctor Mora, curador del evento repasa su historia y los desafíos de mantener la gratuidad y el equilibrio entre bandas locales e internacionales.",
-   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/lo-primero-que-preguntan-es-quien-viene-de-afuera-las-tensiones-de-rock-al-parque-a-sus-30-anos-3593304",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/06/24/685ad12fc05d5.r_d.783-1331-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-13T22:14:32Z"
   },
   {
    "titulo": "En la ONU avanzan las negociaciones para renovar la misión de paz en Colombia, ¿qué cambiaría?",
@@ -781,16 +831,6 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-13T00:30:14Z"
-  },
-  {
-   "titulo": "Con balines y perdigones atacan a águilas y otras aves en vía de extinción en Antioquia",
-   "extracto": "Un águila crestada, la inmensa y coronada reina de los bosques andinos, apareció herida, anémica e inmóvil en una zona rural del municipio de San José de la Montaña a comienzos de…",
-   "enlace": "https://www.elcolombiano.com/antioquia/ataque-con-armas-y-perdigones-a-aguilas-y-aves-en-riesgo-en-antioquia-GP42185047",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/459x300/0c0/0d0/center/11101/WWNO/aves_51864236_20261012191428.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-10-13T00:19:57Z"
   },
   {
    "titulo": "Vendedor ambulante muere en la autopista Medellín-Bogotá: habría caído de un bus en Rionegro",
