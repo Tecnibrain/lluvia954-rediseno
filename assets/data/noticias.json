@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-17T04:21:55.816242Z",
+ "actualizado": "2026-10-17T10:39:46.352983Z",
  "total": 133,
  "noticias": [
   {
@@ -23,6 +23,16 @@
    "fecha": "2026-10-17T01:09:33Z"
   },
   {
+   "titulo": "Exalcalde de Jamundí, Andrés Felipe Ramírez, se pronunció tras atentado en el que asesinaron a su escolta en Valle del Cauca: 'Estoy vivo de milagro'",
+   "extracto": "Dos sicarios en moto atacaron al exmandatario a las 9:20 p. m. en un local familiar del barrio La Esmeralda mientras estaba con su escolta.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/exalcalde-de-jamundi-andres-felipe-ramirez-se-pronuncio-tras-atentado-en-el-que-asesinaron-a-su-escolta-en-valle-del-cauca-estoy-vivo-de-milagro-3594234",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/17/6ad3339d097de.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-17T08:50:00Z"
+  },
+  {
    "titulo": "Procuraduría formuló cargos a director y cinco funcionarios del Inpec por fiesta en cárcel de Itagüí",
    "extracto": "La Procuraduría General de la Nación formuló pliego de cargos contra seis funcionarios del Instituto Nacional Penitenciario y Carcelario (Inpec) por presuntas irregularidades en…",
    "enlace": "https://www.elcolombiano.com/antioquia/procuraduria-cargos-funcionarios-inpec-fiesta-en-carcel-de-itagui-LA42358939",
@@ -33,14 +43,24 @@
    "fecha": "2026-10-16T23:40:38Z"
   },
   {
-   "titulo": "Atención | Atentado sicarial contra el exalcalde de Jamundí Andrés Felipe Ramírez deja un escolta asesinado",
+   "titulo": "Desarticulan presunta banda sicarial en Caldas: encontraron altares de santería y presuntas listas con nombres de las víctimas",
+   "extracto": "Los operativos en La Dorada revelaron disputas entre 'Los Constra' y 'La Línea', además del uso de talleres para ocultar drogas y armas.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/desarticulan-presunta-banda-sicarial-en-caldas-encontraron-altares-de-santeria-y-presuntas-listas-con-nombres-de-las-victimas-3594229",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/17/6ad306d998f2f.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-17T06:45:05Z"
+  },
+  {
+   "titulo": "Atentado sicarial contra el exalcalde de Jamundí, Andrés Felipe Ramírez, deja a su escolta asesinado: ofrecen hasta $100 millones por los responsables",
    "extracto": "El senador Duvalier Sánchez denunció el crimen tras un encuentro político sostenido con el exmandatario.",
    "enlace": "https://www.eltiempo.com/colombia/cali/atencion-atentado-sicarial-contra-el-exalcalde-de-jamundi-andres-felipe-ramirez-deja-un-escolta-asesinado-3594221",
    "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2019/11/06/5dc36f694b056.r_d.518-402-1.jpeg",
    "fuente": "El Tiempo",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-10-17T03:56:31Z"
+   "fecha": "2026-10-17T04:22:39Z"
   },
   {
    "titulo": "Ataque sicarial contra comerciante en la vía Piedecuesta-Floridablanca, Santander, provocó el choque e incendio de un vehículo que dejó seis heridos",
@@ -50,17 +70,7 @@
    "fuente": "El Tiempo",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-10-17T03:51:54Z"
-  },
-  {
-   "titulo": "'¡Se acabó la guachafita!': el presidente De La Espriella lideró operativo en Barranquilla; 72 capturados y golpes a cabecillas de bandas criminales",
-   "extracto": "Se movilizaron a 587 policías y militares, con 50 allanamientos. Entre los detenidos hay presuntos jefes de redes de extorsión, sicariato y hurto.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/se-acabo-la-guachafita-el-presidente-de-la-espriella-lidero-operativo-en-barranquilla-72-capturados-y-golpes-a-cabecillas-de-bandas-criminales-3594138",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad28d0ce350b.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-17T02:27:49Z"
+   "fecha": "2026-10-17T04:11:00Z"
   },
   {
    "titulo": "Presentarán nuevos detalles de proyecto minero Gramalote en Antioquia",
@@ -71,6 +81,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-16T18:25:39Z"
+  },
+  {
+   "titulo": "Manchester City y su peor miedo: diáspora de jugadores",
+   "extracto": "El club fue hallado responsable de 114 de 115 cargos relacionados con infracciones financieras, lo que podría hacerle perder a sus estrellas.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/manchester-city-y-su-peor-miedo-diaspora-de-jugadores-3594231",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/11/6acbd5ccea745.r_d.1424-891-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-17T05:47:18Z"
   },
   {
    "titulo": "La alarma por el supuesto levantamiento de dos cuerpos de habitantes de calle en Cali terminó siendo una actividad pedagógica de la Policía",
@@ -113,6 +133,16 @@
    "fecha": "2026-10-17T01:18:59Z"
   },
   {
+   "titulo": "El ‘Minuto de Dios’ también aplica para el equipo femenino: agónica victoria de Santa Fe en la Copa Libertadores",
+   "extracto": "El subcampeón colombiano sufrió para vencer 3-2 al Caracas FC de Venezuela en Quito.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/el-minuto-de-dios-tambien-aplica-para-el-equipo-femenino-agonica-victoria-de-santa-fe-en-la-copa-libertadores-3594230",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/17/6ad302646a77d.r_d.1268-728-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-17T05:10:49Z"
+  },
+  {
    "titulo": "Fundación de la primera dama reportó más de $54.000 millones en aportes privados tras el terremoto",
    "extracto": "La Fundación Colombia Luz y Sonrisas —liderada por la primera dama Ana Lucía Pineda — hizo público este viernes 16 de octubre el reporte oficial de los recursos recibidos a través…",
    "enlace": "https://www.elcolombiano.com/colombia/fundacion-primera-dama-reporta-mas-de-54000-millones-aportes-privados-terremoto-PA42353396",
@@ -121,6 +151,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-17T00:49:46Z"
+  },
+  {
+   "titulo": "Los memes que desató el Tesla Roadster que puede volar: bromas sobre Bogotá, accidentes de tránsito y carros convencionales",
+   "extracto": "Imágenes con inteligencia artificial y guiños a Volver al futuro inundaron la red tras saberse que el carro pasa de 0 a 100 en menos de un segundo.",
+   "enlace": "https://www.eltiempo.com/cultura/entretenimiento/los-memes-que-desato-el-tesla-roadster-que-puede-volar-bromas-sobre-bogota-accidentes-de-transito-y-carros-convencionales-3594225",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad2fae71c5fb.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-17T04:46:17Z"
   },
   {
    "titulo": "Directora de la ANT se pronunció tras la renuncia del funcionario que apareció en video cocinando un armadillo: 'Nadie está por encima de la ley'",
@@ -173,20 +213,10 @@
    "fecha": "2026-10-17T00:00:53Z"
   },
   {
-   "titulo": "Los memes que desató el Tesla Roadster que puede volar: bromas sobre Bogotá, accidentes de tránsito y carros convencionales",
-   "extracto": "Imágenes con inteligencia artificial y guiños a Volver al futuro inundaron la red tras saberse que el carro pasa de 0 a 100 en menos de un segundo.",
-   "enlace": "https://www.eltiempo.com/cultura/entretenimiento/los-memes-que-desato-el-tesla-roadster-que-puede-volar-bromas-sobre-bogota-accidentes-de-transito-y-carros-convencionales-3594225",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad21d8b388af.r_d.681-299-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-17T03:55:33Z"
-  },
-  {
    "titulo": "El salsero Yuri Buenaventura regresa a Bogotá con un espectáculo sinfónico: ¿cuándo y dónde?",
    "extracto": "Lo acompañará la Orquesta Sinfónica Nacional de Colombia, que con su sonido amplifica la esencia de un repertorio que conserva todo el sabor salsero.",
    "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/el-salsero-yuri-buenaventura-regresa-a-bogota-con-un-espectaculo-sinfonico-cuando-y-donde-3594226",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad2e961b6200.jpeg",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad2e961b6200.r_d.521-262-0.jpeg",
    "fuente": "El Tiempo",
    "categoria": "cultura",
    "etiqueta": "Cultura",
@@ -236,7 +266,7 @@
    "titulo": "Bianca Orqueda, la fuerza de una mujer que canta por su pueblo",
    "extracto": "Esta sección entra en una nueva era. A partir de esta edición, se entrevistarán jóvenes líderes de América Latina.",
    "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/bianca-orqueda-la-fuerza-de-una-mujer-que-canta-por-su-pueblo-3594089",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad2834901443.jpeg",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad2834901443.r_d.560-336-0.jpeg",
    "fuente": "El Tiempo",
    "categoria": "cultura",
    "etiqueta": "Cultura",
@@ -353,16 +383,6 @@
    "fecha": "2026-10-16T21:09:59Z"
   },
   {
-   "titulo": "Afinia investiga presunto fraude de energía en empresa hielera de Cartagena: reportan pérdidas superiores a los $36 millones al mes",
-   "extracto": "Una práctica recurrente en el mercado industrial de la Costa es la ubicación estratégica de empresas con alta demanda energética en estratos 1 y 2.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/afinia-investiga-presunto-fraude-de-energia-en-empresa-hielera-de-cartagena-reportan-perdidas-superiores-a-los-36-millones-al-mes-3594142",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad28f1d8ae01.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-16T21:07:05Z"
-  },
-  {
    "titulo": "Restringen el paso en zona rural de Sopetrán por presencia de babillas: ¿qué está pasando?",
    "extracto": "La presencia de babillas en un sector rural del corregimiento de Córdoba, en Sopetrán , Occidente antioqueño, encendió las alertas entre las autoridades y los habitantes de la…",
    "enlace": "https://www.elcolombiano.com/antioquia/restringen-paso-zona-rural-sopetran-babillas-DH42324337",
@@ -463,16 +483,6 @@
    "fecha": "2026-10-16T22:30:07Z"
   },
   {
-   "titulo": "Hay partido: la cancha de El Campín pasó la prueba para el juego del sábado entre Millonarios y Jaguares",
-   "extracto": "El fútbol volverá a su escenario principal en la capital después de 25 días.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/hay-partido-la-cancha-de-el-campin-paso-la-prueba-para-el-juego-del-sabado-entre-millonarios-y-jaguares-3594133",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad28791b5bc3.r_d.1671-772-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-16T22:19:11Z"
-  },
-  {
    "titulo": "Quinteto Astor Piazzolla llega a Medellín: “No hay otra ciudad más tanguera”",
    "extracto": "Tan tanguera es Medellín que hasta los herederos del legado del gran artista argentino Astor Piazzolla aseguran que lo que sienten tocando aquí no lo sienten sino cuando están en…",
    "enlace": "https://www.elcolombiano.com/cultura/medellin-quinteto-astor-piazzolla-concierto-teatro-universidad-medellin-latin-grammy-FA42354643",
@@ -506,7 +516,7 @@
    "titulo": "Vinagre para lavar frutas y verduras: beneficios, cómo usarlo y qué dice la ciencia sobre su eficacia",
    "extracto": "El vinagre puede ayudar a reducir microorganismos en alimentos frescos, pero su eficacia depende de cómo se utilice.",
    "enlace": "https://www.eltiempo.com/cultura/gente/vinagre-para-lavar-frutas-y-verduras-beneficios-como-usarlo-y-que-dice-la-ciencia-sobre-su-eficacia-3594151",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad2954f6c1cd.jpeg",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/16/6ad2954f6c1cd.r_d.539-264-0.jpeg",
    "fuente": "El Tiempo",
    "categoria": "cultura",
    "etiqueta": "Cultura",
@@ -551,16 +561,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-16T16:41:20Z"
-  },
-  {
-   "titulo": "El ciclismo en Colombia no para: todo está listo para el primer pedalazo del Clásico RCN",
-   "extracto": "La carrera partirá este sábado desde Mosquera, Cundinamarca.",
-   "enlace": "https://www.eltiempo.com/deportes/ciclismo/el-ciclismo-en-colombia-no-para-todo-esta-listo-para-el-primer-pedalazo-del-clasico-rcn-3594118",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/09/23/68d3203cdd570.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-16T20:00:28Z"
   },
   {
    "titulo": "Invima alerta por Buscapina falsificada en Colombia: estas son las señales para identificarla y los riesgos de consumirla",
