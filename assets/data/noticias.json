@@ -1,7 +1,187 @@
 {
- "actualizado": "2026-10-19T04:36:40.212759Z",
- "total": 84,
+ "actualizado": "2026-10-19T13:08:23.507269Z",
+ "total": 96,
  "noticias": [
+  {
+   "titulo": "Los cogieron con 5 litros de ketamina en Bello, ¿para qué la iban a usar?",
+   "extracto": "Las autoridades bellanitas dieron detalles de la detención de un hombre y de un menor de edad a quienes les encontraron una peligrosa sustancia química en zona urbana del…",
+   "enlace": "https://www.elcolombiano.com/antioquia/policia-incauta-cinco-litros-ketamina-bello-drogas-sinteticas-antioquia-EC42409841",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/VIME/ketamina_51913216_20261019075211.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-19T12:56:43Z"
+  },
+  {
+   "titulo": "Polémica en Rionegro por viaje de concejales y funcionarios a China",
+   "extracto": "Toda una polémica política se ha armado en Rionegro por el viaje que sus 17 concejales hicieron a China acompañados de algunos funcionarios del municipio. El periplo ha generado…",
+   "enlace": "https://www.elcolombiano.com/antioquia/polemica-rionegro-viaje-concejales-china-IM42399045",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/437x300/0c0/0d0/center/11101/PNKT/concejales-rio_51912252_20261018203936.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-19T12:44:44Z"
+  },
+  {
+   "titulo": "ADIDA denuncia crisis en la atención en salud de los maestros en Antioquia",
+   "extracto": "La Junta Directiva de la Asociación de Institutores de Antioquia, ADIDA, denunció la precaria situación de atención en salud que enfrentan los docentes activos y pensionados, así…",
+   "enlace": "https://www.elcolombiano.com/antioquia/adida-denuncia-demora-atencion-maestros-salud-antioquia-KC42408741",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/454x300/0c0/0d0/center/11101/TBUG/farmacia-sumimedical-c-1_51913047_20261019072334.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-19T12:37:03Z"
+  },
+  {
+   "titulo": "Fact check | Verónica Alcocer se defiende: drogas, dinero, contratos y poder en el Gobierno Petro",
+   "extracto": "Luego de años sin conceder una entrevista, la exprimera dama Verónica Alcocer, exesposa de Gustavo Petro, rompió su silencio tras el escándalo que desataron las declaraciones de…",
+   "enlace": "https://www.elcolombiano.com/colombia/veronica-alcocer-irregularidades-claves-vuelos-venezuela-ofac-NC42407758",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/VIPH/tamanos-el-colombiano-2026-10-19t0_51912802_20261019064919.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-19T12:55:20Z"
+  },
+  {
+   "titulo": "Un “hijo de Tirofijo” estaría detrás del asesinato de Miguel Uribe, aseguró María Claudia Tarazona",
+   "extracto": "María Claudia Tarazona habló sobre la investigación del magnicidio del precandidato presidencial y senador Miguel Uribe Turbay y sostuvo que en ese complot estuvo involucrado un…",
+   "enlace": "https://www.elcolombiano.com/colombia/hijo-de-tirofijo-sandra-ramirez-detras-asesinato-miguel-uribe-turbay-FC42407147",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/PJKY/maria-claudia-tarazona-tirofijo_51912836_20261019072944.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-19T12:40:44Z"
+  },
+  {
+   "titulo": "Exconsejero de Petro está denunciado por proyectos teconológicos en filial de ISA; ¿cuáles son y qué pasó?",
+   "extracto": "Sigue conociéndose el rastro de los catalanes cercanos al entorno del expresidente Gustavo Petro y su exesposa Verónica Alcocer. Ahora el que está bajo sospecha es el exasesor…",
+   "enlace": "https://www.elcolombiano.com/colombia/exconsejero-petro-denunciado-proyectos-teconologicos-filial-isa-PC42407338",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/QNKK/petro-y-kattan-archivo_51912853_20261019064642.webp",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-19T12:28:49Z"
+  },
+  {
+   "titulo": "Turista extranjero perdió un dispositivo electrónico de más de $8 millones en Cartagena: así logró recuperarlo con ayuda de la Policía",
+   "extracto": "El visitante acudió a una patrulla tras extraviar el dispositivo. Los uniformados utilizaron herramientas de geolocalización para encontrarlo.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/turista-extranjero-perdio-un-dispositivo-electronico-de-mas-de-8-millones-en-cartagena-asi-logro-recuperarlo-con-ayuda-de-la-policia-3594533",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad60cac8a9ba.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-19T12:28:45Z"
+  },
+  {
+   "titulo": "Presunto ladrón se lanzó al río Sinú para escapar tras robar a una mujer en Montería, pero la Policía lo capturó en una canoa",
+   "extracto": "La persecución terminó en el agua, donde uniformados lograron interceptarlo.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/presunto-ladron-se-lanzo-al-rio-sinu-para-escapar-tras-robar-a-una-mujer-en-monteria-pero-la-policia-lo-capturo-en-una-canoa-3594531",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad60b15674c5.r_d.1033-385-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-19T12:23:06Z"
+  },
+  {
+   "titulo": "“Deshonran la memoria de los afectados”: ministra de Cultura responde a protestas por retiro de obras del Museo Nacional",
+   "extracto": "La ministra de Cultura, Paola Holguín , se pronunció este domingo 18 de octubre sobre las protestas realizadas durante el fin de semana frente al Museo Nacional, en Bogotá, por la…",
+   "enlace": "https://www.elcolombiano.com/colombia/ministra-cultura-responde-protestas-retiro-obras-museo-nacional-PC42408236",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/451x300/0c0/0d0/center/11101/DSQO/ministra-de-cultura-paola-holguin-51_51912930_20261019070431.webp",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-19T12:15:10Z"
+  },
+  {
+   "titulo": "Dos robos a universidades públicas de Envigado siguen sin respuestas, ¿en qué va la investigación?",
+   "extracto": "Transcurrido un mes desde que, a través de una operación de ciberdelincuencia, robaran $657 millones al Tecnológico de Artes Débora Arango, de Envigado , no hay todavía resultados…",
+   "enlace": "https://www.elcolombiano.com/antioquia/robos-universidades-publicas-envigado-CM42398291",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/409x300/0c0/0d0/center/11101/LICH/imagen-de-artes-debora_51912119_20261018193556.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-19T00:45:56Z"
+  },
+  {
+   "titulo": "Museo Nacional retiró las camisetas históricas de Lucho Herrera: polémica por las prendas de la Vuelta a España de 1987",
+   "extracto": "La salida llamó la atención en medio de la controversia por el retiro de más de 30 piezas del museo. Se desconocen los motivos de la decisión.",
+   "enlace": "https://www.eltiempo.com/cultura/arte-y-teatro/museo-nacional-retiro-las-camisetas-historicas-de-lucho-herrera-polemica-por-las-prendas-de-la-vuelta-a-espana-de-3594542",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2020/03/19/5e737796611e8.r_d.1177-600-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-19T12:29:40Z"
+  },
+  {
+   "titulo": "Empanaditas de plátano maduro con queso: receta fácil para prepararlas en casa con pocos ingredientes",
+   "extracto": "Con plátano maduro, harina de maíz y queso puede preparar estas empanaditas en sartén, horno o freidora de aire.",
+   "enlace": "https://www.eltiempo.com/cultura/recetas/empanaditas-de-platano-maduro-con-queso-receta-facil-para-prepararlas-en-casa-con-pocos-ingredientes-3594534",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad60b6daab25.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-19T12:25:47Z"
+  },
+  {
+   "titulo": "¿Gemelos o mellizos? Estas son las cinco diferencias principales que permiten distinguirlos desde el embarazo",
+   "extracto": "Aunque nacen de un mismo embarazo, su formación, genética, sexo, placenta y factores hereditarios presentan diferencias.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/gemelos-o-mellizos-estas-son-las-cinco-diferencias-principales-que-permiten-distinguirlos-desde-el-embarazo-3594535",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/19/6ad609ff47f64.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-19T12:20:54Z"
+  },
+  {
+   "titulo": "¿El pan de masa madre es tan saludable como dicen? Esto explican los expertos",
+   "extracto": "A diferencia de otras variedades, su elaboración se realiza mediante un proceso de fermentación natural, lo que aporta beneficios para el organismo.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/el-pan-de-masa-madre-es-tan-saludable-como-dicen-esto-explican-los-expertos-3594526",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/02/24/67bcd6a9eef49.r_d.175-133-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-19T12:18:37Z"
+  },
+  {
+   "titulo": "Tadej Pogacar despeja dudas: reveló sus objetivos para la temporada de 2027 tras el accidente en la Vuelta a España",
+   "extracto": "El corredor esloveno tiene claras sus metas para el próximo año: el Tour de Francia, la Vuelta a España y el Mundial de ciclismo.",
+   "enlace": "https://www.eltiempo.com/deportes/ciclismo/tadej-pogacar-despeja-dudas-revelo-sus-objetivos-para-la-temporada-de-2027-tras-el-accidente-en-la-vuelta-a-espana-3594527",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/26/6a66554575e1e.r_d.2154-569-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-19T11:50:59Z"
+  },
+  {
+   "titulo": "Así opera el pico y placa en Bucaramanga para el lunes 19 de octubre de 2026: estas son las placas que tendrán restricción",
+   "extracto": "La medida estará vigente durante 14 horas en Bucaramanga. Consulte los números restringidos y la rotación que comenzó a regir en octubre.",
+   "enlace": "https://www.eltiempo.com/colombia/santander/asi-opera-el-pico-y-placa-en-bucaramanga-para-el-lunes-19-de-octubre-de-2026-estas-son-las-placas-que-tendran-restriccion-3594080",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/11/6a7b4eef0af1c.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-19T07:30:00Z"
+  },
+  {
+   "titulo": "¡Ojo, conductor! Pico y placa en Cali para el lunes 19 de octubre de 2026: estas placas tendrán restricción",
+   "extracto": "La medida aplicará para vehículos particulares entre las 6:00 a. m. y las 7:00 p. m. Consulte los números y las excepciones.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/ojo-conductor-pico-y-placa-en-cali-para-el-lunes-19-de-octubre-de-2026-estas-placas-tendran-restriccion-3593904",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2023/08/14/64da39fd4b2d3.r_d.600-360-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-19T07:30:00Z"
+  },
+  {
+   "titulo": "Crece la polémica por la decisión del Gobierno de retirar piezas del Museo Nacional, en Bogotá: lo que dicen las voces a favor y en contra",
+   "extracto": "Afiches, fotografías y objetos fueron retirados de tres salas. La decisión ha generado voces a favor y en contra.",
+   "enlace": "https://www.eltiempo.com/cultura/arte-y-teatro/crece-la-polemica-por-la-contrarrevolucion-cultural-del-gobierno-que-arranco-con-el-retiro-de-piezas-del-museo-nacional-3594454",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/18/6ad5511a51faf.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-19T10:42:06Z"
+  },
   {
    "titulo": "¿Emsirva no volvería a los caleños? La revelación del alcalde de Cali, Alejandro Eder, sobre el futuro de la empresa pública de aseo de la ciudad",
    "extracto": "En diálogo con EL TIEMPO, el mandatario habló de un proceso truncado para que el Gobierno Nacional devuelva la empresa intervenida durante 21 años.",
@@ -33,6 +213,16 @@
    "fecha": "2026-10-19T03:02:16Z"
   },
   {
+   "titulo": "¿Cuánto costó el exclusivo 'Fantasy Bra' que lució Kylie Jenner y acaparó las miradas en el desfile de Victoria’s Secret 2026?",
+   "extracto": "Con cerca de 1,8 kilogramos de peso, la pieza tiene una estructura articulada diseñada para adaptarse al cuerpo y facilitar el movimiento.",
+   "enlace": "https://www.eltiempo.com/cultura/entretenimiento/cuanto-costo-el-exclusivo-fantasy-bra-que-lucio-kylie-jenner-y-acaparo-las-miradas-en-el-desfile-de-victoria-s-secret-3594509",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad5af89858dc.r_d.277-287-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-19T06:16:44Z"
+  },
+  {
    "titulo": "Verónica Alcocer rompe el silencio: “Jamás en mi vida he tenido que ver con tráfico de drogas y dinero”",
    "extracto": "Después de cuatro años en los que, según dijo, optó por no conceder entrevistas o muy pocas, Verónica Alcocer habló públicamente sobre las acusaciones que ha hecho en su contra…",
    "enlace": "https://www.elcolombiano.com/colombia/veronica-alcocer-habla-eva-ferrer-drogas-dinero-venezuela-HM42397918",
@@ -51,6 +241,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-19T00:33:48Z"
+  },
+  {
+   "titulo": "Así va la disputa por la marca “Miguel Uribe Turbay”, ¿en qué la van a usar?",
+   "extracto": "¿Para qué se registra un nombre? En esencia, para que nadie más pueda hacer uso comercial o público de él sin autorización. Pero en este caso no se trata de cualquier marca, sino…",
+   "enlace": "https://www.elcolombiano.com/colombia/miguel-uribe-esposa-maria-claudia-tarazona-pelea-marca-politica-sic-CM42398028",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/PVTT/miguel-uribe-londono-y-maria-claudia_51912043_20261018192900.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-19T00:30:28Z"
   },
   {
    "titulo": "Los Rays vencieron a los Guardians y acarician la Serie Mundial de béisbol",
@@ -83,14 +283,14 @@
    "fecha": "2026-10-19T03:41:10Z"
   },
   {
-   "titulo": "Crece la polémica por la decisión del Gobierno de retirar piezas del Museo Nacional, en Bogotá: lo que dicen las voces a favor y en contra",
-   "extracto": "Afiches, fotografías y objetos fueron retirados de tres salas. La decisión ha generado voces a favor y en contra.",
-   "enlace": "https://www.eltiempo.com/cultura/arte-y-teatro/crece-la-polemica-por-la-contrarrevolucion-cultural-del-gobierno-que-arranco-con-el-retiro-de-piezas-del-museo-nacional-3594454",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/18/6ad5511a51faf.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-19T03:41:03Z"
+   "titulo": "¿Qué falta para que estos cuatro embajadores que nombró Abelardo asuman el cargo?",
+   "extracto": "A diferencia de la mayoría de nombramientos en el Gobierno, los embajadores y cónsules no solo dependen de la voluntad del Ejecutivo: tienen que recibir la “bendición” del…",
+   "enlace": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-embajadores-espana-mexico-ecuador-reino-unido-PM42397679",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/UNKA/embajadores-1_51911845_20261018183242.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-18T23:39:00Z"
   },
   {
    "titulo": "Citan a Paola Holguín, MinCultura, a debate de control político por retiro de obras del Museo Nacional",
@@ -123,6 +323,26 @@
    "fecha": "2026-10-18T23:14:41Z"
   },
   {
+   "titulo": "Así se dispara la racha criminal contra el Inpec: sería por los traslados del Gobierno",
+   "extracto": "Cuatro muertos, múltiples hostigamientos y 500 amenazas registradas en los últimos dos meses tienen en la zozobra a los servidores públicos del Instituto Nacional Penitenciario y…",
+   "enlace": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-traslados-carceles-homicidios-inpec-GM42397010",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/KWLA/inpec_51911662_20261018175705.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-18T23:11:35Z"
+  },
+  {
+   "titulo": "Esto se exigieron Uribe y De la Espriella para “calmar las aguas” entre el uribismo y el Gobierno",
+   "extracto": "Hace unas semanas, en pleno día de labores en el Congreso , el presidente Abelardo de la Espriella citó en la Casa de Nariño a los senadores Enrique Gómez y Sara Castellanos de…",
+   "enlace": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-alvaro-uribe-congreso-FM42396773",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/DVTE/abelardo-y-uribe_51911529_20261018174103.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-18T22:44:01Z"
+  },
+  {
    "titulo": "Luis Fernando Suárez explotó contra los jugadores del Tolima: 'No se puede cometer tanta pendejada'",
    "extracto": "El mal momento de los pijaos hizo que el entrenador no aguantara y explicara todas las falencias del equipo.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/luis-fernando-suarez-exploto-contra-los-jugadores-del-tolima-no-se-puede-cometer-tanta-pendejada-3594491",
@@ -141,16 +361,6 @@
    "categoria": "deportes",
    "etiqueta": "Deportes",
    "fecha": "2026-10-19T01:55:53Z"
-  },
-  {
-   "titulo": "¿Quiénes son Girley Ordóñez Bowie, la gobernadora de San Andrés, y la congresista Elizabeth Jay-Pang Díaz, del careo del presidente De La Espriella?",
-   "extracto": "La mandataria de San Andrés, quien reemplazó al destituido Nicolás Gallardo, y la parlamentaria enfrentan crisis tras el reclamo del jefe de Estado.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/quienes-son-girley-ordonez-bowie-la-gobernadora-de-san-andres-y-la-congresista-elizabeth-jay-pang-diaz-del-careo-del-presidente-de-la-espriella-3594418",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/18/6ad4f1dfa3561.r_d.873-545-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-18T21:45:56Z"
   },
   {
    "titulo": "Iván René Valenciano habló de acercar a Jhon Durán a la Selección Colombia, pero criticó sus actitudes: 'Tal vez no tenga nada en la cabeza'",
@@ -243,16 +453,6 @@
    "fecha": "2026-10-18T23:45:34Z"
   },
   {
-   "titulo": "Insólita situación en el fútbol de España: cayó diluvio antes de un partido y fue aplazado porque el agua le llegó al tobillo al árbitro (video)",
-   "extracto": "El charco de agua no dejaba que el balón rodara. El juez salió a chequear el estado del terreno de juego de forma particular.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/insolita-situacion-en-el-futbol-de-espana-cayo-diluvio-antes-de-un-partido-y-fue-aplazado-porque-el-agua-le-llego-al-tobillo-al-arbitro-video-3594470",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/18/6ad558b58062d.r_d.674-249-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-18T23:43:25Z"
-  },
-  {
    "titulo": "Este sería el inventario de las piezas retiradas del Museo Nacional: hay obras de artistas antioqueños",
    "extracto": "Desde el viernes, cuando funcionarios del Ministerio de Cultura desmontaron alrededor de 50 piezas de las exposiciones abiertas al público del Museo Nacional, la expresión “brilla…",
    "enlace": "https://www.elcolombiano.com/colombia/obras-retiradas-del-museo-nacional-de-colombia-OM42392396",
@@ -261,6 +461,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-18T19:32:38Z"
+  },
+  {
+   "titulo": "Jenny Berggren, de Ace of Base, traerá a Medellín la nostalgia del eurodance noventero",
+   "extracto": "Si en los años 90 usted oía radio en Medellín –y también en otras ciudades del país– seguro recuerda canciones como All That She Wants, Wheel of Fortune, The Sign, Don’t Turn…",
+   "enlace": "https://www.elcolombiano.com/cultura/ace-of-base-en-medellin-EM42397102",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/MGVM/diseno-sin-titulo-2026-10-18t180653-042_51911544_20261018181214.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-18T23:12:03Z"
   },
   {
    "titulo": "Procuraduría investiga contrato de $36.300 millones para dotar de comunicaciones a 18 aeropuertos del país",
@@ -273,14 +483,24 @@
    "fecha": "2026-10-18T18:52:24Z"
   },
   {
-   "titulo": "Homicidios selectivos, desapariciones y amenazas: el complejo panorama de violencia que rodea el atentado contra el exalcalde de Jamundí",
-   "extracto": "Diputado recordó que la familia del exmandatario local había sido intimidada de manera violenta.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/homicidios-selectivos-desapariciones-y-amenazas-el-complejo-panorama-de-violencia-que-rodea-el-atentado-contra-el-exalcalde-de-jamundi-3594434",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/18/6ad509b611541.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-18T18:17:13Z"
+   "titulo": "Con un libro colombiano escrito con gramática queer, Julian Delgado Lopera es finalista del National Book Award",
+   "extracto": "Con su libro Lo primero que se rompió fue el corazón, el escritor Julián Delgado Lopera está en la lista de los finalistas del National Book Award, uno de los premios más…",
+   "enlace": "https://www.elcolombiano.com/cultura/julian-delgado-lopera-lo-primero-que-se-rompio-fue-el-corazon-KM42396628",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/VXVM/diseno-sin-titulo-2026-10-18t173841-438_51910234_20261018174214.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-18T22:42:10Z"
+  },
+  {
+   "titulo": "Medellín Music Lab: así se forman los Juanes, Karol G y Crudo del futuro",
+   "extracto": "Medellín es una ciudad especialmente musical. Fue el epicentro de la industria discográfica a mediados del siglo pasado, ha sido fundamental en el desarrollo de diversos géneros…",
+   "enlace": "https://www.elcolombiano.com/cultura/medellin-music-lab-KM42395834",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/430x300/0c0/0d0/center/11101/NRLS/altavoz-m-27_51910215_20261018171733.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-18T22:17:30Z"
   },
   {
    "titulo": "'Un día todos vamos a morir': las premonitorias últimas palabras del padre Patricio Sánchez antes de morir tras caerle una cruz encima en plena misa",
@@ -303,16 +523,6 @@
    "fecha": "2026-10-18T17:26:57Z"
   },
   {
-   "titulo": "Lluvias en Atlántico causan emergencias en Soledad y Galapa: un taxi fue arrastrado y seis sectores reportaron inundaciones tras fuerte aguacero local",
-   "extracto": "El arroyo El Salao arrastró un taxi en Villa Estadio; en Galapa hubo inundaciones y las autoridades mantienen la atención por las lluvias.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/lluvias-en-atlantico-causan-emergencias-en-soledad-y-galapa-un-taxi-fue-arrastrado-y-seis-sectores-reportaron-inundaciones-tras-fuerte-aguacero-local-3594429",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/18/6ad4ef8d885b4.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-18T17:11:43Z"
-  },
-  {
    "titulo": "La historia del campesino que terminó preso y con una deuda de $600 millones tras un negocio con César Pachón",
    "extracto": "Daniel (nombre cambiado para proteger su identidad) lleva meses bajo prisión domiciliaria, alejado del oficio al que ha dedicado cerca de 20 años: las instalaciones eléctricas y…",
    "enlace": "https://www.elcolombiano.com/colombia/campesino-condenado-deuda-dian-cesar-pachon-acuerdos-EN42387704",
@@ -333,16 +543,6 @@
    "fecha": "2026-10-18T20:04:17Z"
   },
   {
-   "titulo": "Aeropuerto Ernesto Cortissoz: así avanzan las obras en las salas internacionales que ya buscan agilizar Migración antes de la final de la Sudamericana",
-   "extracto": "La intervención contempla 10 puestos migratorios, ocho módulos Biomig y una sala para 680 viajeros; Barranquilla espera visitantes el 21 de noviembre.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/aeropuerto-ernesto-cortissoz-asi-avanzan-las-obras-en-las-salas-internacionales-que-ya-buscan-agilizar-migracion-antes-de-la-final-de-la-sudamericana-3594416",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/01/17/696bda06e2faf.r_d.600-267-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-18T15:40:46Z"
-  },
-  {
    "titulo": "Este sería el inventario de las piezas retiradas del Museo Nacional: hay obras de artistas antioqueños",
    "extracto": "Desde el viernes, cuando funcionarios del Ministerio de Cultura desmontaron alrededor de 50 piezas de las exposiciones abiertas al público del Museo Nacional, la expresión “brilla…",
    "enlace": "https://www.elcolombiano.com/cultura/obras-retiradas-del-museo-nacional-de-colombia-OM42392396",
@@ -353,16 +553,6 @@
    "fecha": "2026-10-18T19:32:38Z"
   },
   {
-   "titulo": "Vinos, IA y ‘sommeliers’ / Una copa",
-   "extracto": "Cada vez más gente usa la Inteligencia Artificial para que le recomiende un vino. ¿Amenaza u oportunidad?",
-   "enlace": "https://www.eltiempo.com/cultura/gastronomia/vinos-ia-y-sommeliers-una-copa-3594402",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2020/04/19/5e9cc55f58c42.r_d.981-1195-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-18T16:23:07Z"
-  },
-  {
    "titulo": "Pixies regresará a Colombia en 2027: la legendaria banda del rock alternativo estará en abril, en Bogotá",
    "extracto": "Las entradas estarán disponibles, a partir de este lunes 19 de octubre, en Tuboleta.com.",
    "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/pixies-regresara-a-colombia-en-2027-la-legendaria-banda-del-rock-alternativo-estara-en-abril-en-bogota-3594331",
@@ -371,36 +561,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-18T15:34:30Z"
-  },
-  {
-   "titulo": "¿Quién era Patricio Alfredo Sánchez Molinari, el sacerdote que murió tras caerle una enorme cruz durante una misa en vivo en Ecuador?",
-   "extracto": "El religioso pertenecía a la Congregación del Santísimo Redentor y estaba a cargo de una parroquia en Guayaquil.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/quien-era-patricio-alfredo-sanchez-molinari-el-sacerdote-que-murio-tras-caerle-una-enorme-cruz-durante-una-misa-en-vivo-en-ecuador-3594399",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/18/6ad4cbf7c4927.r_d.91-197-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-18T15:18:04Z"
-  },
-  {
-   "titulo": "¿Quién es Marithea, la campeona de la Red Bull Batalla Nacional Colombia 2026?",
-   "extracto": "La MC caleña venció a Horus en la final y representará al país en la Final Internacional de Red Bull Batalla, que se celebrará en Perú en 2027.",
-   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/quien-es-marithea-la-campeona-de-la-red-bull-batalla-nacional-colombia-3594403",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/18/6ad4d81fb0d85.r_d.554-413-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-18T14:56:21Z"
-  },
-  {
-   "titulo": "'Dejamos atrás nuestra antigua vida: no queríamos esperar a ser ancianos o estar enfermos para decidir que queríamos viajar por el mundo'",
-   "extracto": "Dos estadounidenses dejaron sus trabajos y su vivienda para comenzar de nuevo en Europa. Ahora tienen un negocio y ayudan a otros extranjeros.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/dejamos-atras-nuestra-antigua-vida-no-queriamos-esperar-a-ser-ancianos-o-estar-enfermos-para-decidir-que-queriamos-viajar-por-el-mundo-3594383",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/18/6ad4b05a5ed09.r_d.1028-356-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-18T11:54:38Z"
   },
   {
    "titulo": "Antioquia le está ganando la lucha al hambre: 900.000 ya salieron de ella",
@@ -421,16 +581,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-18T06:16:58Z"
-  },
-  {
-   "titulo": "Seim Seim y Leidy Mei: dos aperturas asiáticas en Bogotá que vale la pena descubrir",
-   "extracto": "Un tailandés y un chino, entre los restaurantes recomendados que abrieron sus puertas en la capital en los últimos meses.",
-   "enlace": "https://www.eltiempo.com/cultura/gastronomia/seim-seim-y-leidy-mei-dos-aperturas-asiaticas-en-bogota-que-vale-la-pena-descubrir-3594162",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/16/6ad2a1fc8634a.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-18T10:01:00Z"
   },
   {
    "titulo": "Golpe a “los Pachenca”: Policía incautó 27 fusiles y un lanzagranadas en Santa Marta",
@@ -653,16 +803,6 @@
    "fecha": "2026-10-17T15:50:16Z"
   },
   {
-   "titulo": "Colombia sufre por escasez de médicos especialistas: les va mejor en el exterior",
-   "extracto": "Alguna vez quien se haya comunicado con su entidad promotora de salud (EPS) para pedir una cita con un especialista habrá escuchado la frase “no hay agenda”. O —en el mejor de los…",
-   "enlace": "https://www.elcolombiano.com/colombia/medicina-escasez-medicos-colombia-mejor-en-exterior-FD42366267",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/366x300/0c0/0d0/center/11101/PFQR/imagen-gettyimages-2212541915_51892856_20261017001945.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-17T11:00:00Z"
-  },
-  {
    "titulo": "Menús para navidad #1: Las novenas",
    "extracto": "Por Álvaro Molina @molinacocinero Cada año se adelanta más la navidad, tormento para los Grinch, deleite para los demás . Desde que aparecen los papás Noel en las vitrinas, muchas…",
    "enlace": "https://www.elcolombiano.com/cultura/recetas-ideas-novenas-navidenas-alvaro-molina-chef-GD42366088",
@@ -721,26 +861,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-16T15:02:49Z"
-  },
-  {
-   "titulo": "Macbeth, de Verdi, llega este sábado desde el Met de Nueva York a salas de cine en Medellín",
-   "extracto": "Una nueva producción de Macbeth , la ópera de Giuseppe Verdi basada en la tragedia de William Shakespeare, se transmitirá este sábado 17 de octubre desde el Metropolitan Opera de…",
-   "enlace": "https://www.elcolombiano.com/cultura/macbeth-verdi-metropolitan-opera-cine-colombia-BH42325334",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/439x300/0c0/0d0/center/11101/PPEQ/colp-ext-149154_51895802_20261016074612.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-16T14:21:17Z"
-  },
-  {
-   "titulo": "A un año del robo de Louvre las joyas no aparecen, ¿ha mejorado la seguridad del museo más visitado del mundo?",
-   "extracto": "La seguridad en el Louvre sigue siendo una cuestión candente, un año después del espectacular robo de joyas en el museo más visitado del mundo , en un caso donde todavía hay…",
-   "enlace": "https://www.elcolombiano.com/cultura/robo-museo-louvre-joyas-no-aparecen-ladrones-seguridad-capturados-DH42324531",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/475x300/0c0/0d0/center/11101/EJEX/museo-de-louvre-afp_51895597_20261016071840.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-16T12:03:15Z"
   },
   {
    "titulo": "En Colombia, más de 6.000 niñas y niños están atrapados en matrimonios y uniones: ¿por qué nadie responde?",
