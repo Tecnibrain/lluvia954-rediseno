@@ -1,7 +1,27 @@
 {
- "actualizado": "2026-10-22T04:39:57.787057Z",
- "total": 160,
+ "actualizado": "2026-10-22T11:47:46.490495Z",
+ "total": 163,
  "noticias": [
+  {
+   "titulo": "Nacieron en Medellín los cuatrillizos genéticamente idénticos de una pareja de Caucasia: un caso excepcional que podría ser único en Colombia",
+   "extracto": "Este fenómeno monocigótico ocurre una vez cada 10 a 15 millones de embarazos y no tenía precedentes confirmados en el país.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/nacieron-en-medellin-los-cuatrillizos-identicos-de-una-pareja-de-caucasia-un-caso-excepcional-que-podria-ser-unico-en-colombia-3595378",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ad9c4de35a91.r_d.1808-132-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-22T11:11:08Z"
+  },
+  {
+   "titulo": "El giro que daría investigación por desaparición de la modelo bogotana María Alejandra Molina en Cali: se activó alerta por otra desaparecida",
+   "extracto": "Hay preocupación entre las autoridades por estos recientes casos. El CTI de la Fiscalía investiga la desaparición de la modelo.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/el-giro-que-daria-investigacion-por-desaparicion-de-la-modelo-bogotana-maria-alejandra-molina-en-cali-se-activo-alerta-por-otra-desaparecida-3595324",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad95303ce855.r_d.1008-563-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-22T11:10:03Z"
+  },
   {
    "titulo": "Daño en el servicio de energía afectó a barrios de Sabaneta: ¿cuáles se quedaron sin luz?",
    "extracto": "EPM informó que en la tarde de este miércoles 21 de octubre se debió interrumpir el servicio de energía en un sector del municipio de Sabaneta. Según explicó la empresa de…",
@@ -11,6 +31,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-22T01:14:21Z"
+  },
+  {
+   "titulo": "¿Malgastó Petro $659.000 millones con sus Equipos de Salud en Antioquia?",
+   "extracto": "Mientras la red hospitalaria del departamento entraba en la crisis financiera más grave de su historia, el gobierno del expresidente Gustavo Petro se gastó más de $659.000…",
+   "enlace": "https://www.elcolombiano.com/antioquia/debate-asamblea-antioquia-equipos-basicos-salud-gustavo-petro-CE42578903",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/489x300/0c0/0d0/center/11101/PFAJ/gustavo-petro-3_51944067_20261021200751.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-22T01:00:53Z"
   },
   {
    "titulo": "¡Atención!: ya nacieron los cuatrillizos genéticamente idénticos provenientes de Caucasia",
@@ -33,6 +63,86 @@
    "fecha": "2026-10-21T23:56:08Z"
   },
   {
+   "titulo": "¡Ojo, conductor! Pico y placa en Cali para el jueves 22 de octubre de 2026: estas placas tendrán restricción",
+   "extracto": "La medida aplicará para vehículos particulares entre las 6:00 a. m. y las 7:00 p. m. Consulte los números restringidos y las excepciones.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/ojo-conductor-pico-y-placa-en-cali-para-el-jueves-22-de-octubre-de-2026-estas-placas-tendran-restriccion-3595364",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/11/27/674721e179539.r_d.662-61-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-22T07:31:00Z"
+  },
+  {
+   "titulo": "¡Atención, conductores! Pico y placa en Bucaramanga para el jueves 22 de octubre de 2026: estas son las placas restringidas",
+   "extracto": "La medida regirá durante 14 horas en la capital de Santander. Consulte los dígitos que no podrán circular y los horarios establecidos.",
+   "enlace": "https://www.eltiempo.com/colombia/santander/atencion-conductores-pico-y-placa-en-bucaramanga-para-el-jueves-22-de-octubre-de-2026-estas-son-las-placas-restringidas-3595365",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/08/30/64efcd4463475.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-22T07:30:00Z"
+  },
+  {
+   "titulo": "¡Pilas, conductor! Pico y placa en Pereira para el jueves 22 de octubre de 2026: estos carros y motos no podrán circular",
+   "extracto": "La restricción estará vigente durante 14 horas en Pereira. Consulte los números de las placas y las condiciones para carros y motocicletas.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pilas-conductor-pico-y-placa-en-pereira-para-el-jueves-22-de-octubre-de-2026-estos-carros-y-motos-no-podran-circular-3595363",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/05/08/663b745058e42.r_d.829-193-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-22T07:30:00Z"
+  },
+  {
+   "titulo": "Capturan en distintos departamentos del país a ocho personas requeridas por Estados Unidos por narcotráfico, lavado de activos y otros delitos",
+   "extracto": "Capturas en Bogotá, Cajicá, Maicao y Barranquilla. Uno de los detenidos habría movido US$42 millones en criptomonedas desde 2018.",
+   "enlace": "https://www.eltiempo.com/justicia/delitos/capturan-en-distintos-departamentos-del-pais-a-ocho-personas-requeridas-por-estados-unidos-por-narcotrafico-lavado-de-activos-y-otros-delitos-3595375",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ad9a5b597c6a.r_d.1088-537-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-22T07:14:37Z"
+  },
+  {
+   "titulo": "Pico y placa en Medellín para el jueves 22 de octubre de 2026: estos son los carros, motos y taxis con restricción",
+   "extracto": "La medida para carros y motocicletas regirá de 5:00 a. m. a 8:00 p. m. Los taxis tendrán una rotación y un horario diferentes.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-jueves-22-de-octubre-de-2026-estos-son-los-carros-motos-y-taxis-con-restriccion-3595362",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2021/09/06/613655b89ef43.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-22T07:10:00Z"
+  },
+  {
+   "titulo": "Luis Díaz habló tras salir con molestias ante Arsenal y dio señales de tranquilidad",
+   "extracto": "El colombiano aseguró que lo ocurrido no es grave y espera volver pronto, aunque el técnico del Bayern pidió cautela.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/luis-diaz-hablo-tras-salir-con-molestias-ante-arsenal-y-dio-senales-de-tranquilidad-3595351",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad9166dedf9.r_d.1354-752-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-22T10:56:41Z"
+  },
+  {
+   "titulo": "Dani García, chef: ‘El queso crema no se añade a la bechamel caliente, se mezcla cuando enfría un poco para que las croquetas queden cremosas’",
+   "extracto": "Cuando la bechamel no queda cremosa o la croqueta se desborda en el aceite, el chef tiene un truco para cada caso. Esta receta los reúne.",
+   "enlace": "https://www.eltiempo.com/cultura/recetas/dani-garcia-chef-el-queso-crema-no-se-anade-a-la-bechamel-caliente-se-mezcla-cuando-enfria-un-poco-para-que-las-croquetas-queden-cremosas-3595376",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6ad99df32096b.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-22T10:30:00Z"
+  },
+  {
+   "titulo": "Los cocineros italianos y españoles coinciden: la pasta no se deja hasta el último minuto del envase, se saca antes y se mezcla con la salsa",
+   "extracto": "Si la pasta suele quedar blanda o la salsa resbala, el problema puede estar en el último paso. Los chefs lo resuelven en la sartén.",
+   "enlace": "https://www.eltiempo.com/cultura/recetas/los-cocineros-italianos-y-espanoles-coinciden-la-pasta-no-se-deja-hasta-el-ultimo-minuto-del-envase-se-saca-antes-y-se-mezcla-con-la-salsa-3595305",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/21/6ad95e470308d.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-22T10:30:00Z"
+  },
+  {
    "titulo": "Autoridades incautan 16 cilindros en Dabeiba, Antioquia: ¿para qué los tenían los ilegales?",
    "extracto": "La Séptima División del Ejército dio detalles del reciente golpe dado a las estructuras criminales en la Troncal de Urabá. Según informó la unidad militar, soldados del Batallón…",
    "enlace": "https://www.elcolombiano.com/antioquia/ejercito-incauta-16-cilindros-para-explosivos-del-clan-del-golfo-en-dabeiba-MF42567209",
@@ -41,6 +151,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-21T22:01:15Z"
+  },
+  {
+   "titulo": "Alcocer pidió revisar su caso en la lista Clinton ahora que está divorciada, ¿es viable que la saquen?",
+   "extracto": "Verónica Alcocer inició una solicitud de revisión para buscar una exclusión de la Lista Clinton ante las autoridades de Estados Unidos, ahora que se divorció oficialmente del…",
+   "enlace": "https://www.elcolombiano.com/colombia/veronica-alcocer-revision-caso-lista-clinton-divorcio-petro-ML42584109",
+   "imagen": "",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-22T05:01:00Z"
   },
   {
    "titulo": "Corto circuito casi desata incendio en supermercado de Bello durante fuerte aguacero",
@@ -73,6 +193,16 @@
    "fecha": "2026-10-21T20:29:13Z"
   },
   {
+   "titulo": "Anatomía de una caída: así se habría cocinado la salida del ministro Lara tras enredo con el presupuesto en el Congreso",
+   "extracto": "El primer ministro que anunció Abelardo de la Espriella luego de su triunfo electoral fue Rodrigo Lara Restrepo y, menos de tres meses después, fue al primero que sacó del…",
+   "enlace": "https://www.elcolombiano.com/colombia/anatomia-de-una-caida-asi-se-habria-cocinado-la-salida-del-ministro-lara-tras-enredo-con-el-presupuesto-en-el-congreso-LL42580083",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/WVBK/lara-congreso-colprensa_51944153_20261021202015.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-22T04:04:58Z"
+  },
+  {
    "titulo": "SAE recupera 10 predios en Buriticá donde halló nueve bocaminas ilegales: las familias desalojadas denuncian abandono estatal",
    "extracto": "Sobre las montañas de la vereda Los Asientos, en Buriticá, se vio, este miércoles 21 de octubre, a filas de hombres cargando colchones, neveras y muebles a sus espaldas…",
    "enlace": "https://www.elcolombiano.com/antioquia/sae-recupera-10-predios-buritica-halla-nueve-bocaminas-ilegales-MG42552385",
@@ -101,16 +231,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-22T03:03:45Z"
-  },
-  {
-   "titulo": "El giro que daría investigación por desaparición de la modelo bogotana María Alejandra Molina en Cali: se activó alerta por otra desaparecida",
-   "extracto": "Hay preocupación entre las autoridades por estos recientes casos. El CTI de la Fiscalía investiga la desaparición de la modelo.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/el-giro-que-daria-investigacion-por-desaparicion-de-la-modelo-bogotana-maria-alejandra-molina-en-cali-se-activo-alerta-por-otra-desaparecida-3595324",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad95303ce855.r_d.1008-563-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-22T02:54:04Z"
   },
   {
    "titulo": "Pan con café, años de encierro y colmillos cortados: las trágicas razones por la que 66 animales rescatados en el Valle de Aburrá no volverán a ser libres",
@@ -161,16 +281,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-22T01:28:20Z"
-  },
-  {
-   "titulo": "Murió el papá de Sonia Restrepo, viuda del cantante de música popular Yeison Jiménez, en Caldas: esto se sabe",
-   "extracto": "Sus familiares no han revelado detalles oficiales sobre la causa de su fallecimiento.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/murio-el-papa-de-sonia-restrepo-viuda-del-cantante-de-musica-popular-yeison-jimenez-en-caldas-esto-se-sabe-3595333",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad94a8662f2d.r_d.279-280-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-22T01:27:06Z"
   },
   {
    "titulo": "Cuatro muertes en menos de 24 horas en la autopista Medellín-Bogotá por accidentes viales: todos eran motociclistas",
@@ -283,16 +393,6 @@
    "fecha": "2026-10-21T14:52:39Z"
   },
   {
-   "titulo": "Carlos Lauría, director de la Sociedad Interamericana de Prensa: 'La IA es una realidad y los periodistas debemos adaptarnos con criterio ético'",
-   "extracto": "La 82.ª Asamblea General de la SIP comienza el 22 de octubre, con una agenda centrada en los desafíos de la prensa, la IA y el futuro de los medios.",
-   "enlace": "https://www.eltiempo.com/cultura/carlos-lauria-director-de-la-sip-nos-preocupa-la-situacion-de-la-libertad-de-prensa-en-el-continente-3595245",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad9027e95cd9.r_d.1000-707-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-22T02:50:39Z"
-  },
-  {
    "titulo": "Perro murió al intentar defender a su dueña de un ataque armado en Montería: investigan posible ajuste de cuentas",
    "extracto": "El instinto de protección de una mascota no entiende de planes criminales ni de armas de fuego, pero sí de proteger a sus dueños. En el barrio donde residía Zaira Díaz Flórez , en…",
    "enlace": "https://www.elcolombiano.com/colombia/perro-murio-al-defender-a-su-duena-en-ataque-armado-monteria-CF42563652",
@@ -301,56 +401,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-21T22:39:29Z"
-  },
-  {
-   "titulo": "El proyecto para ajustar el POT de Medellín superó su primer debate: ¿qué se aprobó y cuáles son los cambios clave?",
-   "extracto": "La Comisión Primera avaló cambios al POT para frenar el costo del arriendo, proteger barrios y frenar la prostitución en áreas como Provenza.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/el-proyecto-para-ajustar-el-pot-de-medellin-supero-su-primer-debate-que-se-aprobo-y-cuales-son-los-cambios-clave-3595313",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/06/17/6a32e0590fdd8.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-21T22:37:18Z"
-  },
-  {
-   "titulo": "Cortes de luz en Barranquilla y Atlántico este jueves 22 de octubre: barrios, sectores y horarios de suspensión",
-   "extracto": "Air-e Intervenida anunció trabajos eléctricos para este jueves 22 de octubre en Barranquilla, Santa Lucía y Manatí.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/cortes-de-luz-en-barranquilla-y-atlantico-este-jueves-22-de-octubre-barrios-sectores-y-horarios-de-suspension-3595316",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/02/6ac01e0d51eea.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-21T22:32:17Z"
-  },
-  {
-   "titulo": "Fuertes emergencias en Santander por lluvias: reportan un desaparecido por una corriente que se lo llevó en Barbosa",
-   "extracto": "Varios municipios están en alerta por crecientes súbitas y constantes lluvias.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/fuertes-emergencias-en-santander-por-lluvias-reportan-un-desaparecido-por-una-corriente-que-se-lo-llevo-en-barbosa-3595312",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/21/6ad93a0637ef8.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-21T22:19:17Z"
-  },
-  {
-   "titulo": "¿Qué hay detrás del asesinato del padre de la joven Isabella Prado, una semana después del crimen de su hija y luego de asistir a una misa en Valle?",
-   "extracto": "Los peritos analizan si todo sería un ataque directo y sistemático dirigido en contra de los integrantes de esta familia.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/que-hay-detras-del-asesinato-del-padre-de-la-joven-isabella-prado-una-semana-despues-del-crimen-de-su-hija-y-luego-de-asistir-a-una-misa-en-valle-3595301",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/21/6ad939201cb12.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-21T22:18:46Z"
-  },
-  {
-   "titulo": "Golpeada y maltratada en un centro comercial: Cali activa ruta de protección tras grave denuncia de violencia",
-   "extracto": "La víctima, identificada como Ana Catalina González Jiménez, recibió acompañamiento psicológico y jurídico.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/golpeada-y-maltratada-en-un-centro-comercial-cali-activa-ruta-de-proteccion-tras-grave-denuncia-de-violencia-3595309",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad9316755134.r_d.1719-846-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-21T22:13:19Z"
   },
   {
    "titulo": "Crece la tensión: gerente del Hospital de Caldas denunciará ante la Fiscalía al gobernador de Antioquia por acusarlo de corrupción",
@@ -391,16 +441,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-22T01:23:25Z"
-  },
-  {
-   "titulo": "Luis Díaz habló tras salir con molestias ante Arsenal y dio señales de tranquilidad",
-   "extracto": "El colombiano aseguró que lo ocurrido no es grave y espera volver pronto, aunque el técnico del Bayern pidió cautela.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/luis-diaz-hablo-tras-salir-con-molestias-ante-arsenal-y-dio-senales-de-tranquilidad-3595351",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/18/6aad9166dedf9.r_d.1354-752-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-22T01:20:54Z"
   },
   {
    "titulo": "Empresa transportadora encontró al adulto mayor al que no dejaron subir a un bus con su perra y le pidió disculpas públicas",
@@ -691,16 +731,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-21T18:28:32Z"
-  },
-  {
-   "titulo": "Expertos aclaran cuáles son los alimentos que debe consumir para obtener vitaminas que le permitan mejorar su desempeño en la intimidad",
-   "extracto": "El Instituto Europeo de Salud y Bienestar Social ha dado una serie de recomendaciones a seguir, si busca satisfacer su deseo sexual.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/expertos-aclaran-cuales-son-los-alimentos-que-debe-consumir-para-obtener-vitaminas-que-le-permitan-mejorar-su-desempeno-en-la-intimidad-3595240",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad8fc779f577.r_d.996-253-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-21T18:25:36Z"
   },
   {
    "titulo": "Ataque con drones explosivos en Pelaya, Cesar, dejó seis policías heridos; dos están graves",
