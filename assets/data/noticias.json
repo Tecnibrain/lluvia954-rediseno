@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-10-23T04:45:20.488070Z",
- "total": 159,
+ "actualizado": "2026-10-23T11:34:34.256261Z",
+ "total": 162,
  "noticias": [
   {
    "titulo": "Doble homicidio en la vía Medellín–Costa Atlántica: hicieron bajar a pasajeros y les dispararon",
@@ -11,6 +11,46 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-23T03:38:17Z"
+  },
+  {
+   "titulo": "Cocina con propósito y conciencia: la fórmula gastronómica con la que 160 paelleros transforman el dolor en esperanza y tejido social en Cali",
+   "extracto": "La XVI edición de 'Paella por una Doble Causa' se hará este sábado 24 de octubre en el Centro de Eventos Orbit. Se esperan más de 2.000 asistentes",
+   "enlace": "https://www.eltiempo.com/colombia/cali/cocina-con-proposito-y-conciencia-la-formula-gastronomica-con-la-que-160-paelleros-transforman-el-dolor-en-esperanza-y-tejido-social-en-cali-3595695",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/09/22/68d15f7c6ded8.r_d.1338-962-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-23T11:15:54Z"
+  },
+  {
+   "titulo": "Minería ilegal devastó 14.000 hectáreas en Antioquia en 7 años: un área que equivale a 7 veces Itagüí",
+   "extracto": "A bordo de dragas y los denominados dragones brasileños que surcan y succionan oro y minerales en los ríos Cauca y Nechí, las estructuras criminales extraen más del 54% del oro de…",
+   "enlace": "https://www.elcolombiano.com/antioquia/dano-ambiental-mineria-ilegal-siete-veces-lo-que-mide-itagui-AD42634477",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/302x300/0c0/0d0/center/11101/YXNM/1-13095090_51954379_20261022220138.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-23T03:08:05Z"
+  },
+  {
+   "titulo": "Yahir Acuña, alcalde de Sincelejo, se pronunció tras el anuncio de Estados Unidos de revocarle su visa y aseguró que va a 'solicitarla nuevamente'",
+   "extracto": "En sus declaraciones, señaló que su visa fue renovada el pasado mes de abril de 2026. Esto dijo.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/yahir-acuna-alcalde-de-sincelejo-se-pronuncio-tras-anuncio-de-estados-unidos-de-revocarle-su-visa-y-aseguro-que-va-a-solicitarla-nuevamente-3595689",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/11/24/6924ebb41aa5c.r_d.713-368-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-23T10:42:24Z"
+  },
+  {
+   "titulo": "Explosión de carro bomba en peaje entre Villanueva y Monterrey, Casanare, en la madrugada de este viernes 23 de octubre: habría varios heridos",
+   "extracto": "El reporte preliminar confirmó importantes daños en la estructura mientras se busca precisar los detalles sobre las víctimas.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-de-carro-bomba-en-peaje-entre-villanueva-y-monterrey-casanare-en-la-madrugada-de-este-viernes-23-de-octubre-habria-personas-heridas-3595702",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/23/6adb1e526a78a.r_d.696-435-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-23T10:40:11Z"
   },
   {
    "titulo": "Asamblea aprobó proyecto para regular uso de I.A. en la Gobernación de Antioquia",
@@ -33,6 +73,56 @@
    "fecha": "2026-10-22T23:30:46Z"
   },
   {
+   "titulo": "¡Pilas, conductor! Pico y placa en Cali para el viernes 23 de octubre de 2026: estas son las placas que tendrán restricción",
+   "extracto": "La medida para vehículos particulares regirá durante 13 horas. Las motocicletas y los taxis no están incluidos en esta restricción.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/pilas-conductor-pico-y-placa-en-cali-para-el-viernes-23-de-octubre-de-2026-estas-son-las-placas-que-tendran-restriccion-3595530",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/11/27/674721e179539.r_d.662-61-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-23T07:30:00Z"
+  },
+  {
+   "titulo": "Pico y placa en Pereira para el viernes 23 de octubre de 2026: estos carros y motos no podrán circular",
+   "extracto": "La restricción regirá de 6:00 a. m. a 8:00 p. m. Para carros se revisa el último número de la placa y para motocicletas, el primero.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pico-y-placa-en-pereira-para-el-viernes-23-de-octubre-de-2026-estos-carros-y-motos-no-podran-circular-3595527",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/01/21/678fa0e57d973.r_d.634-325-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-23T07:30:00Z"
+  },
+  {
+   "titulo": "Pico y placa en Bucaramanga para el viernes 23 de octubre de 2026: estas son las placas restringidas",
+   "extracto": "La restricción estará vigente durante 14 horas. La programación corresponde a la última rotación del año, que comenzó a regir el 5 de octubre.",
+   "enlace": "https://www.eltiempo.com/colombia/santander/pico-y-placa-en-bucaramanga-para-el-viernes-23-de-octubre-de-2026-estas-son-las-placas-restringidas-3595480",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/08/11/6a7b4eef0af1c.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-23T07:30:00Z"
+  },
+  {
+   "titulo": "Pico y placa en Medellín para el viernes 23 de octubre de 2026: carros, motos y taxis con restricción",
+   "extracto": "La medida para carros y motocicletas regirá de 5:00 a. m. a 8:00 p. m. Los taxis tendrán una rotación diferente y comenzarán una hora después.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-viernes-23-de-octubre-de-2026-carros-motos-y-taxis-con-restriccion-3595478",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/04/05/6610232fa2c20.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-23T07:30:00Z"
+  },
+  {
+   "titulo": "Pico y placa en Bucaramanga para el viernes 16 de octubre de 2026: estas son las placas que no pueden circular durante la jornada",
+   "extracto": "La restricción estará vigente de 6:00 a. m. a 8:00 p. m. Consulte los números y la nueva rotación que comenzó a regir en octubre.",
+   "enlace": "https://www.eltiempo.com/colombia/santander/pico-y-placa-en-bucaramanga-para-el-viernes-16-de-octubre-de-2026-estas-son-las-placas-que-no-pueden-circular-durante-la-jornada-3593810",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/02/13/67aea4f9da44a.r_d.98-350-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-23T07:30:00Z"
+  },
+  {
    "titulo": "Al periodista Mateo Pérez lo torturaron y lo ejecutaron: así lo confirma informe de necropsia",
    "extracto": "Definitivamente a Mateo Pérez , el periodista asesinado por las disidencias de las Farc en mayo de este año, en Briceño (norte de Antioquia) lo torturaron antes de producirle la…",
    "enlace": "https://www.elcolombiano.com/antioquia/necropsia-mateo-perez-periodista-asesinado-torturado-y-asesinado-GK42596202",
@@ -53,6 +143,46 @@
    "fecha": "2026-10-22T22:48:30Z"
   },
   {
+   "titulo": "Museo Nacional: hicimos un recorrido y así lucen las salas de donde retiraron piezas",
+   "extracto": "Tras el retiro de más de 30 obras por parte del Gobierno, EL TIEMPO recorrió el histórico edificio. Esto fue lo que encontramos.",
+   "enlace": "https://www.eltiempo.com/cultura/museo-nacional-hicimos-un-recorrido-y-asi-lucen-las-salas-de-donde-retiraron-piezas-3595619",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada7f7041f4d.r_d.805-449-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-23T10:43:32Z"
+  },
+  {
+   "titulo": "Edwin Cardona se candidatiza para el Puskás con golazo desde mitad de cancha: imperdible reacción de James",
+   "extracto": "El volante hizo un golazo contra Pasto en el Atanasio Girardot.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/edwin-cardona-se-candidatiza-para-el-puskas-con-golazo-desde-mitad-de-cancha-imperdible-reaccion-de-james-3595680",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6adac079800ed.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-23T10:41:22Z"
+  },
+  {
+   "titulo": "Marta, cocinera: ‘El paso más importante de las albóndigas caseras es dejar reposar la carne condimentada en la nevera de 30 minutos a una hora’",
+   "extracto": "Cuando las albóndigas caseras salen secas o sin gracia, casi siempre falta un paso. Esta cocinera lo cuenta, con receta y salsa incluidas.",
+   "enlace": "https://www.eltiempo.com/cultura/recetas/marta-cocinera-el-paso-mas-importante-de-las-albondigas-caseras-es-dejar-reposar-la-carne-condimentada-en-la-nevera-de-30-minutos-a-una-hora-3595696",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/23/6adb11a95bb3a.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-23T10:30:00Z"
+  },
+  {
+   "titulo": "Junior vs. Águilas Doradas hoy: a qué hora juega y dónde ver la fecha 16 de la Liga BetPlay en vivo",
+   "extracto": "Junior recibe a Águilas Doradas este viernes en el Romelio Martínez. Hora, canal de TV y cómo ver el partido de la fecha 16 en vivo.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/junior-vs-aguilas-doradas-hoy-a-que-hora-juega-y-donde-ver-la-fecha-16-de-la-liga-betplay-en-vivo-3595683",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6adadf3c5bc35.png",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-23T10:30:00Z"
+  },
+  {
    "titulo": "Sin puente en vereda de Urrao: así cruzan campesinos el peligroso río Penderisco",
    "extracto": "Una peligrosa travesía deben enfrentar a diario los habitantes de la vereda El Llavero, en zona rural de Urrao para entrar y salir de su territorio. El peligroso cruce deben…",
    "enlace": "https://www.elcolombiano.com/antioquia/campesinos-cruzan-rio-penderisco-sin-puente-en-urrao-NB42615833",
@@ -63,24 +193,14 @@
    "fecha": "2026-10-22T21:45:35Z"
   },
   {
-   "titulo": "Yahir Acuña, alcalde de Sincelejo, se pronunció tras el anuncio de Estados Unidos de revocarle su visa y aseguró que va a 'solicitarla nuevamente'",
-   "extracto": "En sus declaraciones, señaló que su visa fue renovada en pasado mes de abril de 2026. Esto dijo.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/yahir-acuna-alcalde-de-sincelejo-se-pronuncio-tras-anuncio-de-estados-unidos-de-revocarle-su-visa-y-aseguro-que-va-a-solicitarla-nuevamente-3595689",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/11/24/6924ebb41aa5c.r_d.713-368-0.jpeg",
-   "fuente": "El Tiempo",
+   "titulo": "Relevo en Mininterior: ¿tablero político se le desacomoda al Gobierno?",
+   "extracto": "Aunque el ruido político que dejó la salida de Rodrigo Lara del Ministerio del Interior podría hacer pensar que al Gobierno de Abelardo de la Espriella se le complicó el panorama…",
+   "enlace": "https://www.elcolombiano.com/colombia/ministerio-interior-revelo-desacomodo-gobierno-congreso-rodrigo-lara-alejandro-ordonez-AD42636521",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/GKGB/a20261022t040125-m-10-211-95-50-xi-9861-9261-02-f_51954583_20261022231046.jpg",
+   "fuente": "El Colombiano",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-10-23T04:06:50Z"
-  },
-  {
-   "titulo": "Emergencia en Moniquirá, Boyacá, por deslizamiento de tierra en la vereda de Pajales tras fuertes lluvias: se reportan tres casas afectadas",
-   "extracto": "Gestión del Riesgo del departamento y el alcalde del municipio confirmaron que no hay víctimas mortales y que se adelanta la evaluación del terreno.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-moniquira-boyaca-por-deslizamiento-de-tierra-en-la-vereda-de-pajales-tras-fuertes-lluvias-se-reportan-tres-casas-destruidas-3595671",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6adab588c4f0e.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-23T03:34:38Z"
+   "fecha": "2026-10-23T05:01:00Z"
   },
   {
    "titulo": "Cayeron sospechosos de masacre en El Carmen de Viboral donde murió líder social",
@@ -111,6 +231,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-22T18:57:13Z"
+  },
+  {
+   "titulo": "¿La mano de Carlos Suárez está detrás de la salida de Rodrigo Lara y la llegada de Alejandro Ordóñez?",
+   "extracto": "El presidente Abelardo de la Espriella sacó a Rodrigo Lara del Ministerio del Interior y en el mismo mensaje en redes anunció que el exprocurador Alejandro Ordóñez sería su…",
+   "enlace": "https://www.elcolombiano.com/colombia/carlos-suarez-estaria-detras-de-la-salida-de-rodrigo-lara-y-la-llegada-de-alejandro-ordonez-FD42634098",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/MLOG/portadilla-lara-y-otros_51954338_20261022214306.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-23T02:55:20Z"
   },
   {
    "titulo": "El barranquillero señalado de lavar US$42 millones del narcotráfico con criptomonedas, ¿quién es?",
@@ -213,16 +343,6 @@
    "fecha": "2026-10-23T01:17:21Z"
   },
   {
-   "titulo": "Médicos y enfermeras habrían realizado cirugías estéticas en 74 clínicas ilegales en dos años en Nariño: destapan una red de centros clandestinos",
-   "extracto": "Las autoridades decomisaron más de 10.000 insumos vencidos y trasladaron los casos al Tribunal de Ética Médica por poner en riesgo a los pacientes.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/medicos-y-enfermeras-habrian-realizado-cirugias-esteticas-en-74-clinicas-ilegales-en-dos-anos-en-narino-destapan-una-red-de-centros-clandestinos-3595657",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6ada9f1fe9bae.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-23T01:06:29Z"
-  },
-  {
    "titulo": "Esta es la alianza con Italia para impulsar la agricultura del país: el café, la piña y el aguacate del Cauca son claves para los mercados europeos",
    "extracto": "A través del programa LabInnova 2026, productores del Cauca, Boyacá, Cundinamarca, Huila y Tolima buscan conquistar el Viejo Continente.",
    "enlace": "https://www.eltiempo.com/colombia/cali/esta-es-la-alianza-con-italia-para-impulsar-la-agricultura-del-pais-el-cafe-la-pina-y-el-aguacate-del-cauca-son-claves-para-los-mercados-europeos-3595654",
@@ -243,16 +363,6 @@
    "fecha": "2026-10-23T00:58:15Z"
   },
   {
-   "titulo": "Presidente De La Espriella, testigo de demolición de edificio que era de 'Pacho' Herrera en Cali: anunció con la Alcaldía bonos de vivienda tras sismo",
-   "extracto": "El jefe de Estado y el alcalde Alejandro Eder presenciaron el inicio del derribo del edificio Arábico. Entregarán bonos a 350 familias damnificadas.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/presidente-de-la-espriella-testigo-de-demolicion-de-edificio-que-era-de-pacho-herrera-en-cali-anuncio-con-alcaldia-bonos-de-vivienda-tras-sismo-3595668",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6adaa76c6e3f4.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-23T00:38:19Z"
-  },
-  {
    "titulo": "Destituyeron e inhabilitaron por 15 años a dos expolicías tras enviar media tonelada de cocaína a Providencia",
    "extracto": "Después de una investigación, la Procuraduría General de la Nación informó este jueves 22 de octubre que destituyó e inhabilitó por 15 años a dos exagentes de Policía por su…",
    "enlace": "https://www.elcolombiano.com/colombia/destituyen-e-inhabilitan-15-anos-dos-expolicias-enviar-media-tonelada-cocaina-isla-providencia-KC42627287",
@@ -261,16 +371,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-23T00:33:35Z"
-  },
-  {
-   "titulo": "Reportaron la desaparición de un estudiante de 16 años en Popayán mientras iba al colegio; la institución realizó una velatón y exige respuestas",
-   "extracto": "La prima del niño dijo que la familia no descarta que se trate de un “posible reclutamiento de menores por parte de los grupos armados”.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/reportaron-la-desaparicion-de-un-estudiante-de-16-anos-en-popayan-mientras-iba-al-colegio-la-institucion-realizo-una-velaton-y-exige-respuestas-3595579",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6ada759b53360.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-23T00:17:26Z"
   },
   {
    "titulo": "¿Cómo avanza el plan de choque de salud de De la Espriella? Ya se ha resuelto el 51 % de casos por medicamentos",
@@ -291,16 +391,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-23T03:44:00Z"
-  },
-  {
-   "titulo": "Crisis energética: audiencia en Barranquilla deja acuerdos para evitar racionamientos y atender la situación de Air-e y Afinia",
-   "extracto": "El Gobierno, el Congreso y las empresas definieron una hoja de ruta para enfrentar la crisis.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/crisis-energetica-audiencia-en-barranquilla-deja-acuerdos-para-evitar-racionamientos-y-atender-la-situacion-de-air-e-y-afinia-3595643",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6ada93bb15b61.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-22T23:30:00Z"
   },
   {
    "titulo": "‘Terror elevado’: la cara sofisticada del cine de horror, que conquista a la crítica y a la audiencia",
@@ -353,26 +443,6 @@
    "fecha": "2026-10-23T02:40:55Z"
   },
   {
-   "titulo": "Las reacciones desde Bucaramanga sobre el nuevo nombramiento del santandereano Alejandro Ordóñez como ministro del Interior",
-   "extracto": "El alcalde Cristian Portilla agradeció la gestión del saliente ministro Rodrigo Lara por siempre contestarle y ayudarlo en su labor como mandatario.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/las-reacciones-desde-bucaramanga-sobre-el-nuevo-nombramiento-del-santandereano-alejandro-ordonez-como-ministro-del-interior-3595639",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/21/6ad97f85cbce8.r_d.1500-1000-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-22T22:39:37Z"
-  },
-  {
-   "titulo": "Entre insultos, señalamientos y acusaciones: así fue el candente debate en el Concejo de Cali por la crisis del agua en zonas de ladera",
-   "extracto": "Tras dos sesiones en las que las comunidades de las comunas 1, 18 y 20 denunciaron cortes permanentes del vital líquido.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/entre-insultos-senalamientos-y-acusaciones-asi-fue-el-candente-debate-en-el-concejo-de-cali-por-la-crisis-del-agua-en-zonas-de-ladera-3595636",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6ada8e4a2bdcd.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-22T22:38:42Z"
-  },
-  {
    "titulo": "“Nadie puede responder por lo que no controla”: Lara en su carta de renuncia al MinInterior",
    "extracto": "Luego de que el presidente Abelardo De la Espriella despidiera de su cargo a Rodrigo Lara, ministro del Interior, se conoció una carta del hoy exfuncionario donde hace un balance…",
    "enlace": "https://www.elcolombiano.com/colombia/rodrigo-lara-la-carta-de-renuncia-del-exministro-del-interior-EB42617030",
@@ -391,16 +461,6 @@
    "categoria": "deportes",
    "etiqueta": "Deportes",
    "fecha": "2026-10-23T02:07:08Z"
-  },
-  {
-   "titulo": "Edwin Cardona se candidatiza para el Puskás con golazo desde mitad de cancha: imperdible reacción de James",
-   "extracto": "El volante hizo un golazo contra Pasto en el Atanasio Girardot.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/edwin-cardona-se-candidatiza-para-el-puskas-con-golazo-desde-mitad-de-cancha-imperdible-reaccion-de-james-3595680",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/22/6adac079800ed.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-23T02:04:00Z"
   },
   {
    "titulo": "Capturan a alias Kevin Masacre, señalado sucesor de Bendito Menor en las Autodefensas Conquistadoras",
@@ -451,16 +511,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-22T21:08:30Z"
-  },
-  {
-   "titulo": "Museo Nacional: hicimos un recorrido y así lucen las salas de donde retiraron piezas",
-   "extracto": "Tras el retiro de más de 30 obras por parte del Gobierno, EL TIEMPO recorrió el histórico edificio. Esto fue lo que encontramos.",
-   "enlace": "https://www.eltiempo.com/cultura/museo-nacional-hicimos-un-recorrido-y-asi-lucen-las-salas-de-donde-retiraron-piezas-3595619",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada7f7041f4d.r_d.805-449-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-23T01:05:48Z"
   },
   {
    "titulo": "Alias Marcos Pacífico del ELN, el objetivo de alto valor detrás del quinto bombardeo del gobierno De la Espriella contra grupos armados",
@@ -593,16 +643,6 @@
    "fecha": "2026-10-22T22:18:47Z"
   },
   {
-   "titulo": "José Mourinho, técnico del Real Madrid: 'Intocable solo es el escudo, no me gusta el concepto de jugador intocable'",
-   "extracto": "El estratega portugués dejó una tajante sentencia sobre la titularidad de figuras como Vinícius Júnior.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/jose-mourinho-tecnico-del-real-madrid-intocable-solo-es-el-escudo-no-me-gusta-el-concepto-de-jugador-intocable-3595514",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/01/15/6968e7878695e.r_d.806-381-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-22T22:01:00Z"
-  },
-  {
    "titulo": "Este sábado, festival en Pedregal celebrará la herencia campesina paisa",
    "extracto": "La herencia campesina de los corregimientos de Medellín será protagonista de la tercera edición del Festival Raíces y Creaciones , que se realizará este sábado 24 de octubre en el…",
    "enlace": "https://www.elcolombiano.com/cultura/festival-raices-y-creaciones-medellin-parque-pedregal-CB42619975",
@@ -701,16 +741,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-22T16:35:06Z"
-  },
-  {
-   "titulo": "¿El frío provoca gripa? Un epidemiólogo experto explica cómo las bajas temperaturas podría favorecer su propagación",
-   "extracto": "Las condiciones climáticas pueden debilitar las defensas del organismo y provocar una respuesta antiviral menos eficiente.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/el-frio-provoca-gripa-un-epidemiologo-experto-explica-como-las-bajas-temperaturas-podria-favorecer-su-propagacion-3595593",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada6c649d0f3.r_d.149-239-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-22T20:15:12Z"
   },
   {
    "titulo": "Fuerzas militares bombardean campamento del ELN en zona rural de Nariño",
