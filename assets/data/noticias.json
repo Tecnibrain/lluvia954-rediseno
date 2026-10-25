@@ -1,7 +1,17 @@
 {
- "actualizado": "2026-10-25T04:37:14.330153Z",
- "total": 127,
+ "actualizado": "2026-10-25T11:22:01.722581Z",
+ "total": 131,
  "noticias": [
+  {
+   "titulo": "Las 7 recomendaciones de ONU Derechos Humanos al Congreso para la ley estatutaria sobre protesta social en Colombia",
+   "extracto": "La ONU pidió al Congreso que la ley de protesta incluya el principio de diferenciación y limite el uso de la fuerza y las armas de fuego.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/las-7-recomendaciones-de-onu-derechos-humanos-al-congreso-para-la-ley-estatutaria-sobre-protesta-social-en-colombia-3596052",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/02/19/6997a79b9a9a6.r_d.674-299-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-25T10:01:00Z"
+  },
   {
    "titulo": "Hallan con vida al soldado que había desaparecido tras un ataque con drones en Segovia, nordeste antioqueño",
    "extracto": "Tropas del Ejército Nacional encontraron con vida este sábado 24 de octubre al soldado Andrés Casterbondo Macías , de quien no se tenía rastro desde un ataque con drones contra…",
@@ -11,6 +21,26 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-25T01:57:02Z"
+  },
+  {
+   "titulo": "San Blas, la vereda de San Carlos en Antioquia que se llenó de ‘gringos’",
+   "extracto": "La vereda de “los gringos”. Así reconocen en el municipio de San Carlos, en el Oriente antioqueño, a San Blas, y es la prueba fehaciente de una tendencia que se va afianzando: la…",
+   "enlace": "https://www.elcolombiano.com/antioquia/vereda-san-carlos-antioquia-gentrificacion-gringos-extranjeros-JB42709231",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/KQKU/san-carlos-m-3_51967752_20261024182543.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-25T00:41:47Z"
+  },
+  {
+   "titulo": "La epopeya de Édier Ocampo: del sueño que nació en el Mundial 2014 al debut en la Selección Colombia",
+   "extracto": "Nació en Tumaco, superó una lesión de rodilla y recorrió un largo camino hasta defender los colores de su país.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/la-epopeya-de-edier-ocampo-del-sueno-que-nacio-en-el-mundial-2014-al-debut-en-la-seleccion-colombia-3595521",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada4d2c46f4c.r_d.599-715-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-25T10:01:00Z"
   },
   {
    "titulo": "Derogaron las Áreas de Protección para la Producción de Alimentos del Suroeste, ¿qué pasará en la subregión?",
@@ -23,6 +53,36 @@
    "fecha": "2026-10-24T21:40:22Z"
   },
   {
+   "titulo": "Accidente de tránsito en el puente Helicoidal de Calarcá, Quindío, terminó con un vehículo de carga volcado e incendiado",
+   "extracto": "La emergencia se registró durante la noche de este sábado 24 de octubre, mientras el automotor transitaba por el corredor vial hacia La Línea.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/accidente-de-transito-en-el-puente-helicoidal-de-calarca-quindio-termino-con-un-vehiculo-de-carga-volcado-e-incendiado-3596131",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/24/6add860c08b5d.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-25T05:02:20Z"
+  },
+  {
+   "titulo": "Lo que le espera a Ordóñez como ministro de la política: ¿qué tanto necesita el Gobierno al Congreso?",
+   "extracto": "Abelardo de la Espriella dice que no le teme a la tormenta. Esta semana que pasó, el mandatario-que va a ajustar apenas tres meses en el poder-, atravesó una crisis política que…",
+   "enlace": "https://www.elcolombiano.com/colombia/lo-que-le-espera-a-ordonez-como-ministro-de-la-politica-que-tanto-necesita-el-gobierno-al-congreso-EB42709481",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/527x300/0c0/0d0/center/11101/RQXU/milimg-35944-28027295-51965080-20261_51967882_20261024184613.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-25T04:23:17Z"
+  },
+  {
+   "titulo": "Senado estaría pensando en restringir entrada de algunos influencers al Congreso y otros secretos De Buena Fuente",
+   "extracto": "Movidas a un año de las elecciones Las elecciones por la Alcaldía de Medellín y la Gobernación de Antioquia que se realizarán el próximo año ya tienen moviéndose a varios…",
+   "enlace": "https://www.elcolombiano.com/colombia/senado-estaria-pensando-en-restringir-entrada-de-algunos-influencers-al-congreso-y-otros-secretos-de-buena-fuente-FB42708937",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/416x300/0c0/0d0/center/11101/NVNA/img-9469_51967466_20261024232112.webp",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-25T04:21:10Z"
+  },
+  {
    "titulo": "Emergencias por lluvias en el Caribe: primeros balances de inundaciones y desbordamientos en varias ciudades; se esperan más precipitaciones",
    "extracto": "La decisión se tomó con base en el más reciente reporte del Instituto de Hidrología, Meteorología y Estudios Ambientales.",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/alcaldia-de-santa-marta-declara-alerta-roja-por-inundaciones-y-riesgo-de-crecientes-subitas-en-dos-rios-estas-son-las-recomendaciones-del-ideam-3596073",
@@ -31,6 +91,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-25T04:18:40Z"
+  },
+  {
+   "titulo": "Ariadna Gutiérrez contrajo matrimonio en Cartagena: así fue la boda de la exvirreina universal de la belleza",
+   "extracto": "La Catedral de Santa Catalina de Alejandría fue el escenario elegido para una ceremonia que congregó a curiosos en el Centro Histórico.",
+   "enlace": "https://www.eltiempo.com/cultura/entretenimiento/ariadna-gutierrez-contrajo-matrimonio-en-cartagena-asi-fue-la-boda-de-la-exvirreina-universal-de-la-belleza-3596132",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/25/6add9c1807d2b.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-25T06:40:29Z"
   },
   {
    "titulo": "Colapsó una edificación en Pereira pendiente de demolición este sábado: Bomberos confirman que no se hallaron personas entre los escombros",
@@ -61,16 +131,6 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-24T17:40:32Z"
-  },
-  {
-   "titulo": "Inédito: falso accidente terminó en el robo de $260 millones en lingotes de plata en Girón, Santander",
-   "extracto": "Seis hombres con prendas parecidas a las de la Policía y chaquetas del CTI de la Fiscalía participaron en el hurto. Esto se sabe.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/inedito-falso-reten-policial-termino-en-robo-de-260-millones-en-lingotes-de-plata-en-giron-3596056",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/24/6add07d33fd3a.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-25T01:38:45Z"
   },
   {
    "titulo": "Entre el calor y el recibo de la luz: el dilema de las familias del Caribe que temen pagar más por consumir energía",
@@ -111,6 +171,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-24T16:49:12Z"
+  },
+  {
+   "titulo": "Milwaukee vence a los Rays y se pone 2-0 arriba en la Serie Mundial de béisbol",
+   "extracto": "El lunes, tercer partido de la confrontación.",
+   "enlace": "https://www.eltiempo.com/deportes/otros-deportes/milwaukee-vence-a-los-rays-y-se-pone-2-0-arriba-en-la-serie-mundial-de-beisbol-3596130",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/24/6add81cb468a1.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-25T04:29:02Z"
   },
   {
    "titulo": "Joven murió en ataque armado en Segovia, Antioquia",
@@ -223,6 +293,16 @@
    "fecha": "2026-10-24T23:17:50Z"
   },
   {
+   "titulo": "“Nunca le había ido tan mal a América Latina como con Trump”: expresidente Ernesto Samper",
+   "extracto": "El expresidente Ernesto Samper Pizano estuvo en Medellín en un diálogo con jóvenes de la Universidad Bolivariana sobre lo que podríamos llamar el apocalipsis de una generación…",
+   "enlace": "https://www.elcolombiano.com/colombia/nunca-le-habia-ido-tan-mal-a-america-latina-como-con-trump-expresidente-ernesto-samper-FB42707893",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/361x300/0c0/0d0/center/11101/QNDG/whatsapp-image-2026-10-24-at-17-52_51967373_20261024175356.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-24T22:55:15Z"
+  },
+  {
    "titulo": "Emergencia en Cartagena por aguacero: crecen los reportes de carros arrastrados por arroyos, calles inundadas y trancones en varios sectores",
    "extracto": "Los ciudadanos muestran vías anegadas y dificultades para movilizarse. Aún no hay un balance oficial de las afectaciones causadas por el aguacero.",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/emergencia-en-cartagena-por-aguacero-crecen-los-reportes-de-carros-arrastrados-por-arroyos-calles-inundadas-y-trancones-en-varios-sectores-3596064",
@@ -293,6 +373,16 @@
    "fecha": "2026-10-24T21:49:46Z"
   },
   {
+   "titulo": "Plan de choque en salud de De la Espriella avanza 13%, pero aún no frena quejas: ¿qué falta y qué ha logrado?",
+   "extracto": "Un paro cardiorrespiratorio terminó con la vida de Juan José Barroso Betín el pasado 28 de septiembre. Era un bebé de tres meses de nacido en Nechí (Antioquia) y llevaba 20 días…",
+   "enlace": "https://www.elcolombiano.com/colombia/salud-plan-de-choque-de-abelardo-de-la-espriella-avanza-13-que-falta-y-que-ha-logrado-IB42705814",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/WKWT/pacientes-medicamentos-sistema-de-sa_51967019_20261024172651.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-24T21:39:50Z"
+  },
+  {
    "titulo": "América vence a Cúcuta, es líder y asegura su clasificación a los cuadrangulares de la Liga",
    "extracto": "Gran actuación del equipo escarlata en el Pascual Guerrero.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/america-vence-a-cucuta-es-lider-y-asegura-su-clasificacion-a-los-cuadrangulares-de-la-liga-3596102",
@@ -321,26 +411,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-24T20:58:21Z"
-  },
-  {
-   "titulo": "Marino Hinestroza es el héroe de Vasco da Gama con un agónico doblete para concretar la remontada",
-   "extracto": "El extremo colombiano ingresó desde el banquillo para asegurar la victoria por 3-2 sobre Corinthians y alejando a su club de la zona de descenso.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/marino-hinestroza-es-el-heroe-de-vasco-da-gama-con-un-agonico-doblete-para-concretar-la-remontada-3596097",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/24/6add5277492cd.r_d.1787-585-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-25T00:54:46Z"
-  },
-  {
-   "titulo": "Julián Álvarez pide perdón al Atlético de Madrid y zanja su polémica salida frustrada",
-   "extracto": "El delantero argentino reconoció su error con la afición rojiblanca tras las declaraciones emitidas durante el Mundial 2026.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/julian-alvarez-pide-perdon-al-atletico-de-madrid-y-zanja-su-polemica-salida-frustrada-3596091",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/24/6add50ebb6218.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-25T00:48:06Z"
   },
   {
    "titulo": "Capturaron en Risaralda a mujer señalada de abusar y torturar a una niña de 10 años de su propia familia",
@@ -373,16 +443,6 @@
    "fecha": "2026-10-25T00:15:52Z"
   },
   {
-   "titulo": "Un bus con más de 40 pasajeros que iba a una peregrinación religiosa, la mayoría adultos mayores, se volcó en Medellín: 16 personas quedaron heridas",
-   "extracto": "Investigan si hubo falla mecánica. El vehículo transportaba a 48 adultos mayores hacia una peregrinación en Guarne.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/un-bus-con-mas-de-40-pasajeros-hacia-una-peregrinacion-la-mayoria-adultos-mayores-se-volco-en-medellin-16-personas-quedaron-heridas-3596050",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/24/6add00a3871c9.r_d.44-445-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-24T19:08:17Z"
-  },
-  {
    "titulo": "Otro lío para Juliana Guerrero: fue denunciada ante la Fiscalía por presunta intervención irregular en FonIgualdad",
    "extracto": "El Ministerio de Igualdad y Equidad en liquidación radicó formalmente una denuncia penal ante la Fiscalía General de la Nación en contra de Juliana Guerrero y su hermana, Verónica…",
    "enlace": "https://www.elcolombiano.com/colombia/juliana-guerrero-denuncia-fiscalia-fonigualdad-FJ42699491",
@@ -401,6 +461,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-24T17:25:44Z"
+  },
+  {
+   "titulo": "Retiro de obras del Museo Nacional: hubo instrucción presidencial, pero no aparece acta en el expediente",
+   "extracto": "A la novela de retiro de las obras del Museo Nacional el pasado 16 de octubre le siguen saliendo capítulos. A las marchas de hace una semana y las Clases a la calle que siguen…",
+   "enlace": "https://www.elcolombiano.com/cultura/tutela-obras-museo-nacional-respuesta-ministerio-cultura-JB42702139",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/LTPB/tutelaretiroobrasmuseonacional_51966035_20261024142753.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-24T19:33:14Z"
   },
   {
    "titulo": "¿Cuándo pagan Colombia Mayor? Prosperidad Social revela fechas del nuevo ciclo",
@@ -461,16 +531,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-24T15:23:46Z"
-  },
-  {
-   "titulo": "Piden oraciones por Laura Bozzo tras complicaciones de salud que la mantienen hospitalizada: :'Por su pronta recuperación'",
-   "extracto": "La presentadora enfrenta complicaciones de salud tras ser intervenida de urgencia.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/piden-oraciones-por-laura-bozzo-tras-complicaciones-de-salud-que-la-mantienen-hospitalizada-por-su-pronta-recuperacion-3596011",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6acfbea23d93f.r_d.891-232-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-24T14:22:55Z"
   },
   {
    "titulo": "Denuncian desvío de río en San Andrés de Cuerquia, ¿qué encontró Corantioquia?",
@@ -601,16 +661,6 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-23T18:22:56Z"
-  },
-  {
-   "titulo": "De Educación a la paz: el segundo intento de Viviane Morales en el Gobierno",
-   "extracto": "Viviane Morales tendrá una segunda oportunidad en el Gobierno de Abelardo de la Espriella , esta vez con la tarea de revisar el desmonte de la Paz Total de Gustavo Petro . Su…",
-   "enlace": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-viviane-morales-retos-BJ42690607",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/UJPN/viviane-morales_51964806_20261024133214.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-24T02:13:54Z"
   },
   {
    "titulo": "¿Busca vivienda o invertir? Estos son los 178 proyectos inmobiliarios que se mueven en Antioquia",
@@ -971,16 +1021,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-23T16:33:32Z"
-  },
-  {
-   "titulo": "Carro bomba explotó en peaje de la vía entre Villanueva y Monterrey (Casanare) y dejó varios heridos",
-   "extracto": "El miedo y el terror sacudieron al Casanare. Durante la madrugada de este viernes 23 de octubre explotó un carro bomba en jurisdicción de Villanueva (Casanare). La explosión se…",
-   "enlace": "https://www.elcolombiano.com/colombia/carro-bomba-exploto-peaje-via-villanueva-monterrey-casanare-heridos-LD42636872",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/423x300/0c0/0d0/center/11101/QYVI/diseno-sin-titulo-2026-10-23t062204-729_51954687_20261023062714.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-23T12:24:52Z"
   },
   {
    "titulo": "Relevo en Mininterior: ¿tablero político se le desacomoda al Gobierno?",
