@@ -1,7 +1,87 @@
 {
- "actualizado": "2026-10-28T05:37:51.494826Z",
- "total": 155,
+ "actualizado": "2026-10-28T12:49:19.026735Z",
+ "total": 159,
  "noticias": [
+  {
+   "titulo": "Atención: Descubren nuevo intento de fraude en examen de admisión de la Universidad de Antioquia",
+   "extracto": "Las pruebas escritas para ingresar a una carrera de pregrado en la Universidad de Antioquia son una de las más concurridas por los aspirantes en este departamento y un verdadero…",
+   "enlace": "https://www.elcolombiano.com/antioquia/fraude-examen-admision-udea-medellin-resultados-JI42863802",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/440x300/0c0/0d0/center/11101/WNAU/examen-de-admision-en-la-universidad_51993076_20261028070719.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-28T12:13:42Z"
+  },
+  {
+   "titulo": "De película, captura del hombre que amenazó a clientes en una panadería, intentó disparar a policías, el arma se le trabó y agredió a su papá en Cali",
+   "extracto": "Un hombre de 54 años fue capturado y enviado a la cárcel tras protagonizar un violento ataque en el nororiente de la ciudad.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/de-pelicula-la-captura-de-un-hombre-que-amenazo-a-clientes-en-panaderia-intento-disparar-a-policias-y-agredio-a-su-papa-en-cali-3596852",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae1e67b294c6.r_d.930-398-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-28T12:32:13Z"
+  },
+  {
+   "titulo": "Presidente De la Espriella lideró megaoperativo contra el crimen en Bogotá: más de 170 capturas, según reporte preliminar",
+   "extracto": "El presidente Abelardo de la Espriella encabezó durante la madrugada de este miércoles 28 de octubre un megaoperativo contra la criminalidad en Bogotá, con intervenciones en los…",
+   "enlace": "https://www.elcolombiano.com/colombia/de-la-espriella-lidero-megaoperativo-contra-crimen-en-bogota-OI42863269",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/LEKO/1-foto_51992997_20261028070644.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-28T12:10:21Z"
+  },
+  {
+   "titulo": "Padme, la perrita que pasó del abandono a llevar alegría a pacientes de cuidados intensivos en Medellín",
+   "extracto": "Fue abandonada en la costa Caribe y hoy participa en terapias asistidas con animales para brindar apoyo emocional a personas hospitalizadas.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/padme-la-perrita-que-paso-del-abandono-a-llevar-alegria-a-pacientes-de-cuidados-intensivos-en-medellin-3596853",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae1e2d370240.r_d.42-258-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-28T12:05:32Z"
+  },
+  {
+   "titulo": "Falleció Molly, la perrita que saltó de un quinto piso para escapar de un incendio en Neiva",
+   "extracto": "Vecinos intentaron amortiguar su caída con una sábana, pero la perrita sufrió graves lesiones. Su caso generó tristeza tras conocerse su muerte.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/fallecio-molly-la-perrita-que-salto-de-un-quinto-piso-para-escapar-de-un-incendio-en-neiva-3596844",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/28/6ae1dbea9c642.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-28T12:00:59Z"
+  },
+  {
+   "titulo": "Conmoción en Antioquia por atroz crimen de niña de 10 años: asesino la abusó y modificó la escena",
+   "extracto": "Unas lonas verdes, similares a las utilizadas en obras de construcción, mantienen oculta la vivienda donde fue hallada sin vida Jhady Sofía Osorio Mesa, de 10 años, en Frontino…",
+   "enlace": "https://www.elcolombiano.com/antioquia/homicidio-jhady-sofia-osorio-antioquia-frontino-DL42855745",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/nina-final-51958998-20261023154805_51992840_20261027224459.webp",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-10-28T03:44:07Z"
+  },
+  {
+   "titulo": "De la Espriella autorizó “un bombardeo estratégico” y dijo que prontamente dará más detalles de la acción militar",
+   "extracto": "“Madrugada movida”. Así empezó un pronunciamiento por redes sociales del presidente Abelardo de la Espriella, en el que anunció la autorización de un bombardeo “importante y…",
+   "enlace": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-bombardeo-operacion-militar-bogota-II42862749",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/MNKU/abelardo-bronx_51992988_20261028061102.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-28T11:21:05Z"
+  },
+  {
+   "titulo": "Kbeto Zuleta fue trasladado en avión ambulancia a Barranquilla: permanece en UCI tras perder una pierna en accidente",
+   "extracto": "El hijo de Poncho Zuleta llegó en un avión ambulancia y fue ingresado a la Clínica Iberoamérica, donde continuará bajo atención médica especializada.",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/kbeto-zuleta-fue-trasladado-en-avion-ambulancia-a-barranquilla-permanece-en-uci-tras-perder-una-pierna-en-accidente-3596843",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/28/6ae1d9e368ffb.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-28T11:12:11Z"
+  },
   {
    "titulo": "“Tenía que garantizar la prestación desde el inicio de año”: alcaldesa de Frontino explicó líos con contratos del PAE que investiga Procuraduría",
    "extracto": "Tras la formulación de pliego de cargos por parte de la Procuraduría por presuntas irregularidades en contratos del Programa de Alimentación Escolar (PAE), la alcaldesa de…",
@@ -13,6 +93,36 @@
    "fecha": "2026-10-28T00:49:18Z"
   },
   {
+   "titulo": "Adulto mayor de Mosquera conmueve en redes con su historia: junto a su familia convierte botellas recicladas en figuras 3D y es el motor del negocio",
+   "extracto": "El hombre trabaja junto a su yerno y su hija en un negocio que transforma residuos plásticos en figuras decorativas.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/adulto-mayor-de-mosquera-conmueve-en-redes-con-su-historia-junto-a-su-familia-convierte-botellas-recicladas-en-figuras-3d-y-es-el-motor-del-negocio-3596859",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae1e7aa4a250.r_d.138-190-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-10-28T12:24:40Z"
+  },
+  {
+   "titulo": "Nicolás Chiesa puso en duda su continuidad como DT del Cúcuta Deportivo: ‘No tengo más energía’",
+   "extracto": "La derrota 0-2 contra Águilas Doradas, la segunda consecutiva en la Liga, volvió a complicar al equipo en la zona de descenso.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/nicolas-chiesa-puso-en-duda-su-continuidad-como-dt-del-cucuta-deportivo-no-tengo-mas-energia-3596851",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/28/6ae1e3f8c036d.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-28T12:04:57Z"
+  },
+  {
+   "titulo": "Los Rays evitaron la barrida en la Serie Mundial con una épica remontada contra Cerveceros en extra innings",
+   "extracto": "Milwaukee sigue arriba en el 'Clásico de Otoño' y podría coronarse campeón este miércoles.",
+   "enlace": "https://www.eltiempo.com/deportes/otros-deportes/los-rays-evitaron-la-barrida-en-la-serie-mundial-con-una-epica-remontada-contra-cerveceros-en-extra-innings-3596849",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/28/6ae1ddfee6bec.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-10-28T11:40:17Z"
+  },
+  {
    "titulo": "Defensoría alerta de gobernanza armada de ilegales y escuelas sicariales en el Oriente antioqueño",
    "extracto": "Una de las regiones más prósperas de Antioquia, el Oriente, está sumida en la zozobra por el control territorial que en algunos municipios están haciendo dos peligrosas…",
    "enlace": "https://www.elcolombiano.com/antioquia/alerta-defensoria-pueblo-oriente-antioqueno-clan-golfo-el-mesa-NK42849730",
@@ -21,6 +131,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-27T22:46:50Z"
+  },
+  {
+   "titulo": "Trágico accidente entre moto eléctrica y volqueta deja sin vida a dos hermanas de 9 y 13 años en Fundación, Magdalena: autoridades investigan el hecho",
+   "extracto": "La Gobernación y la Alcaldía lamentaron la pérdida, mientras la Policía investiga cómo ocurrió el incidente registrado en el barrio Paz del Río.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/tragico-accidente-entre-moto-electrica-y-volqueta-deja-sin-vida-a-dos-hermanas-de-9-y-13-anos-en-fundacion-magdalena-autoridades-investigan-el-hecho-3596836",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/28/6ae18c3083d8e.r_d.1757-644-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-28T06:22:19Z"
   },
   {
    "titulo": "Emergencia en Bello, Antioquia: ocho viviendas colapsadas y dos personas heridas por las lluvias de las últimas horas",
@@ -53,6 +173,16 @@
    "fecha": "2026-10-28T03:56:54Z"
   },
   {
+   "titulo": "¿Por qué el Gobierno buscaría eliminar el concurso de méritos para elegir gerentes regionales?",
+   "extracto": "El gobierno del presidente Abelardo de la Espriella eliminaría el concurso para acceder al cargo de gerente regional en entidades como el Sena o el Bienestar Familiar (ICBF). Un…",
+   "enlace": "https://www.elcolombiano.com/colombia/gerentes-regionales-asi-serian-los-cambios-que-plantea-el-presidente-abelardo-de-la-espriella-ML42858510",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/UCGC/abelardo-de-la-espriella_51992713_20261027220015.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-28T03:50:28Z"
+  },
+  {
    "titulo": "La sede de Indervalle, bastión del deporte del Valle del Cauca, deberá ser demolida tras las afectaciones del terremoto en Cali",
    "extracto": "Emblemática edificación que data de 1966 presenta daños estructurales que son irreparables.",
    "enlace": "https://www.eltiempo.com/colombia/cali/la-sede-de-indervalle-bastion-del-deporte-del-valle-del-cauca-debera-ser-demolida-tras-las-afectaciones-del-terremoto-en-cali-3596822",
@@ -83,16 +213,6 @@
    "fecha": "2026-10-28T02:47:32Z"
   },
   {
-   "titulo": "Temblor hoy en Colombia | Reportan sismo de magnitud 3,6 con epicentro en Istmina, Chocó, este 27 de octubre: se sintió en Cali y el Eje Cafetero",
-   "extracto": "El Servicio Geológico Colombiano dio cuenta del movimiento y pidió a la población registrar su experiencia en la plataforma Sismo Sentido.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-de-magnitud-3-6-con-epicentro-en-istmina-choco-este-27-de-octubre-se-sintio-en-cali-y-el-eje-cafetero-3596806",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae1510d21383.r_d.263-340-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-28T02:43:08Z"
-  },
-  {
    "titulo": "En noviembre por fin se destrabaría el Tren de Cercanías en el Valle del Cauca: la gobernadora anunció que habría 'luz verde' del Gobierno Nacional",
    "extracto": "Dilian Francisca Toro también anunció que en enero de 2027 se abriría la licitación para el aeropuerto Alfonso Bonilla Aragón.",
    "enlace": "https://www.eltiempo.com/colombia/cali/en-noviembre-por-fin-se-destrabaria-el-tren-de-cercanias-en-el-valle-del-cauca-la-gobernadora-anuncio-que-habria-luz-verde-del-gobierno-nacional-3596810",
@@ -111,6 +231,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-28T02:16:46Z"
+  },
+  {
+   "titulo": "El asesinato del precandidato Miguel Castellanos en Cúcuta aumenta el temor por las elecciones de 2027",
+   "extracto": "Cúcuta pasó de ser una parada obligada en los paseos por la frontera con Venezuela a convertirse en una ciudad marcada por la violencia, epicentro de constantes atentados y donde…",
+   "enlace": "https://www.elcolombiano.com/colombia/miguel-castellanos-su-crimen-genera-temor-para-elecciones-de-2027-en-cucuta-JL42856087",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/391x300/0c0/0d0/center/11101/YMIB/miguel-castellanos_51992556_20261027204655.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-28T02:06:53Z"
   },
   {
    "titulo": "Corte admitió denuncia contra María José Pizarro y Gustavo Petro por supuestos contratos a cambio de favores sexuales",
@@ -153,16 +283,6 @@
    "fecha": "2026-10-28T01:07:08Z"
   },
   {
-   "titulo": "98 ciudadanos venezolanos expulsados de Medellín durante megaoperativo acumulaban 1.000 medidas policiales y más de 240 anotaciones judiciales",
-   "extracto": "Migración Colombia entregó el balance del operativo tras la expulsión de territorio nacional de los 98 extranjeros detenidos en Medellín.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/98-ciudadanos-venezolanos-expulsados-de-medellin-durante-megaoperativo-acumulaban-1-000-medidas-policiales-y-mas-de-240-anotaciones-judiciales-3596794",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae13f2050791.r_d.1104-292-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-28T00:52:52Z"
-  },
-  {
    "titulo": "¡Muy lamentable! María José fue la víctima mortal de aparatoso accidente en Bello",
    "extracto": "",
    "enlace": "https://www.elcolombiano.com/antioquia/muy-lamentable-maria-jose-fue-la-victima-mortal-de-aparatoso-accidente-en-bello-IM42823029",
@@ -203,16 +323,6 @@
    "fecha": "2026-10-28T00:30:38Z"
   },
   {
-   "titulo": "Director del Área Metropolitana del Suroccidente de Colombia (AMSO) responde a críticas de Minambiente por gestión ambiental",
-   "extracto": "Alex Durán Peñafiel aseguró que el manejo ambiental va de la mano con el marco jurídico colombiano.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/director-del-area-metropolitana-del-suroccidente-de-colombia-amso-responde-a-criticas-de-minambiente-por-gestion-ambiental-3596792",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae13df319dae.r_d.1374-674-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-28T00:25:12Z"
-  },
-  {
    "titulo": "Desmienten rumores de que murió Laura Bozzo en México: lo que se sabe de su estado de salud",
    "extracto": "Tras 12 días de hospitalización, la famosa presentadora peruana presenta un delicado diagnóstico.",
    "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/desmienten-rumores-de-que-murio-laura-bozzo-en-mexico-lo-que-se-sabe-de-su-estado-de-salud-3596833",
@@ -231,6 +341,16 @@
    "categoria": "deportes",
    "etiqueta": "Deportes",
    "fecha": "2026-10-28T04:01:31Z"
+  },
+  {
+   "titulo": "¿Sin punto de carga para su carro? Instalarlo en casa cuesta hasta $15 millones",
+   "extracto": "El parque automotor eléctrico en Colombia crece a un ritmo acelerado, mientras que la infraestructura de carga avanza más despacio y aún no logra seguirle el paso. E l rezago se…",
+   "enlace": "https://www.elcolombiano.com/colombia/cuanto-cuesta-instalar-cargador-carro-electrico-casa-colombia-AL42851526",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/IATY/estacion-de-carga-electrica-m-1_51984157_20261027184253.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-10-27T23:54:25Z"
   },
   {
    "titulo": "Santa Fe, por una nueva gesta en la Copa Libertadores Femenina: a buscar la hazaña y la final contra Corinthians",
@@ -273,16 +393,6 @@
    "fecha": "2026-10-28T03:43:29Z"
   },
   {
-   "titulo": "Barranquilla se mueve en moto, pero las patinetas y bicicletas eléctricas siguen mostrándose como alternativa de movilidad: ¿está preparada la ciudad?",
-   "extracto": "Esta industria viene en crecimiento y aseguran ser una alternativa práctica, segura y económica para los desplazamientos urbanos.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-mueve-en-moto-pero-las-patinetas-y-bicicletas-electricas-siguen-mostrandose-como-alternativa-de-movilidad-esta-preparada-la-ciudad-3596780",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/27/6ae1336391832.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-27T23:40:27Z"
-  },
-  {
    "titulo": "De la Espriella nombró a tres mujeres coroneles para la dirección de la Policía Fiscal y Aduanera: estos son sus perfiles",
    "extracto": "Tres mujeres coroneles de la Policía Nacional asumieron la conducción total de la Policía Fiscal y Aduanera (Polfa) en Colombia. La medida administrativa marca un hito…",
    "enlace": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-nombra-tres-mujeres-coroneles-direccion-policia-fiscal-aduanera-GK42849942",
@@ -291,16 +401,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-10-27T23:21:56Z"
-  },
-  {
-   "titulo": "Con picos y palas: comunidades de El Patía, Cauca, intentan habilitar importante vía rural destruida por explosión atribuida a disidencias",
-   "extracto": "La detonación se registró cerca del puente de Portugal, sobre el río Patía, y provocó graves daños en la carretera.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/con-picos-y-palas-comunidades-de-el-patia-cauca-intentan-habilitar-importante-via-rural-destruida-por-explosion-atribuida-a-disidencias-3596776",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/05/6ac3a2ef008e7.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-27T23:14:11Z"
   },
   {
    "titulo": "El grupo de teatro de la Universidad de los Andes presenta 'Cuestión de sincronía' en festival internacional en Egipto",
@@ -413,16 +513,6 @@
    "fecha": "2026-10-27T20:27:23Z"
   },
   {
-   "titulo": "Paché Andrade, periodista que vota al Balón de Oro, defiende su elección: 'Los insultos que me duelen son de los colombianos'",
-   "extracto": "El reconocido comunicador eligió a Harry Kane y puso a Luis Díaz de octavo.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/pache-andrade-periodista-que-vota-al-balon-de-oro-defiende-su-eleccion-los-insultos-que-me-duelen-son-de-los-colombianos-3596759",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/26/6adfdd39e8572.r_d.1789-856-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-28T00:12:38Z"
-  },
-  {
    "titulo": "Denuncian a Petro ante la Comisión de Acusación por perturbar las pasadas elecciones",
    "extracto": "El abogado Jaime Lombana radicó una denuncia contra el expresidente Gustavo Petro ante la Comisión de Acusaciones de la Cámara de Representantes, con el respaldo del Partido…",
    "enlace": "https://www.elcolombiano.com/colombia/denuncian-a-petro-ante-la-comision-de-acusacion-por-perturbar-las-pasadas-elecciones-JM42829426",
@@ -511,16 +601,6 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-10-27T11:22:09Z"
-  },
-  {
-   "titulo": "Las número uno del pádel mundial y otras leyendas de este deporte jugarán en Bogotá en noviembre: los detalles",
-   "extracto": "La argentina Delfi Brea y la española Gemma Triay harán una exhibición en el Palacio de los Deportes.",
-   "enlace": "https://www.eltiempo.com/deportes/otros-deportes/las-numero-uno-del-padel-mundial-y-otras-leyendas-de-este-deporte-jugaran-en-bogota-en-noviembre-los-detalles-3596765",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae125ec765a3.r_d.666-820-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-10-27T22:59:05Z"
   },
   {
    "titulo": "Kevin Viveros enciende las alarmas en Paranaense: duda por molestia en la rodilla antes del duelo con Gremio",
@@ -621,16 +701,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-27T21:16:26Z"
-  },
-  {
-   "titulo": "Halloween 2026: ¿cómo prevenir intoxicaciones y cuidar a los niños con el consumo de dulces en exceso?",
-   "extracto": "La Secretaría de Salud dio algunos consejos para prevenir la intoxicación en temporada de Halloween",
-   "enlace": "https://www.eltiempo.com/cultura/gente/halloween-2026-como-prevenir-intoxicaciones-y-cuidar-a-los-ninos-con-el-consumo-de-dulces-y-golosinas-en-exceso-3596738",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/22/6ada340d4fc1d.r_d.603-267-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-27T20:59:04Z"
   },
   {
    "titulo": "Mascotas que ya no están regresan a casa este 27 de octubre, según tradición mexicana; ¿cómo rendirle homenaje a los animales fallecidos?",
@@ -1283,16 +1353,6 @@
    "fecha": "2026-10-26T15:37:51Z"
   },
   {
-   "titulo": "Fiscalía indagará presuntas irregularidades en la contratación de mujeres en el Dapre y citará a Angie y Laura Sarabia",
-   "extracto": "Crece la polémica por las presuntas irregularidades durante el Gobierno de Gustavo Petro, luego de las denuncias públicas de la exdirectora del Dapre, Angie Rodríguez, sobre…",
-   "enlace": "https://www.elcolombiano.com/colombia/fiscalia-investigara-contratacion-mujeres-gobierno-gustavo-petro-KD42724169",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SNYT/des-deben-estar-sometidas-a-la-const_51972197_20261026142004.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-26T15:09:21Z"
-  },
-  {
    "titulo": "¿La IA es el nuevo juez de la literatura? Alucinaciones y preguntas en el caso de la novela Donde el agua trabaja",
    "extracto": "El 23 de octubre, la carrera del escritor peruano David Silva Rojas dio un giro brusco. Ese día el periódico español El País publicó un artículo en el que decía que Donde el agua…",
    "enlace": "https://www.elcolombiano.com/cultura/david-silva-rojas-novela-donde-el-agua-trabaja-acusacion-uso-inteligencia-artificial-DE42759138",
@@ -1323,16 +1383,6 @@
    "fecha": "2026-10-26T14:24:10Z"
   },
   {
-   "titulo": "“Cuando el pueblo se pronuncia en las urnas, su voluntad se respeta”: Abelardo reconoce el triunfo de Lula da Silva en Brasil",
-   "extracto": "El presidente Abelardo de la Espriella reconoció el triunfo de Luis Inácio Lula da Silva en Brasil, quien será presidente por cuarta vez tras ganarle a Flavio Bolsonaro, a quien…",
-   "enlace": "https://www.elcolombiano.com/colombia/elecciones-brasil-2026-lula-abelardo-de-la-espriella-AD42724895",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/TKST/abelardo-de-la-espriella-y-lula-da-s_51972252_20261026064914.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-26T14:11:33Z"
-  },
-  {
    "titulo": "Ghosting y shaming: por qué el filósofo Byung-Chul Han ve una sociedad sin respeto",
    "extracto": "El filósofo surcoreano radicado en Alemania, Byung-Chul Han, Premio Princesa de Asturias de Comunicación y Humanidades 2025, presenta en su nuevo ensayo, Sin respeto: una crisis…",
    "enlace": "https://www.elcolombiano.com/cultura/byung-chul-han-sin-respeto-ensayo-crisis-filosofo-surcoreano-alemania-ME42750927",
@@ -1341,16 +1391,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-26T16:58:23Z"
-  },
-  {
-   "titulo": "Gobierno anuncia recorte de $267.000 millones en el Dapre y aclara a dónde van los aportes al Fondo Milagro",
-   "extracto": "El presidente Abelardo de la Espriella hizo varios anuncios clave en su alocución del domingo. Entre ellos estuvo la reducción del gasto en el Departamento Administrativo de…",
-   "enlace": "https://www.elcolombiano.com/colombia/gobierno-abelardo-de-la-espriella-alocucion-presidencia-presupuesto-ED42724231",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/DKCD/abelardo-de-la-espriella-6_51972206_20261026062420.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-26T12:47:37Z"
   },
   {
    "titulo": "Murió Eric Bauza, la voz de Bugs Bunny y el Pato Lucas: ¿qué le pasó?",
