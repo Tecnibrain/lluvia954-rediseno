@@ -1,16 +1,286 @@
 {
- "actualizado": "2026-11-02T15:44:31.358895Z",
- "total": 90,
+ "actualizado": "2026-11-03T00:55:48.230506Z",
+ "total": 75,
  "noticias": [
   {
-   "titulo": "¿De quién era la metralleta que disparó el entonces gobernador Álvaro Uribe en 1997?",
+   "titulo": "Ataque armado en Barbosa terminó con un muerto y dos heridos",
+   "extracto": "",
+   "enlace": "https://www.elcolombiano.com/antioquia/ataque-armado-en-barbosa-termino-con-un-muerto-y-dos-heridos-CP43082088",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/600x193/0c0/0d0/center/11101/WTPU/asi-paso-utilidad-52030390-20261101231051_52034138_20261102144037.webp",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-02T19:40:28Z"
+  },
+  {
+   "titulo": "Wilson murió por la caída de un árbol durante las fiestas de Santo Domingo, Antioquia",
+   "extracto": "",
+   "enlace": "https://www.elcolombiano.com/antioquia/wilson-murio-por-la-caida-de-un-arbol-durante-las-fiestas-de-santo-domingo-antioquia-PP43081970",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/600x193/0c0/0d0/center/11101/HKNM/asi-paso-utilidad-2-52028136-20261101132115_52033039_20261102143818.webp",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-02T19:37:29Z"
+  },
+  {
+   "titulo": "Así fue el momento en que Álvaro Uribe disparó una metralleta durante un ataque del ELN en 1997",
    "extracto": "El reportero gráfico paisa Rafael Guillermo Zapata, conocido como Zalo, estuvo allí. Aquel sábado de octubre de 1997, cuando el entonces gobernador de Antioquia Álvaro Uribe Vélez…",
    "enlace": "https://www.elcolombiano.com/antioquia/alvaro-uribe-velez-de-quien-era-la-metralleta-que-disparo-el-exgobernador-IA43074194",
    "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/TECD/uribe-ataque-eln-foto-zalo_52032279_20261101214121.jpg",
    "fuente": "El Colombiano",
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
-   "fecha": "2026-11-02T14:08:55Z"
+   "fecha": "2026-11-02T16:40:19Z"
+  },
+  {
+   "titulo": "El historial del conductor de un lujoso Corvette que causó un accidente en Medellín: tenía licencia vencida y ocho multas",
+   "extracto": "Es el segundo caso de vehículos de alta gama que ponen en jaque la movilidad y la seguridad vial en Medellín en las últimas semanas.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/con-licencia-vencida-y-8-multas-previas-el-historial-del-conductor-de-un-corvette-que-causo-un-accidente-en-medellin-3597946",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8cf35c0b9d.r_d.885-384-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T22:32:19Z"
+  },
+  {
+   "titulo": "Las identidades de las víctimas del atentado con volqueta cargada de explosivos en Planadas, sur del Tolima: joven promesa del fútbol murió en su casa",
+   "extracto": "Los barrios Aeropuerto y Simón Bolívar llevaron la peor parte de este hecho de violencia, que dejó cuatro personas muertas y 18 heridas.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/las-identidades-de-las-victimas-del-atentado-con-volqueta-cargada-de-explosivos-en-planadas-sur-del-tolima-joven-futbolista-murio-en-su-casa-3597954",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8e7070bfcb.r_d.279-227-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T22:31:39Z"
+  },
+  {
+   "titulo": "Las identidades de las víctimas del atentado en Planadas: una joven deportista entre los fallecidos",
+   "extracto": "Cuatro personas murieron, entre ellas una bebé de dos meses, tras un atentado con explosivos perpetrado la noche del domingo en Planadas, sur del Tolima. El ataque dejó además 17…",
+   "enlace": "https://www.elcolombiano.com/colombia/identidades-victimas-atentado-planadas-MP43084769",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/BCPH/tamanos-el-colombiano-2026-11-02t1_52035731_20261102170346.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T22:12:26Z"
+  },
+  {
+   "titulo": "El Ejército desarticula peligrosa estructura criminal de 'Iván Mordisco' en el Valle del Cauca",
+   "extracto": "Operativo en El Cerrito neutraliza al cabecilla financiero e incauta arsenal tecnológico y explosivos para drones del grupo armado ilegal.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/el-ejercito-desarticula-peligrosa-estructura-criminal-de-ivan-mordisco-en-el-valle-del-cauca-3597962",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae8fe8717f54.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T21:35:48Z"
+  },
+  {
+   "titulo": "Presidente Abelardo De La Espriella pidió reforzar despliegue de operaciones en Planadas, Tolima, tras atentado con explosivos que dejó varios muertos",
+   "extracto": "Las autoridades atribuyen el ataque a la estructura 'Gerónimo Galeano' de las disidencias.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/presidente-abelardo-de-la-espriella-pidio-reforzar-despliegue-de-operaciones-en-planadas-tolima-tras-atentado-con-explosivos-que-dejo-varios-muertos-3597961",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae846667366d.r_d.538-268-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T21:11:18Z"
+  },
+  {
+   "titulo": "Audiencia de extradición de Zulma Guzmán estaría suspendida por imputación pendiente en Colombia",
+   "extracto": "La audiencia que debía avanzar este lunes 2 de noviembre en Londres para definir la posible extradición de Zulma Guzmán quedó frenada. La notificación sobre una imputación de…",
+   "enlace": "https://www.elcolombiano.com/colombia/frenan-audiencia-extradicion-zulma-guzman-colombia-EP43083698",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/TCPH/tamanos-el-colombiano-2026-11-02t1_52034659_20261102155302.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T21:10:51Z"
+  },
+  {
+   "titulo": "El Pibe Valderrama y Pachequito recorrieron el nuevo estadio Metropolitano de Barranquilla para dar su veredicto: 'De nivel mundial'",
+   "extracto": "Los dos símbolos del Junior conocieron de primera mano el escenario remodelado.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/el-pibe-valderrama-y-pachequito-recorrieron-el-nuevo-estadio-metropolitano-de-barranquilla-para-dar-su-veredicto-de-nivel-mundial-3597984",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae928e5b2c82.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-03T00:31:50Z"
+  },
+  {
+   "titulo": "Atentados terroristas en Tolima y Cauca dejan cuatro muertos, 17 heridos y 177 viviendas afectadas",
+   "extracto": "Dos ataques con explosivos se registraron durante la noche del domingo 1 de noviembre en los departamentos de Tolima y Cauca. El primero ocurrió en el municipio de Planadas, donde…",
+   "enlace": "https://www.elcolombiano.com/colombia/atentados-explosivos-tolima-cauca-cuatro-muertos-17-heridos-DA43075413",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/456x300/0c0/0d0/center/11101/SFIY/image-2026-11-02t081824-835_52032433_20261102082140.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T19:56:27Z"
+  },
+  {
+   "titulo": "Defensoría alerta desplazamiento de 500 indígenas en Nuquí por disputas entre grupos armados",
+   "extracto": "El temor por la presencia y las disputas entre grupos armados ilegales obligó a cerca de 500 indígenas de la comunidad de Villa Nueva a abandonar su territorio en Nuquí, Chocó…",
+   "enlace": "https://www.elcolombiano.com/colombia/defensoria-desplazamiento-500-indigenas-nuqui-CP43082154",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/SCPH/tamanos-el-colombiano-2026-11-02t1_52033984_20261102144945.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T19:55:50Z"
+  },
+  {
+   "titulo": "Escándalo en el fútbol peruano: Javier Rabanal increpa e insulta a periodista en rueda de prensa",
+   "extracto": "El técnico español de Cusco FC protagonizó un tenso cruce verbal y lanzó un insulto al ser cuestionado sobre el rendimiento de su equipo.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/escandalo-en-el-futbol-peruano-javier-rabanal-increpa-e-insulta-a-periodista-en-rueda-de-prensa-3597979",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae91fed8a577.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-02T23:43:08Z"
+  },
+  {
+   "titulo": "Licencia de conducción por puntos: así funcionaría el sistema que podría dejar sin pase a los infractores",
+   "extracto": "El Ministerio de Transporte estudia implementar en Colombia un sistema de licencia de conducción por puntos , una propuesta que busca modificar las sanciones para quienes…",
+   "enlace": "https://www.elcolombiano.com/colombia/licencia-de-conduccion-puntos-colombia-funcionaria-sistema-sin-pase-infractores-MA43078747",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/PAYP/licencia-de-conduccion-suspension-ca_52033325_20261102120742.webp",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T19:37:05Z"
+  },
+  {
+   "titulo": "Prográmese con los partidos de esta semana en la Champions League: día, hora y TV para Colombia",
+   "extracto": "Entre martes y miércoles se disputa la cuarta jornada.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/programese-con-los-partidos-de-esta-semana-en-la-champions-league-dia-hora-y-tv-para-colombia-3597975",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/31/6ae63e61618c3.r_d.1220-491-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-02T23:00:43Z"
+  },
+  {
+   "titulo": "Selección Colombia Sub-19 convoca a Franco, hijo de Omar Pérez, un ídolo de Santa Fe",
+   "extracto": "El jugador podía elegir entre la tricolor y Argentina pues cuenta con doble nacionalidad.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/seleccion-colombia-sub-19-convoca-a-franco-hijo-de-omar-perez-un-idolo-de-santa-fe-3597976",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae90eddd2726.r_d.178-207-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-02T22:53:10Z"
+  },
+  {
+   "titulo": "Asesinan a trabajador del sector petrolero frente a sus compañeros en Barrancabermeja, Santander: esto se sabe del crimen",
+   "extracto": "Las autoridades investigan si el homicidio estaría relacionado con amenazas que la víctima habría recibido en 2024.",
+   "enlace": "https://www.eltiempo.com/colombia/santander/asesinan-a-trabajador-del-sector-petrolero-frente-a-sus-companeros-en-barrancabermeja-santander-esto-se-sabe-del-crimen-3597948",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8d41f5ba6f.r_d.396-269-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T18:50:31Z"
+  },
+  {
+   "titulo": "Video | Preocupación por jugador español que sufrió paro cardiorrespiratorio tras chocar con el portero en medio de un partido de fútbol",
+   "extracto": "El futbolista sufrió un fuerte golpe durante el encuentro de Segunda División, lo que obligó a suspender el partido.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/video-preocupacion-por-jugador-espanol-que-sufrio-paro-cardiorrespiratorio-tras-chocar-con-el-portero-en-medio-de-un-partido-de-futbol-3597970",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae90cf4bc980.r_d.286-287-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-02T22:48:50Z"
+  },
+  {
+   "titulo": "Otra controversia en la Fifa: revelan que el organismo cubrió millonarios impuestos de Gianni Infantino",
+   "extracto": "Una investigación periodística sacó a la luz la cobertura de tributos en favor del mandatario.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/otra-controversia-en-la-fifa-revelan-que-el-organismo-cubrio-millonarios-impuestos-de-gianni-infantino-3597965",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/01/6a6e3500d3d06.r_d.832-146-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-02T22:30:01Z"
+  },
+  {
+   "titulo": "Capturan a un hombre con 78 explosivos en la vía Panamericana, en Nariño: investigan posible atentado contra peaje",
+   "extracto": "Uniformados de la Seccional de Tránsito y Transporte de la Policía Nacional frustraron un posible atentado en el departamento de Nariño, luego de detectar un vehículo que…",
+   "enlace": "https://www.elcolombiano.com/colombia/capturan-hombre-78-explosivos-via-panamericana-narino-PA43079789",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/VKSJ/hwiutxhw0aa8bz6_52033504_20261102123417.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T18:25:22Z"
+  },
+  {
+   "titulo": "'Lo de Planadas es terrorismo puro y duro de las mafias que se disfrazan con brazaletes de revolucionarios', gobernadora del Tolima",
+   "extracto": "La funcionaria entregó un doloroso balance del ataque de anoche: cuatro personas murieron y unas 177 viviendas resultaron con afectaciones materiales.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/lo-de-planadas-es-terrorismo-puro-y-duro-de-las-mafias-que-se-disfrazan-con-brazaletes-de-revolucionarios-gobernadora-del-tolima-3597937",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae8acffbb63f.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T18:01:00Z"
+  },
+  {
+   "titulo": "Abelardo de la Espriella visitó Tolemaida y puso a prueba su puntería con fusil y pistola",
+   "extracto": "El presidente de Colombia, Abelardo de la Espriella, visitó este fin de semana el Fuerte Militar de Tolemaida, donde participó en una jornada de supervisión táctica junto a los…",
+   "enlace": "https://www.elcolombiano.com/colombia/abelardo-espriella-tolemaida-prueba-punteria-fusil-pistola-NA43077794",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/447x300/0c0/0d0/center/11101/WYIY/image-2026-11-02t112402-856_52032930_20261102112456.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T17:36:45Z"
+  },
+  {
+   "titulo": "Carlos 'Pibe' Valderrama descifró el misterio y reveló la razón de la debacle de Junior: 'se equivocaron'",
+   "extracto": "El histórico mediocampista habló claro sobre los errores directivos que marcaron la temprana eliminación de cuadrangulares.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/carlos-pibe-valderrama-descifro-el-misterio-y-revelo-la-razon-de-la-debacle-de-junior-se-equivocaron-3597950",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/27/6ae16a8e09599.r_d.502-259-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-02T21:18:50Z"
+  },
+  {
+   "titulo": "Así fue el momento en que Álvaro Uribe disparó una metralleta durante un ataque del ELN en 1997",
+   "extracto": "El reportero gráfico paisa Rafael Guillermo Zapata, conocido como Zalo, estuvo allí. Aquel sábado de octubre de 1997, cuando el entonces gobernador de Antioquia Álvaro Uribe Vélez…",
+   "enlace": "https://www.elcolombiano.com/colombia/alvaro-uribe-velez-de-quien-era-la-metralleta-que-disparo-el-exgobernador-IA43074194",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/TECD/uribe-ataque-eln-foto-zalo_52032279_20261101214121.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T16:40:19Z"
+  },
+  {
+   "titulo": "Luis Enrique, tajante con sus jugadores antes del duelo del PSG contra el Villarreal en la Champions League",
+   "extracto": "El técnico español no se guardó nada.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/luis-enrique-tajante-con-sus-jugadores-antes-del-duelo-del-psg-contra-el-villarreal-en-la-champions-league-3597957",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/19/6ad68c600f2e7.r_d.1248-1025-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-02T20:40:00Z"
+  },
+  {
+   "titulo": "Golpe al Frente 57 'Yair Bermúdez': caen cinco presuntos integrantes tras ataque a patrulla de la Policía en Tuluá",
+   "extracto": "Incautan siete fusiles y más de 3.000 cartuchos en el corregimiento de Venus tras operativo conjunto entre Fuerzas Militares y Fiscalía.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/golpe-al-frente-57-yair-bermudez-caen-cinco-presuntos-integrantes-tras-ataque-a-patrulla-de-la-policia-en-tulua-3597930",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae8b30f9d381.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T16:17:14Z"
+  },
+  {
+   "titulo": "Botes urgentes y agua potable: los detalles del drama que viven 500 indígenas desplazados en Nuquí, Chocó",
+   "extracto": "Niños, mujeres y ancianos huyen por el río hacia la cabecera municipal sin apoyo fluvial ni garantías mínimas de salud y refugio.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/botes-urgentes-y-agua-potable-los-detalles-del-drama-que-viven-500-indigenas-desplazados-en-nuqui-choco-3597925",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae8aef456c45.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T15:48:03Z"
+  },
+  {
+   "titulo": "Fallo ratifica la legalidad y la logística del festival naútico en Cartagena, en el marco de las Fiestas de la Independencia del 11 de noviembre",
+   "extracto": "Tutela buscaba frenar o modificar el modelo de acceso presencial del Festival Náutico de las Fiestas de Independencia 2026.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/fallo-ratifica-la-legalidad-y-la-logistica-del-festival-nautico-en-cartagena-en-el-marco-de-las-fiestas-de-la-independencia-del-11-de-noviembre-3597921",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8ad21d14b0.r_d.632-414-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-02T15:46:09Z"
   },
   {
    "titulo": "Esta fue una de las últimas apariciones públicas de Antonio Navarro Wolff antes de morir",
@@ -23,14 +293,14 @@
    "fecha": "2026-11-02T15:40:31Z"
   },
   {
-   "titulo": "Bicicletas y patinetas eléctricas en Colombia tendrán nuevo requisito obligatorio desde enero de 2027: esto deben hacer sus propietarios",
-   "extracto": "La medida también aplicará a vehículos que ya están en circulación y establece responsabilidades para propietarios, fabricantes y comercializadores.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/bicicletas-y-patinetas-electricas-en-colombia-tendran-nuevo-requisito-obligatorio-desde-enero-de-2027-esto-deben-hacer-sus-propietarios-3597901",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae87aeb424c3.r_d.146-299-0.png",
+   "titulo": "El escándalo del Balón de Oro sigue creciendo: organizadores investigan posibles filtraciones y apuestas sospechosas",
+   "extracto": "Las autoridades toman cartas en el asunto.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/el-escandalo-del-balon-de-oro-sigue-creciendo-organizadores-investigan-posibles-filtraciones-y-apuestas-sospechosas-3597951",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/31/6a95cae942323.r_d.952-311-0.jpeg",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T15:25:46Z"
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-02T19:22:12Z"
   },
   {
    "titulo": "Medellín: ciudadano británico con una pistola, silenciador y cartuchos en el Parque Lleras",
@@ -43,64 +313,34 @@
    "fecha": "2026-11-02T15:15:28Z"
   },
   {
-   "titulo": "Salto de la educación pública en Cartagena: cuatro colegios logran la categoría A+ y la zona rural rompe paradigmas",
-   "extracto": "Hasta 2025, la Institución Educativa Soledad Acosta de Samper ondeaba como el único colegio oficial del Distrito en alcanzar el nivel A+.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/salto-de-la-educacion-publica-en-cartagena-cuatro-colegios-logran-la-categoria-a-y-la-zona-rural-rompe-paradigmas-3597916",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae8a3a9476f9.jpeg",
+   "titulo": "Los cocineros coinciden en la forma de cómo hacer el arroz con leche perfecto: 'Quite el arroz y reemplácelo por avena'",
+   "extracto": "Proponen sustituir el arroz por copos de avena para conseguir un postre cremoso con canela, limón y vainilla.",
+   "enlace": "https://www.eltiempo.com/cultura/gastronomia/los-cocineros-coinciden-en-la-forma-de-como-hacer-el-arroz-con-leche-perfecto-quite-el-arroz-y-reemplacelo-por-avena-3597947",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/06/30/6a43ff2e3a7d2.r_d.720-237-0.png",
    "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T15:00:15Z"
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-02T18:08:36Z"
   },
   {
-   "titulo": "Atentados con explosivos en Tolima y Cauca dejan cuatro muertos y 17 heridos",
-   "extracto": "Dos ataques con explosivos se registraron durante la noche del domingo 1 de noviembre en los departamentos de Tolima y Cauca. El primero ocurrió en el municipio de Planadas, donde…",
-   "enlace": "https://www.elcolombiano.com/colombia/atentados-explosivos-tolima-cauca-cuatro-muertos-17-heridos-DA43075413",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/456x300/0c0/0d0/center/11101/SFIY/image-2026-11-02t081824-835_52032433_20261102082140.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T14:18:02Z"
-  },
-  {
-   "titulo": "Video muestra el momento exacto del atentado en Planadas, Tolima: volqueta con explosivos estalló y dejó cuatro muertos, entre ellos una bebé",
-   "extracto": "Las cámaras de seguridad registraron la detonación de la volqueta durante la noche del 1 de noviembre.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/video-muestra-el-momento-exacto-del-atentado-en-planadas-tolima-volqueta-con-explosivos-estallo-y-dejo-cuatro-muertos-entre-ellos-una-bebe-3597908",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8951522191.r_d.576-202-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T14:12:19Z"
-  },
-  {
-   "titulo": "¿De quién era la metralleta que disparó el entonces gobernador Álvaro Uribe en 1997?",
-   "extracto": "El reportero gráfico paisa Rafael Guillermo Zapata, conocido como Zalo, estuvo allí. Aquel sábado de octubre de 1997, cuando el entonces gobernador de Antioquia Álvaro Uribe Vélez…",
-   "enlace": "https://www.elcolombiano.com/colombia/alvaro-uribe-velez-de-quien-era-la-metralleta-que-disparo-el-exgobernador-IA43074194",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/TECD/uribe-ataque-eln-foto-zalo_52032279_20261101214121.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T14:08:55Z"
-  },
-  {
-   "titulo": "¿Qué hay detrás de la cadena de ataques con drones y explosivos en el Huila? Algeciras ha soportado este año 7 atentados a manos de las disidencias",
-   "extracto": "El gobierno departamental anunció la llegada al Huila de 530 militares para reforzar la seguridad y proteger los municipios",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/que-hay-detras-de-la-cadena-de-ataques-con-drones-y-explosivos-en-el-huila-algeciras-ha-soportado-este-ano-7-atentados-a-manos-de-las-disidencias-3597907",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae6f7e317e5e.r_d.181-57-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T13:49:57Z"
-  },
-  {
-   "titulo": "Video | Él es Andreas Almgren, campeón de la Maratón de Nueva York y la nueva amenaza para los fondistas africanos",
-   "extracto": "A sus 31 años, este atleta sueco es la nueva maravilla del atletismo.",
-   "enlace": "https://www.eltiempo.com/deportes/otros-deportes/video-el-es-andreas-almgren-campeon-de-la-maraton-de-nueva-york-y-la-nueva-amenaza-para-los-fondistas-africanos-3597917",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8a376188cd.r_d.1705-466-0.jpeg",
+   "titulo": "Luis Díaz ilusiona a Bayern ¿y a Selección Colombia? Así celebraron su regreso a entrenamientos",
+   "extracto": "El extremo regresó a los trabajos de campo, pero todavía no se suma a la práctica con el grupo.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/luis-diaz-ilusiona-a-bayern-y-a-seleccion-colombia-asi-celebraron-su-regreso-a-entrenamientos-3597942",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8c16844021.r_d.538-128-0.jpeg",
    "fuente": "El Tiempo",
    "categoria": "deportes",
    "etiqueta": "Deportes",
-   "fecha": "2026-11-02T15:42:23Z"
+   "fecha": "2026-11-02T17:40:42Z"
+  },
+  {
+   "titulo": "¿Qué significa caminar con las manos detrás de la espalda, de acuerdo con expertos en lenguaje corporal?",
+   "extracto": "Especialistas explicaron el significado del gesto y qué podría reflejar sobre el estado emocional de una persona.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/que-significa-caminar-con-las-manos-detras-de-la-espalda-de-acuerdo-con-expertos-en-lengiaje-corporal-3597927",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae8b6b56e5a9.r_d.1312-380-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-02T16:27:37Z"
   },
   {
    "titulo": "¿El antiguo edificio de los Galeano está embrujado?",
@@ -113,26 +353,6 @@
    "fecha": "2026-11-02T03:38:16Z"
   },
   {
-   "titulo": "El colombiano Yeison López, espectacular en los 85 kilos del Mundial de pesas: oro, plata y récord",
-   "extracto": "El chocoano fue el rey del arranque en la competencia de Ningbo, China.",
-   "enlace": "https://www.eltiempo.com/deportes/otros-deportes/el-colombiano-yeison-lopez-espectacular-en-los-85-kilos-del-mundial-de-pesas-oro-plata-y-record-3597904",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/08/6a77c67513e20.r_d.1102-354-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-02T15:24:59Z"
-  },
-  {
-   "titulo": "Alerta en Bayern Múnich por crisis de lesiones antes de duro reto en Champions League: Díaz y más figuras",
-   "extracto": "El equipo alemán enfrentará a Atlético de Madrid sin varias piezas importantes, una de las cuales tuvo que pasar por el quirófano.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/alerta-en-bayern-munich-por-crisis-de-lesiones-antes-de-duro-reto-en-champions-league-diaz-y-mas-figuras-3597909",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6ace9d50200a5.r_d.1944-747-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-02T15:24:00Z"
-  },
-  {
    "titulo": "Murió Liam Fitzgerald a los 29 años, 'influencer' fitness que sufrió un accidente de moto en Estados Unidos: 'Acababa de estar de cumpleaños'",
    "extracto": "Su novia y sus familiares compartieron mensajes de despedida en redes sociales, en los que recordaron su personalidad.",
    "enlace": "https://www.eltiempo.com/cultura/gente/murio-liam-fitzgerald-a-los-29-anos-influencer-fitness-que-sufrio-un-accidente-de-moto-en-estados-unidos-acababa-de-estar-de-cumpleanos-3597913",
@@ -143,16 +363,6 @@
    "fecha": "2026-11-02T14:30:29Z"
   },
   {
-   "titulo": "Kimi Antonelli está en boca de todos: esta es la millonada que se gana tras coronarse campeón de la Fórmula 1",
-   "extracto": "El italiano obtuvo el título con tan solo 20 años.",
-   "enlace": "https://www.eltiempo.com/deportes/automovilismo/kimi-antonelli-esta-en-boca-de-todos-esta-es-la-millonada-que-se-gana-tras-coronarse-campeon-de-la-formula-3597912",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae89c0e81712.r_d.1741-502-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-02T14:27:14Z"
-  },
-  {
    "titulo": "Pasta con salsa de calabaza y ajo: receta cremosa y fácil de preparar para disfrutar un plato diferente",
    "extracto": "Con ingredientes fáciles de conseguir y cerca de una hora de preparación, esta receta ofrece una alternativa para variar los platos en casa.",
    "enlace": "https://www.eltiempo.com/cultura/gastronomia/pasta-con-salsa-de-calabaza-y-ajo-receta-cremosa-y-facil-de-preparar-para-disfrutar-un-plato-diferente-3597911",
@@ -161,56 +371,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-11-02T14:20:24Z"
-  },
-  {
-   "titulo": "Cerca de 500 indígenas abandonaron sus territorios en Nuquí, Chocó, por temor a enfrentamientos entre grupos armados",
-   "extracto": "La Defensoría del Pueblo informó que las familias permanecen en Jurubirá y no han podido llegar a la cabecera municipal.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/cerca-de-500-indigenas-abandonaron-sus-territorios-en-nuqui-choco-por-temor-a-enfrentamientos-entre-grupos-armados-3597899",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae85643efdac.r_d.600-267-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T09:33:04Z"
-  },
-  {
-   "titulo": "Videos revelan la magnitud del atentado en Planadas, Tolima, que dejó cuatro muertos, incluida una bebé de dos meses, según balance preliminar",
-   "extracto": "Las primeras versiones indican que los responsables habrían utilizado drones bomba y una volqueta acondicionada para transportar una carga explosiva.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/videos-revelan-la-magnitud-del-atentado-en-planadas-tolima-que-dejo-cuatro-muertos-incluida-una-bebe-de-dos-meses-segun-balance-preliminar-3597898",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/02/6ae846667366d.r_d.538-268-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T08:22:55Z"
-  },
-  {
-   "titulo": "Gobernadora del Tolima, Adriana Matiz, confirmó cuatro muertos por atentado en el municipio de Planadas: entre las víctimas hay una bebé de dos meses",
-   "extracto": "Las primeras versiones apuntan al uso de drones con explosivos y una volqueta cargada con artefactos durante el ataque.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/gobernadora-del-tolima-adriana-matiz-confirmo-cuatro-muertos-por-atentado-en-el-municipio-de-planadas-entre-las-victimas-hay-una-bebe-de-dos-meses-3597897",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae832edbb51c.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T07:05:06Z"
-  },
-  {
-   "titulo": "Nuevo atentado con explosivos en Cauca tras la detonación de una motocicleta en inmediaciones del hospital local del municipio de Balboa",
-   "extracto": "El hecho ocasionó daños materiales y se convirtió en el segundo ataque de este tipo registrado en el departamento durante el fin de semana.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/nuevo-atentado-con-explosivos-en-cauca-tras-la-detonacion-de-una-motocicleta-en-inmediaciones-del-hospital-local-del-municipio-de-balboa-3597896",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/02/6ae827e40e25a.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T06:19:02Z"
-  },
-  {
-   "titulo": "Atentado en Planadas, Tolima, habría sido perpetrado con drones bomba y una volqueta cargada de explosivos en inmediaciones de una base militar",
-   "extracto": "La gobernadora del Tolima rechazó los hechos y anunció acciones coordinadas con la Administración municipal y la Fuerza Pública.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/atentado-en-planadas-tolima-habria-sido-perpetrado-con-drones-bomba-y-una-volqueta-cargada-de-explosivos-en-inmediaciones-de-una-base-militar-3597894",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae813f8ad12c.r_d.273-271-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-02T05:18:49Z"
   },
   {
    "titulo": "El adiós a Antonio Navarro Wolff, el excomandante del M-19 que llegó a presidir la Constituyente",
@@ -263,16 +423,6 @@
    "fecha": "2026-11-02T01:24:01Z"
   },
   {
-   "titulo": "Quedaron definidas las semifinales de la Copa BetPlay 2026: estos son los equipos que buscarán un cupo en la gran final",
-   "extracto": "América, Internacional de Bogotá, Atlético Nacional y Once Caldas disputarán las dos series que definirán a los finalistas.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/quedaron-definidas-las-semifinales-de-la-copa-betplay-2026-estos-son-los-equipos-que-buscaran-un-cupo-en-la-gran-final-3597892",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/14/6ad0439caab93.r_d.896-374-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-02T04:10:47Z"
-  },
-  {
    "titulo": "Desde Uribe a Cepeda: así reaccionó el mundo político a la muerte de Antonio Navarro Wolff",
    "extracto": "El fallecimiento del dirigente político Antonio Navarro Wolff no pasó desapercibido en el mundo político. Su trayectoria, importancia y pensamiento salieron a relucir en mensajes…",
    "enlace": "https://www.elcolombiano.com/colombia/uribe-cepeda-despedidas-antonio-navarro-wolff-JA43070768",
@@ -281,16 +431,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-02T00:09:43Z"
-  },
-  {
-   "titulo": "Santa Fe cae de local contra Once Caldas y se despide de la Copa BetPlay: el Blanco, a la semifinal",
-   "extracto": "Mal partido del equipo cardenal, que se vio superado en el estadio de Techo.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/santa-fe-cae-de-local-contra-once-caldas-y-se-despide-de-la-copa-betplay-el-blanco-a-la-semifinal-3597888",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7f896d5c99.r_d.844-793-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-02T03:15:30Z"
   },
   {
    "titulo": "Halloween en Colombia: caravanas, riñas y cientos de vehículos inmovilizados marcaron la jornada",
@@ -313,26 +453,6 @@
    "fecha": "2026-11-02T02:10:08Z"
   },
   {
-   "titulo": "Tabla de posiciones de la Liga BetPlay: Cali sigue en la pelea por el ‘punto invisible’ y Medellín, con gol de Jackson, se afianza entre los ocho",
-   "extracto": "La fecha 17 continúa este lunes festivo con dos encuentros, entre ellos Bucaramanga vs. Nacional.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/tabla-de-posiciones-de-la-liga-betplay-cali-sigue-en-la-pelea-por-el-punto-invisible-y-medellin-con-gol-de-jackson-se-afianza-entre-los-ocho-3597878",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7ecc98f897.r_d.558-220-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-02T02:01:56Z"
-  },
-  {
-   "titulo": "Ausencias y dudas clave en Selección Colombia para la fecha Fifa",
-   "extracto": "Empezando por Luis Díaz y pasando por otros indiscutibles, el técnico Lorenzo deberá analizar sus opciones para los próximos amistosos contra Chile.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/ausencias-y-dudas-clave-en-seleccion-colombia-para-la-fecha-fifa-3597877",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/10/12/68ebb1604f38a.r_d.2077-398-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-02T01:56:59Z"
-  },
-  {
    "titulo": "MinSalud descarta casos de ébola en Colombia tras alerta por viajeros que regresaron del Congo: uno murió por malaria",
    "extracto": "El Ministerio de Salud (MinSalud) y el Instituto Nacional de Salud (INS) descartaron, hasta el momento, casos confirmados de ébola en Colombia , luego de activar una investigación…",
    "enlace": "https://www.elcolombiano.com/colombia/minsalud-descarta-casos-ebola-colombia-tras-alerta-viajeros-congo-murio-malaria-HB43068483",
@@ -351,26 +471,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-11-02T01:49:15Z"
-  },
-  {
-   "titulo": "Las miserias del éxito... (Pétalos y espinas, opinión)",
-   "extracto": "Hoy los jugadores del Pereira están hartos de salir a las ruedas de prensa a denunciar atrasos salariales.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/las-miserias-del-exito-petalos-y-espinas-opinion-3597873",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/07/24/6a64165a2481c.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-02T01:27:16Z"
-  },
-  {
-   "titulo": "Después de 2.288 días, Jackson Martínez volvió a disputar un partido profesional y marcó el gol del triunfo del Medellín contra Alianza: video",
-   "extracto": "A los 40 años, el atacante regresó a la competencia luego de seis años de para por causa de una lesión.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/despues-de-2-288-dias-jackson-martinez-volvio-a-disputar-un-partido-profesional-y-marco-el-gol-del-triunfo-del-medellin-contra-alianza-video-3597872",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/01/6ae7dd81471bf.r_d.1805-348-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-02T01:07:16Z"
   },
   {
    "titulo": "Capturaron a 22 presuntos integrantes de una red de robo de combustible",
@@ -513,106 +613,6 @@
    "fecha": "2026-11-01T13:10:21Z"
   },
   {
-   "titulo": "De 18 a 7 ministerios: las propuestas que Rendón llevará a De la Espriella para el rescate fiscal",
-   "extracto": "Una reducción de ministerios, menos entidades adscritas al Gobierno nacional y el traslado de competencias a las regiones hacen parte de las propuestas que el gobernador de…",
-   "enlace": "https://www.elcolombiano.com/antioquia/rendon-propone-reducir-ministerios-de-la-espriella-rescate-fiscal-EC43056471",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/TDPH/tamanos-el-colombiano-2026-10-31t1_52027417_20261031193110.png",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-01T00:36:11Z"
-  },
-  {
-   "titulo": "Antonia / Columna Buena Muela",
-   "extracto": "El chef Jacobo Bonilla cocina su territorio: sabores domésticos, hierbas de los cerros, verduras la Sabana, peces y aves de esta zona del país.",
-   "enlace": "https://www.eltiempo.com/cultura/gastronomia/antonia-columna-buena-muela-3597796",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2024/04/04/660f40dcd1288.r_d.600-300-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-01T11:45:03Z"
-  },
-  {
-   "titulo": "Nutricionista Blanca B. Martín revela el secreto para preparar el pollo más jugoso en una olla y con pocos ingredientes",
-   "extracto": "La receta combina muslos de pollo, zanahoria, cebolla y ajo para conseguir una carne tierna con una salsa cremosa.",
-   "enlace": "https://www.eltiempo.com/cultura/recetas/nutricionista-blanca-b-martin-revela-el-secreto-para-preparar-el-pollo-mas-jugoso-en-una-olla-y-con-pocos-ingredientes-3597744",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/31/6ae6650244469.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-01T11:01:00Z"
-  },
-  {
-   "titulo": "Feng Shui: dónde colocar un recipiente con lentejas en noviembre para atraer abundancia y prosperidad",
-   "extracto": "El ritual con lentejas propone una ubicación estratégica en el hogar para simbolizar la prosperidad y la estabilidad económica.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/feng-shui-donde-colocar-un-recipiente-con-lentejas-en-noviembre-para-atraer-abundancia-y-prosperidad-3597738",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/10/31/6ae658e7e173b.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-01T11:01:00Z"
-  },
-  {
-   "titulo": "El poder de Carlos Ríos, el paisa que le habla al oído a De la Espriella desde la “torre de control” del Gobierno",
-   "extracto": "Para el presidente Abelardo de la Espriella, el abogado paisa Carlos Andrés Ríos Puerta, de 40 años, es una especie de “computador” que siempre tiene una respuesta. Junto a…",
-   "enlace": "https://www.elcolombiano.com/colombia/el-poder-de-carlos-rios-el-paisa-que-le-habla-al-oido-a-de-la-espriella-desde-la-torre-de-control-del-gobierno-DC43051442",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/SUTJ/rios-y-abelardo_52026458_20261031160509.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-01T03:58:47Z"
-  },
-  {
-   "titulo": "Medellín y Antioquia serán sedes de la cumbre militar del Comando Sur de EE. UU. contra carteles de la droga",
-   "extracto": "El ministro de Defensa, Jorge Eduardo Mora, anunció, durante el consejo de seguridad realizado este viernes en Medellín, que propuso a Medellín y Antioquia como sede de la próxima…",
-   "enlace": "https://www.elcolombiano.com/antioquia/cumbre-comando-sur-coalicion-carteles-a3c-tendra-sede-medellin-antioquia-ED43046424",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/BSME/consejo1_52025463_20261031122357.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-10-31T17:36:15Z"
-  },
-  {
-   "titulo": "MinSalud confirma dos casos de malaria en el Valle; activan protocolos para descartar ébola",
-   "extracto": "Hace pocos minutos, el Ministerio de Salud y el Instituto Nacional de Salud (INS) informaron que intensificaron la vigilancia epidemiológica tras identificar dos casos importados…",
-   "enlace": "https://www.elcolombiano.com/colombia/minsalus-casos-malaria-activan-protocolos-descartar-ebola-JC43056285",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/GDPH/tamanos-el-colombiano-2026-10-31t1_52027294_20261031200239.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-01T00:50:46Z"
-  },
-  {
-   "titulo": "De 18 a 7 ministerios: las propuestas que Rendón llevará a De la Espriella para el rescate fiscal",
-   "extracto": "Una reducción de ministerios, menos entidades adscritas al Gobierno nacional y el traslado de competencias a las regiones hacen parte de las propuestas que el gobernador de…",
-   "enlace": "https://www.elcolombiano.com/colombia/rendon-propone-reducir-ministerios-de-la-espriella-rescate-fiscal-EC43056471",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/TDPH/tamanos-el-colombiano-2026-10-31t1_52027417_20261031193110.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-01T00:36:11Z"
-  },
-  {
-   "titulo": "Se mueve la baraja de Federico Gutiérrez para las regionales de 2027 y otros secretos del poder en De Buena Fuente",
-   "extracto": "Con la renuncia del secretario de Seguridad de Medellín, Manuel Villa, oficializada este martes, comienza a decantarse el panorama de las candidaturas a la Alcaldía que buscan ser…",
-   "enlace": "https://www.elcolombiano.com/colombia/federico-gutierrez-las-apuestas-del-alcalde-para-su-sucesion-de-cargo-IC43055814",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/MLWP/federico-gutierrez-apuestas-alcaldia_52027226_20261031182722.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-31T23:29:39Z"
-  },
-  {
-   "titulo": "Vladimir Fernández: el ascenso de un hombre cercano a Petro que hoy aparece en los chats de la Ungrd",
-   "extracto": "Vladimir Fernández ha caído siempre “parado”. Hoy es magistrado de la Corte Constitucional y antes fue funcionario del Gobierno de Gustavo Petro. Y lo ha hecho porque ninguna de…",
-   "enlace": "https://www.elcolombiano.com/colombia/vladimir-fernandez-el-ascenso-de-un-hombre-cercano-a-petro-GC43055636",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/XETE/petro-y-vladimir_52027090_20261031174353.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-31T22:52:54Z"
-  },
-  {
    "titulo": "Tiësto volverá a Medellín en 2027: el DJ anunció concierto en el DaviArena",
    "extracto": "Tiësto volverá a encontrarse con el público colombiano en febrero de 2027. El DJ y productor neerlandés anunció dos presentaciones consecutivas en el país. El viernes 19 de…",
    "enlace": "https://www.elcolombiano.com/cultura/tiesto-concierto-medellin-2027-DC43057114",
@@ -621,56 +621,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-11-01T02:43:49Z"
-  },
-  {
-   "titulo": "“Si uno no incorpora la envidia en el análisis de la historia de Colombia, no la entiende”: José Obdulio",
-   "extracto": "José Obdulio Gaviria, exsenador y exasesor de la Presidencia durante el gobierno de Álvaro Uribe, presenta Magnicidios. Cómo opera la máquina mortal de la criminalidad política…",
-   "enlace": "https://www.elcolombiano.com/colombia/jose-obdulio-gaviria-una-mirada-a-su-nuevo-libro-sobre-magnicidios-en-colombia-DC43054667",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SOHA/jose-obdulio-gaviria_52026804_20261031165930.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-31T22:20:38Z"
-  },
-  {
-   "titulo": "“No hubo fiestas, alcohol ni mujeres”: abogado de Petro dice que reuniones en casas eran por seguridad nacional",
-   "extracto": "Todo el entramado sobre las supuestas reuniones del expresidente Gustavo Petro en casas particulares, que involucrarían acercamientos con mujeres, tendría, según su abogado, una…",
-   "enlace": "https://www.elcolombiano.com/colombia/abogado-petro-reuniones-casas-particulares-seguridad-nacional-OC43054684",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/SDPH/tamanos-el-colombiano-2026-10-31t1_52026684_20261031165643.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-31T22:05:24Z"
-  },
-  {
-   "titulo": "¡Atención! Más de 300 militares llegan a Cúcuta para reforzar la militarización",
-   "extracto": "El despliegue se realizó por instrucción del presidente Abelardo de la Espriella, 48 horas después de que se anunciara la medida. Según informó el alcalde de Cúcuta, Jorge…",
-   "enlace": "https://www.elcolombiano.com/colombia/atencion-militares-cucuta-reforzar-militarizacion-BC43053424",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/EWIB/image-2026-10-31t161238-429_52026497_20261031161837.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-31T21:51:12Z"
-  },
-  {
-   "titulo": "Las amenazas también se disfrazan: consejos del MinTIC para proteger a los niños en internet este Halloween",
-   "extracto": "En medio de este fin de semana de Halloween, los peligros para los niños también pueden llegar desde el internet. Detrás de un perfil, una invitación para jugar o un mensaje que…",
-   "enlace": "https://www.elcolombiano.com/colombia/halloween-consejos-mintic-proteger-ninos-internet-DC43050650",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/GDPH/tamanos-el-colombiano-2026-10-31t1_52026189_20261031154127.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-31T20:59:29Z"
-  },
-  {
-   "titulo": "Choque entre carro y bus en la vía Soacha-El Colegio dejó ocho heridos: esto se sabe",
-   "extracto": "En el inicio del puente festivo, se registró un accidente de tránsito en la vía Soacha-El Colegio que dejó ocho personas heridas, entre ellas tres menores de edad. El siniestro…",
-   "enlace": "https://www.elcolombiano.com/colombia/choque-carro-bus-via-soacha-ocho-heridos-AD43049595",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/QDPH/tamanos-el-colombiano-2026-10-31t1_52026010_20261031144029.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-31T19:49:58Z"
   },
   {
    "titulo": "Más de 398.000 visitantes: el impacto de las bibliotecas públicas en los corregimientos de Medellín",
@@ -693,16 +643,6 @@
    "fecha": "2026-10-31T21:58:26Z"
   },
   {
-   "titulo": "Temblor de magnitud 5,2 sacudió a Panamá este sábado 31 de octubre: estos son los detalles del sismo",
-   "extracto": "El Servicio Geológico Colombiano (SGC) reportó un sismo de magnitud 5,2 este sábado 31 de octubre de 2026, a las 10:50 a. m. , con epicentro en el sector de Bajo Corral, en…",
-   "enlace": "https://www.elcolombiano.com/colombia/temblor-magnitud-panama-sabado-octubre-detalles-sismo-ED43046244",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/399x300/0c0/0d0/center/11101/CQDB/diseno-sin-titulo-2026-10-31t12160_52025610_20261031122041.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-31T17:55:56Z"
-  },
-  {
    "titulo": "Las películas y series que llegarán a Netflix, HBO Max, Prime Video y Apple TV en noviembre 2026",
    "extracto": "Este mes, la espera terminará para los fanáticos del mundo de El señor de los anillos . La tercera temporada de Los anillos de poder , la serie cuyos acontecimientos ocurren miles…",
    "enlace": "https://www.elcolombiano.com/cultura/peliculas-series-netflix-hbo-prime-apple-tv-noviembre-2026-AC43050550",
@@ -723,26 +663,6 @@
    "fecha": "2026-10-31T21:10:24Z"
   },
   {
-   "titulo": "Mintransporte anuncia despliegue del Plan Meteoro en la vía Panamericana tras nuevo atentado contra peaje El Mango, en Cauca",
-   "extracto": "La ministra de Transporte, Elsa Noguera, anunció el despliegue del Plan Meteoro en la vía Panamericana y otros corredores estratégicos de Colombia , luego del atentado con una…",
-   "enlace": "https://www.elcolombiano.com/colombia/mintransporte-plan-meteoro-via-panamericana-atentado-peaje-cauca-JD43044863",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/399x300/0c0/0d0/center/11101/FTDB/diseno-sin-titulo-2026-10-31t11351_52025307_20261031113706.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-31T16:40:29Z"
-  },
-  {
-   "titulo": "Mujer fue asesinada por su pareja mientras le hacía la visita conyugal",
-   "extracto": "",
-   "enlace": "https://www.elcolombiano.com/colombia/mujer-fue-asesinada-por-su-pareja-mientras-le-hacia-la-visita-conyugal-CD43045304",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/571x300/0c0/0d0/center/11101/XNMG/conyugal_52025413_20261031114009.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-10-31T16:40:05Z"
-  },
-  {
    "titulo": "Claudio Cataño llega al cine tras su papel del coronel Aureliano Buendía: “He estado inmerso en papeles muy densos”",
    "extracto": "Por Sergio Villamizar El coronel Aureliano Buendía en la serie Cien años de soledad ha marcado un momento clave en la carrera actoral de Claudio Cataño, quien no pierde el norte y…",
    "enlace": "https://www.elcolombiano.com/cultura/carlos-catano-entrevista-cien-anos-de-soledad-pelicula-el-despertar-actor-colombiano-KC43050208",
@@ -751,76 +671,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-10-31T20:01:46Z"
-  },
-  {
-   "titulo": "Récord en el Pizza Master: se vendieron 385.188 pizzas en una semana (y listado de ganadores)",
-   "extracto": "Entre el 19 y el 25 de octubre, pizzerías de 17 regiones del país sirvieron 385.188 pizzas en el Pizza Master 2026, el festival creado por Tulio Zuloaga, el creador de contenido…",
-   "enlace": "https://www.elcolombiano.com/cultura/pizza-master-2026-ganadores-medellin-antioquia-record-tulio-recomienda-CH43004767",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/400x300/0c0/0d0/center/11101/WPSQ/cheesy-pepperoni-pizza_52016714_20261031100928.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-31T16:02:55Z"
-  },
-  {
-   "titulo": "La luz al final del túnel: reflexiones sobre el sector gastronómico",
-   "extracto": "Por Álvaro Molina @molinacocinero Cada vez que subía por la 10 me llamaba la atención un restaurante de pollo frito con wafles, una combinación gringa deliciosa. Desde afuera se…",
-   "enlace": "https://www.elcolombiano.com/cultura/reflexiones-sobre-el-negocio-gastronomico-alvaro-molina-medellin-HE43036450",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/OYMT/restaurantes-reflexion-alvaro-molina-getty_52023348_20261030194321.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-31T00:35:00Z"
-  },
-  {
-   "titulo": "Latinoamérica recibe por primera vez la gala que elige los 50 mejores restaurantes del mundo",
-   "extracto": "Latinoamérica prepara sus cocinas para recibir a los chefs más influyentes del mundo. El miércoles 4 de noviembre, el Teatro Municipal de Lima será el escenario de la gala de The…",
-   "enlace": "https://www.elcolombiano.com/cultura/latinoamerica-gala-50-mejores-restaurantes-mundo-EF43025054",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/EPDD/whatsapp-image-2026-10-30-at-17-11_52021456_20261030171253.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-30T22:27:08Z"
-  },
-  {
-   "titulo": "Revelaron la causa de muerte de Richard Norton, actor de Mad Max : tratamiento experimental con péptidos fue letal",
-   "extracto": "Después de más de un año de la muerte del actor australiano Richard Norton , conocido por su participación en la saga Mad Max , se dio a conocer que su fallecimiento estuvo…",
-   "enlace": "https://www.elcolombiano.com/cultura/revelan-causa-muerte-richard-norton-actor-mad-max-tratamiento-peptidos-NG43018599",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/PEOT/foto-revelaron-la-causa-de-muerte-de_52020137_20261030161710.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-30T21:37:57Z"
-  },
-  {
-   "titulo": "Ministerio de Cultura regresó a su lugar las obras que habían sido retiradas del Museo Nacional",
-   "extracto": "El Ministerio de Cultura restituyó las piezas que habían sido retiradas de las salas del Museo Nacional el pasado 15 de octubre. La devolución se realizó entre el 29 y el 30 de…",
-   "enlace": "https://www.elcolombiano.com/cultura/ministerio-cultura-regresa-obras-retiradas-museo-nacional-OG43018053",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/OUTT/ministerio-de-cultura-regreso-a-su-l_52020129_20261030154606.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-30T21:10:32Z"
-  },
-  {
-   "titulo": "Desmontaron la Biblioteca Marco Fidel Suárez en la Cancillería, ¿qué pasó?",
-   "extracto": "La primera denuncia se conoció a las 7:00 de la noche del jueves 29 de octubre. Harold González, exdirector de la Academia Diplomática de Colombia en la Cancillería, mostró un…",
-   "enlace": "https://www.elcolombiano.com/cultura/desmonte-de-libros-biblioteca-cancilleria-bogota-marco-fidel-suarez-NH43008674",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/WRYT/biblioteca-marco-fidel_52017498_20261030130113.png",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-30T19:44:14Z"
-  },
-  {
-   "titulo": "Pelea por derechos de autor deja a Luis Alberto Posada sin poder cantar varios de sus éxitos",
-   "extracto": "En la noche del miércoles 28 de octubre, el equipo de Luis Alberto Posada explicó en un video por qué el cantante de música popular dejó de interpretar algunas de sus canciones…",
-   "enlace": "https://www.elcolombiano.com/cultura/luis-alberto-posada-pelea-derechos-autor-youtube-AH43008888",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/STRT/luis-alberto-posada-colprensa_52019142_20261031163119.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-10-30T19:31:07Z"
   },
   {
    "titulo": "Dos hoteles de Antioquia, entre los 11 colombianos que brillan en la Guía Michelin 2026: estos son",
