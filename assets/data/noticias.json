@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-07T05:54:35.574618Z",
- "total": 129,
+ "actualizado": "2026-11-07T12:56:16.493963Z",
+ "total": 128,
  "noticias": [
   {
    "titulo": "Aeropuerto José María Córdova tendrá 88 horas de cierre de pista en noviembre: estas son las fechas",
@@ -21,6 +21,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-11-07T00:12:48Z"
+  },
+  {
+   "titulo": "Don Omar revela las fechas en Colombia de su gira de conciertos en 2027: Bogotá, Medellín y Cali, las elegidas",
+   "extracto": "A partir del 19 de noviembre de 2026, comenzará la preventa en el país para que sus seguidores puedan adquirir sus boletas con anticipación.",
+   "enlace": "https://www.eltiempo.com/cultura/gente/don-omar-revela-las-fechas-en-colombia-de-su-gira-de-conciertos-en-2027-bogota-medellin-y-cali-las-elegidas-3599215",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aef11177005a.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-07T12:00:51Z"
   },
   {
    "titulo": "Pilas que desde el lunes no habrá taquillas en estas estaciones del metro de Medellín: ¿qué pasará?",
@@ -66,7 +76,7 @@
    "titulo": "Revelan las primeras imágenes de la profesora Arleth Carolina tras ser hallada en Bogotá luego de más de dos años desaparecida: emotivo reencuentro",
    "extracto": "Su madre la buscó con la esperanza de encontrarla. Por el momento, se desconoce qué pasó con la docente durante este tiempo.",
    "enlace": "https://www.eltiempo.com/colombia/barranquilla/revelan-las-primeras-imagenes-de-la-profesora-arleth-carolina-tras-ser-hallada-luego-de-mas-de-dos-anos-desaparecida-asi-fue-el-emotivo-reencuentro-3599207",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/06/6aee9aa209c39.png",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/06/6aee9aa209c39.r_d.73-268-0.png",
    "fuente": "El Tiempo",
    "categoria": "colombia",
    "etiqueta": "Colombia",
@@ -93,6 +103,16 @@
    "fecha": "2026-11-07T02:41:32Z"
   },
   {
+   "titulo": "El rastro de Jessica González en el Gobierno Petro: millonarios ingresos prenden alerta en medio de los “sexocontratos”",
+   "extracto": "Las autoridades le metieron acelerador a las investigaciones por la presunta red de contratos a cambio de favores sexuales que habría operado en la Casa de Nariño durante el…",
+   "enlace": "https://www.elcolombiano.com/colombia/el-rastro-de-jessica-gonzalez-en-el-gobierno-petro-millonarios-ingresos-prenden-alerta-en-medio-de-los-sexocontratos-PE43302683",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/ODXB/gustavo-petro-jessica-gonzalez_52078987_20261106215051.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-07T02:28:50Z"
+  },
+  {
    "titulo": "¿Por qué el 44 % de los jóvenes no ahorró el último año y más de la mitad tendría dificultades si no recurre a una ayuda familiar en Cali y el país?",
    "extracto": "La Fundación WWB Colombia destaca la importancia de fortalecer la educación financiera desde edades tempranas.",
    "enlace": "https://www.eltiempo.com/colombia/cali/por-que-el-44-de-los-jovenes-no-ahorro-dinero-durante-el-ultimo-ano-y-mas-de-la-mitad-tendria-dificultades-ante-una-emergencia-en-cali-y-el-pais-3599175",
@@ -111,6 +131,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-07T01:58:25Z"
+  },
+  {
+   "titulo": "“Perdimos tiempo en estos dos años, pero vamos a recuperarlo”: embajadora de Israel en Colombia",
+   "extracto": "Las relaciones diplomáticas entre Colombia e Israel pasaron del rompimiento por el expresidente Gustavo Petro a que el presidente Abelardo de la Espriella no solo las reanudara…",
+   "enlace": "https://www.elcolombiano.com/colombia/embajadora-de-israel-colombia-perdimos-tiempo-pero-lo-vamos-a-recuperar-PE43302159",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/XRDH/whatsapp-image-2026-11-06-at-21-25_52078819_20261106212654.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-07T01:43:35Z"
   },
   {
    "titulo": "EN VIDEO: Tres mujeres heridas por ataque a cuchillo en Urabá",
@@ -383,6 +413,16 @@
    "fecha": "2026-11-06T12:36:37Z"
   },
   {
+   "titulo": "¿Qué va a hacer este domingo? El chef Álvaro Molina le recomienda algunos planes",
+   "extracto": "Por Álvaro Molina @molinacocinero Solo siento el paso de los años subiendo o bajando escaleras. No soy para nada apegado al pasado, pero me gustan los buenos recuerdos: me…",
+   "enlace": "https://www.elcolombiano.com/cultura/que-va-a-hacer-este-domingo-el-chef-alvaro-molina-le-recomienda-algunos-planes-JE43300955",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/OOCT/alvaro-molina-recomendaciones-para-domingo_52075196_20261106195241.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-07T00:32:14Z"
+  },
+  {
    "titulo": "Proyecto 48 Colombia abre inscripciones: el reto de hacer un cortometraje en solo 48 horas",
    "extracto": "El ganador representará al país en Filmapalooza 2027, en Curazao, con posibilidades de proyección internacional y de acceder al Festival de Cannes.",
    "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/proyecto-48-colombia-abre-inscripciones-el-reto-de-hacer-un-cortometraje-en-solo-48-horas-3599166",
@@ -591,16 +631,6 @@
    "categoria": "deportes",
    "etiqueta": "Deportes",
    "fecha": "2026-11-06T20:14:29Z"
-  },
-  {
-   "titulo": "Ropa interior ajustada podría causar disfunción eréctil y problemas en la calidad del esperma, según estudio",
-   "extracto": "Los investigadores identificaron alteraciones en el ADN espermático y otros indicadores reproductivos en hombres evaluados.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/ropa-interior-ajustada-podria-causar-disfuncion-erectil-y-problemas-en-la-calidad-del-esperma-segun-estudio-3599016",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/06/6aee0f990f82a.r_d.18-103-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-06T19:56:03Z"
   },
   {
    "titulo": "Fiscalía abrió noticia criminal por los “sexocontratos” y cita a declarar a Deicy Jiménez el 10 de noviembre",
@@ -933,16 +963,6 @@
    "fecha": "2026-11-05T21:54:16Z"
   },
   {
-   "titulo": "Tato, reconocido comerciante de La Ceja, Antioquia, murió en choque de su motocicleta",
-   "extracto": "Un accidente de tránsito tiene de luto a la comunidad de La Ceja, Oriente antioqueño, por la muerte de Tato, un reconocido dueño de un estanquillo que durante años fue frecuentado…",
-   "enlace": "https://www.elcolombiano.com/antioquia/muerte-tato-reconocido-comerciante-municipio-la-ceja-choque-motocicleta-GF43207890",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/459x300/0c0/0d0/center/11101/DDOI/comerciante-la-ceja_52059487_20261105092322.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-05T13:46:49Z"
-  },
-  {
    "titulo": "Cuenta regresiva para la sequía: Ideam anunció cuándo llegaría el pico de El Niño y bajarán las lluvias en el país",
    "extracto": "Colombia transita por un periodo de alternancia entre fuertes lluvias y otras jornadas secas debido a la transición estacional del clima, por lo que la proximidad del pico -y…",
    "enlace": "https://www.elcolombiano.com/colombia/ideam-anuncia-cuando-llega-pico-fenomeno-el-nino-bajan-lluvias-colombia-sequia-NG43230058",
@@ -971,16 +991,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-05T20:30:14Z"
-  },
-  {
-   "titulo": "Duro golpe al Clan del Golfo en el Oriente antioqueño: rescataron a dos menores secuestrados y le quitaron arsenal",
-   "extracto": "Dos menores de edad que estaban en poder del Clan del Golfo en el municipio de Rionegro, Oriente antioqueño, fueron rescatados por parte de la Cuarta Brigada del Ejército, en un…",
-   "enlace": "https://www.elcolombiano.com/antioquia/liberan-dos-menores-clan-del-golfo-rionegro-decomisan-arsenal-noviembre-2026-OF43206945",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/400x300/0c0/0d0/center/11101/TVNR/rionegro-2_52059330_20261105065825.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-05T12:04:28Z"
   },
   {
    "titulo": "Daniel Ruggiero llega a Medellín con un show que combina a Borges, el tango y lo sinfónico",
@@ -1141,26 +1151,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-11-05T17:34:39Z"
-  },
-  {
-   "titulo": "¿Qué delitos podría enfrentar Petro por presuntos contratos a cambio de favores sexuales?",
-   "extracto": "Deicy Jiménez había anunciado que tenía múltiples pruebas contra Gustavo Petro, a quien señala de haberle gestionado contratos con el Estado a cambio de favores sexuales. Este…",
-   "enlace": "https://www.elcolombiano.com/colombia/gustavo-petro-delitos-contratos-favores-sexuales-cuales-son-IF43208642",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SNYT/des-deben-estar-sometidas-a-la-const_52059627_20261105082042.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-05T13:00:08Z"
-  },
-  {
-   "titulo": "Petro reacciona a video de Deicy Jiménez: “Quien busca justicia entrega sus pruebas a la Corte, no a los titulares”",
-   "extracto": "La defensa del expresidente Gustavo Petro, y él a título personal, reaccionaron a la publicación de un video íntimo en el que se le ve con Deicy Jiménez, la joven de 26 años que…",
-   "enlace": "https://www.elcolombiano.com/colombia/busca-justicia-entrega-pruebas-corte-titulares-petro-video-deicy-jimenez-KF43206581",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/VAGC/petro-deicy-presidencia_52059162_20261105103207.webp",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-05T12:25:42Z"
   },
   {
    "titulo": "La Orquesta Sinfónica Nacional llega a Medellín para celebrar el cumpleaños del Teatro Metropolitano",
