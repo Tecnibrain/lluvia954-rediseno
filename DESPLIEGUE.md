@@ -1,5 +1,21 @@
 # Paso a producción — cPanel (Colombia Hosting)
 
+> ## Ejecutado el 7 de noviembre de 2026
+>
+> El rediseño **ya está en producción** en `https://lluvia954.com`.
+> Lo que sigue se conserva como referencia de lo que se hizo.
+>
+> | | |
+> |---|---|
+> | **Respaldo previo** | `/home/lluvia/respaldo-sitio-2026-11-07.zip` (6,9 MB, fuera de `public_html`) |
+> | **Interruptor** | `index.php` renombrado a `index.php.anterior` |
+> | **Vuelta atrás** | Renombrar `index.php.anterior` de vuelta a `index.php`. Las redirecciones del `.htaccess` llevan una condición y se desactivan solas |
+> | **Sitio anterior** | Intacto en `home.html`, `acerca-de.html`, `style/`, `res/`, `pcss/`, `pluginAppObj/` |
+>
+> También se corrigieron 27 archivos que habían quedado con permisos `0666` al
+> descomprimir, y se reescribieron `sitemap.xml` y `robots.txt` con las URL nuevas.
+
+
 Guía para publicar el rediseño en `lluvia954.com`.
 Va en dos tiempos: **primero una carpeta de pruebas**, y solo cuando todo funcione, la raíz.
 

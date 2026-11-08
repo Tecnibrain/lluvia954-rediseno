@@ -5,6 +5,11 @@
  * Lee varios canales RSS colombianos, los mezcla priorizando Antioquia y luego
  * el resto de Colombia, y devuelve JSON para el front-end.
  *
+ * La prioridad regional se consigue de dos formas que se complementan: un
+ * impulso en el orden (ver 'boost') y unos cupos reservados en las primeras
+ * posiciones (ver CUPOS_ANTIOQUIA), porque el impulso por sí solo se queda
+ * corto frente al volumen de noticias nacionales.
+ *
  * Publica SOLO titular + extracto corto + enlace a la fuente original, que es
  * el uso previsto de un RSS. No reproduce artículos completos.
  *
@@ -31,6 +36,22 @@ const TIMEOUT = 8;
 
 /** Máximo de caracteres del extracto. */
 const EXTRACTO = 180;
+
+/**
+ * Cupos reservados a Antioquia, como pares [hasta_posición, mínimo]:
+ * «al menos 4 entre las 8 primeras» y «al menos 8 entre las 20 primeras».
+ * Solo se adelanta una noticia regional cuando, de no hacerlo, el cupo ya no
+ * podría cumplirse con las posiciones libres que quedan; el resto del orden
+ * por recencia se conserva intacto.
+ */
+const CUPOS_ANTIOQUIA = [[8, 4], [20, 8]];
+
+/**
+ * Antigüedad máxima, en horas, para que una noticia regional pueda ascender
+ * por cupo. Evita clavar arriba una nota de hace tres días solo por llenar
+ * el hueco reservado.
+ */
+const HORAS_FRESCURA_CUPO = 48;
 
 /**
  * Canales. 'boost' son segundos que se suman a la fecha al ordenar: cuanto más
@@ -138,6 +159,7 @@ foreach ($FUENTES as $f) {
         $vistos[$clave] = true;
 
         $descripcion = (string) $item->description;
+        $ts          = fecha($item);
 
         $noticias[] = [
             'titulo'    => $titulo,
@@ -147,8 +169,9 @@ foreach ($FUENTES as $f) {
             'fuente'    => $f['fuente'],
             'categoria' => $f['categoria'],
             'etiqueta'  => $f['etiqueta'],
-            'fecha'     => gmdate('c', fecha($item)),
-            '_orden'    => fecha($item) + $f['boost'],
+            'fecha'     => gmdate('c', $ts),
+            '_orden'    => $ts + $f['boost'],
+            '_ts'       => $ts,
         ];
     }
 }
@@ -159,8 +182,13 @@ usort($noticias, function ($a, $b) {
     return $b['_orden'] <=> $a['_orden'];
 });
 
+// El impulso por sí solo no bastaba: El Colombiano publica unas 20 notas de
+// Antioquia frente a casi 60 nacionales, y las nacionales suelen ser más
+// recientes, así que la región acababa relegada. Los cupos le reservan sitio.
+$noticias = aplicarCupos($noticias, CUPOS_ANTIOQUIA, time() - HORAS_FRESCURA_CUPO * 3600);
+
 foreach ($noticias as &$n) {
-    unset($n['_orden']);
+    unset($n['_orden'], $n['_ts']);
 }
 unset($n);
 
@@ -214,6 +242,88 @@ function responder($json)
     $datos['total'] = count($datos['noticias']);
 
     return json_encode($datos, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+}
+
+/**
+ * Reordena la lista para cumplir los cupos regionales.
+ *
+ * Recorre las posiciones una a una tomando siempre la mejor noticia disponible
+ * según el orden ya calculado. Solo cuando a un cupo le quedan tantas unidades
+ * por cubrir como posiciones libres en su ventana, fuerza en ese hueco la
+ * noticia de Antioquia más reciente que siga dentro del margen de frescura.
+ * Si no queda ninguna disponible, continúa sin forzar: nunca deja huecos.
+ *
+ * @param array $noticias Ya ordenadas por relevancia.
+ * @param array $cupos    Pares [hasta_posición, mínimo].
+ * @param int   $frescura Marca de tiempo mínima para poder ascender por cupo.
+ * @return array
+ */
+function aplicarCupos(array $noticias, array $cupos, $frescura)
+{
+    $total = count($noticias);
+    if ($total === 0 || empty($cupos)) {
+        return $noticias;
+    }
+
+    $ultima = 0;
+    foreach ($cupos as $c) {
+        $ultima = max($ultima, $c[0]);
+    }
+
+    $usado    = [];
+    $salida   = [];
+    $regional = 0; // noticias de Antioquia ya colocadas
+    $cursor   = 0; // primera posición sin usar del orden general
+
+    for ($pos = 1; $pos <= $total; $pos++) {
+        $forzar = false;
+        if ($pos <= $ultima) {
+            foreach ($cupos as $c) {
+                if ($pos > $c[0]) {
+                    continue;
+                }
+                $faltan = $c[1] - $regional;
+                $huecos = $c[0] - $pos + 1;
+                if ($faltan > 0 && $faltan >= $huecos) {
+                    $forzar = true;
+                    break;
+                }
+            }
+        }
+
+        $elegido = -1;
+
+        if ($forzar) {
+            for ($j = $cursor; $j < $total; $j++) {
+                if (isset($usado[$j])) {
+                    continue;
+                }
+                if ($noticias[$j]['categoria'] === 'antioquia'
+                    && $noticias[$j]['_ts'] >= $frescura) {
+                    $elegido = $j;
+                    break;
+                }
+            }
+        }
+
+        if ($elegido < 0) {
+            while ($cursor < $total && isset($usado[$cursor])) {
+                $cursor++;
+            }
+            if ($cursor >= $total) {
+                break;
+            }
+            $elegido = $cursor;
+        }
+
+        $usado[$elegido] = true;
+        if ($noticias[$elegido]['categoria'] === 'antioquia') {
+            $regional++;
+        }
+        $salida[] = $noticias[$elegido];
+    }
+
+    return $salida;
 }
 
 /** Descarga una URL con cURL y, si no está disponible, con file_get_contents. */
