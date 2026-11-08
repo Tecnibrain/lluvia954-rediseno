@@ -1,7 +1,27 @@
 {
- "actualizado": "2026-11-07T21:46:41.674148Z",
- "total": 118,
+ "actualizado": "2026-11-08T02:07:26.907279Z",
+ "total": 110,
  "noticias": [
+  {
+   "titulo": "Escándalo en la Fiscalía: revelan presunta maniobra para reducir cargos a 11 procesados de la Primera Línea en Bogotá",
+   "extracto": "Directivas de la Fiscalía General habrían transmitido en junio de 2026 una instrucción atribuida a la fiscal general, Luz Adriana Camargo, para reemplazar el cargo de terrorismo…",
+   "enlace": "https://www.elcolombiano.com/colombia/escandalo-en-la-fiscalia-presunta-maniobra-primera-linea-KF43317368",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/455x300/0c0/0d0/center/11101/ERMY/mmarchas_52081988_20261107194400.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-08T02:00:30Z"
+  },
+  {
+   "titulo": "Tres militares muertos y 8 heridos deja ataque con drones contra cantón militar en el sur de Bolívar",
+   "extracto": "Tres militares murieron y 8 resultaron heridos en un ataque con drones cargados con explosivos contra el Cantón Militar de Santa Rosa, en el sur de Bolívar, la tarde de este…",
+   "enlace": "https://www.elcolombiano.com/colombia/militares-ejercito-ataque-drones-sur-de-bolivar-PF43310719",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/416x300/0c0/0d0/center/11101/SENA/explosion-canton-bolivar_52080927_20261107160549.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-08T01:34:04Z"
+  },
   {
    "titulo": "¿Por deudas con pagadiarios? Asesinaron de seis tiros a un vendedor de chorizos en Copacabana",
    "extracto": "Las deudas que tendría con pagadiarios serían la causa del asesinato de Juan Camilo López Mejía, de 23 años, en Copacabana . Hombres motorizados lo abordaron y le dispararon en…",
@@ -11,6 +31,16 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-11-07T17:32:50Z"
+  },
+  {
+   "titulo": "La extorsión sigue con el control del turismo en Santa Marta: con amenazas obligan a pagar hasta por alquilar una silla en la playa",
+   "extracto": "Aseguran que les cobran por sillas alquiladas, platos vendidos y viajes de lanchas realizados, además de que todos deben pagar para trabajar.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/la-extorsion-sigue-con-el-control-del-turismo-en-santa-marta-con-amenazas-obligan-a-pagar-hasta-por-alquilar-una-silla-en-la-playa-3599303",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2020/06/12/5ee3ab1e714c9.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-08T00:59:10Z"
   },
   {
    "titulo": "Después de ocho meses, volvieron a cobrar un peaje en la Medellín-Bogotá: ¿qué pasó?",
@@ -23,6 +53,106 @@
    "fecha": "2026-11-07T16:19:11Z"
   },
   {
+   "titulo": "Tras revelar los ‘sexocontratos’, encontraron tres hombres armados en la residencia del director del Dapre: De la Espriella le expresó su respaldo",
+   "extracto": "El presidente Abelardo de la Espriella expresó este sábado 7 de noviembre su respaldo al director del Departamento Administrativo de la Presidencia (Dapre), Carlos Andrés Ríos…",
+   "enlace": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-dapre-hombres-armados-sexocontratos-OF43316109",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/416x300/0c0/0d0/center/11101/UYKY/dapre-abelardo-de-la-espriella_52081688_20261107180301.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-07T23:30:29Z"
+  },
+  {
+   "titulo": "Aeropuerto José María Córdova tendrá 88 horas de cierre de pista en noviembre: estas son las fechas",
+   "extracto": "Los viajeros que tienen previsto utilizar el aeropuerto internacional José María Córdova de Rionegro durante noviembre deberán tener en cuenta una serie de restricciones…",
+   "enlace": "https://www.elcolombiano.com/antioquia/cierre-pista-aeropuerto-jose-maria-cordova-FE43301455",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/437x300/0c0/0d0/center/11101/NMCO/aeropuerto-melo_52078533_20261106195502.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-07T00:57:26Z"
+  },
+  {
+   "titulo": "Tren Multipropósito de Antioquia: aprueban en la Asamblea nuevo avance para conectar Bello con Puerto Berrío",
+   "extracto": "La Asamblea de Antioquia aprobó, con 23 votos a favor y ninguno en contra, la autorización al gobernador del departamento para capitalizar la Sociedad Promotora Ferrocarril de…",
+   "enlace": "https://www.elcolombiano.com/antioquia/asamblea-aprueba-capitalizacion-tren-multiproposito-antioquia-bello-puerto-berrio-FM43297741",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/437x300/0c0/0d0/center/11101/WRKB/tren-multipro_52078000_20261106183823.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-07T00:12:48Z"
+  },
+  {
+   "titulo": "Nuevo accidente en la avenida Las Palmas, en Medellín: carro particular terminó volcado y provocó congestión vehicular",
+   "extracto": "El siniestro ocurrió este sábado 7 de noviembre en el sector de Cocorollo. Por ahora, no hay información oficial sobre posibles personas lesionadas.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/nuevo-accidente-en-la-avenida-las-palmas-en-medellin-carro-particular-termino-volcado-y-provoco-congestion-vehicular-3599305",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aefae300420e.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-07T23:10:55Z"
+  },
+  {
+   "titulo": "De la Espriella condenó atentado contra militares en Bolívar: “No vamos a ceder un centímetro”",
+   "extracto": "El presidente Abelardo de la Espriella condenó un atentado perpetrado con drones cargados con explosivos , que deja cifras preliminares de cinco militares asesinados y 35 heridos…",
+   "enlace": "https://www.elcolombiano.com/colombia/atentado-bolivar-gobierno-abelardo-de-la-espriella-muertos-IF43315591",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/XBCD/abelardo-de-la-espriella-7_52081568_20261107174028.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-07T22:59:56Z"
+  },
+  {
+   "titulo": "Defensoría exige respuesta urgente del Gobierno tras ataque en el sur de Bolívar que dejó tres militares muertos y 35 heridos",
+   "extracto": "El organismo advirtió que más de 11.000 personas han resultado afectadas por la violencia en la región.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/defensoria-exige-respuesta-urgente-del-gobierno-tras-ataque-en-el-sur-de-bolivar-que-dejo-tres-militares-muertos-y-35-heridos-3599294",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aef986113120.r_d.230-303-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-07T22:21:08Z"
+  },
+  {
+   "titulo": "Barranquilla se alista para la final de la Sudamericana: más vuelos, hoteles llenos y una millonaria expectativa económica",
+   "extracto": "La ciudad prepara su oferta turística y de transporte para recibir aficionados el 21 de noviembre. Avianca anunció vuelos adicionales desde Argentina.",
+   "enlace": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-se-alista-para-la-final-de-la-sudamericana-mas-vuelos-hoteles-llenos-y-una-millonaria-expectativa-economica-3599289",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/01/03/67782c0e002da.r_d.1337-792-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-07T21:59:17Z"
+  },
+  {
+   "titulo": "América vs. Deportivo Cali, en vivo el minuto a minuto en el Pascual Guerrero",
+   "extracto": "Se enfrentan este sábado en la fecha 18 del campeonato.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/america-vs-deportivo-cali-en-vivo-siga-el-minuto-a-minuto-en-la-liga-betplay-3599316",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/04/6ac316230ca12.r_d.917-736-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-08T01:50:56Z"
+  },
+  {
+   "titulo": "Fiscalía formuló acusación contra la exministra del Deporte y medallista olímpica, María Isabel Urrutia, por presunta irregularidad en contratos",
+   "extracto": "La investigación apunta a anomalías en la contratación directa del sistema de validación de ingreso a los estadios por más de 4.950 millones de pesos.",
+   "enlace": "https://www.eltiempo.com/justicia/investigacion/fiscalia-formulo-acusacion-contra-la-exministra-del-deporte-y-medallista-olimpica-maria-isabel-urrutia-por-presunta-irregularidad-en-contratos-3599290",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/06/09/64830fbfb1f00.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-07T21:46:05Z"
+  },
+  {
+   "titulo": "Partidazo en el Atanasio Girardot: Atlético Nacional luchó y sufrió para vencer a un combativo Deportivo Pereira",
+   "extracto": "El cuadro matecaña estuvo cerca de llevarse la victoria de visitante y al final perdió.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/partidazo-en-el-atanasio-girardot-atletico-nacional-lucho-y-sufrio-para-vencer-a-un-combativo-deportivo-pereira-3599320",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aefca709c34d.r_d.731-736-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-08T01:29:26Z"
+  },
+  {
    "titulo": "'Si se le ocurre seguir delinquiendo le va a ir muy mal, estamos preparados': Federico Gutiérrez, alcalde de Medellín, sobre liberación de alias Tom",
    "extracto": "El mandatario de la capital de Antioquia reaccionó a la noticia de la salida de la cárcel, bajo el beneficio de libertad condicional, de 'Tom'.",
    "enlace": "https://www.eltiempo.com/colombia/medellin/si-se-le-ocurre-seguir-delinquiendo-le-va-a-ir-muy-mal-estamos-preparados-federico-gutierrez-alcalde-de-medellin-sobre-liberacion-de-alias-tom-3599267",
@@ -31,6 +161,46 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-07T21:15:05Z"
+  },
+  {
+   "titulo": "Pilas que desde el lunes no habrá taquillas en estas estaciones del metro de Medellín: ¿qué pasará?",
+   "extracto": "Desde esta semana que termina, los usuarios de seis estaciones del metro han encontrado un anuncio que les indica que las taquillas de venta de estos espacios dejarán de operar…",
+   "enlace": "https://www.elcolombiano.com/antioquia/estaciones-metro-medellin-sin-taquillas-desde-9-noviembre-2026-KM43291038",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/439x300/0c0/0d0/center/11101/PHLE/metro-1_52075876_20261106171344.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-06T23:02:55Z"
+  },
+  {
+   "titulo": "Bloquearon vía por falta de obras en carretera Yondó-Puerto Berrío, en Antioquia",
+   "extracto": "Una situación de inconformidad se registra por el deteriorado estado de la vía que comunica dos importantes municipios del Magdalena Medio antioqueño, situación que causó el…",
+   "enlace": "https://www.elcolombiano.com/antioquia/bloqueo-via-yondo-puerto-berrio-por-falta-obras-antioquia-BN43288977",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/RKLH/yondo-2_52075477_20261106164151.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-06T22:09:09Z"
+  },
+  {
+   "titulo": "A tiros y dentro de un Peugeot: hallan muerto a posible conductor de aplicación en San Félix",
+   "extracto": "Un nuevo hecho violento se reportó en zona rural de Bello , en el norte del Valle de Aburrá, donde fue encontrado el cuerpo sin vida de un hombre que habría sido asesinado con…",
+   "enlace": "https://www.elcolombiano.com/antioquia/conductor-aplicacion-hallado-muerto-peugeot-san-felix-bello-DN43280740",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/437x300/0c0/0d0/center/11101/GWTD/muerto-san-felix_52073716_20261106143317.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-06T19:51:20Z"
+  },
+  {
+   "titulo": "Golpe a ‘Primo Gay’: murió su señalado hombre de confianza en operativo del Ejército en Yarumal",
+   "extracto": "El Ejército Nacional propinó un golpe a los planes de expansión criminal que se estarían gestando en el Norte de Antioquia, más específicamente en el municipio de Yarumal. El…",
+   "enlace": "https://www.elcolombiano.com/antioquia/muerte-hombre-confianza-primo-gay-clan-del-golfo-operativo-ejercito-antioquia-NC43278005",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/437x300/0c0/0d0/center/11101/IGKT/flaquito-alias_52073281_20261106135021.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-06T19:10:06Z"
   },
   {
    "titulo": "Fuertes lluvias obligan a suspender la búsqueda de Zoé, la niña arrastrada por un arroyo en Soledad: la Armada se suma al operativo",
@@ -53,16 +223,6 @@
    "fecha": "2026-11-07T20:59:57Z"
   },
   {
-   "titulo": "Cinco militares muertos y 35 heridos deja ataque con drones contra cantón militar en el sur de Bolívar",
-   "extracto": "Cinco militares murieron y 35 resultaron heridos, ocho de ellos de gravedad, en un ataque con drones cargados con explosivos contra el Cantón Militar de Santa Rosa, en el sur de…",
-   "enlace": "https://www.elcolombiano.com/colombia/militares-ejercito-ataque-drones-sur-de-bolivar-PF43310719",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/416x300/0c0/0d0/center/11101/SENA/explosion-canton-bolivar_52080927_20261107160549.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-07T20:50:07Z"
-  },
-  {
    "titulo": "Noche de Museos de Bogotá 2026: fechas, actividades y más de 80 museos que podrá visitar gratis",
    "extracto": "Desde el martes 10 de noviembre, los museos de Bogotá comenzarán a desarrollar actividades presenciales y virtuales como parte de la VII Noche de Museos, cuya jornada principal…",
    "enlace": "https://www.elcolombiano.com/colombia/noche-museos-bogota-2026-fechas-actividades-80-museos-entrada-gratis-CF43310673",
@@ -83,6 +243,26 @@
    "fecha": "2026-11-07T20:11:04Z"
   },
   {
+   "titulo": "Rosario Central celebró un título que no ganó: jugadores e hinchas festejaron en cancha, pero el campeón fue Boca Juniors",
+   "extracto": "El estadio de Rosario estalló de locura al creerse campeones, pero un gol agónico de Boca Juniors les amargó la fiesta en el último minuto.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/rosario-central-celebro-un-titulo-que-no-gano-jugadores-e-hinchas-festejaron-en-cancha-pero-el-campeon-fue-boca-juniors-3599313",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aefb9f7b13ea.png",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-08T00:04:34Z"
+  },
+  {
+   "titulo": "Luis Javier Suárez anotó golazo con Sporting antes de unirse a la Selección Colombia",
+   "extracto": "El delantero colombiano fue figura para darle la victoria a su equipo ante Moreirense en la Liga de Portugal.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/luis-javier-suarez-anoto-golazo-con-sporting-antes-de-unirse-a-la-seleccion-colombia-3599312",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/13/6aa71f6f1f8da.r_d.2043-869-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-07T23:51:59Z"
+  },
+  {
    "titulo": "Con drones atacaron un cantón militar en el sur de Bolívar: reportan tres muertos y 35 heridos; esto se sabe del atentado terrorista",
    "extracto": "Autoridades no se han pronunciado sobre el atentado. En videos se mostró cómo quedó destruido el lugar.",
    "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/con-drones-atacaron-un-canton-militar-en-el-sur-de-bolivar-reportan-varios-heridos-esto-se-sabe-del-atentado-terrorista-3599270",
@@ -91,6 +271,46 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-07T19:44:57Z"
+  },
+  {
+   "titulo": "Dayro Moreno lo vuelve a hacer: golazo de tiro libre para la victoria agónica del Once Caldas",
+   "extracto": "El atacante agranda su leyenda con otro gol en Manizales.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/dayro-moreno-lo-vuelve-a-hacer-golazo-de-tiro-libre-para-la-victoria-agonica-del-once-caldas-3599306",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aefafd7c1f10.r_d.147-188-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-07T23:38:53Z"
+  },
+  {
+   "titulo": "Insólito video en la NBA: dos aficionados de Cleveland Cavaliers encestaron dos tiros consecutivos desde media cancha y ganaron premios",
+   "extracto": "La hazaña quedó registrada en video y fue compartida por la cuenta oficial de la NBA en Instagram.",
+   "enlace": "https://www.eltiempo.com/deportes/otros-deportes/insolito-video-en-la-nba-dos-aficionados-de-cleveland-cavaliers-encestaron-dos-tiros-consecutivos-desde-media-cancha-y-ganaron-premios-3599304",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aefb0eff0aaa.r_d.856-215-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-07T23:38:44Z"
+  },
+  {
+   "titulo": "Atlético Nacional vs. Deportivo Pereira, en vivo: siga el minuto a minuto del partido en la Liga Betplay",
+   "extracto": "El equipo verdolaga quiere afianzarse en el liderato.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/atletico-nacional-vs-deportivo-pereira-en-vivo-siga-el-minuto-a-minuto-del-partido-en-la-liga-betplay-3599300",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/17/6ad3ee6fc7e93.r_d.779-446-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-07T22:42:45Z"
+  },
+  {
+   "titulo": "Real Madrid le da paliza al Valencia y alcanza al Barcelona de manera parcial en el liderato de la Liga española",
+   "extracto": "El cuadro merengue llegó a 30 puntos. Este domingo estará en acción el cuadro catalán contra el Atlético.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/real-madrid-le-da-paliza-al-valencia-y-alcanza-al-barcelona-de-manera-parcial-en-el-liderato-de-la-liga-espanola-3599295",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aef9ec4c9b8c.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-07T22:29:31Z"
   },
   {
    "titulo": "Más de 750 militares de Colombia y EE. UU. realizan entrenamiento conjunto en Tolemaida",
@@ -133,16 +353,6 @@
    "fecha": "2026-11-07T21:28:34Z"
   },
   {
-   "titulo": "La Federación de Egipto destituye a Hossam Hassan como seleccionador tras un escándalo con sus dos esposas",
-   "extracto": "El organismo oficial nombró a Ali Maher al frente del equipo nacional.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/la-federacion-de-egipto-destituye-a-hossam-hassan-como-seleccionador-tras-un-escandalo-con-sus-dos-esposas-3599273",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/07/07/6a4d56fbb73a0.r_d.1037-512-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-07T21:23:10Z"
-  },
-  {
    "titulo": "Alarmas encendidas: Linda Caicedo se retira lesionada en el empate del Real Madrid frente al Athletic Club",
    "extracto": "La futbolista colombiana genera expectativa tras sufrir el percance en partido de la liga española femenina.",
    "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/alarmas-encendidas-linda-caicedo-se-retira-lesionada-en-el-empate-del-real-madrid-frente-al-athletic-club-3599285",
@@ -151,26 +361,6 @@
    "categoria": "deportes",
    "etiqueta": "Deportes",
    "fecha": "2026-11-07T21:22:37Z"
-  },
-  {
-   "titulo": "Jhon Córdoba marcó doblete y fue figura justo cuando es ausente en Selección Colombia",
-   "extracto": "El delantero colombiano terminó siendo vital en la victoria de Krasnodar 4-2 a CSKA en la Liga de Rusia.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/jhon-cordoba-marco-doblete-y-fue-figura-justo-cuando-es-ausente-en-seleccion-colombia-3599284",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/11/30/692c62aca8945.r_d.1652-812-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-07T21:11:08Z"
-  },
-  {
-   "titulo": "El aeropuerto José María Córdova de Rionegro tendrá 88 horas de cierres en noviembre por mantenimiento de la pista: conozca la programación",
-   "extracto": "Airplan, concesionario de la terminal aérea internacional de Antioquia, informó los horarios. El aeropuerto permanecerá abierto 24 horas.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/el-aeropuerto-jose-maria-cordova-de-rionegro-tendra-88-horas-de-cierres-en-noviembre-por-mantenimiento-de-la-pista-conozca-la-programacion-3599242",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/09/24/68d46daba0bb5.r_d.619-248-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-07T17:05:17Z"
   },
   {
    "titulo": "Noche de Museos de Bogotá 2026: fechas, actividades y más de 80 museos que podrá visitar gratis",
@@ -183,16 +373,6 @@
    "fecha": "2026-11-07T20:46:34Z"
   },
   {
-   "titulo": "Investigan posible secuestro de dos mujeres desaparecidas en el norte de Barranquilla: una camioneta, nueva pista del caso",
-   "extracto": "Sonia Sanjuan y Kelly Acosta fueron reportadas como desaparecidas el viernes 6 de noviembre. El Gaula estaría al frente de las investigaciones.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/investigan-posible-secuestro-de-dos-mujeres-desaparecidas-en-el-norte-de-barranquilla-una-camioneta-nueva-pista-del-caso-3599247",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aef5299dbf6c.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-07T16:42:49Z"
-  },
-  {
    "titulo": "Estos son los dos hombres habrían ocultado el cuerpo de María Camila Potosí: Fiscalía les imputó feminicidio",
    "extracto": "Un fiscal especializado de la Seccional Cali imputó el delito de feminicidio agravado en calidad de cómplices a Camilo Moncayo Solano y Ángelo Ochoa Ríos , detenidos por su…",
    "enlace": "https://www.elcolombiano.com/colombia/dos-hombres-capturados-ocultaron-cuerpo-maria-camila-potosi-fiscalia-feminicidio-LE43306049",
@@ -201,36 +381,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-07T16:39:44Z"
-  },
-  {
-   "titulo": "Floridablanca dio inicio a sus Ferias y Fiestas Dulces con nueve días de cultura, música y tradición: esta es su programación",
-   "extracto": "La programación se extenderá hasta el 15 de noviembre e incluirá eventos para todos los públicos.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/floridablanca-dio-inicio-a-sus-ferias-y-fiestas-dulces-con-nueve-dias-de-cultura-musica-y-tradicion-esta-es-su-programacion-3599245",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2023/05/25/646ff2246e7c2.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-07T16:30:54Z"
-  },
-  {
-   "titulo": "Manchester City se frenó y sufre su tercera derrota consecutiva en la Premier League",
-   "extracto": "Esta vez el Nottingham Forest se impuso en la décima jornada del torneo.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/manchester-city-profundiza-su-crisis-con-tercera-derrota-consecutiva-en-la-premier-league-3599278",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aef867b19e8e.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-07T20:28:32Z"
-  },
-  {
-   "titulo": "Homenajes conmueven al fútbol español tras el fallecimiento del delantero Jesús de Miguel",
-   "extracto": "Los estadios de España rindieron tributo al jugador del Tenerife, víctima de un choque fatal en un encuentro de la segunda división.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/homenajes-conmueven-al-futbol-espanol-tras-el-fallecimiento-del-delantero-jesus-de-miguel-3599279",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/03/6aea21384a5cf.r_d.2052-770-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-07T20:26:40Z"
   },
   {
    "titulo": "Hermano de Kbeto Zuleta entregó un nuevo reporte de salud; fue sometido a dos cirugías: 'Está estable y consciente'",
@@ -253,16 +403,6 @@
    "fecha": "2026-11-07T15:51:19Z"
   },
   {
-   "titulo": "Foscal | Preocupante crisis de salud en importante clínica de Santander: SOS al presidente Abelardo De La Espriella por deudas de 600 mil millones",
-   "extracto": "La Nueva EPS y Fomag son las entidades que más le adeudan a esta institución ubicada en Floridablanca.",
-   "enlace": "https://www.eltiempo.com/colombia/santander/foscal-preocupante-crisis-de-salud-en-importante-clinica-de-santander-sos-al-presidente-abelardo-de-la-espriella-por-deudas-de-600-mil-millones-3599233",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/08/30/68b32a32d48b7.r_d.419-208-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-07T15:37:04Z"
-  },
-  {
    "titulo": "Nuevo atentado con explosivos contra un peaje en la vía Cali-Popayán: ya son seis ataques en las carreteras del país",
    "extracto": "Los ataques contra peajes en Colombia no dan tregua. Esta vez, el hecho ocurrió hacia la 1:00 de la madrugada de este sábado 7 de noviembre en La Agustina, ubicado en el municipio…",
    "enlace": "https://www.elcolombiano.com/colombia/atentado-explosivos-peaje-la-agustina-via-cali-popayan-seis-ataques-carreteras-colombia-JE43304085",
@@ -273,26 +413,6 @@
    "fecha": "2026-11-07T15:27:56Z"
   },
   {
-   "titulo": "La búsqueda de Zoé llega al río Magdalena: más de 50 rescatistas intentan encontrar a la niña de seis años arrastrada por un arroyo en Soledad",
-   "extracto": "La menor de seis años completa tres días desaparecida. Su abuelo murió en la tragedia y su hermana de 12 años logró sobrevivir.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/la-busqueda-de-zoe-llega-al-rio-magdalena-mas-de-50-rescatistas-intentan-encontrar-a-la-nina-de-seis-anos-arrastrada-por-un-arroyo-en-soledad-3599229",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/07/6aef5640eb53e.r_d.648-446-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-07T15:20:22Z"
-  },
-  {
-   "titulo": "¿Y para qué está entonces el VAR? Polémica en Leeds vs Tottenham por violenta falta sin castigo",
-   "extracto": "Una agria discusión se armó en redes sociales tras una acción que perjudicó al visitante en la Premier League.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/y-para-que-esta-entonces-el-var-polemica-en-leeds-vs-tottenham-por-violenta-falta-sin-castigo-3599268",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/05/21/682e3d5075e28.r_d.1504-538-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-07T18:18:00Z"
-  },
-  {
    "titulo": "Hombres armados asesinaron a una madre y sus dos hijas dentro de una vivienda en Toro, Valle del Cauca",
    "extracto": "Esta es lamentablemente la masacre número 104 registrada en Colombia durante este año; de acuerdo con el reporte del Instituto de Estudios para el Desarrollo y la Paz (Indepaz)…",
    "enlace": "https://www.elcolombiano.com/colombia/hombres-armados-asesinaron-madre-dos-hijas-vivienda-toro-valle-del-cauca-feminicidio-CE43303375",
@@ -301,16 +421,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-07T14:12:05Z"
-  },
-  {
-   "titulo": "David Alonso saldrá desde la cuarta fila en el Gran Premio de Catar de Moto2: los detalles de la clasificación",
-   "extracto": "El español Álex Escrig logró la primera pole de su carrera en la categoría en el circuito de Lusail.",
-   "enlace": "https://www.eltiempo.com/deportes/otros-deportes/david-alonso-saldra-desde-la-cuarta-fila-en-el-gran-premio-de-catar-de-moto2-los-detalles-de-la-clasificacion-3599263",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aef66ed19fe1.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-07T18:01:17Z"
   },
   {
    "titulo": "“La autoridad civil del presidente consiste en estar por encima del poder de las armas, no en ser una persona armada”: defensora del Pueblo",
@@ -353,26 +463,6 @@
    "fecha": "2026-11-07T17:24:16Z"
   },
   {
-   "titulo": "Millonarios sufre ausencias definitivas para su visita a Tolima: lesiones, suspensión y más",
-   "extracto": "La convocatoria reveló novedades que el técnico Gamero debe sortear para vencer a su exequipo.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/millonarios-sufre-ausencias-definitivas-para-su-visita-a-tolima-lesiones-suspension-y-mas-3599254",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/24/6ab5ec5ca4f06.r_d.270-507-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-07T17:23:39Z"
-  },
-  {
-   "titulo": "Bayern Múnich sigue adelante mientras vuelve Luis Díaz: victoria clave como visitante contra el Mainz en la Bundesliga",
-   "extracto": "Con el 1-2 de este sábado, los dirigidos por Vincent Kompany son líderes por diferencia de goles.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/bayern-munich-sigue-adelante-mientras-vuelve-luis-diaz-victoria-clave-como-visitante-contra-el-mainz-en-la-bundesliga-3599251",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/07/6aef546690315.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-07T16:42:13Z"
-  },
-  {
    "titulo": "Estudio advierte que reemplazar los lácteos por bebidas vegetales podría reducir el consumo de vitaminas y minerales",
    "extracto": "La investigación analizó a más de 3.500 personas y evaluó 289 bebidas vegetales, yogures y quesos del mercado británico.",
    "enlace": "https://www.eltiempo.com/cultura/gente/estudio-advierte-que-reemplazar-los-lacteos-por-bebidas-vegetales-podria-reducir-el-consumo-de-vitaminas-y-minerales-3599239",
@@ -413,26 +503,6 @@
    "fecha": "2026-11-07T13:14:13Z"
   },
   {
-   "titulo": "Aeropuerto José María Córdova tendrá 88 horas de cierre de pista en noviembre: estas son las fechas",
-   "extracto": "Los viajeros que tienen previsto utilizar el aeropuerto internacional José María Córdova de Rionegro durante noviembre deberán tener en cuenta una serie de restricciones…",
-   "enlace": "https://www.elcolombiano.com/antioquia/cierre-pista-aeropuerto-jose-maria-cordova-FE43301455",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/437x300/0c0/0d0/center/11101/NMCO/aeropuerto-melo_52078533_20261106195502.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-07T00:57:26Z"
-  },
-  {
-   "titulo": "Tren Multipropósito de Antioquia: aprueban en la Asamblea nuevo avance para conectar Bello con Puerto Berrío",
-   "extracto": "La Asamblea de Antioquia aprobó, con 23 votos a favor y ninguno en contra, la autorización al gobernador del departamento para capitalizar la Sociedad Promotora Ferrocarril de…",
-   "enlace": "https://www.elcolombiano.com/antioquia/asamblea-aprueba-capitalizacion-tren-multiproposito-antioquia-bello-puerto-berrio-FM43297741",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/437x300/0c0/0d0/center/11101/WRKB/tren-multipro_52078000_20261106183823.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-07T00:12:48Z"
-  },
-  {
    "titulo": "Don Omar revela las fechas en Colombia de su gira de conciertos en 2027: Bogotá, Medellín y Cali, las elegidas",
    "extracto": "A partir del 19 de noviembre de 2026, comenzará la preventa en el país para que sus seguidores puedan adquirir sus boletas con anticipación.",
    "enlace": "https://www.eltiempo.com/cultura/gente/don-omar-revela-las-fechas-en-colombia-de-su-gira-de-conciertos-en-2027-bogota-medellin-y-cali-las-elegidas-3599215",
@@ -441,46 +511,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-11-07T12:00:51Z"
-  },
-  {
-   "titulo": "Pilas que desde el lunes no habrá taquillas en estas estaciones del metro de Medellín: ¿qué pasará?",
-   "extracto": "Desde esta semana que termina, los usuarios de seis estaciones del metro han encontrado un anuncio que les indica que las taquillas de venta de estos espacios dejarán de operar…",
-   "enlace": "https://www.elcolombiano.com/antioquia/estaciones-metro-medellin-sin-taquillas-desde-9-noviembre-2026-KM43291038",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/439x300/0c0/0d0/center/11101/PHLE/metro-1_52075876_20261106171344.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-06T23:02:55Z"
-  },
-  {
-   "titulo": "Bloquearon vía por falta de obras en carretera Yondó-Puerto Berrío, en Antioquia",
-   "extracto": "Una situación de inconformidad se registra por el deteriorado estado de la vía que comunica dos importantes municipios del Magdalena Medio antioqueño, situación que causó el…",
-   "enlace": "https://www.elcolombiano.com/antioquia/bloqueo-via-yondo-puerto-berrio-por-falta-obras-antioquia-BN43288977",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/RKLH/yondo-2_52075477_20261106164151.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-06T22:09:09Z"
-  },
-  {
-   "titulo": "A tiros y dentro de un Peugeot: hallan muerto a posible conductor de aplicación en San Félix",
-   "extracto": "Un nuevo hecho violento se reportó en zona rural de Bello , en el norte del Valle de Aburrá, donde fue encontrado el cuerpo sin vida de un hombre que habría sido asesinado con…",
-   "enlace": "https://www.elcolombiano.com/antioquia/conductor-aplicacion-hallado-muerto-peugeot-san-felix-bello-DN43280740",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/437x300/0c0/0d0/center/11101/GWTD/muerto-san-felix_52073716_20261106143317.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-06T19:51:20Z"
-  },
-  {
-   "titulo": "Golpe a ‘Primo Gay’: murió su señalado hombre de confianza en operativo del Ejército en Yarumal",
-   "extracto": "El Ejército Nacional propinó un golpe a los planes de expansión criminal que se estarían gestando en el Norte de Antioquia, más específicamente en el municipio de Yarumal. El…",
-   "enlace": "https://www.elcolombiano.com/antioquia/muerte-hombre-confianza-primo-gay-clan-del-golfo-operativo-ejercito-antioquia-NC43278005",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/437x300/0c0/0d0/center/11101/IGKT/flaquito-alias_52073281_20261106135021.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-06T19:10:06Z"
   },
   {
    "titulo": "Dos mujeres aceptaron una oferta de trabajo en Bogotá, viajaron desde Medellín y terminaron secuestradas",
@@ -873,16 +903,6 @@
    "fecha": "2026-11-06T15:46:35Z"
   },
   {
-   "titulo": "Pliego de cargos contra alcalde de Yondó por contrato directo de $588 millones: ¿qué encontró la Procuraduría?",
-   "extracto": "La Procuraduría General de la Nación le acaba de abrir formalmente investigación al alcalde del municipio de Yondó, en el Magdalena medio antioqueño, Yerson Antonio Ariza Rivera…",
-   "enlace": "https://www.elcolombiano.com/antioquia/pliego-de-cargos-contra-alcalde-de-yondo-por-contrato-directo-de-588-millones-procuraduria-FA43250014",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/500x300/0c0/0d0/center/11101/QQKQ/web-nestor-jpg_52067702_20261105214232.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-06T02:45:28Z"
-  },
-  {
    "titulo": "Juanes celebra 26 años de carrera como solista con su primer disco de grandes éxitos, ¿qué canciones incluyó?",
    "extracto": "Este viernes 6 de noviembre Juanes lanza 25 Aniversario , un disco con el cual conmemora más de dos décadas de trayectoria. El múltiple ganador del Grammy y Latin Grammy…",
    "enlace": "https://www.elcolombiano.com/cultura/juanes-disco-exitos-25-anos-carrera-solista-concierto-daviarena-JA43256539",
@@ -891,26 +911,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-11-06T13:19:24Z"
-  },
-  {
-   "titulo": "Luz verde al acueducto de Urabá: Asamblea de Antioquia aprobó vigencias futuras por $1,3 billones",
-   "extracto": "El valor estimado del proyecto son $1,6 billones y la fuente de financiación serán los excedentes del IDEA, provenientes principalmente de las transferencias de la Sociedad…",
-   "enlace": "https://www.elcolombiano.com/antioquia/asamblea-antioquia-aprueba-vigencias-futuras-acueducto-uraba-13-billones-CB43246958",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/QKKM/whatsapp-image-2026-11-05-at-7-46-16-pm_52066185_20261105195404.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-06T00:58:38Z"
-  },
-  {
-   "titulo": "¿Por qué no se veían las nubes de los aguaceros en la página del Siata? El Área explicó la razón",
-   "extracto": "Tras cumplir 15 años de operación ininterrumpida, el radar del Siata finalizó su vida útil. Ante su ausencia, el Área Metropolitana confirmó que ya adquirió un equipo de última…",
-   "enlace": "https://www.elcolombiano.com/antioquia/radar-siata-medellin-termino-vida-util-nuevo-equipo-2027-FB43243677",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/AENM/foto-siata_52067138_20261105183532.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-05T23:55:41Z"
   },
   {
    "titulo": "Más pruebas de los “sexocontratos” y detalles de otros 6 episodios de la “agenda privada” de Petro",
@@ -941,66 +941,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-06T03:20:04Z"
-  },
-  {
-   "titulo": "Primicia | Alias Tom, uno de los máximos líderes de “la Oficina” y exnegociador de “paz total”, quedará libre",
-   "extracto": "Uno de los jefes mafiosos de más jerarquía en el crimen organizado del Valle de Aburrá saldrá de la cárcel: Juan Carlos Mesa Vallejo (“Tom” o “Carlos Chata”), líder de la…",
-   "enlace": "https://www.elcolombiano.com/colombia/alias-tom-en-libertad-condicional-jefe-oficina-los-chatas-negociador-de-paz-EB43248480",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/475x300/0c0/0d0/center/11101/MMWR/alias-tom-en-libertad_52059742_20261105204613.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-06T02:37:22Z"
-  },
-  {
-   "titulo": "Petro ordenó mantener contrato de Deicy Jiménez en MinInterior, según este chat con Angie Rodríguez a finales de 2025",
-   "extracto": "“Está persona necesita que laantengan allí en el contrato mi interior (sic)”. Así, tal cual escrito, le habría pedido el expresidente Gustavo Petro a su entonces directora del…",
-   "enlace": "https://www.elcolombiano.com/colombia/petro-ordeno-mantener-contrato-de-deicy-jimenez-en-mininterior-segun-este-chat-con-angie-rodriguez-a-finales-de-2025-JA43250081",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/HOKO/1-foto_52068430_20261105210914.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-06T02:09:13Z"
-  },
-  {
-   "titulo": "Ciberataque en el Pico y Placa Solidario de Bogotá puso en riesgo el dinero y los datos de los usuarios: Secretaría de Movilidad respondió",
-   "extracto": "La plataforma del Pico y Placa Solidario en Bogotá sufrió un ataque de seguridad informática que ya fue contenido, según confirmó la Secretaría Distrital de Movilidad. El…",
-   "enlace": "https://www.elcolombiano.com/colombia/ciberataque-pico-y-placa-solidario-bogota-riesgo-dinero-datos-usuarios-NB43247486",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/ACFO/foto-ciberataque-en-el-pico-y-placa_52067688_20261105210033.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-06T02:06:47Z"
-  },
-  {
-   "titulo": "Procuraduría cita a declarar a Deyci Jiménez por denuncia contra Petro en caso de “sexocontratos”",
-   "extracto": "Ante otra instancia más tendrá que declarar Deyci Jiménez, la contratista que denunció haber recibido vínculos laborales a cambio de favores sexuales para el expresidente Gustavo…",
-   "enlace": "https://www.elcolombiano.com/colombia/procuraduria-cita-deyci-jimenez-denuncia-petro-caso-sexocontratos-DB43241031",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/RUMT/gustavo-petro-deicy-jimenes-sexocont_52066489_20261105173417.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-06T01:02:04Z"
-  },
-  {
-   "titulo": "Millonario robo en la Javeriana en Bogotá: ladrones violaron la seguridad y se llevaron más de $60 millones en pertenencias",
-   "extracto": "Un millonario robo empañó recientemente la jornada deportiva y educativa de al menos diez estudiantes de la Pontificia Universidad Javeriana en la ciudad de Bogotá , poniendo en…",
-   "enlace": "https://www.elcolombiano.com/colombia/millonario-robo-universidad-javeriana-bogota-ladrones-se-llevaron-60-millones-pertenencias-GB43242343",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/LULT/foto-millonario-robo-en-la-javeriana_52067006_20261105192100.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-06T00:45:35Z"
-  },
-  {
-   "titulo": "“Gran logro a raíz de nuestras denuncias contra el derroche de la JEP”: María Clara Posada celebró búsqueda de austeridad en la jurisdicción especial",
-   "extracto": "La senadora del Centro Democrático María Clara Posada celebró las decisiones y aseguró que representan un avance frente a los cuestionamientos que había planteado sobre los gastos…",
-   "enlace": "https://www.elcolombiano.com/colombia/jep-termina-arriendo-torre-squadra-cambios-austeridad-gastos-NB43242834",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/454x300/0c0/0d0/center/11101/RVIB/image-2026-11-05t182808-842_52067015_20261105183313.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-05T23:48:45Z"
   },
   {
    "titulo": "Renunció Sandra Suescún, funcionaria clave de la Biblioteca Nacional durante 14 años, un mes después de la llegada de Julia Daza",
@@ -1073,16 +1013,6 @@
    "fecha": "2026-11-05T02:19:49Z"
   },
   {
-   "titulo": "Se reabre el caso de la muerte del director italiano Pier Paolo Pasolini tras 51 años",
-   "extracto": "En la madrugada del 2 de noviembre de 1975 fue hallado muerto en un descampado en Ostia –cerca a Roma–, el afamado director, de cine, escritor y poeta italiano Pier Paolo…",
-   "enlace": "https://www.elcolombiano.com/cultura/pier-paolo-pasolini-reabren-caso-muerte-director-italiano-tras-51-anos-IP43198213",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SWIK/pier-paolo-pasolini-getty_52053989_20261104185439.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-05T00:13:07Z"
-  },
-  {
    "titulo": "“¡Entonces se va!”: El duro enfrentamiento entre el ministro de Agricultura y Lafaurie, presidente de Fedegán",
    "extracto": "Un fuerte choque entre el ministro de Agricultura, I ndalecio Dangond, y el presidente de la Federación Colombiana de Ganaderos (Fedegán), José Félix Lafaurie, elevó la tensión en…",
    "enlace": "https://www.elcolombiano.com/colombia/indalecio-dangond-choques-jose-felix-lafaurie-ivan-cepeda-BA43163828",
@@ -1091,16 +1021,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-04T18:13:09Z"
-  },
-  {
-   "titulo": "¡No diga más “en la casa hay sopa”! Medellín y Envigado se llenan de festivales de chicharrón, ramen y granizados",
-   "extracto": "¿Desea comer algo rico y barato para no tener que sacar la excusa: “en la casa hay sopa ”? Decenas de restaurantes en Medellín y Envigado lo están esperando para que se deleite…",
-   "enlace": "https://www.elcolombiano.com/cultura/gastronomia-medellin-envigado-festival-ramen-plan-chicharron-granizados-AO43188594",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/UCUP/image-the-shoyu-ramen-at-ramen-by-uz_52055736_20261104162819.webp",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-04T21:45:23Z"
   },
   {
    "titulo": "Dos hoteles de Antioquia, entre los 11 colombianos que brillan en la Guía Michelin 2026: estos son",
