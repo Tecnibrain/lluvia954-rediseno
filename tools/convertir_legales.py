@@ -149,10 +149,12 @@ def construir(plantilla, pg, cuerpo):
     s = rep("<p>Cómo tratamos tus datos personales y qué cookies usa este sitio.</p>",
             "<p>%s</p>" % pg["lead"])
 
-    # El aviso de validacion juridica es propio de privacidad.html: no se replica.
-    a = s.index('      <div class="aviso-legal reveal">')
-    b = s.index("</div>", s.index("antes de publicarse.")) + len("</div>")
-    s = s[:a] + s[b:].lstrip("\n")
+    # Si la plantilla aun lleva el aviso de validacion juridica, no se replica.
+    # Se retiro de privacidad.html el 7-11-2026, asi que puede no estar.
+    a = s.find('      <div class="aviso-legal reveal">')
+    if a != -1:
+        b = s.index("</div>", s.index("antes de publicarse.")) + len("</div>")
+        s = s[:a] + s[b:].lstrip("\n")
 
     # Sustituir el interior del articulo por el documento convertido.
     ini = s.index('<article class="prosa reveal" data-delay="1">')
