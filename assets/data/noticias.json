@@ -1,7 +1,57 @@
 {
- "actualizado": "2026-11-14T06:16:03.658085Z",
- "total": 141,
+ "actualizado": "2026-11-14T13:34:57.075738Z",
+ "total": 136,
  "noticias": [
+  {
+   "titulo": "Accidente dejó ocho pasajeros muertos y al menos 15 heridos en Huila: se trata de un bus que había salido de Florencia, Caquetá, con destino a Bogotá",
+   "extracto": "Los heridos son atendidos en centros clínicos de Neiva a donde fueron trasladados en ambulancias",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/accidente-dejo-ocho-pasajeros-muertos-y-al-menos-15-heridos-en-huila-se-trata-de-un-bus-que-habia-salido-de-florencia-caqueta-con-destino-a-bogota-3601064",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/14/6af8601b4ce7d.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-14T13:22:13Z"
+  },
+  {
+   "titulo": "Explosión en una mina de carbón en Chita, en el norte de Boyacá, deja al menos dos muertos: '¡Salgan de ahí, retírense de la bocamina!'",
+   "extracto": "Miembros de la Agencia Nacional de Minería confirmaron el hallazgo de dos cadáveres tras la detonación ocurrida en la vereda La Playa.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/explosion-en-una-mina-de-carbon-en-chita-boyaca-deja-al-menos-dos-muertos-salgan-de-ahi-retirense-de-la-bocamina-3601061",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/14/6af857fbb4be0.r_d.540-297-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-14T13:11:47Z"
+  },
+  {
+   "titulo": "Tensión en el oriente de Cali: reportan ataque con explosivos en la estación de Policía de Decepaz",
+   "extracto": "Una persona resultó con lesiones en sus brazos y fue atendida en un centro asistencial.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/tension-en-el-oriente-de-cali-lanzan-artefacto-explosivo-a-la-estacion-de-policia-de-decepaz-3601062",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/14/6af857a81d7be.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-14T13:08:48Z"
+  },
+  {
+   "titulo": "$1,8 billones crecerá el presupuesto de Antioquia: prioriza educación, megaobras, seguridad y acueducto de Urabá",
+   "extracto": "El 2027 se perfila como el año decisivo para la gestión del gobernador Andrés Julián Rendón . Para cerrarlo, la administración departamental proyecta un ambicioso presupuesto de…",
+   "enlace": "https://www.elcolombiano.com/antioquia/proyecto-presupuesto-antioquia-2027-gobernacion-andres-julian-rendon-JL43591976",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/491x300/0c0/0d0/center/11101/LQTS/imagen-zsanjuan_52139122_20261113233824.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-14T04:38:18Z"
+  },
+  {
+   "titulo": "Cortes de agua y reparaciones de energía en Cali este sábado 14 de noviembre: conozca los barrios afectados",
+   "extracto": "Cuadrillas de Emcali intervienen redes de acueducto, energía, alcantarillado y alumbrado público.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/cortes-de-agua-y-reparaciones-de-energia-en-cali-este-sabado-14-de-noviembre-conozca-los-barrios-afectados-3601059",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/06/23/6a3a77582e89d.r_d.1280-719-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-14T12:32:21Z"
+  },
   {
    "titulo": "Frustran atentado contra líder social de Briceño, Antioquia: le habían dejado bomba de 10 kilos junto a su casa",
    "extracto": "Una posible acción terrorista contra un líder campesino fue frustrada por tropas del Ejército Nacional en el norte de Antioquia, luego de localizar y destruir un explosivo…",
@@ -31,6 +81,26 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-11-13T23:35:55Z"
+  },
+  {
+   "titulo": "Temblor hoy en Colombia: reportan sismo en la madrugada de este sábado 14 de noviembre: epicentro, magnitud y profundidad",
+   "extracto": "El Servicio Geológico Colombiano entregó detalles del movimiento telúrico. Se presentó una réplica con tan solo unos minutos de diferencia.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-sismo-en-la-madrugada-de-este-sabado-14-de-noviembre-epicentro-magnitud-y-profundidad-3601051",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/09/6aa15b5ccca1b.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-14T10:28:22Z"
+  },
+  {
+   "titulo": "Colombia, sin brillo y sin autoridad, pasa raspando el examen contra Chile, con un autogol: la crónica",
+   "extracto": "La Selección gana, pero no convence. El martes se vuelven a enfrentar en Santiago.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/colombia-sin-brillo-y-sin-autoridad-pasa-raspando-el-examen-contra-chile-con-un-autogol-la-cronica-3600996",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/13/6af7d48b7b992.r_d.454-313-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-14T12:48:17Z"
   },
   {
    "titulo": "¿Qué sigue para el Fondo Milagro con Henao como gerente?",
@@ -213,16 +283,6 @@
    "fecha": "2026-11-13T23:33:59Z"
   },
   {
-   "titulo": "Colombia, sin brillo y sin autoridad, pasa raspando el examen contra Chile, con un autogol: la crónica",
-   "extracto": "La Selección gana, pero no convence. El martes se vuelven a enfrentar en Santiago.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/colombia-sin-brillo-y-sin-autoridad-pasa-raspando-el-examen-contra-chile-con-un-autogol-la-cronica-3600996",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/13/6af7d48b7b992.r_d.454-313-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-14T03:27:24Z"
-  },
-  {
    "titulo": "Ocho meses en cautiverio y sin poder volar: rescatan en el Valle de Aburrá a un tucán al que le cortaron las plumas",
    "extracto": "Ocho meses sin poder volar y lejos de las condiciones naturales que necesita para vivir. Ese es parte del panorama que enfrentó un tucán juvenil que fue recuperado por la Policía…",
    "enlace": "https://www.elcolombiano.com/antioquia/tucan-rescatado-valle-aburra-plumas-cortadas-ocho-meses-DH43552274",
@@ -283,16 +343,6 @@
    "fecha": "2026-11-14T02:29:52Z"
   },
   {
-   "titulo": "'Cuando las voluntades se unen, tenemos la capacidad de levantarnos': la Fundación Sarmiento Angulo dona $ 87 mil millones para reconstruir el Valle",
-   "extracto": "Los recursos se destinarán a la reconstrucción de hospitales en Cali y Roldanillo, y un colegio en Buenaventura.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/cuando-las-voluntades-se-unen-tenemos-la-capacidad-de-levantarnos-la-fundacion-sarmiento-angulo-dona-87-mil-millones-para-reconstruir-el-valle-3600953",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/13/6af78a0e0a3b6.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-13T22:19:15Z"
-  },
-  {
    "titulo": "Petro fue cómplice en el fraude electoral de Maduro, según informe gringo",
    "extracto": "El gobierno de Gustavo Petro no fue un mediador neutral en la crisis política de Venezuela. Esa es una de las principales conclusiones de un informe del Miranda Center for…",
    "enlace": "https://www.elcolombiano.com/colombia/petro-ayudo-a-maduro-a-sostenerse-tras-fraude-electoral-segun-informe-FG43542601",
@@ -311,26 +361,6 @@
    "categoria": "deportes",
    "etiqueta": "Deportes",
    "fecha": "2026-11-14T02:06:04Z"
-  },
-  {
-   "titulo": "Seguidilla de temblores en Tolima: videos muestran evacuaciones de edificios en Ibagué tras los sismos de este viernes 13 de noviembre",
-   "extracto": "Imágenes difundidas en redes sociales muestran la salida de ciudadanos de varias edificaciones de la capital tolimense tras percibir el sismo.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/seguidilla-de-temblores-en-tolima-videos-muestran-evacuaciones-de-edificios-en-ibague-tras-los-sismos-de-este-viernes-13-de-noviembre-3600920",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/13/6af77261e95f8.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-13T21:41:43Z"
-  },
-  {
-   "titulo": "¿Piensa pegarse la 'rodadita' por el Valle del Cauca este puente festivo? Así será su dispositivo de seguridad",
-   "extracto": "Con más de 200 uniformados en las vías y drones, las autoridades departamentales activaron la estrategia 'Corredores Seguros'.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/piensa-pegarse-la-rodadita-por-el-valle-del-cauca-este-puente-festivo-asi-sera-su-dispositivo-de-seguridad-3600943",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/06/12/6a2c95b5d8317.r_d.809-516-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-13T21:35:54Z"
   },
   {
    "titulo": "No ha llegado diciembre y ya hay “guerras de bengalas” en Antioquia, mientras los hospitales están al límite",
@@ -363,14 +393,14 @@
    "fecha": "2026-11-14T01:15:25Z"
   },
   {
-   "titulo": "El MIO informa plan de desvíos en el norte por protesta por agua en la ladera y en el suroccidente de la capital del Valle tras atentado",
-   "extracto": "El sistema masivo de Cali modificó el recorridos por una manifestación en inmediaciones del CAM e impactos por el atentado del 12 de noviembre.",
-   "enlace": "https://www.eltiempo.com/colombia/cali/el-mio-informa-plan-de-desvios-en-el-norte-por-protesta-por-agua-en-la-ladera-y-en-el-suroccidente-de-la-capital-del-valle-tras-atentado-3600914",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/23/6ab4237d357ea.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-13T20:51:50Z"
+   "titulo": "Al mal tiempo buenos sabores: reflexiones sobre el sector gastronómico",
+   "extracto": "Por Álvaro Molina @molinacocinero Las condiciones actuales del mercado gastronómico son una señal de alerta para la gente del sector y una advertencia para los que se quieren…",
+   "enlace": "https://www.elcolombiano.com/cultura/al-mal-tiempo-buenos-sabores-reflexiones-sobre-el-sector-gastronomico-PK43589143",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/RPCT/alvaro-molina-recomendaciones-restaurantes_52135297_20261113202439.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-14T01:00:38Z"
   },
   {
    "titulo": "Se llevaron la estatua de Diomedes Díaz en Valledupar tras sufrir daños",
@@ -411,16 +441,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-13T20:10:25Z"
-  },
-  {
-   "titulo": "Barranquilla celebra ser el único destino colombiano dentro de las 100 mejores historias de turismo sostenible del mundo: así entró en este ranking",
-   "extracto": "La inclusión en el listado internacional tiene su origen en una zona de la ciudad que durante años estuvo fuera del radar turístico.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/barranquilla-celebra-ser-el-unico-destino-colombiano-dentro-de-las-100-mejores-historias-de-turismo-sostenible-del-mundo-asi-entro-en-este-ranking-3600904",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/12/25/676c988a518d1.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-13T20:01:00Z"
   },
   {
    "titulo": "Atención: Renunció gerente del Fondo Milagro, Jaime Uribe, tras polémica por altos salarios",
@@ -476,7 +496,7 @@
    "titulo": "La reconocida actriz Nicole Kidman recibirá el César de Honor en los premios del cine francés, en 2027",
    "extracto": "La intérprete no solamente será reconocida por su trabajo actoral, sino también por su compromiso social a través de ONU Mujeres.",
    "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/la-reconocida-actriz-nicole-kidman-recibira-el-cesar-de-honor-en-los-premios-del-cine-frances-en-3600973",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/01/09/6780423f3c183.png",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2025/01/09/6780423f3c183.r_d.614-278-0.png",
    "fuente": "El Tiempo",
    "categoria": "cultura",
    "etiqueta": "Cultura",
@@ -963,26 +983,6 @@
    "fecha": "2026-11-12T20:07:38Z"
   },
   {
-   "titulo": "Muere un joven en Envigado luego de caer de su moto y convulsionar en plena vía",
-   "extracto": "El pasado miércoles 11 de noviembre, un joven que se movilizaba en moto cayó al suelo y empezó a convulsionar en una vía de Envigado, cerca del Cefit, en el barrio Mesa. Cuando…",
-   "enlace": "https://www.elcolombiano.com/antioquia/muere-joven-envigado-motociclista-convulsion-KK43493458",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/553x300/0c0/0d0/center/11101/DQBG/bomberos-envigado_52117654_20261112065630.png",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-12T12:04:27Z"
-  },
-  {
-   "titulo": "El poder de Jaime Ramírez Cobo en el Gobierno Petro y la historia detrás del celular del expresidente",
-   "extracto": "La figura de Jaime Ramírez Cobo en el Gobierno Petro sigue siendo llamativa, pero a la vez esquiva. Ha sido mencionado en varias ocasiones en el escándalo de corrupción de la…",
-   "enlace": "https://www.elcolombiano.com/colombia/quien-es-jaime-ramirez-cobo-padrino-matrimonio-sarabia-dueno-sim-celular-que-uso-petro-HK43495673",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/CJCO/iano-el-poder-de-jaime-ramirez-cobo_52117770_20261112155710.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-12T19:13:46Z"
-  },
-  {
    "titulo": "Atención: ELN liberó a los dos agentes del CTI que tenía secuestrados desde mayo de 2025",
    "extracto": "Luego de 553 días en cautiverio y lejos de sus familias, dos funcionarios del Cuerpo Técnico de Investigación (CTI) de la Fiscalía, Jesús Antonio Pacheco y Rodrigo López, fueron…",
    "enlace": "https://www.elcolombiano.com/colombia/eln-libera-dos-secuestrados-cti-arauca-MD43513593",
@@ -1073,26 +1073,6 @@
    "fecha": "2026-11-12T16:10:30Z"
   },
   {
-   "titulo": "Nuevo operativo de Abelardo de la Espriella contra bandas criminales en Bucaramanga: 136 capturados y 70 allanamientos",
-   "extracto": "El presidente Abelardo de la Espriella lideró personalmente el operativo en las calles de la capital de Santander, que estuvo a cargo del Bloque Operacional de Seguridad Urbana…",
-   "enlace": "https://www.elcolombiano.com/colombia/operativo-abelardo-espriella-contra-bandas-criminales-bucaramanga-noviembre-2026-HK43493260",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/BDIW/image-2026-11-12t065224-084_52117600_20261112065246.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-12T16:01:03Z"
-  },
-  {
-   "titulo": "Hermano del hacker de la DNI habría ingresado a la Registraduría días antes de las elecciones, ¿entró a una reunión clave?",
-   "extracto": "El hacker capturado por presuntamente alterar sus calificaciones , pero que había sido contratado por la Dirección Nacional de Inteligencia (DNI), está a la espera de que se…",
-   "enlace": "https://www.elcolombiano.com/colombia/hermano-carlos-oyola-hacker-contratado-dni-ingreso-reunion-registraduria-OK43496967",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/KHGP/registraduria-y-carlos-oyola_52117858_20261112082552.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-12T14:56:08Z"
-  },
-  {
    "titulo": "Explosión de cables dejó sin energía a varios barrios de Bogotá; investigan posible robo de cobre",
    "extracto": "Una parte del occidente de Bogotá amaneció este jueves 12 de noviembre a oscuras. La ausencia del servicio de energía, afectó a miles de familias, y se originó por una explosión…",
    "enlace": "https://www.elcolombiano.com/colombia/explosion-cables-dejo-sin-energia-bogota-investigan-robo-cobre-MK43497694",
@@ -1133,16 +1113,6 @@
    "fecha": "2026-11-12T17:53:38Z"
   },
   {
-   "titulo": "“Le decían que si quería ser la próxima”: alcalde de Uribia detalló las amenazas que recibió su esposa antes del secuestro",
-   "extracto": "El alcalde de Uribia, Jaime Luis Buitrago García, entregó nuevos detalles sobre el secuestro de su esposa, Nancy Gómez, ocurrido en la mañana del miércoles 11 de noviembre. En…",
-   "enlace": "https://www.elcolombiano.com/colombia/secuestro-nancy-yaneth-gomez-esposo-alcalde-uribia-detalles-caso-NK43494449",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/QAIW/image-2026-11-12t071509-352_52117687_20261112105839.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-12T13:31:39Z"
-  },
-  {
    "titulo": "Premios La Barra 2026: dos de los premiados a lo mejor de la gastronomía colombiana cocinan en Medellín",
    "extracto": "Una medialuna rellena de dulce de leche y un plato cocinado con hormigas culonas y pirarucú del Putumayo tienen algo en común este año. Detrás de ellos están Agustín Romero , el…",
    "enlace": "https://www.elcolombiano.com/cultura/premios-la-barra-2026-agustin-romero-diego-ramirez-medellin-AC43509119",
@@ -1163,16 +1133,6 @@
    "fecha": "2026-11-12T17:27:57Z"
   },
   {
-   "titulo": "Radares apagados y sistemas obsoletos: los hallazgos de la Procuraduría tras fallas en la operación de El Dorado",
-   "extracto": "El miércoles de la semana pasada se formó un tremendo atraso en los vuelos. Hacia la 1:00 p. m., el aeropuerto El Dorado de Bogotá informó de “un problema en el radar que puede…",
-   "enlace": "https://www.elcolombiano.com/colombia/aeropuerto-el-dorado-radares-apagados-sistemas-obsoletos-hallazgos-procuraduria-alerta-aerocivil-EK43493698",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/TFMK/aerocivil-falla-sistema_52117660_20261112074256.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-12T13:10:23Z"
-  },
-  {
    "titulo": "¿En qué va el escándalo de Petro por los “sexocontratos”?",
    "extracto": "Apoyado por las interpretaciones de un bodeguero afín al Pacto Histórico, el expresidente Gustavo Petro expuso su más reciente explicación sobre la denuncia de corrupción más dura…",
    "enlace": "https://www.elcolombiano.com/colombia/escandalo-gustavo-petro-sexocontratos-deicy-jimenez-FK43490423",
@@ -1181,16 +1141,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-12T13:09:16Z"
-  },
-  {
-   "titulo": "Angie Rodríguez habla del papel de Jaime Ramírez Cobo en el manejo del celular de Petro y dice que le tenían el teléfono “envenenado”",
-   "extracto": "Una línea a nombre de un tercero, un mensaje de una persona de confianza y una nueva acusación contra Laura Sarabia. Angie Rodríguez, exdirectora del Dapre, publicó en sus redes…",
-   "enlace": "https://www.elcolombiano.com/colombia/angie-rodriguez-jaime-ramirez-cobo-celular-petro-envenenado-NK43492924",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/QHHT/jaime-ramirez-cobo-laura-sarabia-y-g_52117609_20261112082713.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-12T12:22:17Z"
   },
   {
    "titulo": "Isabel Allende presentará la novela ganadora del Planeta en la Feria del Libro de Guadalajara",
