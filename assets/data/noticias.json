@@ -1,7 +1,267 @@
 {
- "actualizado": "2026-11-25T21:38:57.693084Z",
- "total": 164,
+ "actualizado": "2026-11-26T08:11:44.020360Z",
+ "total": 162,
  "noticias": [
+  {
+   "titulo": "Se calienta Jericó: desmanes en protesta por Quebradona entre manifestantes y autoridades",
+   "extracto": "Las protestas en Jericó contra la minera AngloGold Ashanti por el proyecto Quebradona se calentaron en la noche de este miércoles, luego de que hubiera una confrontación entre los…",
+   "enlace": "https://www.elcolombiano.com/antioquia/desmanes-en-jerico-antioquia-protesta-por-quebradona-DJ44091507",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/WHKS/jerico_52231195_20261125215646.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-26T03:21:19Z"
+  },
+  {
+   "titulo": "Uno de los municipios más pequeños de Antioquia fue reconocida por el Gobierno Nacional por su gestión",
+   "extracto": "Armenia Mantequilla, uno de los municipios más pequeños y menos poblados de Antioquia, fue reconocido en la revista Transparencia y Buen Gobierno, del Gobierno Nacional, por su…",
+   "enlace": "https://www.elcolombiano.com/antioquia/armenia-mantequilla-antioquia-fue-reconocida-por-el-gobierno-nacional-por-su-gestion-EI44087120",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/459x300/0c0/0d0/center/11101/TRNL/alcaldesa_52230712_20261125193520.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-26T01:13:39Z"
+  },
+  {
+   "titulo": "Temblor hoy en Colombia: reportan nuevo sismo de magnitud 3,9 en Chocó durante la madrugada de este jueves 26 de noviembre",
+   "extracto": "Conozca el epicentro, la profundidad y más detalles revelados por el Servicio Geológico Colombiano (SGC).",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/temblor-hoy-en-colombia-reportan-nuevo-sismo-de-magnitud-3-9-en-choco-durante-la-madrugada-de-este-jueves-26-de-noviembre-3604406",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/09/6aa15b5ccca1b.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T07:31:58Z"
+  },
+  {
+   "titulo": "Pico y placa en Bucaramanga para el jueves 26 de noviembre de 2026: conozca las placas que tienen restricción y los horarios",
+   "extracto": "Los vehículos con matrículas terminadas en 1 y 2 no podrán circular durante 14 horas, según la programación del último trimestre del año.",
+   "enlace": "https://www.eltiempo.com/colombia/santander/pico-y-placa-en-bucaramanga-para-el-jueves-26-de-noviembre-de-2026-conozca-las-placas-que-tienen-restriccion-y-los-horarios-3604214",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/08/11/6a7b4eef0af1c.r_d.274-349-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T07:30:00Z"
+  },
+  {
+   "titulo": "Pico y placa en Medellín para el jueves 26 de noviembre de 2026: conozca las restricciones y horarios para carros, motos y taxis",
+   "extracto": "La medida regirá durante 15 horas para vehículos particulares y motocicletas. El transporte público individual tendrá una rotación diferente.",
+   "enlace": "https://www.eltiempo.com/colombia/medellin/pico-y-placa-en-medellin-para-el-jueves-26-de-noviembre-de-2026-conozca-las-restricciones-y-horarios-para-carros-motos-y-taxis-3604205",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2021/09/06/613655b89ef43.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T07:30:00Z"
+  },
+  {
+   "titulo": "¡Evite multas! Pico y placa en Cali para el jueves 26 de noviembre de 2026: consulte qué carros no pueden circular",
+   "extracto": "La restricción estará vigente durante 13 horas. Conozca las placas que no podrán circular, los horarios y las excepciones establecidas.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/evite-multas-pico-y-placa-en-cali-para-el-jueves-26-de-noviembre-de-2026-consulte-que-carros-no-pueden-circular-3604019",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2024/06/26/667c058f2c602.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T07:30:00Z"
+  },
+  {
+   "titulo": "¡Atención conductores! Así será la movilidad en Medellín y Antioquia por el Gran Fondo UCI este domingo",
+   "extracto": "Las vías de Medellín y varios municipios de Antioquia tendrán modificaciones en su movilidad este domingo debido a la realización del UCI Gran Fondo World Series Colombia 2026…",
+   "enlace": "https://www.elcolombiano.com/antioquia/cierres-viales-medellin-antioquia-gran-fondo-uci-2026-CI44081120",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/ITLA/uci11_52228739_20261125180858.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-25T23:19:08Z"
+  },
+  {
+   "titulo": "117 funcionarios acompañarán la consulta del Área de Oriente: presidente del CNE",
+   "extracto": "El Consejo Nacional Electoral (CNE) está listo para acompañar la jornada de votación que se realizará este fin de semana en ocho municipios del Oriente antioqueño, en la que se…",
+   "enlace": "https://www.elcolombiano.com/antioquia/garantias-electorales-consulta-area-metropolitana-oriente-cne-IH44079515",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/449x300/0c0/0d0/center/11101/BMSV/juan-felipe-lemos_52229746_20261125174725.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-25T22:41:38Z"
+  },
+  {
+   "titulo": "Pico y placa en Pereira para el jueves 26 de noviembre de 2026: estos carros y motos no podrán circular durante 14 horas",
+   "extracto": "La restricción estará vigente entre las 6:00 a. m. y las 8:00 p. m. Consulte los números de las placas que tienen limitaciones de movilidad.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/pico-y-placa-en-pereira-para-el-jueves-26-de-noviembre-de-2026-estos-carros-y-motos-no-podran-circular-durante-14-horas-3604332",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2023/08/31/64f11100256d0.r_d.600-360-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T07:23:00Z"
+  },
+  {
+   "titulo": "Estos fueron los dos graves regaños de una juez de Cartagena a los señalados del secuestro masivo en un Éxito: 'Se está quedando dormido'",
+   "extracto": "En medio de la audiencia de legalización de captura, los hombres asistían desde el CDT Bella Vista con un aparente desinterés.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/estos-fueron-los-dos-graves-reganos-de-una-juez-de-cartagena-a-los-senalados-del-secuestro-masivo-en-un-exito-se-esta-quedando-dormido-3604405",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/26/6b07cd8f5dc0a.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T06:48:06Z"
+  },
+  {
+   "titulo": "'Un canto a la vida': la 69 Feria de Cali llega a las 22 comunas y los 15 corregimientos con 54 eventos para reactivar el alma de la ciudad",
+   "extracto": "También fue seleccionado el afiche oficial del tradicional certamen que se hará del 25 al 30 de diciembre.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/un-canto-a-la-vida-la-69-feria-de-cali-llega-a-las-22-comunas-y-los-15-corregimientos-con-54-eventos-para-reactivar-el-alma-de-la-ciudad-3604395",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/26/6b07cd831289c.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T06:20:52Z"
+  },
+  {
+   "titulo": "Asalto armado con rehenes en Éxito de Cartagena: Fiscalía imputa por secuestro extorsivo a los dos señalados, quienes no aceptaron cargos",
+   "extracto": "Conozca acá las últimas noticias, reacciones y los reportes sobre la situación que puso en emergencia a la capital de Bolívar.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/asalto-de-hombres-armados-en-exito-de-cartagena-con-rehenes-ultimas-noticias-y-reportes-de-la-emergencia-3604404",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b0711146f944.r_d.962-440-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T05:29:19Z"
+  },
+  {
+   "titulo": "Revelan lo que hicieron los delincuentes durante las más de 15 horas de la toma de rehenes en el Éxito de Cartagena: bebieron licor y pusieron música",
+   "extracto": "Según el alcalde y testimonios de quienes salieron libres, los captores agredieron a empleados y hasta cambiaron su vestimenta.",
+   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/revelan-lo-que-hicieron-los-delincuentes-durante-las-mas-de-15-horas-de-toma-de-rehenes-en-el-exito-de-cartagena-bebieron-licor-y-pusieron-musica-3604388",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b07a41203181.r_d.294-500-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T03:48:29Z"
+  },
+  {
+   "titulo": "Toma del Palacio de Justicia: CIDH revisará si indultos al M-19 impidieron juzgar a sus dirigentes",
+   "extracto": "El 6 de noviembre de 1985, el país quedó paralizado por la toma del Palacio de Justicia. Más de cuatro décadas después, uno de los capítulos más duros de la historia reciente…",
+   "enlace": "https://www.elcolombiano.com/colombia/cidh-palacio-justicia-m19-muerte-tres-policias-IJ44091944",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/REPH/tamanos-el-colombiano-2026-11-25t2_52231226_20261125221904.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T03:23:37Z"
+  },
+  {
+   "titulo": "De rehén a sospechoso: la historia de Daniel Díaz, el hombre que confundieron con un secuestrador en la toma del Éxito de Cartagena",
+   "extracto": "A las seis de la mañana de este martes 24 de noviembre, Daniel Díaz Acevedo cumplía su rutina de viaje en Cartagena: entrenar en el gimnasio del sótano de un supermercado Éxito…",
+   "enlace": "https://www.elcolombiano.com/colombia/de-rehen-a-sospechoso-historia-daniel-diaz-exito-cartagena-acusado-secuestrador-EI44087517",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/TADT/foto-la-historia-de-daniel-diaz-en-e_52230785_20261125215920.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T03:11:40Z"
+  },
+  {
+   "titulo": "“Lo reporté como bajas en combate y obtuvimos condecoraciones”: exmilitares reconocen responsabilidad en crímenes en Apartadó",
+   "extracto": "Tres exintegrantes de la fuerza pública reconocieron su responsabilidad por hechos violentos cometidos contra campesinos de San José de Apartadó durante 1997, en el marco de la…",
+   "enlace": "https://www.elcolombiano.com/antioquia/exmilitares-reconocen-crimenes-apartado-audiencia-territorial-jep-OG44061609",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/454x300/0c0/0d0/center/11101/GQMA/suraba-1_52226695_20261125134919.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-25T19:03:17Z"
+  },
+  {
+   "titulo": "Tras casi 20 años, encuentran los cuerpos de dos jóvenes desaparecidos en Granada, Antioquia",
+   "extracto": "La Unidad de Búsqueda de Personas Dadas por Desaparecidas anunció la entrega de los restos mortales de dos jóvenes campesinos del municipio de Granada, oriente antioqueños, los…",
+   "enlace": "https://www.elcolombiano.com/antioquia/entregan-cuerpos-de-jovenes-desaparecidos-hace-veinte-anos-granada-antioquia-CF44058309",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/480x300/0c0/0d0/center/11101/RYMQ/unidad-2_52226327_20261125132649.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-25T18:40:47Z"
+  },
+  {
+   "titulo": "Andrés Julián Rendón tendrá $9,82 billones de presupuesto en Antioquia para invertir en el cierre de su mandato",
+   "extracto": "Sin mayores contratiempos, y con 21 votos positivos frente a cuatro negativos, la Gobernación de Antioquia obtuvo la aprobación del presupuesto solicitado a la Asamblea…",
+   "enlace": "https://www.elcolombiano.com/antioquia/presupuesto-antioquia-2027-inversion-educacion-vias-uraba-FF44050764",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/482x300/0c0/0d0/center/11101/EXYT/formatos-para-notas-web-10_52224177_20261125130014.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-25T18:24:20Z"
+  },
+  {
+   "titulo": "¡Pilas! Hay cierres totales en el Túnel de Oriente por mantenimiento",
+   "extracto": "",
+   "enlace": "https://www.elcolombiano.com/antioquia/cierres-totales-en-el-tunel-de-oriente-por-mantenimiento-GF44053137",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/571x300/0c0/0d0/center/11101/WFLX/tunel_52225637_20261125121422.png",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-25T18:08:37Z"
+  },
+  {
+   "titulo": "Así es la nueva cárcel de Riohacha con capacidad para recibir a 1.722 personas",
+   "extracto": "Después de más de cinco años de obras y una inversión que supera los $300.000 millones, Riohacha, La Guajira, cuenta con un nuevo establecimiento penitenciario. Este miércoles 25…",
+   "enlace": "https://www.elcolombiano.com/colombia/carcel-riohacha-capacidad-recibir-1-722-personas-LI44087581",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/VLEN/carcel-riohacha_52230791_20261125203930.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T01:55:08Z"
+  },
+  {
+   "titulo": "Dron con explosivos que tendría como objetivo una estación de Policía cayó sobre el techo de una iglesia en Valle del Cauca",
+   "extracto": "Un dron cargado con explosivos que, al parecer, iba dirigido contra una estación de Policía terminó cayendo sobre una iglesia en el Valle del Cauca. Según la información…",
+   "enlace": "https://www.elcolombiano.com/colombia/dron-con-explosivos-cae-techo-iglesia-valle-del-cauca-MI44088105",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/KQLU/dron-iglesia_52230892_20261125203004.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T01:49:34Z"
+  },
+  {
+   "titulo": "Procuraduría ahora sí avanza en juicio contra Alfredo Saade por participación en política tras meses de haber dejado el cargo",
+   "extracto": "“Puse el trino y al día siguiente me llevó a un juicio”. Así resume Alfredo Saade, el autodenominado “pastor” y exembajador de Colombia en Brasil, su llamado a juicio…",
+   "enlace": "https://www.elcolombiano.com/colombia/alfredo-saade-juicio-participacion-politica-GI44084741",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/REPH/tamanos-el-colombiano-2026-11-25t2_52230475_20261125202739.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T01:46:59Z"
+  },
+  {
+   "titulo": "Atlético Nacional, impulsado por James, le gana al Medellín el clásico paisa y puntea el grupo A",
+   "extracto": "El equipo verdolaga lidera este cuadrangular. Ahora visita a Santa Fe.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/atletico-nacional-impulsado-por-james-le-gana-al-medellin-el-clasico-paisa-y-puntea-el-grupo-a-3604393",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b079eb00307d.r_d.1308-873-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-26T05:44:07Z"
+  },
+  {
+   "titulo": "Gobierno De la Espriella frena el ingreso de Colombia a los BRICS y a su banco de desarrollo, como lo quería Petro",
+   "extracto": "18 meses duró la intención de Colombia para entrar al Nuevo Banco de Desarrollo, el brazo financiero de los BRICS; incluso, en el Congreso, no se votó el proyecto de ley con el…",
+   "enlace": "https://www.elcolombiano.com/colombia/colombia-desiste-ingreso-brics-nuevo-banco-de-desarrollo-JI44088607",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/538x300/0c0/0d0/center/11101/TJJG/brics-de-la-espriella-banco-desarrol_52230991_20261125203430.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T01:40:14Z"
+  },
+  {
+   "titulo": "Blindan peajes y vías estratégicas del Valle del Cauca con más cámaras y tecnología tras ola de ataques terroristas",
+   "extracto": "Autoridades departamentales, el Gobierno Nacional y los concesionarios viales acordaron ampliar el monitoreo tecnológico en puntos críticos.",
+   "enlace": "https://www.eltiempo.com/colombia/cali/blindan-peajes-y-vias-estrategicas-del-valle-del-cauca-con-mas-camaras-y-tecnologia-tras-ola-de-ataques-terroristas-3604360",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/06/12/6a2c95b5d8317.r_d.809-516-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T01:12:38Z"
+  },
+  {
+   "titulo": "Dane revela el primer dato de la negociación del alza del salario mínimo de 2027",
+   "extracto": "El Departamento Administrativo Nacional de Estadística (Dane) entregó este miércoles 25 de noviembre el primer dato técnico que entrará en la discusión del salario mínimo de 2027…",
+   "enlace": "https://www.elcolombiano.com/colombia/dane-productividad-negociacion-salario-minimo-2027-colombia-CI44087599",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/411x300/0c0/0d0/center/11101/AXYQ/empleo-trabajador-salario-minimo_52230801_20261125194929.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T00:57:53Z"
+  },
   {
    "titulo": "Alerta por brote de gastroenteritis en Puerto Berrío: ya van casi 900 casos",
    "extracto": "Desde el pasado 20 de octubre, el Hospital La María ha atendido a 887 personas con afecciones gastrointestinales, en su mayoría mayores de 18 años. La cifra encendió las alertas…",
@@ -11,6 +271,66 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-11-25T16:52:31Z"
+  },
+  {
+   "titulo": "Video | Expulsaron a congresista petrista Alfredo Mondragón durante una sesión de la Cámara: “¡Respete!”",
+   "extracto": "La plenaria de la Cámara de Representantes terminó este miércoles con un congresista menos en el recinto. El presidente de la corporación, Nicolás Barguil, expulsó de la sesión al…",
+   "enlace": "https://www.elcolombiano.com/colombia/video-expulsaron-a-congresista-petrista-alfredo-mondragon-durante-una-sesion-de-la-camara-respete-HI44086001",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/FYSO/alfredo-mondragon-expulsado-nicolas_52230520_20261125191824.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T00:24:35Z"
+  },
+  {
+   "titulo": "Santa Fe saca sus garras, golea al Once Caldas y con autoridad vuelve a la pelea en el grupo A",
+   "extracto": "Gran victoria del equipo cardenal, que se repone de la derrota en la primera fecha de los cuadrangulares.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/santa-fe-saca-sus-garras-golea-al-once-caldas-y-con-autoridad-vuelve-a-la-pelea-en-el-grupo-a-3604364",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b07868735d3f.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-26T04:21:33Z"
+  },
+  {
+   "titulo": "Atlético Nacional vs Independiente Medellín 3-1 EN VIVO: minuto a minuto, rojos con 10 y James dejó asistencias",
+   "extracto": "El verde llega con sangre en el ojo tras la polémica arbitral contra Once Caldas y el rojo defiende una valiosa victoria contra Santa Fe.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/atletico-nacional-vs-independiente-medellin-en-vivo-minuto-a-minuto-de-clasico-en-cuadrangulares-3604358",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b079a0418f87.r_d.416-178-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-26T04:19:04Z"
+  },
+  {
+   "titulo": "Ilsa Córdoba, del campo de sóftbol en Currulao al oro olímpico en Dakar",
+   "extracto": "Nació en el Chocó. Sus padres la enviaron a vivir con su abuela. Estudia psicología y quiere emular a Flor Denis Ruiz. Perfil.",
+   "enlace": "https://www.eltiempo.com/deportes/ciclo-olimpico/ilsa-cordoba-del-campo-de-softbol-en-currulao-al-oro-olimpico-en-dakar-3604398",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/09/6af22205bc998.r_d.1647-470-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-26T04:16:59Z"
+  },
+  {
+   "titulo": "¿Por qué les dice “bandidos”, “miserables” o “bienvenidos a la patria milagro”? De la Espriella explicó sus polémicas expresiones",
+   "extracto": "Ha causado incomodidad y también admiración escuchar al presidente Abelardo de la Espriella referirse a los capturados como “bandidos” , “miserables” o darles la bienvenida a la…",
+   "enlace": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-justifica-expresiones-bandido-miserable-capturados-NI44080148",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/CBNC/aberlardo_52229979_20261125182150.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-26T00:07:01Z"
+  },
+  {
+   "titulo": "¿Qué es el Ministerio Rastafari de Jehová? Así es la comunidad que la Corte ordenó reconocer como entidad religiosa y que utiliza cannabis en sus ritos",
+   "extracto": "El uso ceremonial del cannabis en ritos religiosos quedó amparado en Colombia tras una reciente orden de la Corte Constitucional que obligó al Gobierno a inscribir como entidad…",
+   "enlace": "https://www.elcolombiano.com/colombia/que-es-ministerio-rastafari-jehova-corte-ordena-reconocer-entidad-religiosa-usa-cannabis-ritos-BG44068933",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/ESWO/foto-que-es-el-ministerio-rastafari_52227778_20261125181014.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T23:57:48Z"
   },
   {
    "titulo": "“Si insistimos en que ganamos solos, ya perdimos”: Andrés Guerra se ratificó tras controversia en el Centro Democrático",
@@ -23,6 +343,26 @@
    "fecha": "2026-11-25T15:42:19Z"
   },
   {
+   "titulo": "¡BEHEMOTH!: la carta de amor a la música detrás de las películas, protagonizada por Pedro Pascal, llega a Colombia",
+   "extracto": "El actor chileno aprendió a tocar el violonchelo para interpretar a su personaje en la película de Tony Gilroy, que se estrena el 3 de diciembre.",
+   "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/behemoth-la-carta-de-amor-a-la-musica-que-hace-inolvidables-las-peliculas-protagonizada-por-pedro-pascal-llega-a-colombia-3604371",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b0788ca16121.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-26T03:40:14Z"
+  },
+  {
+   "titulo": "Colombia se corona campeona invicta del Sudamericano de Pickleball en Uruguay",
+   "extracto": "El combinado tricolor brilló en un certamen avalado por la Panamerican Pickleball Federation que congregó a 260 competidores de 11 naciones.",
+   "enlace": "https://www.eltiempo.com/deportes/otros-deportes/colombia-se-corona-campeona-invicta-del-sudamericano-de-pickleball-en-uruguay-3604342",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b07a3efde064.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-26T03:18:37Z"
+  },
+  {
    "titulo": "Este 25N, Antioquia llama a no normalizar la violencia contra las mujeres: 34.151 reportes y 133 víctimas protegidas en 2026",
    "extracto": "Denunciar una agresión no siempre significa que una mujer haya conseguido salir del ciclo de violencia. En muchos casos, después de pedir ayuda comienza otro recorrido que consta…",
    "enlace": "https://www.elcolombiano.com/antioquia/antioquia-eliminacion-violencia-contra-la-mujer-cifras-reportes-AE44041001",
@@ -31,6 +371,76 @@
    "categoria": "antioquia",
    "etiqueta": "Antioquia",
    "fecha": "2026-11-25T15:12:00Z"
+  },
+  {
+   "titulo": "¿Por qué confundieron a este rehén con uno de los secuestradores en el Éxito de Cartagena?",
+   "extracto": "Luego de 17 horas, un grupo de alrededor de 76 personas fueron rescatadas en el Éxito de La Castellana, en Cartagena, por parte de grupos especiales de las Fuerzas Militares y la…",
+   "enlace": "https://www.elcolombiano.com/colombia/por-que-confundieron-carlos-tapia-con-secuestrador-exito-cartagena-KH44075690",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/TSJT/rehenes-que-fueron-confundidos-con-s_52229169_20261125174605.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T23:09:36Z"
+  },
+  {
+   "titulo": "Estas son las caras de los presuntos secuestradores de Cartagena",
+   "extracto": "En video quedaron registrados algunos de los hombres capturados por las autoridades tras la toma de rehenes en el supermercado Éxito de La Castellana, en Cartagena. El operativo…",
+   "enlace": "https://www.elcolombiano.com/colombia/secuestro-cartagena-fotos-presuntos-secuestradores-capturados-ED44033340",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/453x300/0c0/0d0/center/11101/UBIV/image-2026-11-25t124208-700_52222739_20261125124311.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T23:01:25Z"
+  },
+  {
+   "titulo": "Hallaron a una mujer sin vida al frente de una vivienda en Bogotá",
+   "extracto": "Las autoridades investigan el hallazgo sin vida de una mujer de aproximadamente 25 años, que fue abandonada frente a una vivienda ubicada en el noroccidente de Bogotá. El caso se…",
+   "enlace": "https://www.elcolombiano.com/colombia/hallaron-mujer-sin-vida-al-frente-vivienda-bogota-AH44075234",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/VCME/no-pasar_52229019_20261125173343.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T22:54:40Z"
+  },
+  {
+   "titulo": "Hasta con “pistolas de juguete”: revelaron las armas usadas por los delincuentes que secuestraron a personas en un Éxito de Cartagena",
+   "extracto": "La Fiscalía General de la Nación reveló este miércoles 25 de noviembre cuáles fueron las armas utilizadas por los presuntos delincuentes que secuestraron durante más de 17 horas a…",
+   "enlace": "https://www.elcolombiano.com/colombia/rehenes-cartagena-cuales-armas-tenian-secuestradores-JH44070494",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/MKOT/foto-revelaron-armas-con-las-que-del_52228257_20261125155107.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T22:51:37Z"
+  },
+  {
+   "titulo": "Oferta de Win Sports por derechos de TV del fútbol colombiano pasa a estudio de abogados de la Dimayor",
+   "extracto": "En reunión informal de clubes, se socializó la oferta del canal.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/oferta-de-win-sports-por-derechos-de-tv-del-futbol-colombiano-pasa-a-estudio-de-abogados-de-la-dimayor-3604386",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/09/23/6ab3fff061751.r_d.1128-146-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-26T02:47:04Z"
+  },
+  {
+   "titulo": "¿Qué hacía Westcol en el Congreso? Su invitación por los 100 años del Capitolio Nacional",
+   "extracto": "El Capitolio Nacional cumplió 100 años desde la finalización de su construcción y la conmemoración tuvo un invitado fuera del protocolo. El streamer Westcol recorrió sus pasillos…",
+   "enlace": "https://www.elcolombiano.com/colombia/que-hacia-westcol-congreso-invitacion-100-anos-capitolio-nacional-congreso-GH44073720",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/GXMO/que-hacia-westcol-en-el-congreso-su_52228679_20261125165121.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T22:31:56Z"
+  },
+  {
+   "titulo": "Fijan fecha para el juicio oral contra Nicolás Petro en Barranquilla: ¿cuándo será?",
+   "extracto": "El juicio oral contra Nicolás Petro Burgos por los presuntos delitos de enriquecimiento ilícito y lavado de activos fue programado para los días 20 y 21 de enero de 2027, a horas…",
+   "enlace": "https://www.elcolombiano.com/colombia/nicolas-petro-juicio-enero-2027-daysuris-vasquez-lavado-activos-IH44073193",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/SHPH/tamanos-el-colombiano-2026-11-25t1_52228334_20261125165557.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T22:28:48Z"
   },
   {
    "titulo": "Hombres armados sacaron de su vivienda a dos hermanos y los asesinaron en zona rural de Angostura",
@@ -43,14 +453,74 @@
    "fecha": "2026-11-25T13:31:18Z"
   },
   {
-   "titulo": "Secuestradores les habrían ofrecido dinero a los rehenes del almacén Éxito en Cartagena: testigo contó que tras una 'transferencia los iban a soltar'",
-   "extracto": "Durante la madrugada de este miércoles se llevó a cabo la liberación de los rehenes. EL TIEMPO conoció el más reciente balance de la operación.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/secuestradores-les-habrian-ofrecido-dinero-a-los-rehenes-del-almacen-exito-en-cartagena-testigo-conto-que-tras-una-transferencia-los-iban-a-soltar-3604281",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b06f2256223a.png",
-   "fuente": "El Tiempo",
+   "titulo": "Carro bomba en Villavicencio: así puede apoyar a los comerciantes que perdieron sus locales",
+   "extracto": "A vísperas de la temporada decembrina, varios comerciantes de Villavicencio enfrentan un panorama incierto tras la explosión del carro bomba cerca de la Gobernación del Meta, en…",
+   "enlace": "https://www.elcolombiano.com/colombia/como-ayudar-comerciantes-afectados-carro-bomba-villavicencio-BG44066722",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/JQAT/carro-bomba-en-villavicencio-asi-pue_52227508_20261125153151.jpg",
+   "fuente": "El Colombiano",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-11-25T21:12:11Z"
+   "fecha": "2026-11-25T20:58:59Z"
+  },
+  {
+   "titulo": "¿Qué pasó con los “sexocontratos”? Director del Dapre dijo que todos “deben caer” y prometió más detalles",
+   "extracto": "El director del Departamento Administrativo de la Presidencia (Dapre), Carlos Ríos, anunció que el próximo martes presentará, durante un debate de control político en el Senado…",
+   "enlace": "https://www.elcolombiano.com/colombia/que-paso-sexocontratos-contratos-favores-sexuales-gobierno-petro-BG44069558",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/OUJP/sexocontratos-que-ha-pasado-con-el-c_52228962_20261125162519.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T20:56:36Z"
+  },
+  {
+   "titulo": "Los sicarios brujos de Medellín, el nuevo episodio del podcast Revelaciones del Bajo Mundo",
+   "extracto": "Una célula de sicarios de Medellín se encomendó a los poderes de la brujería, buscando contactar a las fuerzas del más allá para asesinar extranjeros en la ciudad. Esta historia…",
+   "enlace": "https://www.elcolombiano.com/colombia/sicarios-brujos-medellin-asesinatos-extranjeros-podcast-LF44058289",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/300x300/0c0/0d0/center/11101/UCHM/ilustracion-episodio-7-revelaciones_52222994_20261125153039.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T20:51:52Z"
+  },
+  {
+   "titulo": "Confirman la fecha de estreno de la esperada tercera temporada del drama médico 'The Pitt', en HBO Max",
+   "extracto": "La serie cuenta con 11 premios Emmy, los más importantes de la televisión estadounidense.",
+   "enlace": "https://www.eltiempo.com/cultura/cine-y-tv/confirman-la-fecha-de-estreno-de-la-esperada-tercera-temporada-del-drama-medico-the-pitt-en-hbo-max-3604288",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/12/09/693885fd5fb96.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-26T00:49:28Z"
+  },
+  {
+   "titulo": "Presentan en Bogotá el libro ‘Los nuevos 40’, de José Manuel Acevedo, que revela el talento joven de la región",
+   "extracto": "El texto recopila las entrevistas del 2026 del proyecto ‘Los 40 de menos de 40’, que por primera vez contó historias de Latinoamérica.",
+   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/presentan-en-bogota-el-libro-los-nuevos-40-de-jose-manuel-acevedo-que-revela-el-talento-joven-de-la-region-3604357",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b077f11c3c56.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-26T00:44:11Z"
+  },
+  {
+   "titulo": "Apagón en el suroccidente: se ha restablecido el 68% de la energía tras ataque terrorista, ¿qué regiones siguen afectadas?",
+   "extracto": "Menos de 24 horas después del apagón que dejó a oscuras a buena parte del suroccidente del país, el Ministerio de Minas y Energía informó que ya se recuperó cerca del 68% de la…",
+   "enlace": "https://www.elcolombiano.com/colombia/apagon-suroccidente-colombia-regiones-afectadas-restablecimiento-energia-HG44066540",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/BPIL/minminas-y-energia_52227451_20261125150425.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T20:43:24Z"
+  },
+  {
+   "titulo": "Por sobrecostos en carrotanques de La Guajira, dejan en firme fallo por $24.000 millones contra Olmedo López y Sneyder Pinilla",
+   "extracto": "La Contraloría declaró la responsabilidad fiscal por más de $24.000 millones contra Olmedo López, exdirector de la UNGRD; Sneyder Pinilla, quien se desempeñó como subdirector de…",
+   "enlace": "https://www.elcolombiano.com/colombia/sneyder-pinilla-y-olmedo-lopez-asi-fue-la-condena-contra-los-ex-directivos-ungrd-IF44052497",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/VVXH/ungrd-carrotanques_52225253_20261125121820.png",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T20:39:23Z"
   },
   {
    "titulo": "¿Riña por acoso o guerra entre Clan del Golfo y Los Chatas? Las hipótesis detrás de la masacre y la racha de 9 muertes en Barbosa",
@@ -63,84 +533,74 @@
    "fecha": "2026-11-25T12:29:44Z"
   },
   {
-   "titulo": "Caen cuatro presuntos implicados en fraude tributario que comprometió $18.293 millones en Valledupar: autoridades aún buscan a dos exfuncionarios",
-   "extracto": "La investigación surgió tras una auditoría que detectó 3.483 ajustes manuales de crédito y beneficios tributarios sin soporte aparente.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/caen-cuatro-presuntos-implicados-en-fraude-tributario-que-comprometio-18-293-millones-en-valledupar-autoridades-aun-buscan-a-dos-exfuncionarios-3604275",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b0740d410103.r_d.651-356-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T20:10:00Z"
-  },
-  {
-   "titulo": "Revelan nuevos videos del operativo de rescate de rehenes en el Éxito de Cartagena: así fue el despliegue para liberar a más de 60 víctimas",
-   "extracto": "Los delincuentes armados quedaron acorralados tras intentar un asalto a un furgón de valores, lo que provocó la intervención militar.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/se-conocen-nuevos-videos-del-operativo-de-rescate-en-el-exito-de-cartagena-asi-fue-el-despliegue-de-las-autoridades-para-liberar-a-mas-de-60-victimas-3604096",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b06bb8b32772.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T19:52:57Z"
-  },
-  {
-   "titulo": "'No sabemos qué fue lo que pasó': allegados de Jaiver Muñetón, abatido tras operativo en el Éxito Cartagena, esperan resultados de su necropsia",
-   "extracto": "La muerte de Muñetón continúa siendo uno de los episodios que más interrogantes ha dejado tras la emergencia en el supermercado.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/no-sabemos-que-fue-lo-que-paso-allegados-de-jaiver-muneton-abatido-tras-operativo-en-el-exito-cartagena-esperan-resultados-de-su-necropsia-3604267",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b073a9bec1bd.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T19:40:00Z"
-  },
-  {
-   "titulo": "Video | Presidente Abelardo De La Espriella enfrentó a secuestradores del almacén Éxito en Cartagena tras captura: '¿Saben cuánto les va a caer?'",
-   "extracto": "La intervención se produjo luego de que los responsables rechazaran la posibilidad de liberar a los rehenes y entregarse a las autoridades.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/video-advertencia-que-lanzo-presidente-de-la-espriella-a-secuestradores-del-almacen-exito-en-cartagena-antes-del-rescate-los-confronto-tras-captura-3604232",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b07394c7fe9d.r_d.51-261-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T19:30:38Z"
-  },
-  {
-   "titulo": "Así avanza la lucha contra el hurto en Medellín: judicializan a tres hombres señalados de cometer tres atracos en una hora",
-   "extracto": "En otro resultado, gracias a cámaras de seguridad, capturaron a cuatro atracadores tras haber cometido un asalto. Conozca las cifras de este delito.",
-   "enlace": "https://www.eltiempo.com/colombia/medellin/asi-avanza-la-lucha-contra-el-hurto-en-medellin-judicializan-a-tres-hombres-senalados-de-cometer-tres-atracos-en-una-hora-3604251",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b072e73d4919.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T19:06:10Z"
-  },
-  {
-   "titulo": "En los 90 años del Puerto de Barranquilla, el presidente De La Espriella anunció su respaldo al plan privado para ampliar y modernizar la terminal",
-   "extracto": "La terminal, inaugurada en 1936 por Alfonso López Pumarejo, proyecta mover más de 13 millones de toneladas de carga este año.",
-   "enlace": "https://www.eltiempo.com/colombia/barranquilla/en-los-90-anos-del-puerto-de-barranquilla-el-presidente-de-la-espriella-anuncio-su-respaldo-al-plan-privado-para-ampliar-y-modernizar-la-terminal-3604210",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2025/11/14/691799e64bdd9.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T19:01:00Z"
-  },
-  {
-   "titulo": "De servicio: campaña Vístete de Esperanza entregará más de 15.000 prendas a damnificados del terremoto en Pereira y Dosquebradas",
-   "extracto": "Las personas afectadas por el terremoto del 10 de agosto podrán recibir hasta cinco prendas nuevas.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/de-servicio-campana-vistete-de-esperanza-entregara-mas-de-15-000-prendas-a-damnificados-del-terremoto-en-pereira-y-dosquebradas-3604204",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b072ab4c54bb.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T18:41:45Z"
-  },
-  {
-   "titulo": "Estas son las caras de los presuntos secuestradores de Cartagena",
-   "extracto": "En video quedaron registrados algunos de los hombres capturados por las autoridades tras la toma de rehenes en el supermercado Éxito de La Castellana, en Cartagena. El operativo…",
-   "enlace": "https://www.elcolombiano.com/colombia/secuestro-cartagena-fotos-presuntos-secuestradores-capturados-ED44033340",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/453x300/0c0/0d0/center/11101/UBIV/image-2026-11-25t124208-700_52222739_20261125124311.jpg",
+   "titulo": "China y Taiwán se enfrentan por viaje de congresistas colombianos: “Ponen en entredicho su dignidad”",
+   "extracto": "La visita de nueve congresistas a Taiwán pasó a ser ahora motivo de un cruce de comunicados entre Pekín y Taipéi, con parlamentarios colombianos en el medio. El último capítulo lo…",
+   "enlace": "https://www.elcolombiano.com/colombia/china-y-taiwan-se-enfrentan-viaje-congresistas-colombianos-ME44049544",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SVPD/china-colombia-visita-congresistas_52224863_20261125125534.jpg",
    "fuente": "El Colombiano",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-11-25T18:13:24Z"
+   "fecha": "2026-11-25T20:25:24Z"
+  },
+  {
+   "titulo": "Murió Andy Taylor, exguitarrista de la banda inglesa de rock Duran Duran",
+   "extracto": "Andy Taylor, exguitarrista de la banda británica Duran Duran, murió a los 65 años tras una “larga y valiente batalla contra el cáncer de próstata”, informó la banda y su familia…",
+   "enlace": "https://www.elcolombiano.com/cultura/murio-andy-taylor-exguitarrista-banda-britanica-duran-duran-LI44084096",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/448x300/0c0/0d0/center/11101/JLKF/whatsapp-image-2026-11-25-at-6-40-05-pm_52230272_20261125184254.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-26T00:19:24Z"
+  },
+  {
+   "titulo": "Murió Andy Taylor, el legendario guitarrista y compositor de la agrupación británica Duran Duran",
+   "extracto": "El músico libró una larga batalla contra el cáncer de próstata. Tenía 65 años.",
+   "enlace": "https://www.eltiempo.com/cultura/musica-y-libros/murio-andy-taylor-el-legendario-guitarrista-y-compositor-de-la-agrupacion-britanica-duran-duran-3604322",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b07617e0d86f.r_d.414-245-0.png",
+   "fuente": "El Tiempo",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-26T00:18:26Z"
+  },
+  {
+   "titulo": "Renta Joven entregará $400.000 a 72.000 estudiantes en Colombia, ¿cuándo pagan?",
+   "extracto": "Prosperidad Social anunció la entrega de un nuevo pago del programa Renta Joven, que beneficiará a 72.244 estudiantes en Colombia. La sexta transferencia comenzará este jueves 26…",
+   "enlace": "https://www.elcolombiano.com/colombia/renta-joven-pago-noviembre-2026-fechas-consultar-prosperidad-social-DG44067859",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/OWYT/entrega-ciclo-6-renta-joven-2_52227716_20261125150900.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T20:10:41Z"
+  },
+  {
+   "titulo": "Se vence el plazo para aplicar a la condonación de intereses del Icetex: así puede aplicar",
+   "extracto": "El Instituto Colombiano de Crédito Educativo y Estudios Técnicos en el Exterior tiene vigente la “Campaña de Acuerdos, sin estrés con el Icetex” que le permite a los usuarios con…",
+   "enlace": "https://www.elcolombiano.com/colombia/como-condonar-credito-educativo-icetex-FF44057075",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SDCT/a20250915t040040-m-10-211-95-50-51-4_52226225_20261125130505.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T20:08:23Z"
+  },
+  {
+   "titulo": "“Por más cruda que sea la respuesta, háganlo oficial”: mujer busca a su esposo, abatido y señalado secuestrador en Éxito de Cartagena",
+   "extracto": "Indira Lambis está buscando a su marido, Jailer Humberto Muñetón Zapata , quien está desaparecido tras el operativo de rescate de rehenes en el Éxito de La Castellana en Cartagena…",
+   "enlace": "https://www.elcolombiano.com/colombia/jailer-muneton-secuestro-exito-cartagena-noticias-NG44063961",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/GFVE/exito-cartagena-2_52226671_20261125144056.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T20:05:12Z"
+  },
+  {
+   "titulo": "Video | Emboscada armada contra la Policía en Cauca dejó al menos dos uniformados muertos y cuatro más heridos",
+   "extracto": "Un nuevo ataque contra las autoridades ocurrió este miércoles 25 de noviembre, luego que siete unidades de la Policía que se desplazaban en compañía de funcionarios de la alcaldía…",
+   "enlace": "https://www.elcolombiano.com/colombia/video-emboscada-armada-policia-cauca-deja-al-menos-dos-uniformados-muertos-cuatro-heridos-AG44063542",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/ISMT/foto-video-emboscada-armada-contra-l_52226827_20261125143723.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T20:00:58Z"
   },
   {
    "titulo": "¿Se volaron algunos secuestradores de la toma de rehenes en el Éxito de Cartagena?",
@@ -150,17 +610,67 @@
    "fuente": "El Colombiano",
    "categoria": "colombia",
    "etiqueta": "Colombia",
-   "fecha": "2026-11-25T18:07:43Z"
+   "fecha": "2026-11-25T19:52:08Z"
   },
   {
-   "titulo": "China y Taiwán se enfrentan por viaje de congresistas colombianos: “Ponen en entredicho su dignidad”",
-   "extracto": "La visita de nueve congresistas a Taiwán pasó a ser ahora motivo de un cruce de comunicados entre Pekín y Taipéi, con parlamentarios colombianos en el medio. El último capítulo lo…",
-   "enlace": "https://www.elcolombiano.com/colombia/china-y-taiwan-se-enfrentan-viaje-congresistas-colombianos-ME44049544",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SVPD/china-colombia-visita-congresistas_52224863_20261125125534.jpg",
+   "titulo": "Dance of the sun: el concierto en el Metropolitano que rompe el formato tradicional de la música clásica",
+   "extracto": "El 26 de noviembre de 2026, a las siete de la noche. La Geneva Camerata clausurará la Temporada Internacional de Música Clásica Medellín Cultural con Dance of the Sun, en el…",
+   "enlace": "https://www.elcolombiano.com/cultura/concierto-en-el-metropolitano-KI44082800",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/438x300/0c0/0d0/center/11101/VJQQ/iva-n-marti-nez-imf6220_52230265_20261125181831.jpg",
    "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T18:02:16Z"
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-25T23:45:23Z"
+  },
+  {
+   "titulo": "Luis Suárez tuvo revancha con doblete en la Champions, y se desahogó: 'Con la Selección acabé muy frustrado'",
+   "extracto": "El atacante volvió a fallar penalti, pero se reivindicó.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/luis-suarez-tuvo-revancha-con-doblete-en-la-champions-y-se-desahogo-con-la-seleccion-acabe-muy-frustrado-3604333",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b076d932e739.r_d.1243-562-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-25T23:26:12Z"
+  },
+  {
+   "titulo": "Nueva queja contra el arbitraje: Atlético Bucaramanga explota tras derrota contra Millonarios y emite fuerte comunicado",
+   "extracto": "El cuadro leopardo perdió en Bogotá en la fecha 2 de los cuadrangulares.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/nueva-queja-contra-el-arbitraje-atletico-bucaramanga-explota-tras-derrota-contra-millonarios-y-emite-fuerte-comunicado-3604325",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/24/6b0630033b469.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-25T22:42:45Z"
+  },
+  {
+   "titulo": "Santa Fe vs. Once Caldas, en vivo: siga el minuto a minuto del partido en el grupo A de los cuadrangulares",
+   "extracto": "Se enfrentan este miércoles en el estadio El Campín.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/santa-fe-vs-once-caldas-en-vivo-siga-el-minuto-a-minuto-del-partido-en-el-grupo-a-de-los-cuadrangulares-3604321",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/13/6af7d5a9d9faa.r_d.1024-683-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-25T22:26:43Z"
+  },
+  {
+   "titulo": "Homenaje a Aníbal Gil: la Universidad de Antioquia le concedió un Doctorado Honoris Causa en Artes",
+   "extracto": "La Universidad de Antioquia le confirió a Aníbal Gil Villa –artista, docente y pionero del grabado moderno en el país– el título de Doctor Honoris Causa en Artes. La ceremonia…",
+   "enlace": "https://www.elcolombiano.com/cultura/universidad-antioquia-concede-doctorado-honoris-causa-artes-anibal-gil-MH44074787",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/436x300/0c0/0d0/center/11101/VHQD/anibalgildoctoradohonoriscausaartesuniversidaddeantioquia_52228915_20261125163405.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-25T22:21:14Z"
+  },
+  {
+   "titulo": "Volvió Luis Díaz pero no pudo evitar la derrota: así le remontó Lille a denso Bayern Múnich",
+   "extracto": "El colombiano regresó después de superar problemas musculares, pero no pudo evitar la caída en Champions League.",
+   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/volvio-luis-diaz-pero-no-pudo-evitar-la-derrota-asi-le-remonto-lille-a-denso-bayern-munich-3604310",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b0757c899bee.r_d.1235-327-0.jpeg",
+   "fuente": "El Tiempo",
+   "categoria": "deportes",
+   "etiqueta": "Deportes",
+   "fecha": "2026-11-25T22:02:52Z"
   },
   {
    "titulo": "Historia de esposa que buscaba a su marido entre rehenes del Éxito tomó giro inesperado: sería el abatido en el intento de robo",
@@ -173,36 +683,6 @@
    "fecha": "2026-11-25T17:46:32Z"
   },
   {
-   "titulo": "Hospitales, colegios y acueductos deben el 90% de los $430.000 millones que tiene en aprietos inversiones de Afinia, filial de EPM",
-   "extracto": "La deuda de las entidades oficiales con Afinia, filial del Grupo EPM, asciende a cerca de $430.000 millones y, según la compañía, está afectando los recursos disponibles para…",
-   "enlace": "https://www.elcolombiano.com/antioquia/hospitales-colegios-acueductos-deuda-afinia-epm-NC44021837",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/OICN/a1-12002503-jpg_52221852_20261124194347.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-25T01:01:45Z"
-  },
-  {
-   "titulo": "La movida política: votación del Área Metropolitana de Oriente medirá pulso en Antioquia",
-   "extracto": "La recta final de la consulta por el Área Metropolitana de Oriente, que se realizará este domingo 29 de noviembre, le está midiendo la temperatura política a esa subregión. En…",
-   "enlace": "https://www.elcolombiano.com/antioquia/la-movida-politica-votacion-del-area-metropolitana-de-oriente-medira-pulso-en-antioquia-HC44021240",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/413x300/0c0/0d0/center/11101/GQBE/la-movida-politica_52221747_20261124194821.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-25T00:47:39Z"
-  },
-  {
-   "titulo": "“Si encuentra esa carta renuncio a cualquier aspiración”: choque entre Alejandro Arbeláez y Luis Fernando Suárez subió de tono",
-   "extracto": "Las fricciones que se produjeron en el Centro Democrático, a raíz de una propuesta de una posible alianza con Aníbal Gaviria, terminaron derivando en una fuerte confrontación…",
-   "enlace": "https://www.elcolombiano.com/antioquia/choque-luis-fernando-suarez-alejandro-arbelaez-anibal-gaviria-EB44019915",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/413x300/0c0/0d0/center/11101/PYHO/luis-fernando-suarez-alejandro-arbel_52221633_20261124190815.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-25T00:06:19Z"
-  },
-  {
    "titulo": "¿Qué busca Supersociedades en La Silla Vacía? El medio cuestiona visita “excepcional” tras señalamientos de Carlos Suárez",
    "extracto": "La Silla Vacía informó este miércoles que recibió una notificación de la Superintendencia de Sociedades sobre una visita administrativa a sus instalaciones, programada para este…",
    "enlace": "https://www.elcolombiano.com/colombia/la-silla-vacia-denuncia-supersociedades-ordeno-visita-sede-inspeccion-OE44040538",
@@ -211,36 +691,6 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-25T17:40:22Z"
-  },
-  {
-   "titulo": "Ataque contra patrulla policial en zona rural de Padilla deja dos uniformados muertos y cuatro heridos",
-   "extracto": "Los policías se movilizaban hacia el sector de Yarumales para acompañar la inauguración de un parque, cuando fueron atacados con ráfagas de fusil.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/ataque-contra-patrulla-policial-en-zona-rural-de-padilla-deja-dos-uniformados-muertos-y-cuatro-heridos-3604224",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b071be68a314.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T17:39:51Z"
-  },
-  {
-   "titulo": "Cartagena: esposa del hombre abatido en el Éxito habla con EL TIEMPO y exige respuestas: ‘Tengo derecho a saber dónde está’",
-   "extracto": "Indira Lambis contó que recorrió varias dependencias sin respuestas sobre Jaiver Muñetón.",
-   "enlace": "https://www.eltiempo.com/colombia/otras-ciudades/cartagena-esposa-del-hombre-abatido-en-el-exito-habla-con-el-tiempo-y-exige-respuestas-tengo-derecho-a-saber-donde-esta-3604225",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b0707dd0ae12.r_d.1098-111-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T17:38:15Z"
-  },
-  {
-   "titulo": "Por sobrecostos en carrotanques de La Guajira, dejan en firme fallo por $24.000 millones contra Olmedo López y Sneyder Pinilla",
-   "extracto": "La Contraloría declaró la responsabilidad fiscal del exdirector de la UNGRD, Olmedo López; del exsubdirector de la entidad, Sneyder Pinilla, y de dos empresas involucradas en el…",
-   "enlace": "https://www.elcolombiano.com/colombia/sneyder-pinilla-y-olmedo-lopez-asi-fue-la-condena-contra-los-ex-directivos-ungrd-IF44052497",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/511x300/0c0/0d0/center/11101/VVXH/ungrd-carrotanques_52225253_20261125121820.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T17:22:19Z"
   },
   {
    "titulo": "A propósito del secuestro masivo en Cartagena, ¿en qué han terminado los grandes asaltos en Colombia?",
@@ -263,20 +713,10 @@
    "fecha": "2026-11-25T17:12:41Z"
   },
   {
-   "titulo": "Luis Suárez falló un penalti y tres minutos después anotó para el Sporting CP ante el Manchester United",
-   "extracto": "El colombiano vivió una ráfaga decisiva en el estadio José Alvalade durante la quinta jornada de la fase de liga de la Champions League.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/luis-suarez-fallo-un-penalti-y-tres-minutos-despues-anoto-para-el-sporting-cp-ante-el-manchester-united-3604293",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b074da62edbd.r_d.1447-776-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-25T21:07:53Z"
-  },
-  {
    "titulo": "¿Cómo pedir el mercado a domicilio en Tiendas D1? Guía para comprar desde casa",
    "extracto": "Los usuarios pueden consultar el catálogo digital, verificar la cobertura y conocer las condiciones de entrega.",
    "enlace": "https://www.eltiempo.com/cultura/gente/como-pedir-el-mercado-a-domicilio-en-tiendas-d1-guia-para-comprar-desde-casa-3604287",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b074da3ac800.jpeg",
+   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b074da3ac800.r_d.55-249-0.jpeg",
    "fuente": "El Tiempo",
    "categoria": "cultura",
    "etiqueta": "Cultura",
@@ -311,6 +751,16 @@
    "categoria": "colombia",
    "etiqueta": "Colombia",
    "fecha": "2026-11-25T16:56:50Z"
+  },
+  {
+   "titulo": "Héctor Abad cuestionó el destino diplomático de Santiago Gamboa y Sandra Borda le respondió",
+   "extracto": "Las opiniones de Héctor Abad Faciolince y Sandra Borda sobre el traslado del escritor Santiago Gamboa al consulado de Colombia en Puerto Obaldía, Panamá, abrieron una discusión…",
+   "enlace": "https://www.elcolombiano.com/cultura/santiago-gamboa-destino-diplomatico-hector-abad-sandra-borda-CG44067252",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/447x300/0c0/0d0/center/11101/KXJG/gemini-generated-image-63m5v363m5v363m5_52226635_20261125151758.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-25T20:44:45Z"
   },
   {
    "titulo": "Tomás Uribe se fue duro contra el estratega y amigo de De la Espriella, Carlos Suárez: “manda más que el mismo presidente”",
@@ -393,56 +843,6 @@
    "fecha": "2026-11-25T19:09:22Z"
   },
   {
-   "titulo": "Prepare una deliciosa y saludable torta de chocolate sin horno, sin azúcar añadido y sin harina: solo necesita dos ingredientes",
-   "extracto": "La preparación combina batata asada y chocolate negro, no requiere una mezcla de repostería tradicional y necesita cinco horas de refrigeración.",
-   "enlace": "https://www.eltiempo.com/cultura/recetas/prepare-una-deliciosa-y-saludable-torta-de-chocolate-sin-horno-sin-azucar-anadido-y-sin-harina-solo-necesita-dos-ingredientes-3604161",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b070099dd620.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-25T19:08:45Z"
-  },
-  {
-   "titulo": "El truco para conservar el queso hasta siete meses sin que pierda sus propiedades: una experta explica cómo hacerlo correctamente",
-   "extracto": "El papel de horno y la congelación son alternativas para prolongar la vida útil de este alimento, dependiendo de su variedad.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/el-truco-para-conservar-el-queso-hasta-siete-meses-sin-que-pierda-sus-propiedades-una-experta-explica-como-hacerlo-correctamente-3604235",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b071fc432eda.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-25T19:06:19Z"
-  },
-  {
-   "titulo": "¿Instagram escucha sus conversaciones y le muestra anuncios basados en ellas? Esto dijo su director: ‘Usamos información que sabemos de ti’",
-   "extracto": "El empresario dio tres razones por las que esto puede pasar y aseguró que nunca escucharían a sus usuarios.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/instagram-escucha-sus-conversaciones-y-le-muestra-anuncios-basados-en-ellas-esto-dijo-su-director-usamos-informacion-que-sabemos-de-ti-3604255",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b07309c1630c.png",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-25T19:05:50Z"
-  },
-  {
-   "titulo": "Lille vs. Bayern Múnich, EN VIVO: siga el minuto a minuto del partidazo de Champions League con el colombiano Luis Díaz de suplente",
-   "extracto": "El cuadro bávaro afronta el duelo con una serie de bajas muy pesadas.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/lille-vs-bayern-munich-en-vivo-siga-el-minuto-a-minuto-del-partidazo-de-champions-league-con-el-colombiano-luis-diaz-de-suplente-3604219",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/10/13/6ace9d1851036.r_d.622-49-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-25T18:56:11Z"
-  },
-  {
-   "titulo": "Rituales para atraer la buena suerte en Navidad de 2026: ¿dónde poner canela el 24 de diciembre y qué significa?",
-   "extracto": "Estas prácticas simbólicas permiten despedir el año con gratitud y establecer nuevas intenciones para el hogar.",
-   "enlace": "https://www.eltiempo.com/cultura/gente/rituales-para-atraer-la-buena-suerte-en-navidad-de-2026-donde-poner-canela-el-24-de-diciembre-y-que-significa-3604231",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b072c8a3b16d.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-25T18:49:46Z"
-  },
-  {
    "titulo": "“No es obligatorio los títulos académicos”: Petro defendió a Verónica Estrada y atacó a la Procuraduría por suspenderla",
    "extracto": "El expresidente Gustavo Petro ha defendido a varias personas señaladas de falsificar sus títulos profesionales. Ya lo hizo con Juliana Guerrero , ahora lo hace con Verónica…",
    "enlace": "https://www.elcolombiano.com/colombia/gustavo-petro-veronica-estrada-pacto-historico-JC44023486",
@@ -483,26 +883,6 @@
    "fecha": "2026-11-25T14:37:35Z"
   },
   {
-   "titulo": "Wuilker Faríñez confesó que extraña a Millonarios y a sus aficionados: 'Cómo no extrañar al club, me aportó mucho. El hincha es muy apasionado'",
-   "extracto": "El guardameta venezolano volvió a referirse con cariño a su etapa en el club embajador, mientras define su futuro contractual en el fútbol colombiano.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/wuilker-farinez-confeso-que-extrana-a-millonarios-y-a-sus-aficionados-como-no-extranar-al-club-me-aporto-mucho-el-hincha-es-muy-apasionado-3604212",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b071c51ec809.png",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-25T17:59:38Z"
-  },
-  {
-   "titulo": "Murió a los 33 años Jeanine Grasmeijer, la apneísta neerlandesa que batió dos veces el récord mundial de inmersión libre: su familia se pronunció",
-   "extracto": "La Asociación Internacional para el Desarrollo de la Apnea describió a la mujer como ‘una verdadera pionera de nuestro deporte’.",
-   "enlace": "https://www.eltiempo.com/deportes/otros-deportes/murio-a-los-33-anos-jeanine-grasmeijer-la-apneista-neerlandesa-que-batio-dos-veces-el-record-mundial-de-inmersion-libre-su-familia-se-pronuncio-3604056",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b06d1f16ad47.r_d.1757-247-0.png",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-25T17:35:21Z"
-  },
-  {
    "titulo": "Rehén en el Éxito de Cartagena dice que secuestradores estaban bebiendo trago y escuchando música: “querían que uno tomara”",
    "extracto": "Tras la liberación de los rehenes del Éxito de Cartagena , que estuvieron secuestrados durante más de 16 horas, han empezado a dar detalles de lo ocurrido dentro del almacén. En…",
    "enlace": "https://www.elcolombiano.com/colombia/rehenes-exito-cartagena-secuestro-testigos-noticias-colombia-AD44030716",
@@ -523,34 +903,14 @@
    "fecha": "2026-11-25T13:11:21Z"
   },
   {
-   "titulo": "Santiago Buitrago confirma que en la temporada de 2027 irá al Giro de Italia con Richard Carapaz",
-   "extracto": "El ciclista colombiano prepara su participación en el World Tour y está concentrado con el NSN.",
-   "enlace": "https://www.eltiempo.com/deportes/ciclismo/santiago-buitrago-confirma-que-en-la-temporada-de-2027-ira-al-giro-de-italia-con-richard-carapaz-3604206",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/09/08/6aa027532ec26.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-25T17:04:12Z"
-  },
-  {
-   "titulo": "Hugo Rodallega descarta el retiro y apunta a seguir en Santa Fe: “Quiero estar aquí toda la vida”",
-   "extracto": "El goleador, de 40 años, apunta a seguir en las canchas e imagina otros roles más allá de las canchas.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-colombiano/hugo-rodallega-descarta-el-retiro-y-apunta-a-seguir-en-santa-fe-quiero-estar-aqui-toda-la-vida-3604207",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/05/13/6a04f3a0e3ff8.r_d.545-343-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-25T16:59:56Z"
-  },
-  {
-   "titulo": "Egan Bernal le apunta a importante título el próximo año: liderará al Netcompany Ineos en el Tour Colombia 2027",
-   "extracto": "El Ineos confirmó su participación en el Tour Colombia. La carrera se disputará del 26 al 31 de enero.",
-   "enlace": "https://www.eltiempo.com/deportes/ciclismo/egan-bernal-le-apunta-a-importante-titulo-el-proximo-ano-liderara-al-netcompany-ineos-en-el-tour-colombia-3604202",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/02/08/6988dda8a579f.r_d.1735-368-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-25T16:51:58Z"
+   "titulo": "¿Quiere ver pesebres de todos los tamaños? Ya comenzó la tradicional exposición del Museo El Castillo",
+   "extracto": "Desde el 18 de noviembre, el Museo El Castillo, en El Poblado, tiene abiertas las puertas de su 42.ª Exposición de Pesebres, una de las tradiciones navideñas más antiguas de…",
+   "enlace": "https://www.elcolombiano.com/cultura/quiere-ver-pesebres-de-todos-los-tamanos-ya-comenzo-la-tradicional-exposicion-del-museo-el-castillo-JE44045628",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/400x300/0c0/0d0/center/11101/AUQG/jose-y-mari-a-llegan-a-bele-n-a-cu_52224372_20261125104234.png",
+   "fuente": "El Colombiano",
+   "categoria": "cultura",
+   "etiqueta": "Cultura",
+   "fecha": "2026-11-25T17:03:50Z"
   },
   {
    "titulo": "Agotados, familiares de rehenes del Éxito en Cartagena esperan afuera del hospital para reunirse con ellos",
@@ -563,34 +923,14 @@
    "fecha": "2026-11-25T12:41:57Z"
   },
   {
-   "titulo": "La insólita confesión de Max Verstappen: jugó más de 40 horas al 'GTA VI' en medio del GP de Las Vegas que después ganó",
-   "extracto": "El piloto neerlandés señaló que no ha entendido muy bien la historia del juego tras superar el 80 por ciento.",
-   "enlace": "https://www.eltiempo.com/deportes/automovilismo/la-insolita-confesion-de-max-verstappen-le-metio-mas-de-40-horas-de-juego-al-gta-vi-en-medio-del-gp-de-las-vegas-que-despues-gano-3604172",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b07058d9c3db.r_d.931-470-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-25T16:13:47Z"
-  },
-  {
-   "titulo": "Mounir Nasraoui, padre de Lamine Yamal, sobre la vida: “El que ayuda será ayudado y el que fastidia será fastidiado, el que miente será mentido”",
-   "extracto": "El padre de la figura del FC Barcelona compartió su filosofía personal centrada en la reciprocidad y el cuidado de su familia.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/mounir-nasraoui-padre-de-lamine-yamal-sobre-la-vida-el-que-ayuda-sera-ayudado-y-el-que-fastidia-sera-fastidiado-el-que-miente-sera-mentido-3604144",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/uploads/2026/11/25/6b06fb9a5c4c3.png",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-25T16:01:00Z"
-  },
-  {
-   "titulo": "Simón Rojas, capitán de Selección Colombia, elogiado por noble gesto con un rival en Mundial Sub-17",
-   "extracto": "El equipo nacional venció 2-0 a Honduras y clasificó a dieciseisavos, pero el jugador decidió consolar a un rival antes que celebrar.",
-   "enlace": "https://www.eltiempo.com/deportes/futbol-internacional/simon-rojas-capitan-de-seleccion-colombia-elogiado-por-noble-gesto-con-un-rival-en-mundial-sub-3604167",
-   "imagen": "https://imagenes2.eltiempo.com/files/og_thumbnail/files/fp/uploads/2026/11/25/6b070227232d7.r_d.641-167-0.jpeg",
-   "fuente": "El Tiempo",
-   "categoria": "deportes",
-   "etiqueta": "Deportes",
-   "fecha": "2026-11-25T15:48:42Z"
+   "titulo": "“¡Gloria a nuestra Fuerza Pública!”: MinDefensa publicó fotos de los héroes del rescate en Cartagena",
+   "extracto": "El ministro de Defensa, Jorge Mora, destacó la operación conjunta de las Fuerzas Militares y la Policía Nacional que permitió rescatar con vida a las personas que permanecían…",
+   "enlace": "https://www.elcolombiano.com/colombia/min-defensa-rescate-exito-cartagena-policia-reacciones-MD44030693",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/WSIB/image-2026-11-25t062333-342_52222529_20261125062616.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "colombia",
+   "etiqueta": "Colombia",
+   "fecha": "2026-11-25T11:49:26Z"
   },
   {
    "titulo": "Atención | Fuerza Pública rescata con vida a rehenes del Éxito de Cartagena; De la Espriella dice que “fue una operación impecable”",
@@ -603,14 +943,34 @@
    "fecha": "2026-11-25T11:40:47Z"
   },
   {
-   "titulo": "“¡Gloria a nuestra Fuerza Pública!”: MinDefensa publicó fotos de los héroes del rescate en Cartagena",
-   "extracto": "El ministro de Defensa, Jorge Mora, destacó la operación conjunta de las Fuerzas Militares y la Policía Nacional que permitió rescatar con vida a las personas que permanecían…",
-   "enlace": "https://www.elcolombiano.com/colombia/min-defensa-rescate-exito-cartagena-policia-reacciones-MD44030693",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/WSIB/image-2026-11-25t062333-342_52222529_20261125062616.jpg",
+   "titulo": "Hospitales, colegios y acueductos deben el 90% de los $430.000 millones que tiene en aprietos inversiones de Afinia, filial de EPM",
+   "extracto": "La deuda de las entidades oficiales con Afinia, filial del Grupo EPM, asciende a cerca de $430.000 millones y, según la compañía, está afectando los recursos disponibles para…",
+   "enlace": "https://www.elcolombiano.com/antioquia/hospitales-colegios-acueductos-deuda-afinia-epm-NC44021837",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/OICN/a1-12002503-jpg_52221852_20261124194347.jpg",
    "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-25T11:39:51Z"
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-25T01:01:45Z"
+  },
+  {
+   "titulo": "La movida política: votación del Área Metropolitana de Oriente medirá pulso en Antioquia",
+   "extracto": "La recta final de la consulta por el Área Metropolitana de Oriente, que se realizará este domingo 29 de noviembre, le está midiendo la temperatura política a esa subregión. En…",
+   "enlace": "https://www.elcolombiano.com/antioquia/la-movida-politica-votacion-del-area-metropolitana-de-oriente-medira-pulso-en-antioquia-HC44021240",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/413x300/0c0/0d0/center/11101/GQBE/la-movida-politica_52221747_20261124194821.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-25T00:47:39Z"
+  },
+  {
+   "titulo": "“Si encuentra esa carta renuncio a cualquier aspiración”: choque entre Alejandro Arbeláez y Luis Fernando Suárez subió de tono",
+   "extracto": "Las fricciones que se produjeron en el Centro Democrático, a raíz de una propuesta de una posible alianza con Aníbal Gaviria, terminaron derivando en una fuerte confrontación…",
+   "enlace": "https://www.elcolombiano.com/antioquia/choque-luis-fernando-suarez-alejandro-arbelaez-anibal-gaviria-EB44019915",
+   "imagen": "https://estaticos.elcolombiano.com/binrepository/413x300/0c0/0d0/center/11101/PYHO/luis-fernando-suarez-alejandro-arbel_52221633_20261124190815.jpg",
+   "fuente": "El Colombiano",
+   "categoria": "antioquia",
+   "etiqueta": "Antioquia",
+   "fecha": "2026-11-25T00:06:19Z"
   },
   {
    "titulo": "Investigan si carro iba en contravía: dos soldados resultaron heridos tras grave choque en la Autopista Sur, en La Estrella",
@@ -963,16 +1323,6 @@
    "fecha": "2026-11-24T15:27:48Z"
   },
   {
-   "titulo": "Impactantes videos de la explosión en Villavicencio: así se vivió el atentado contra la gobernación del Meta",
-   "extracto": "Una fuerte explosión se registró en la noche de este lunes 23 de noviembre en inmediaciones de la Gobernación del Meta, en Villavicencio. El presidente Abelardo de la Espriella…",
-   "enlace": "https://www.elcolombiano.com/colombia/videos-atentado-explosion-villavicencio-gobernacion-MI43968004",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/PYSH/afp-20261124-d8g87g4-v3-highres-topshotcolombiaconflictunrest_52212963_20261124095254.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T14:52:21Z"
-  },
-  {
    "titulo": "Venganza de disidencias por bombardeo en el que murió alias Churco, primera hipótesis del atentado en Villavicencio",
    "extracto": "Las autoridades adelantan la investigación por el ataque con carro bomba contra la Gobernación del Meta, en Villavicencio, ocurrido a las 9:15 de la noche del 23 de noviembre. El…",
    "enlace": "https://www.elcolombiano.com/colombia/hipotesis-atentado-contra-gobernacion-del-meta-JI43969716",
@@ -1073,156 +1423,6 @@
    "fecha": "2026-11-24T14:29:33Z"
   },
   {
-   "titulo": "Vivía ‘desaparecido’ y apareció muerto: hallaron a alias Fantasma, uno de los más buscados de Antioquia",
-   "extracto": "El gobernador de Antioquia, Andrés Julián Rendón, confirmó en la tarde de este lunes 23 de noviembre que fue hallado sin vida en San Luis, oriente de Antioquia, alias Fantasma o…",
-   "enlace": "https://www.elcolombiano.com/antioquia/hallan-alias-fantasma-simon-clan-del-golfo-buscados-antioquia-EL43959836",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/416x300/0c0/0d0/center/11101/QRKS/alias-fantasma_52211824_20261123191108.png",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-24T00:30:13Z"
-  },
-  {
-   "titulo": "En tres días cayeron 1.658 rayos en el Valle de Aburrá: Siata",
-   "extracto": "Aunque la influencia del fenómeno de El Niño apunta a una reducción de las precipitaciones en el mediano plazo, Medellín y los demás municipios del Valle de Aburrá todavía tendrán…",
-   "enlace": "https://www.elcolombiano.com/antioquia/lluvias-rayos-valle-de-aburra-siata-EL43957982",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/456x300/0c0/0d0/center/11101/RIXS/imagen-inundaciones-2_52211528_20261123191701.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-24T00:05:01Z"
-  },
-  {
-   "titulo": "Apareció con vida Alejandro en Medellín, pero ahora buscan desesperadamente a Violeta desaparecida en Bello",
-   "extracto": "Dos alertas por la desaparición de menores de edad se conocieron durante el fin de semana en el Valle de Aburrá. El caso más reciente es el de Violeta Muñoz Pineda, una…",
-   "enlace": "https://www.elcolombiano.com/antioquia/desaparicion-menores-medellin-bello-alejandro-correa-violeta-munoz-DL43954698",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/403x300/0c0/0d0/center/11101/QLKC/violeta-munoz_52211142_20261123180108.png",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-23T23:10:48Z"
-  },
-  {
-   "titulo": "Agarrón en el uribismo en Antioquia: Andrés Guerra propuso conversar con Aníbal Gaviria y se calentaron los ánimos",
-   "extracto": "Los ánimos en el Centro Democrático están especialmente caldeados desde el pasado fin de semana. En menos de tres días, una breve entrevista terminó convirtiéndose en el centro de…",
-   "enlace": "https://www.elcolombiano.com/antioquia/cruce-centro-democratico-antioquia-andres-guerra-anibal-gaviria-HK43948780",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/413x300/0c0/0d0/center/11101/AAXJ/pelea-en-el-uribismo-anibal-gaviria_52209760_20261123185503.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-23T22:52:09Z"
-  },
-  {
-   "titulo": "Pilas con los incendios en diciembre: llamas consumieron 750 metros cuadrados de una empresa en La Ceja",
-   "extracto": "Un incendio que consumió cerca de 750 metros cuadrados de las instalaciones de la empresa Inmunizadora Serye, en La Ceja, llevó a la alcaldesa Ilbed Santa a reiterar el llamado a…",
-   "enlace": "https://www.elcolombiano.com/antioquia/diciembre-incendios-polvora-empresa-la-ceja-AL43952471",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/359x300/0c0/0d0/center/11101/ALBC/whatsapp-image-2026-11-22-at-5-55_52210361_20261123172333.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-23T22:32:40Z"
-  },
-  {
-   "titulo": "Atención: Grave atentado con carro bomba contra la gobernación del Meta; confirman al menos 23 heridos",
-   "extracto": "El presidente Abelardo De La Espriella confirmó este lunes 13 de noviembre un atentado con explosivos contra la Gobernación del Meta en Villavicencio. El mandatario informó que…",
-   "enlace": "https://www.elcolombiano.com/colombia/atentado-explosivos-villavicencio-gobernacion-meta-AI43967546",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/468x300/0c0/0d0/center/11101/RMNJ/atentado9_52212869_20261123230651.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T04:06:43Z"
-  },
-  {
-   "titulo": "Suspendida, pero con curul: el futuro de Verónica Estrada y los títulos falsos que tienen en aprietos al Pacto Histórico",
-   "extracto": "Un caso de títulos falsos de una representante del Pacto Histórico tiene asustado a todo el Congreso. Tras el caso de Verónica Estrada, hay una oleada de revisiones sobre los…",
-   "enlace": "https://www.elcolombiano.com/colombia/veronica-estrada-suspension-curul-pacto-historico-titulos-academicos-CI43966567",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/VGSR/veronica-estrada-que-pasara-curul_52218968_20261124152100.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T03:20:09Z"
-  },
-  {
-   "titulo": "Si X le cierra su cuenta a Petro, como pidió MinTIC, ¿es censura?",
-   "extracto": "Que una red social cierre la cuenta de un político no es nuevo, pero que un Gobierno lo pida contra su principal opositor es lo que hace que este tema esté en el centro del debate…",
-   "enlace": "https://www.elcolombiano.com/colombia/petro-cuenta-x-mintic-suspension-censura-maria-elvira-salazar-NI43967846",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/DCPH/tamanos-el-colombiano-2026-11-23t2_52212882_20261123221650.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T03:19:38Z"
-  },
-  {
-   "titulo": "Consejo de Estado le ordena a De la Espriella reconocer que el “wokismo” no es “enemigo de los valores de la Nación”, ¿qué significa?",
-   "extracto": "El Consejo de Estado ordenó al presidente Abelardo de la Espriella reconocer que el “ wokismo ” y las personas que hacen parte o se identifican con este movimiento no son enemigos…",
-   "enlace": "https://www.elcolombiano.com/colombia/woke-significado-gobierno-abelardo-de-la-espriella-JI43965590",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/CETE/abelardo-wokismo_52212536_20261123212111.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T02:40:57Z"
-  },
-  {
-   "titulo": "Adulta mayor y sus dos hijas fueron encontradas muertas en apartamento de Bogotá: ¿Por qué se habla de cianuro?",
-   "extracto": "Las autoridades investigan la muerte de tres mujeres cuyos cuerpos fueron encontrados el domingo 22 de noviembre en un apartamento de un conjunto residencial al norte de Bogotá…",
-   "enlace": "https://www.elcolombiano.com/colombia/mujeres-familia-muertas-conjunto-residencial-bogota-DI43965262",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/445x300/0c0/0d0/center/11101/UDIB/image-2026-11-23t210043-806_52212493_20261123210414.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T02:30:43Z"
-  },
-  {
-   "titulo": "Fiscalía pide ampliar imputación contra Jorge Alfredo Vargas por presunto acoso sexual a cuatro jóvenes",
-   "extracto": "Una fiscal delegada ante la Corte Suprema de Justicia solicitó una audiencia para adicionar nuevos hechos a la imputación contra Jorge Alfredo Vargas Angulo, investigado por…",
-   "enlace": "https://www.elcolombiano.com/colombia/fiscalia-pide-ampliar-imputacion-jorge-alfredo-vargas-presunto-acoso-sexual-cuatro-jovenes-GK43942613",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/TDPP/foto-definen-fecha-audicencia-imputa_52208459_20261123152746.webp",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T01:55:54Z"
-  },
-  {
-   "titulo": "Revelan video clave para reconstruir últimas horas de vida de Gabriel Alberto Cárdenas en Bogotá",
-   "extracto": "Un video de cámaras de seguridad podría ayudar a reconstruir las últimas horas de Gabriel Alberto Cárdenas Morales, el estudiante de 17 años de la Universidad de los Andes que fue…",
-   "enlace": "https://www.elcolombiano.com/colombia/video-gabriel-alberto-cardenas-bogota-joven-desaparecido-universidad-andes-salto-tequendama-PI43964128",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/WUMT/revelan-video-clave-para-reconstruir_52212473_20261123203605.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T01:51:25Z"
-  },
-  {
-   "titulo": "Mujer adoptó a asesino de su hijo en Bogotá: “Quiero que me vea como una mamá”",
-   "extracto": "Una madre vio morir a su único hijo en la puerta de su casa. El joven había salido a comprar una cartulina para una tarea escolar y, cuando regresaba, un grupo de muchachos de su…",
-   "enlace": "https://www.elcolombiano.com/colombia/mama-adopto-asesino-hijo-bogota-historia-perdon-crimen-KL43951957",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/IVAT/una-mama-adopto-al-joven-que-asesino_52210179_20261123180945.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T01:46:37Z"
-  },
-  {
-   "titulo": "Tres ataques con drones en un día: seis heridos de la Fuerza Pública y un civil",
-   "extracto": "Este lunes hubo tres ataques con drones contra la Fuerza Pública , que dejaron siete heridos . El primero fue a las 2:15 de la madrugada, cuando explosivos lanzados desde drones…",
-   "enlace": "https://www.elcolombiano.com/colombia/ataques-atentados-drones-fuerza-publica-colombia-cifra-heridos-muertos-OI43964280",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/WBKO/drones_52212487_20261123202958.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T01:44:53Z"
-  },
-  {
-   "titulo": "Condenan a 23 exintegrantes de las AUC por 240 hechos que incluyen tortura y violencia de género",
-   "extracto": "Condenaron a 23 exintegrantes de las Autodefensas Unidas de Colombia (AUC) por 240 hechos delictivos . La sentencia de la Sala de Justicia y Paz del Tribunal Superior de Bogotá…",
-   "enlace": "https://www.elcolombiano.com/colombia/condena-paramiliares-auc-justicia-fiscalia-colombia-JN43939055",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/AANJ/auc_52208292_20261123192740.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-24T01:05:32Z"
-  },
-  {
    "titulo": "¿Ya escuchó “el junte” del año? Arelys Henao y J Álvarez grabaron canción juntos",
    "extracto": "Arelys Henao tenía guardada en un cajón esta canción desde 2005. Tuvieron que pasar 21 años para que Cuando te perd í viera la luz y lo hizo de la manera más inesperada, uniendo…",
    "enlace": "https://www.elcolombiano.com/cultura/arelys-henao-j-alvarez-cuando-te-perdi-colaboracion-AI43968549",
@@ -1231,16 +1431,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-11-24T03:46:30Z"
-  },
-  {
-   "titulo": "Atención: encuentran sin vida a Gabriel Alberto Cárdenas, estudiante de 17 años desaparecido en Bogotá",
-   "extracto": "Gabriel Alberto Cárdenas, el estudiante de 17 años que había sido reportado como desaparecido desde el pasado 19 de noviembre en Bogotá, fue encontrado sin vida este lunes 23 de…",
-   "enlace": "https://www.elcolombiano.com/colombia/estudiante-universidad-andes-paradero-muerte-JL43954638",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/FVIW/image-2026-11-23t175714-031_52211078_20261123180102.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T23:28:59Z"
   },
   {
    "titulo": "Feid y Snoop Dogg confirmaron su esperada colaboración GRACIAS X TODO : fecha de estreno y detalles",
@@ -1263,46 +1453,6 @@
    "fecha": "2026-11-24T02:02:34Z"
   },
   {
-   "titulo": "Otra congresista del Pacto bajo la lupa por sus títulos: senadora guajira Johana Osorio niega haberse presentado como graduada",
-   "extracto": "Deisy Johana Osorio llegó al Senado en el puesto 21 de la lista cerrada del Pacto Histórico y ahora está bajo escrutinio público por la información académica que se le atribuye…",
-   "enlace": "https://www.elcolombiano.com/colombia/congresista-pacto-historico-bajo-lupa-titulos-senadora-guajira-johana-osorio-niega-haberse-presentado-como-graduada-AK43946152",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/KHBT/gloria-florez-y-johana-osorio_52208520_20261123163724.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T21:52:39Z"
-  },
-  {
-   "titulo": "VIDEO | Tuberías, sillas y hasta un baño del Metro fueron arrastrados por fuertes lluvias en Bogotá",
-   "extracto": "Tuberías, cajas, sillas y hasta un baño público terminaron arrastrados por las corrientes de agua que se formaron durante el fuerte aguacero de este lunes 23 de noviembre en…",
-   "enlace": "https://www.elcolombiano.com/colombia/fuertes-lluvias-bogota-arrastraron-tuberias-sillas-bano-metro-NK43945899",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/457x300/0c0/0d0/center/11101/VVIA/image-2026-11-23t155325-457_52208801_20261123173930.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T21:38:22Z"
-  },
-  {
-   "titulo": "¿La senadora Carolina Corcho infló su hoja de vida en perfiles y redes con título que no tiene?",
-   "extracto": "Si bien no es una falta del nivel de la congresista Luz Verónica Estrada —o de sus colegas Andrea Vargas y Claudia Romero , ambas del Pacto Histórico —, un detalle salta a la…",
-   "enlace": "https://www.elcolombiano.com/colombia/senadora-carolina-corcho-inflo-hoja-vida-perfiles-redes-sociales-titulo-NN43938746",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/414x300/0c0/0d0/center/11101/XSDK/carolina-corcho-cortesia_52204315_20261123150813.webp",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T21:36:50Z"
-  },
-  {
-   "titulo": "“Doctorado en amor” y “chismólogo profesional”: los diplomas falsos que inundan las redes por Verónica Estrada",
-   "extracto": "“Sin saber si reír o llorar”, así se han manifestado algunos internautas la indignación que ha provocado el escándalo de los presuntos títulos falsos de la congresista del Pacto…",
-   "enlace": "https://www.elcolombiano.com/colombia/memes-diplomas-falsos-redes-sociales-caso-veronica-estrada-IN43937719",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/QKED/torado-en-amor-y-chismologo-profes_52207955_20261123164134.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T21:33:44Z"
-  },
-  {
    "titulo": "Britney Spears despertó rumores sobre su posible regreso a la música: esto se sabe de su misteriosa visita a Londres",
    "extracto": "La cantante estadounidense habría reservado un estudio de grabación privado durante su reciente visita a Reino Unido . Aunque no ha confirmado que esté preparando nuevas…",
    "enlace": "https://www.elcolombiano.com/cultura/britney-spears-regreso-musica-visita-londres-HI43963062",
@@ -1313,16 +1463,6 @@
    "fecha": "2026-11-24T01:28:33Z"
   },
   {
-   "titulo": "De la Espriella sale en defensa de Paloma Valencia por supuesta omisión de amenazas a Miguel Uribe: “Nadie sensato puede pensar que esté involucrada”",
-   "extracto": "El presidente Abelardo de la Espriella respondió a la polémica por las acusaciones a Paloma Valencia por supuestamente haber omitido amenazas a Miguel Uribe Turbay . También…",
-   "enlace": "https://www.elcolombiano.com/colombia/abelardo-de-la-espriella-amenazas-paloma-valencia-miguel-uribe-turbay-AK43942534",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SSAE/abelardo-y-paloma_52208331_20261123152529.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T21:20:21Z"
-  },
-  {
    "titulo": "¡Vuelve el Petronio tras reprogramación por el terremoto! Conozca la lista completa de artistas y actividades",
    "extracto": "El Festival de Música del Pacífico Petronio Álvarez regresará a Cali con una programación de tres días, luego de que su edición habitual fuera suspendida por el terremoto del…",
    "enlace": "https://www.elcolombiano.com/cultura/petronio-2026-esta-es-la-lista-completa-artistas-actividades-CI43960031",
@@ -1331,16 +1471,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-11-24T01:13:07Z"
-  },
-  {
-   "titulo": "Pacto reúne a su Comisión de Ética por títulos cuestionados: “Si se comprueba”, deberán asumir sanciones penales",
-   "extracto": "El Pacto Histórico lleva días bajo el escrutinio de la opinión pública por el caso de los títulos falsos que presentó una de sus congresistas. Por ello, el partido citó este lunes…",
-   "enlace": "https://www.elcolombiano.com/colombia/pacto-historico-comision-etica-titulos-falsos-veronica-estrada-PN43939644",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/WBPH/tamanos-el-colombiano-2026-11-23t1_52207927_20261123154640.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T21:01:31Z"
   },
   {
    "titulo": "Los increíbles hallazgos de la Universidad de Antioquia que revelan cómo se publicó La marquesa de Yolombó hace cien años",
@@ -1391,156 +1521,6 @@
    "categoria": "cultura",
    "etiqueta": "Cultura",
    "fecha": "2026-11-23T14:13:19Z"
-  },
-  {
-   "titulo": "“Si queremos recordar la guerra es para saber de dónde venimos”: Alejandro Vega, escritor",
-   "extracto": "Alejandro Vega Carvajal es un escritor envigadeño y filólogo que apenas empieza a publicar. La corriente , editada por el Fondo Editorial de la Institución Universitaria de…",
-   "enlace": "https://www.elcolombiano.com/cultura/alejandro-vega-la-corriente-escritor-entrevista-AO43906886",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/464x300/0c0/0d0/center/11101/YWNS/imagen-vega-carvajal-alejandro-1_52200476_20261122174005.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-23T13:28:40Z"
-  },
-  {
-   "titulo": "¿Cómo llegó la congresista Verónica Estrada a lo más alto del Pacto Histórico?",
-   "extracto": "Hay una imagen de la polémica congresista Verónica Estrada bastante peculiar. La foto la muestra sonriente en su curul y delante de ella un letrero, en un debate de control…",
-   "enlace": "https://www.elcolombiano.com/antioquia/como-llego-luz-veronica-estrada-a-ser-congresista-antioquia-CO43907423",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/456x300/0c0/0d0/center/11101/DCNS/veronica-1_52200729_20261122192234.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-23T01:03:28Z"
-  },
-  {
-   "titulo": "Hasta 4 días sin agua: tormento de 35.000 habitantes de La Tablaza",
-   "extracto": "Cuando se recorre la vía vieja al municipio de Caldas, varios avisos aparecen anunciando proyectos inmobiliarios en el sector La Tablaza de La Estrella. Algunos muestran familias…",
-   "enlace": "https://www.elcolombiano.com/antioquia/comunidad-tablaza-la-estrella-denuncia-falta-de-agua-EO43907506",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/435x300/0c0/0d0/center/11101/SRTV/la-tablaza-sin-agua-3_52200911_20261122194206.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-23T00:44:14Z"
-  },
-  {
-   "titulo": "Especial: Niños rodeados de veneno: el drama de escuelas en Urrao y Urabá",
-   "extracto": "Urabá es la zona del país más pujante en producción de banano desde la década de 1970 y se ha diversificado a otras frutas y a la palma de aceite; igualmente, Urrao se volvió…",
-   "enlace": "https://www.elcolombiano.com/antioquia/estudio-escuelas-rurales-de-urrao-uraba-veneno-plaguicidas-NO43903970",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/464x300/0c0/0d0/center/11101/OPLD/vene1_52199620_20261122152913.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-23T00:29:06Z"
-  },
-  {
-   "titulo": "Así aplicarán primeras 10 eutanasias a hipopótamos",
-   "extracto": "Cornare (Corporación Autónoma Regional de las Cuencas de los Ríos Negro y Nare) prevé aplicar en los próximos meses las primeras 10 eutanasias del plan para controlar la población…",
-   "enlace": "https://www.elcolombiano.com/antioquia/como-aplicaran-eutanasia-hipopotamos-antioquia-HO43907176",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/479x300/0c0/0d0/center/11101/HQLH/hipo1_52200660_20261122182221.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "antioquia",
-   "etiqueta": "Antioquia",
-   "fecha": "2026-11-22T23:27:06Z"
-  },
-  {
-   "titulo": "Exclusivo | Gasto de UNP creció 137% con Petro, pero los protegidos apenas un 28% más: ¿y la plata?",
-   "extracto": "“Los líderes están siendo asesinados porque no tenemos cómo protegerlos”. Con el espejo retrovisor en mano, apuntando a los contratos de tercerización y a la corrupción que decía…",
-   "enlace": "https://www.elcolombiano.com/colombia/unp-gasto-esquemas-proteccion-congresistas-lideres-sociales-austeridad-AO43907337",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/GAPH/tamanos-el-colombiano-2026-11-22t1_52200590_20261122201925.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T01:20:02Z"
-  },
-  {
-   "titulo": "Exclusivo | El nexo entre juez mexicano capturado en Bogotá que movía “suscripción” a los secretos de la mafia",
-   "extracto": "La captura de un juez extranjero en Bogotá es una pieza clave para entender una trama internacional de corrupción y crimen organizado, en la cual están involucrados narcos de…",
-   "enlace": "https://www.elcolombiano.com/colombia/juez-mexicano-luis-benitez-capturado-bogota-red-informacion-narcotrafico-CO43907489",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/UAPH/tamanos-el-colombiano-2026-11-22t1_52200904_20261122194038.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T01:10:44Z"
-  },
-  {
-   "titulo": "¿Quiénes son las otras dos congresistas del Pacto Histórico que tendrían líos con sus diplomas?",
-   "extracto": "No cesan los escándalos en el Pacto Histórico luego de los títulos falsos presentados por la representante a la Cámara, Verónica Estrada. En las últimas horas, veedores en redes…",
-   "enlace": "https://www.elcolombiano.com/colombia/andrea-vargas-claudia-romero-nader-titulos-academicos-pacto-historico-MO43907469",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/FAPH/tamanos-el-colombiano-2026-11-22t1_52200889_20261122192506.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T01:10:12Z"
-  },
-  {
-   "titulo": "¿Cómo llegó la congresista Verónica Estrada a lo más alto del Pacto Histórico?",
-   "extracto": "Hay una imagen de la polémica congresista Verónica Estrada bastante peculiar. La foto la muestra sonriente en su curul y delante de ella un letrero, en un debate de control…",
-   "enlace": "https://www.elcolombiano.com/colombia/como-llego-luz-veronica-estrada-a-ser-congresista-antioquia-CO43907423",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/456x300/0c0/0d0/center/11101/DCNS/veronica-1_52200729_20261122192234.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T01:03:28Z"
-  },
-  {
-   "titulo": "Así se mueve el poder en el centro para que dejen de llamarlos “tibios”",
-   "extracto": "En una parte representativa de líderes del centro político le apuestan a las posturas claras. Para eso se están moviendo por todo el país y armando una estrategia; no obstante…",
-   "enlace": "https://www.elcolombiano.com/colombia/dignidad-compromiso-fajardo-pedraza-losada-carvalho-elecciones-2027-DO43907532",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/533x300/0c0/0d0/center/11101/AAPH/tamanos-el-colombiano-2026-11-22t1_52201008_20261122195542.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T00:59:51Z"
-  },
-  {
-   "titulo": "“Gobierno necesita más rapidez en decisiones importantes en salud”: senadora Claudia Margarita Zuleta",
-   "extracto": "Con un gobierno que está en el intento de arreglar el caos y la crisis del sistema de salud que heredó de la administración pasada, desde el Congreso también están aprovechando…",
-   "enlace": "https://www.elcolombiano.com/colombia/claudia-margarita-zuleta-propuestas-salud-invima-upc-eps-intervenidas-FO43907406",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/289x300/0c0/0d0/center/11101/KQTR/milimg-34402-28112423-52179617-20261_52200776_20261122191711.png",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-23T00:22:55Z"
-  },
-  {
-   "titulo": "Presiones, retiros y los nuevos liderazgos sacuden a 9 gremios en lo corrido del año",
-   "extracto": "La renuncia de Adriana Guillén a la presidencia de Asocajas, aceptada el 20 de noviembre, se convirtió en el episodio más reciente de una serie de cambios en la dirigencia gremial…",
-   "enlace": "https://www.elcolombiano.com/colombia/cambios-lideres-gremios-colombia-2026-adriana-guillen-bruce-mac-master-HO43906616",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/453x300/0c0/0d0/center/11101/YFFJ/luz-stella-murgas-fue-elegida-presidenta-de-la-andi-mientras-que-tatyana-orozco-llego-a-la-direccion-de-la-camara-colombiana-de-la-infraestructura_52200380_20261122173204.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "colombia",
-   "etiqueta": "Colombia",
-   "fecha": "2026-11-22T22:35:33Z"
-  },
-  {
-   "titulo": "Alcolirykoz lanza nueva canción mientras se prepara para su concierto en el DAVIarena",
-   "extracto": "Todo en su lugar empezó a tomar forma en los ensayos de Dos Décadaz , la gira con la que Alcolirykoz celebró más de 20 años de carrera y que incluyó conciertos en Medellín…",
-   "enlace": "https://www.elcolombiano.com/cultura/alcolirykoz-nueva-cancion-todo-en-su-lugar-MO43905944",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/EQTW/alcolirykoz_52200159_20261122165558.png",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-22T22:24:50Z"
-  },
-  {
-   "titulo": "“Mientras recordemos, nada se muere”: la noche de despedida de Rubén Blades en Medellín",
-   "extracto": "Para muchos, quienes asistimos al DAVIarena este sábado 21 de noviembre, ha sido el mejor show –de lejos– que le hemos visto a Rubén Blades en Medellín. No sé si fue la nostalgia…",
-   "enlace": "https://www.elcolombiano.com/cultura/ruben-blades-concierto-daviarena-medellin-despedida-2026-CG43894060",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/SRSN/ruben-blades-despedida-daviarena_52195810_20261122032931.png",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-22T15:04:04Z"
-  },
-  {
-   "titulo": "Medellín está aprendiendo a comer pan de masa madre sin dejar de lado la arepa",
-   "extracto": "En una ciudad que no suelta la arepa del desayuno, un pan de corteza dura y sabor ligeramente ácido se ha ido ganando su espacio en la mesa. No es el pan de la panadería de…",
-   "enlace": "https://www.elcolombiano.com/cultura/pan-de-masa-madre-medellin-lugares-como-lo-hacen-OJ43860691",
-   "imagen": "https://estaticos.elcolombiano.com/binrepository/450x300/0c0/0d0/center/11101/QJGT/panaderi-as-especializadas-en-masa-m_52189501_20261120164735.jpg",
-   "fuente": "El Colombiano",
-   "categoria": "cultura",
-   "etiqueta": "Cultura",
-   "fecha": "2026-11-20T22:02:07Z"
   },
   {
    "titulo": "“Parece elocuente, pero es un arma de doble filo”: juez advierte sobre los riesgos de la IA en las sentencias judiciales",
